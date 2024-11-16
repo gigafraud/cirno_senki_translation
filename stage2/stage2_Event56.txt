@@ -1,0 +1,24 @@
+;START
+;;ーーーーーーーーーーーー
+;;Dai fights Star
+;;ーーーーーーーーーーーー
+
+*SND BGM27
+
+*RHT 大妖精
+I-If I approach secretly from the back...
+
+*LHT スター 笑
+Hehehe ~ I wonder what you're doing here !
+
+*RHT 大妖精 驚
+Huh ...? How did you know !?
+
+*LHT スター 笑
+Those puny tricks won't work on me !
+
+*NHT
+*NWK
+*RSN
+
+*END

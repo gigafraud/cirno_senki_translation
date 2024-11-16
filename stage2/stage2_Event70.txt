@@ -1,0 +1,25 @@
+;START
+;;ーーーーーーーーーーーー
+;;Parsee fights Aya Hieda
+;;ーーーーーーーーーーーー
+
+*SND BGM25
+
+*LHT パルスィ 苦
+Mmmh... My powers aren't working on her... She definitely knows about them...
+*LHT パルスィ 驚
+... I see, it's useless to rely on my abilities.
+*LHT パルスィ 怒
+In that case...!
+
+*RHT 阿弥 驚
+A direct attack !? Wawawah, that's mean...!!
+
+*LHT パルスィ 嫉妬
+Hehe... I'm more mad than I am jealous now... I'll make sure to enjoy this fight !!
+
+*NHT
+*NWK
+*RSN
+
+*END

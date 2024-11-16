@@ -1,0 +1,551 @@
+;START
+;;ーーーーーーーーー
+;;三位一体三月精撃破
+;;ーーーーーーーーー
+*SNM 風穴
+*SNT 阿礼の子供
+*SNN 緑眼のジェラシー
+
+*SND リフレーン
+
+*LIV サニー
+*LIV ルナ
+*LIV スター
+
+*MKT サニー
+*MKT ルナ
+*MKT スター
+
+*ACT サニー ON
+*ACT ルナ ON
+*ACT スター ON
+*SLP 30
+*MV0 チルノ 9,17
+*MV0 大妖精 9,18
+*IF0 リグル
+*MV0 リグル 10,17
+;ENDIF0
+*IF0 ミスティア
+*MV0 ミスティア 10,16
+;ENDIF0
+*IF0 ルーミア
+*MV1 ルーミア 10,18
+;ENDIF0
+*MV0 サニー 7,17
+*MV0 ルナ 8,18
+*MV0 スター 8,16
+*MVA
+
+*MKI サニー 右
+*MKI ルナ 右
+*MKI スター 右
+*MKI チルノ 左
+*MKI 大妖精 左
+*IF0 リグル
+*MKI リグル 左
+;ENDIF0
+*IF0 ミスティア
+*MKI ミスティア 左
+;ENDIF0
+*IF0 ルーミア
+*MKI ルーミア 左
+;ENDIF0
+
+*MVG チルノ
+*SLP 30
+
+;;ーーーーーーーーーーーーーーーーーーー
+;;大チル以外が攻撃したイベントが起きたか Beating the fairies with youkais 
+;;ーーーーーーーーーーーーーーーーーーー
+*IF0 EVENT2_57
+
+*LHT サニー 苦
+N-no way... !?
+
+*RHT ルナ 苦
+We didn't win in the end... How frustrating !
+
+*CHT スター 哀
+... It can't be helped. We had no chance to win against youkais.
+
+*LHT チルノ 笑
+I told you ! I'm the strongest !
+
+*CHT 大妖精 哀
+Y-yes... Right.
+
+*SKP TLK_0
+
+;;ーーーーーーーーーーーーーー
+;;大チルのみで三月精を撃破した Beating the fairies with only Dai and Cirno
+;;ーーーーーーーーーーーーーー
+;ENDIF0
+
+*RHT サニー 驚
+N-no way... !?
+
+*LHT スター 驚
+How did we lose !?
+
+*CHT ルナ 驚
+To think we didn't win even if we're together...
+
+*LHT チルノ 笑
+I told you ! I'm the strongest ! We did it, Dai !!
+
+*CHT 大妖精 笑
+Y-yes ! Good job, Cirno !
+
+*NHT
+*NWK
+*SLP 30
+
+*MVG ミスティア
+*SLP 30
+*LHT ミスティア 驚
+... Wow ... That was amazing !
+
+*RHT ルーミア 笑
+Yes, it was intesresting too !
+
+*CHT リグル 驚
+I don't even know how Cirno won that.
+*CHT リグル
+I don't even know what I would have done if I was in her place...
+
+;TLK_0
+
+*NHT
+*NWK
+
+*MVG チルノ
+*SLP 30
+
+*LHT チルノ 笑
+Hehehe, amazing ! I'm truly the strongest ! At this rate, I should be able to beat those guys !
+*LHT チルノ
+Now that it's settled, we shouldn't waste anymore time !
+*LHT チルノ 笑
+Wriggle, ask the bugs to find them. I must let them know I'm the strongest !
+
+*RHT 大妖精 驚
+W-wait a minute, Cirno ! You don't need to go that fast... !
+
+*LHT チルノ
+What are you saying ? I must strike while the iron is hot !
+
+*RHT 大妖精 驚
+H-huh ? B-but... is it okay ?
+
+*NHT
+*NWK
+*MVG ルナ
+*SLP 30
+
+*CHT ルナ 哀
+... Hey, I wonder who are those "guys" she's talking about...
+
+*RHT スター 哀
+It doesn't matter... It has nothing to do with us. Shall we go home now ?
+
+*LHT サニー 哀
+Okay. We lost after all, I don't care about this anymore. Let's go home.
+
+*NHT
+*NWK
+*SLP 30
+
+*RHT 大妖精 驚
+Ah... Wait ! You three, listen to me !
+
+*LHT サニー 哀
+... What ? We wanna go home already...
+
+*RHT 大妖精 苦
+Please ! It's really just for a bit...
+*RHT 大妖精 驚
+Cirno, you too ! Don't go, please ! I have a good idea.
+
+*CHT チルノ 哀
+A good idea ?
+
+*LHT ルナ 哀
+Does it concern us ?
+
+*RHT 大妖精 笑
+Yes, of course.
+*RHT 大妖精
+Sunny, Luna, Star. You see, we are all having a special training in order to get revenge against great youkais.
+So, we wanted to challenge you as a trial in order to get really strong...
+
+*CHT スター 怒
+Does that mean we were just target practice ?
+
+*RHT 大妖精 驚
+T-that's not it !
+*RHT 大妖精
+When I met you, I felt like you were holding amazing powers.
+*RHT 大妖精 笑
+So, I thought we could become very strong if we fight you three, and that's why we challenged you.
+
+*LHT サニー 怒
+F-flattery will get you nowhere !
+
+*RHT 大妖精
+No, I'm telling the truth.
+*RHT 大妖精 笑
+Besides, all three of you were way stronger than we thought !
+I was surprised. And Cirno was surprised as well, right ?
+
+*CHT チルノ 哀
+W-well, I was just a bit surprised...
+*CHT チルノ 笑
+But I knew I could beat you no problem !
+
+*RHT 大妖精 笑
+S-See, Cirno agrees. You're all amazing !
+
+*LHT ルナ 赤面
+Geez, stop with the compliments...
+
+*CHT スター
+... So, what is that "good idea" ?
+
+*RHT 大妖精
+Well...
+Since you all have great power, I was wondering if you could help us.
+Your help would be very reassuring, no one else have this kind of power...
+*RHT 大妖精 笑
+So, will you join us ?
+If we win against great youkais, we can become famous as "The fairies who defeated the great youkais" !
+
+*LHT サニー 哀
+... What do you think ?
+
+*CHT ルナ 哀
+Hmm...
+
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+;;大チル以外が三月精を攻撃したイベントが発生したか
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+*IF1 EVENT2_57
+
+*CHT スター 怒
+But Cirno made a foul play by bringing youkais during our fight... I'm a bit reluctant.
+
+*SKP TLK_1
+
+;;ーーーーーーーーーーーーーー
+;;大チルだけで三月精を撃破した
+;;ーーーーーーーーーーーーーー
+;ENDIF1
+
+*CHT スター 哀
+To be honest, I don't feel like joining them at all...
+
+;TLK_1
+
+*CHT スター
+But that "fairies who defeated great youkais" title might not be bad.
+
+*LHT サニー
+Yes. So, do you agree, Star ?
+
+*CHT ルナ
+... Great youkais as opponents, huh.
+
+*LHT サニー
+That looks interesting, don't you think ?
+
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+;;大チル以外が三月精を攻撃したイベントが発生したか
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+*IF2 EVENT2_57
+
+*CHT スター 怒
+(... Besides, we could make Cirno pay for what she did today when she'll lower her guard...)
+
+;ENDIF2
+
+*CHT スター
+If we observe Cirno closely, it may be useful for us when we'll challenge her again someday...
+
+*CHT ルナ
+Leaving Cirno aside, if that girl insists...
+
+*LHT サニー
+...Okay, then let’s do this !
+*LHT サニー 笑
+Alright, we'll follow you !
+
+*RHT 大妖精 驚
+R-really ?
+*RHT 大妖精 笑
+Thank you ! Cirno is fine with it as well, right ?
+
+*CHT チルノ 哀
+Eh ? I'm fine with just ourselves...
+
+*RHT 大妖精 哀
+We might be in trouble if we're just by ourselves... so... please !
+
+*CHT チルノ 哀
+Hmm... Well, if you insist...
+
+*RHT 大妖精 笑
+Yay ! Thank you, Cirno !
+
+*NHT
+*NWK
+*SLP 30
+
+*MVG ミスティア
+*SLP 30
+
+*LHT ミスティア
+... Looks like they reached an agreement.
+
+*RHT リグル
+Looks like it. Dai is serious about this.
+
+*CHT ルーミア
+*munch* *munch* *munch* ... Oh, they finished talking ?
+
+*RHT リグル 驚
+(... Where did she find all these fruits ?)
+*RHT リグル
+Yes, it seems so.
+
+*LHT ミスティア 笑
+Well then, shall we head back soon ? ♪
+
+*CHT ルーミア 笑
+Yes !
+*CHT ルーミア 驚
+... Huh ?
+
+*RHT リグル 驚
+... Hm ?
+
+*NHT
+*NWK
+
+*MVG スター
+*SLP 30
+
+*LHT スター 驚
+Eh... ? What ? A group of people is heading towards here ... ?
+
+*RHT チルノ
+Hmm ?
+
+*NHT
+*NWK
+*SND BGM21
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+;;ヤマメキスメパルスィ登場
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+*RED チルノdata_stages/chirno_stage2/stage2_ENEMY_3
+
+*MVG ヤマメ
+*SLP 30
+
+*MV1 キスメ 2,2
+*MV1 ヤマメ 1,2
+*MV1 パルスィ 0,2
+*MVA
+
+*MVG キスメ
+*SLP 30
+
+*LHT キスメ 苦
+Haa, haa, haa...
+*LHT キスメ 怒
+Geez, they’re persistent ! How far are they going to chase us !?
+
+*RHT パルスィ
+They're very tenacious, do they hate us that much ?
+
+*NHT
+*NWK
+*MV1 キスメ 12,2
+*MV1 ヤマメ 11,2
+*MV1 パルスィ 10,2
+*MVA
+
+*MVG ヤマメ
+*SLP 30
+
+*CHT ヤマメ 笑
+Are you saying that out of deep jealousy ?
+
+*RHT パルスィ 怒
+W-what are you talking about !?
+
+*LHT キスメ 哀
+You two, it's not the time to say such things !
+
+*NHT
+*NWK
+*MV1 キスメ 12,5
+*MV1 ヤマメ 13,4
+*MV1 パルスィ 11,4
+*MVA
+
+*MKI キスメ 下
+*MKI ヤマメ 下
+*MKI パルスィ 下
+
+;;ーーーーーーーーー
+;;阿弥、護衛僧兵登場
+;;ーーーーーーーーー
+*RED チルノdata_stages/chirno_stage2/stage2_ENEMY_4
+
+*MVG 阿弥
+*SLP 30
+
+*LHT 阿弥 怒
+Those odious youkais... I will never forget them for stepping into our village !
+Humans aren't powerless... We'll let them know about this !
+
+*NHT
+*NWK
+*MVG キスメ
+*SLP 30
+
+*CHT ヤマメ 苦
+Geez... Why do our powers have no effect !?
+
+*RHT パルスィ
+They immediatly heal themselves, that's why.
+*RHT パルスィ 哀
+But our powers are ineffective in the end.
+
+*LHT キスメ 怒
+Ugh ! What are the humans... !?
+
+*NHT
+*NWK
+*MVG チルノ
+*SLP 30
+
+*RHT 大妖精 驚
+Cirno ! This is...
+
+*LHT チルノ 笑
+What's this !? Something interesting is happening !
+
+*CHT ルナ 驚
+I-interesting ?
+
+*RHT ミスティア 驚
+Eh ? Cirno, what are you going to do !?
+
+*LHT チルノ 笑
+It's obvious ! Time to fight ! It would be a waste to just watch !
+
+*CHT ルーミア
+So, which side ? Don't tell me you're gonna join the humans' side ?
+
+*LHT チルノ 笑
+Hm ! Either's fine !
+
+*CHT スター 驚
+Either, huh...
+
+*RHT リグル
+... Then, the youkai's side. Now that it's settled, let's go helm them quick !
+*RHT リグル 怒
+Since we're going to get rid of the humans, go tell the youkais we're coming for help, Cirno !
+
+*LHT チルノ 哀
+Huh ? But i wanna fight too !
+
+*RHT リグル
+You're the leader, aren't you ? So it's your duty to do this.
+
+*LHT チルノ
+L-leader !?
+*LHT チルノ 笑
+What's that ? It sounds cool !
+
+*RHT リグル 笑
+Right ? Since you're the leader, please do it !
+
+*CHT ミスティア 怒
+Wriggle, Rumia, let's go !
+
+*RHT ルーミア 笑
+Hehehe ~ It's been a while...
+
+*NHT
+*NWK
+*SLP 30
+
+*CHT ルナ 哀
+... Do we have to go as well ?
+
+*LHT サニー 怒
+I-in that case, let's join in !
+
+*RHT スター 笑
+Yes. With Cirno's help, beating those humans wouldn't be a big deal.
+
+*CHT ルナ 笑
+Aah, that's true. Then, I'll go as well.
+
+*NHT
+*NWK
+*MVG ヤマメ
+*SLP 30
+
+*CHT ヤマメ 驚
+Oh ? These are... Youkais from the surface and... Fairies ?
+
+*LHT キスメ 驚
+Are they going to help us ?
+
+*RHT パルスィ 驚
+Fairies ? Helping us ? But they aren't very strong...
+
+*CHT ヤマメ 怒
+In our situation, I'll take all the help we can get ! Let's go !
+
+*NHT
+*NWK
+*MVG 阿弥
+*SLP 30
+
+*LHT 阿弥 驚
+Hm ? They got some help ?
+*LHT 阿弥 ジト目
+Mmmh... That's not good...
+
+*NHT
+*NWK
+
+;;ーーーーー
+;;僧兵全配置
+;;ーーーーー
+*RED チルノdata_stages/chirno_stage2/stage2_ENEMY_5
+
+*TTL 勝利条件の変更\n阿弥の撃退 180
+*WIN 阿弥の撃退 all
+*TLK チルノ キスメ 21
+*TLK チルノ ヤマメ 22
+*TLK チルノ パルスィ 23
+
+*RED チルノdata_others/状態異常耐性
+
+*RSN
+
+;;三月精会話フラグＯＮ
+*FLG 51 ON
+*FLG 52 ON
+*FLG 53 ON
+*FLG 54 ON
+*FLG 55 ON
+*FLG 56 ON
+*FLG 57 ON
+
+*END

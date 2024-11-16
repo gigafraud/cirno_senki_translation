@@ -1,0 +1,87 @@
+;;サニー用に盗むアイテムも持たせるように
+*TKI 僧兵青 3,15 IDE501 B G2 Monk 10 高速紅弾
+*TKI 僧兵青 4,14 IDE502 B G2 Monk 10 高速紅弾
+*TKI 僧兵青 5,13 IDE503 B G2 Monk 10 高速猛毒弾 
+
+*TKI 僧兵青 7,13 IDE504 B G2 Monk 10 高速紅弾
+*IT2 IDE504 遠距離高速蒼弾
+*EQP IDE504 遠距離高速蒼弾
+*TKI 僧兵赤 9,12 IDE505 B G2 Monk 10 追尾紅弾 傷薬
+*TKI 僧兵赤 8,11 IDE506 B G2 Monk 10 氷結追尾弾
+
+*TKI 僧兵黄 5,11 IDE507 A G2 Monk 11 火術弾
+*IT2 IDE507 超回復札
+
+*TKI 僧兵赤 10,2 IDE508 B G2 Monk 11 追尾猛毒弾 傷薬
+*IT2 IDE508 天女の羽衣
+*TKI 僧兵赤 9,2 IDE509 B G2 Monk 11 追尾紅弾 追尾錯乱弾
+*EQP IDE509 追尾錯乱弾
+*TKI 僧兵青 8,2 IDE510 B G2 Monk 11 氷結高速弾 高速紅弾
+*TKI 僧兵青 7,2 IDE511 B G2 Monk 11 高速紅弾
+*TKI 僧兵黄 6,2 IDE512 B G2 Monk 11 雷鳴弾 傷薬
+*IT2 IDE512 毒消し
+*TKI 僧兵黄 5,2 IDE513 B G2 Monk 11 氷片弾 回復札
+*TKI 僧兵赤 4,2 IDE514 B G2 Monk 12 追尾紅弾
+*IT2 IDE514 火炎追尾弾
+*TKI 僧兵青 3,2 IDE515 B G2 Monk 12 高速紅弾
+*TKI 僧兵黄 2,2 IDE516 B G2 Monk 12 雷鳴弾 超回復札
+
+*TKI 僧兵赤 3,12 IDE517 A G2A Monk 11 追尾猛毒弾
+*TKI 僧兵赤 4,11 IDE518 A G2A Monk 11 追尾猛毒弾
+*TKI 僧兵青 2,11 IDE519 A G2A Monk 11 高速錯乱弾
+*TKI 僧兵青 3,10 IDE520 A G2A Monk 11 高速紅弾
+*IT2 IDE520 高速錯乱弾
+*TKI 僧兵黄 1,10 IDE521 A G2A Monk 11 旋風弾 火術弾
+*TKI 僧兵黄 2,9 IDE522 A G2A Monk 11 火術弾 回復札
+
+*TKI 僧兵赤 0,8 IDE523 A G2 Monk 14 凍結追尾弾 傷薬
+*TKI 僧兵青 1,7 IDE524 A G2 Monk 14
+*IT2 IDE524 高速侵蝕弾
+*ITM IDE524 傷薬
+*TKI 僧兵黄 2,6 IDE525 A G2 Monk 14 風刃弾 傷薬
+*TKI 僧兵赤 2,4 IDE526 A G2 Monk 14 雷鳴追尾弾 傷薬
+*TKI 僧兵青 1,3 IDE527 A G2 Monk 14 高速凍傷弾 傷薬
+*TKI 僧兵黄 0,2 IDE528 A G2 Monk 14 錯乱術弾 傷薬
+
+*ST3 僧兵赤 全 2
+*ST3 僧兵青 全 2
+*ST3 僧兵黄 全 2
+*ST3 僧兵黄 魔力 4
+*XJ1 G2 猛毒 混乱 気絶
+*XJ1 G2A 猛毒 混乱 気絶
+*EG3 5 *CP3 G2A MOV_ALL 1
+
+*TPC 妖怪赤 7,26 IDE529 A GY2 野良妖怪 14
+*IT2 IDE529 遠距離大型蒼弾
+*TPC 妖怪赤 20,13 IDE530 A GY2 野良妖怪 14 暗黒大型弾
+*IT2 IDE530 翡翠
+*BOS IDE530
+
+;;*EG3 1 
+*EG3 1 *TKI 僧兵赤 0,12 IDE5E101 B G3 Monk 12 追尾紅弾 金剛酒
+*EG3 1 *TKI 僧兵赤 0,11 IDE5E102 B G3 Monk 12 追尾紅弾
+*EG3 1 *IT2 IDE5E102 金剛酒
+*EG3 1 *TKI 僧兵赤 0,10 IDE5E103 B G3 Monk 12 氷結追尾弾 傷薬
+*EG3 1 *TKI 僧兵赤 0,9 IDE5E104 B G3 Monk 12 追尾紅弾 追尾霊撃弾
+*EG3 1 *ST2 G3 全 2
+*EG3 1 *XJ1 G3 猛毒 混乱 気絶
+
+;;*EG3 2 
+*EG3 2 *TKI 僧兵青 1,12 IDE5E201 B G4 Monk 12 高速紅弾 遠距離高速蒼弾
+*EG3 2 *TKI 僧兵青 1,11 IDE5E202 B G4 Monk 12 高速紅弾 高速猛毒弾 傷薬
+*EG3 2 *TKI 僧兵青 1,10 IDE5E203 B G4 Monk 12 氷結高速弾
+*EG3 2 *IT2 IDE5E203 火炎高速弾
+*EG3 2 *TKI 僧兵青 1,9 IDE5E204 B G4 Monk 12 高速紅弾
+*EG3 2 *ST2 G4 全 2
+*EG3 2 *XJ1 G4 猛毒 混乱 気絶
+
+;;*EG3 3 
+*EG3 3 *TKI 僧兵黄 0,12 IDE5E301 B G5 Monk 13 火術弾 回復札
+*EG3 3 *TKI 僧兵黄 0,11 IDE5E302 B G5 Monk 13 氷片弾
+*EG3 3 *IT2 IDE5E302 傷薬
+*EG3 3 *TKI 僧兵黄 0,10 IDE5E303 B G5 Monk 13 雷鳴弾 傷薬
+*EG3 3 *TKI 僧兵黄 0,9 IDE5E304 B G5 Monk 13 旋風弾 氷片弾
+*EG3 3 *ST2 G5 全 2
+*EG3 3 *ST2 G5 魔力 4
+*EG3 3 *XJ1 G5 猛毒 混乱 気絶
+

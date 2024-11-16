@@ -1,0 +1,94 @@
+;START
+;;ーーーーーーーーーー
+;;Cirno talks to Yamame
+;;ーーーーーーーーーー
+
+*SND おてんば恋娘
+
+*RHT ヤマメ
+Thank you. I don't know who you are, but I appreciate the help.
+
+*LHT チルノ 笑
+Hehehe ~ I'm here now, so you don't need to worry !
+
+*RHT ヤマメ 笑
+Ahaha, you're quite confident. It's encouraging.
+*RHT ヤマメ
+But are you going to be okay ? These humans aren't messing around.
+Or do you have a strategy ?
+
+*LHT チルノ 哀
+... A strategy ?
+*LHT チルノ 笑
+Not at all ! I'll only charge at them, no matter what !
+There can be a hundred of them, I would still be on the first line !
+
+*RHT ヤマメ 驚
+(Leaving the youkais over there aside, can this powerless fairy really help us ?)
+
+*LHT チルノ 哀
+What are you making that face ?
+*LHT チルノ 怒
+Are you doubting my powers !?
+
+*RHT ヤマメ 笑
+N-no, it's not that. You seem very confident about your abilities. I'll give you that.
+*RHT ヤマメ
+Don't worry, I'm counting on you. Besides, I like the simple idea to "charge at them".
+*RHT ヤマメ 笑
+Well, shall we go, miss fairy ? I'm counting on you.
+
+*LHT チルノ 笑
+Hehehe ~ I’m gonna show you my powers !
+
+*NHT
+*NWK
+*SLP 30
+
+*MVG キスメ
+*SLP 30
+
+*LHT キスメ 驚
+Parsee... It looks like this fairy is going to help us, as expected !
+
+*RHT パルスィ
+I don't know their real intentions, though...
+
+*LHT キスメ 哀
+You're thinking too much, Parsee.
+*LHT キスメ 笑
+Alright, now that we are more numerous, it's time for a counterattack !
+
+*NHT
+*NWK
+
+*MKT ヤマメ
+
+
+*IF0 キスメ
+
+*MKT キスメ
+
+;ENDIF0
+
+*IF0 パルスィ
+
+*MKT パルスィ
+
+;ENDIF0
+
+
+*RSN
+
+;;ーーーーーーーーーーーーーーーーーー
+;;イベント１、３を発生済みにする処理を
+;;ーーーーーーーーーーーーーーーーーー
+
+*FLG 1 ON
+*FLG 3 ON
+
+
+*FLG 21 ON
+*FLG 23 ON
+
+*END

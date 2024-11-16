@@ -1,0 +1,38 @@
+;START
+;;ーーーーーーーーーーーーーー
+;;Someone other than Dai or Cirno fights the fairies
+;;反発度＋１ Repulsion flag +1 (whatever that means)
+;;ーーーーーーーーーーーーーー
+
+*SND BGM26
+
+*RHT サニー 怒
+That's unfair ! Why did you bring youkais !?
+
+*CHT ルナ 怒
+T-That's low !
+
+*LHT チルノ 怒
+Shu... Shut up ! The strongest is the winner in the end !
+
+*CHT スター 怒
+Hmm... If you win against us with the help of youkais, will you really be the "strongest" ?
+;;そうだね……　要は勝てば良い。[r]それは解るけど……　でも、納得なんてできるわけないわよね。					
+
+*LHT チルノ 怒
+Ugh... H-Hmph ! If you're mad at me, try to beat me then !!
+
+*RHT サニー 怒
+... On it !
+
+*CHT 大妖精
+Cirno, you should stop that defiant attitude...
+
+*NHT
+*NWK
+*RSN
+
+;;反発度フラグ＋１
+
+
+*END

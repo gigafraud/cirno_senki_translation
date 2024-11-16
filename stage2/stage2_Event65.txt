@@ -1,0 +1,47 @@
+;START
+;;ーーーーーーーーーーー
+;;Sunny fights Aya Hieda
+;;ーーーーーーーーーーー
+
+*SND BGM24
+
+*LHT サニー 笑
+Hehehe, here she is...
+*NHT
+*NWK
+
+「Come here...」
+
+*RHT 阿弥 驚
+Eh ? W-where does this voice come from... ?
+*NHT
+*NWK
+
+「I'm not here, I'm here...」
+
+*LHT 阿弥 驚
+Eh ? Eh ? Behind...?
+*NHT
+*NWK
+
+「Hehehe ~ Wrong guess !」
+
+*RHT 阿弥 驚
+Hya !? A bullet...!?
+
+*KON ミス
+
+*LHT サニー 笑
+Ahahaha !! Pranking humans is so fun !
+
+*RHT 阿弥 驚
+T-This is... a fairy ? What kind of power is this... ?
+*RHT 阿弥 怒
+Let me investigate it !
+
+
+*NHT
+*NWK
+*RSN
+
+*END

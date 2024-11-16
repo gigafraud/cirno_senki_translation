@@ -1,0 +1,19 @@
+
+*TKI サニー 1,5 IDEB1 E GB1 Sunny 11 火炎術弾 太陽の雫
+*BOS IDEB1
+*EQP IDEB1 火炎術弾
+*CP2 IDEB1 ATK_ALL 4 3 21
+*XJO IDEB1 滅殺 吸奪
+
+*TKI ルナ 0,6 IDEB2 E GB1 Luna 11 雷光弾 月光の粉
+*BOS IDEB2
+*EQP IDEB2 雷光弾
+*CP2 IDEB2 ATK_ALL 4 6 21
+*XJO IDEB2 滅殺
+
+*TKI スター 0,4 IDEB3 E GB1 Star 11 風刃弾 遠距離回復札
+*BOS IDEB3
+*EQP IDEB3 風刃弾
+*CP2 IDEB3 ATK_ALL 4 3 21
+*XJO IDEB3 滅殺
+
