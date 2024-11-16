@@ -1,0 +1,179 @@
+;START
+
+;;ーーーーーーーーー
+;;強化天子を撃破した
+;;ーーーーーーーーー
+
+*SND おてんば恋娘
+
+*RHT 天子 驚
+H-How... could I lose... To them...?
+
+*LHT チルノ 笑
+Huh ? That's it ? I thought she was sturdier than that !
+
+;;ーーーーーーーーーーーーーーーーーーーーーーーーー
+;;If Dai wasn't relieved before the end of the map
+;;ーーーーーーーーーーーーーーーーーーーーーーーーー
+
+*IF0 EVENT5_3
+
+*SKP EVE_FLG
+
+;ENDIF0
+
+*LHT 大妖精 驚
+Oh, did you beat her ?
+*LHT 大妖精 苦
+T-That was scary...
+
+;;ーーーーー
+;;Repulsion point +1
+;;ーーーーー
+
+;EVE_FLG
+
+*CHT 衣玖 哀
+I told you to not underestimate them...
+*CHT 衣玖
+You ended up just embarassing yourself.
+
+*RHT 天子 驚
+S-Shut up !
+*RHT 天子 怒
+What is wrong with all of you !? You're making it hard for me to play with you !
+Especially you three !
+
+*LHT ルナ 驚
+What, us ?
+
+*RHT 天子 怒
+Yeah ! What's with you people !?
+You've been messing around with my sight and my hearing ! That was really annoying !!
+
+*LHT スター
+Our powers work very well on her... So that means we can prank her as much as we want ?
+
+*CHT ルナ
+Really ?
+
+*LHT サニー 笑
+Then... There's only one thing to do !
+
+*CHT スター 笑
+Yeah !
+
+*LHT サニー
+Well, let's go !
+*LHT サニー 笑
+Yes !
+
+*CHT ルナ 笑
+Yeah !
+
+*RHT 天子 驚
+H-Hey ! Why are you circling around me ? Get away !
+
+*NRH
+*NCH
+
+*LHT レティ 哀
+Mmh... I almost feel bad for her.
+
+*RHT チルノ 哀
+Yeah...
+
+*LHT リグル 哀
+I wouldn't want to be at her place...
+
+*RHT 衣玖 笑
+Hehehe, it's great to see that the eldest daughter is having fun.
+
+*LHT 天子 驚
+N-No ! Help me !!
+
+*RHT 衣玖 笑
+I will, I will.
+*RHT 衣玖
+I don't want to admit it, but I find it amusing.
+Watching the eldest daughter being the one getting bullied is more entertaining than I thought.
+*RHT 衣玖 笑
+Fairies, please do more.
+
+*LHT スター 笑
+Hey hey, we got permission from the servant !
+
+*CHT ルナ 笑
+Alright !
+
+*LHT サニー 笑
+There we go ! Sneak attack !
+
+*CHT チルノ 笑
+Looks interesting ! Let's mix it up too !
+
+*LHT ルーミア 笑
+That's great ! Me too !!
+
+*RHT 天子 怒
+Hey, hey ! You all are too heavy ! Get off me !!
+
+*NHT
+*NWK
+*SLP 60
+
+*LHT リグル
+...Should we really let them bully her...?
+
+*RHT レティ 哀
+Mmh... Are we the bad guys here...?
+
+*LHT 幽香 哀
+Excuse me, I was away for a while.
+My my, at this rate, I won't be able to play with that celestial myself.
+
+*RHT キスメ
+What exactly do you mean by "play" ?
+
+*LHT 幽香 笑
+Just having fun, that's it.
+I'll just wait for the kids to calm down.
+
+*RHT 衣玖
+Yes.
+Her body is very sturdy, so she can withstand anything.
+*RHT 衣玖 笑
+I'm sure she will hold on.
+
+*LHT 幽香 笑
+I see.
+
+*RHT ヤマメ 哀
+I don't think we should stay here...
+
+*LHT 幽香 笑
+Why is that ? I got the right to bully someone as much as I want.
+I really wonder what I will do...
+Hehehe...
+
+*RHT パルスィ
+...That celestial really chose the wrong persons to vent her sorrow, didn't she ?
+
+*LHT リグル
+If it wasn't for Yuuka, she would have been lucky.
+But yeah. I don't envy her.
+
+*RHT 天子 苦
+N-No ! Don't leave me here ! Please help meeee !!!!
+
+*NHT
+*NWK
+*NSN
+*FO2
+*NPC 天子 9,25 IDB1Ex E GB1Ex 天子 34 高速光弾 高速光弾
+*STP IDB1Ex 武器レベル_速 1
+*MKT IDB1Ex
+*LIV 衣玖
+*MKT 衣玖
+*SND BGM28
+*END

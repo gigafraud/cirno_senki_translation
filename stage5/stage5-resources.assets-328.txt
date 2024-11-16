@@ -1,0 +1,755 @@
+;START
+
+*FO2
+*NIG
+
+*SND BGM23
+
+With her friend Letty, Yuuka who seemed to have something in mind,
+And Aya who seemed to have an ulterior motive, Cirno's companions increased by three.
+But after going back to the lake, Cirno decided to stay idle.
+She didn't feel like doing anything because of the summer's heat.
+Letty wasn't in a good condition either, since she is only supposed to be awake during winter.
+Leaving Letty behind to take her revenge was something Cirno couldn't do.
+
+*SLP 30
+
+And in that very hot day...
+
+*NWK
+*SLP 30
+
+*TTL Cirno_Senki\nChapter_5\nThe_Strongest_Sword 270
+
+*NWK
+
+*IMG stage11背景
+
+*LHT レティ 苦
+...
+
+*RHT チルノ 哀
+Letty, are you okay ?
+
+*LHT レティ 哀
+...I'm fine, thank you.
+*LHT レティ 笑
+When I'm by your side, the temperature is nicer. Besides, your friend made some shadow for me.
+
+*RHT ルーミア 笑
+Ehehe ! Darkness is so useful !
+
+*LHT ヤマメ
+Now that she mentions it... I heard that tengus can manipulate the wind...
+Hey Aya, can you make a cool breeze with your power ??
+
+*RHT 文 笑
+I can do that, yeah. It's a breeze for me.
+*RHT 文
+If that's what you wish, I can create a gust of wind for you.
+
+*LHT ヤマメ 驚
+I said a "cool wind", not a "gust" !
+
+*RHT 文 笑
+Oh, so that's what you meant.
+
+*CHT ルーミア 驚
+Eh ? But a gust of wind sounds niiice !!
+
+*RHT 文
+Really ? Then, shall I create a gust ?
+
+*LHT ヤマメ 驚
+Do it somewhere else !
+
+*CHT ルーミア 笑
+Okaaaay !
+
+*NCH
+
+*RHT レティ 笑
+Hehe, looks like they're having fun over there, I'm envious.
+
+*LHT チルノ 哀
+Uuh... Letty...
+
+*RHT レティ
+Don't worry about me, Cirno. I can manage the heat without you.
+*RHT レティ 笑
+Come on, go play with the others.
+
+*LHT チルノ 哀
+O-Okay...
+
+*NHT
+*NWK
+*SLP 60
+
+*LHT 大妖精 笑
+You do it this way, you connect it like that... And now, the flower crown is finished !
+Here, Luna. I'm sure it will look good on you !
+
+*RHT ルナ 笑
+Wow... Thank you !
+
+*LHT 大妖精 笑
+You're welcome ! I was right, it suits you well !
+
+*LHT サニー 笑
+Amazing...Dai, you're really skillful !
+
+*RHT 大妖精 笑
+Hehe, don't say that ! They're easy to make once you get used to it !
+
+*LHT スター 笑
+Hey hey ! Teach me how to make one !
+
+*RHT 大妖精 笑
+Okay, sure ! First of all, let's pick flowers...
+
+*NHT
+*NWK
+*SLP 30
+
+*LHT 幽香 笑
+Hehe, aren't they cute.
+
+*RHT リグル 驚
+Miss Yuuka, you don't get angry, even though they're picking flowers in front of you ?
+
+*LHT 幽香
+Oh, what kind of opinion do you have of me ?
+Are you thinking I would get mad for anything involving flowers ?
+
+*RHT リグル 驚
+Oh, no... I just...
+
+*LHT 幽香
+Of course, I won't show mercy to those who needlessly step on flowers or destroy them.
+These fairies are picking these flowers because they love them. They show the flowers their gratitude.
+*LHT 幽香 笑
+So, there is no reason to get angry about it, right ?
+
+*RHT リグル 驚
+Oh, I see.
+
+*LHT 幽香 笑
+Do you understand, now ?
+
+*RHT リグル 笑
+Yes !
+
+*NHT
+*NWK
+*SLP 30
+
+*LHT サニー 笑
+Wow, you were right ! It was really easy to do !
+
+*RHT スター 笑
+You say that, but the crown's shape is all distorted.
+
+*LHT サニー
+What about yours, Star ? Isn't it too small ?
+
+*RHT スター 怒
+It's... It's hard to make it the right size !
+
+*LHT ルナ 哀
+I did as you said, and yet, my crown doesn't look like yours at all...
+Sigh... I'm terrible at it.
+
+*RHT 大妖精 笑
+Don't say that. For your first flower crown, these two are really nice !
+
+*LHT ルナ 哀
+R-Really...?
+
+*RHT スター 笑
+Sunny, I'll give you mine.
+
+*LHT サニー 笑
+Then let's exchange !
+
+*RHT ルナ 哀
+...
+
+*LHT 大妖精 笑
+Luna...
+
+*RHT ルナ 驚
+Y-Yes...?
+
+*LHT 大妖精 笑
+I want to wear the crown you made.
+
+*RHT ルナ 哀
+R-Really...? B-But... It's not as pretty as yours...
+
+*LHT 大妖精 笑
+But you did your best to make it, right ? So I want it.
+
+*RHT ルナ 驚
+...
+*RHT ルナ 笑
+O-Okay ! Thank you !!
+
+*LHT サニー
+...Dai is really nice, huh.
+
+*RHT スター
+Yeah, right ? She does it genuinely and naturally. It's almost scary how nice she is.
+
+*LHT サニー
+We never tried to talk to her directly, since she is always with Cirno.
+
+*RHT スター
+...But now that we did, we realized she really is a good person.
+
+*CHT 大妖精 笑
+Hmm ? What are you two talking about ?
+
+*LHT サニー 驚
+Oh, it's nothing, really ! Right, Star ?
+
+*RHT スター 驚
+Eh ?? Oh, yes ! Absolutely nothing !
+
+*CHT 大妖精
+...?
+
+*NHT
+*NWK
+*SLP 15
+
+*LHT パルスィ 怒
+Grr, I can't stand it !
+
+*RHT キスメ 驚
+Hmm ?
+
+*RHT ミスティア 驚
+W-What !?
+
+*LHT パルスィ 驚
+Ah, no... Don't worry, it's nothing.
+*LHT パルスィ 怒
+Ugh... Her popularity is just...
+
+*RHT キスメ 哀
+...Making you jealous, huh ?
+
+*RHT ミスティア
+You're always like this. Do you never get tired of being jealous ?
+
+*LHT パルスィ
+I can't help it, it's my nature. It's the same for you, you can't help but sing all day.
+
+*RHT ミスティア 笑
+Oh, I see ! I guess it can't be helped, then !
+
+*CHT キスメ 驚
+She convinced you fast !
+
+*RHT ミスティア 笑
+It's as she said, I can't stop singing even if you tell me to. Same for her, right ?
+
+*CHT キスメ 哀
+I-I guess...
+
+*LHT パルスィ
+That's just who we are. We can't change ourselves, so there's no reason to think hard about it.
+
+*RHT ミスティア 笑
+That's right ♪ With this heat, it's difficult to think of anything ♪
+
+*CHT キスメ 哀
+It really is hot today...
+
+*RHT ミスティア
+How about filling your bucket with water ?
+
+*CHT キスメ 驚
+N-No ! Don't do that !!
+
+*LHT パルスィ 笑
+Really ? I think it's a good idea, though.
+
+*CHT キスメ 怒
+It's not a good idea at all !!
+
+*RHT ミスティア
+Oh... Welp, we tried.
+*RHT ミスティア 笑
+Ah, I know ! In that case... Hey hey, Cirno !!
+
+*NCH
+
+*LHT チルノ
+Hm ? What ?
+
+*RHT ミスティア 笑
+Everyone can't get over this heat, can you make a big block of ice here ?
+We're near a lake and there's a lot of water, so this will surely cool off the air !!
+
+*CHT 文
+Oooh, that sounds interesting !
+*CHT 文 笑
+"A gigantic block of ice appeared at the lake in midsummer". This will make a good article !
+
+*RHT 大妖精 驚
+A gigantic block of ice...?
+*RHT 大妖精 哀
+Don't do that, Cirno. It's better to not do this kind of thing.
+
+*CHT リグル
+Yes, she's right. This might be dangerous.
+Misty, I understand the temperature is hot, but you shouldn't ask her that.
+
+*RHT ミスティア 怒
+Booo... Stop worrying this much.
+*RHT ミスティア 笑
+Hey, Cirno ! Do it !
+
+*LHT チルノ 哀
+Hmm...
+
+*NHT
+*NWK
+
+;;ーーーーーーーーーーーーーーーーーーーーーー
+;;Choice 1 : Yes    Choice 2 : No
+;;ーーーーーーーーーーーーーーーーーーーーーー
+*SEN うん、作っちゃおう！:Label1 大ちゃんが止めるなら……:Label2 巨大氷を作っちゃう？
+
+
+;Label1
+
+*SND おてんば恋娘
+
+*FLG 99 ON
+
+*LHT チルノ
+Ok. Dai told me not to, but the others want me to do that, I should answer their request !
+
+*RHT 大妖精 驚
+C-Cirno !?
+
+*LHT チルノ 笑
+It's fine, it's fine ! I'm the strongest, I can control myself !
+*LHT チルノ
+Also, I want to cool off the temperature for Letty as well !
+
+*RHT 大妖精 哀
+...
+
+*CHT ミスティア 笑
+Yaaay ! Thank you, Cirno !!
+
+*RHT 文 笑
+Alright, I can't stay here and do nothing !! I must take a picture of this giant block !!
+
+*CHT ヤマメ 笑
+Oh, it's bustling over here. What's happening ?
+
+*RHT サニー 笑
+Hmm ? What ? You guys are doing something ?
+
+*CHT リグル 哀
+Hmm... I wonder if it'll be really alright...
+
+*LHT チルノ 笑
+Hehehe ! I'm gonna make a giant ice block !
+Ok, let's go ! Yaaaah !!
+
+*CHT ルナ 笑
+Oh ? A giant ice block ! Sounds interesting !!
+
+*RHT キスメ 驚
+Ah, this is bad ! Run !!
+
+*CHT ルナ 驚
+Eh ? Eh ? Run, you say ? W-Where ??
+
+*RHT ミスティア 驚
+Anywhere's fine, quick !!
+
+*CHT スター
+...Hey, Sunny. I bet Luna will fall over.
+
+*LHT サニー
+Yeah, I wanted to say the same thing...
+
+*CHT ルナ 驚
+Anywhere's fine, you say...? Hya !!??
+
+*KON ぽてっ
+
+*RHT ヤマメ 驚
+Hm ?
+
+*CHT リグル 驚
+Oh no ! I knew this !!
+*CHT リグル 怒
+Cirno ! Stop, stop ! Stop making ice !!
+
+*LHT チルノ 哀
+Even if you tell me to stop, I can't stop right away.
+
+*CHT ルナ 驚
+W-w-wait a minu...
+
+*NHT
+*NWK
+
+*KON ぴきーん
+*SLP 15
+*KON どかーん
+
+*CHT ルナ 苦
+Ouch !
+
+*RHT 大妖精 驚
+L-Luna !? Are you okay ??
+
+*NRH
+
+*CHT ルナ 苦
+I-It's cold... Help me !!
+
+*NCH
+
+*RHT パルスィ 哀
+...
+
+*LHT ヤマメ 哀
+Will she be alright ?
+
+*RHT パルスィ 哀
+S-She'll be fine... Probably. At worse, she'll just revive...
+
+*LHT ヤマメ 哀
+It's fine, then...
+
+*SKP EVE_FLG
+
+
+;Label2
+
+*SND おてんば恋娘
+
+*FLG 99 OFF
+
+
+*LHT チルノ 哀
+Hmm... But Dai told me I shouldn't...
+
+*RHT ミスティア 笑
+It's fine, I'm telling you !
+Hey, Dai. Everyone's suffering from the heat, we just want Cirno too cool us off !!
+
+*CHT 大妖精 哀
+B-But...
+
+*RHT 文
+I'm asking as well. This will also help me for my article.
+*RHT 文 笑
+It'll be fine, I'm sure Cirno can do this easily !!
+
+*LHT チルノ 哀
+Yeah, I can. Hey, Dai. Is it fine if I do it ?
+
+*CHT 大妖精 哀
+Hmm... If you’re begging for it that much, it’s hard to refuse... 
+*CHT 大妖精
+Well then, Cirno. Make a huge ice block, for everyone.
+
+*LHT チルノ
+O-Okay. Leave it to me !!
+*LHT チルノ 笑
+Then, let’s go !!
+
+
+*RHT ミスティア 笑
+Thanks, Cirno ! We're saved !
+
+*CHT 文 笑
+Alright, I can't stay here and do nothing !! I must take a picture of this giant block !!
+
+*RHT ヤマメ 笑
+Oh, it's bustling over here. What's happening ?
+
+*CHT サニー 笑
+Hmm ? What ? You guys are doing something ?
+
+*LHT チルノ
+Hehehe ! I'm gonna make a giant ice block !
+*LHT チルノ 笑
+Ok, let's go ! Yaaaah !!
+
+*CHT 幽香 驚
+...Oh.
+
+*RHT レティ 驚
+Amazing... This is really something...
+
+*CHT ルナ 驚
+Eh ? What’s that !? Amazing...
+
+*RHT パルスィ 驚
+So this is this fairy’s power... ?
+
+*LHT チルノ 笑
+Yaaaaah ! Now, it’s done !
+
+*NHT
+*NWK
+*KON ぴきーん
+*SLP 15
+*KON どかーん
+
+
+*CHT スター 驚
+T-This is... Cirno made it all alone... ?
+
+*RHT リグル 驚
+For her power to have grown this much... I wasn't expecting that...
+
+*CHT 大妖精 驚
+Cirno, are you okay ? Aren't you overdoing it ??
+
+*LHT チルノ 笑
+Of course I'm fine !
+That was a piece of cake for me ! Hehehe !!
+
+*RHT キスメ 驚
+Amazing... This kid... Is she really a fairy...?
+
+
+
+;EVE_FLG
+
+*NHT
+*NWK
+*SLP 30
+
+*RHT 文
+Hmm, it really is an impressive ice block. I've never seen something this big.
+Even though she's a fairy, she can do something this amazing...
+
+*LHT チルノ 笑
+Hehehe ! I'm not just the strongest, I'm the best !!
+
+*RHT 幽香
+Hmm... She is stronger than I thought.
+
+*LHT レティ 笑
+Good grief...Cirno doing this for me and her friends... Hehehe.
+
+*RHT ルーミア 笑
+Amazing ! The air is cooling off ! With this, we can all enjoy eating shaved ice !
+
+*LHT キスメ 驚
+Shaved ice...? Are we going to eat it all ?
+*LHT キスメ 哀
+We'll have the biggest stomach pain of our lives...
+
+*NSN
+
+*RHT 天子
+Oh, you want this to be shaved ice ?
+
+*SND BGM21
+
+*LHT キスメ 驚
+Hm ?
+
+*RHT 天子 笑
+Then, I'll help you with it.
+
+*LHT ミスティア 驚
+Oh ? Wait, who are you ?
+
+*LHT パルスィ 驚
+A sword...?
+
+*LHT チルノ 怒
+Ah ! Hey !! What are you gonna do to my ice !!?
+
+*RHT 天子
+I already told you !! I'm make shaved ice out of it !!
+*RHT 天子 笑
+Yaaah !!
+
+*NHT
+*NWK
+*KON しゃきーん
+*SLP 15
+*KON 回避
+*SLP 15
+*KON どかーん
+
+*LHT チルノ 驚
+Aaaaah !! My ice is...!
+
+*RHT 天子
+Hmph. There you go.
+*RHT 天子 笑
+(Hehe ! I did it !! I'm so cool !!)
+
+*LHT 幽香 驚
+(She completely destroyed the ice block with one slash...?)
+
+*LHT ミスティア 怒
+H-Hey, what do you think you're doing, coming out of nowhere like that !!?
+
+*RHT 天子
+How many times am I gonna need to say it ? I made you guys shaved ice.
+
+*LHT ルーミア 哀
+Ooh... They all fell to the ground and are covered in mud...
+*LHT ルーミア 苦
+I can't eat them...
+
+*RHT 天子
+That's not my fault.
+*RHT 天子 笑
+You should've caught the ice pieces before they fall to the ground.
+
+*CHT 衣玖 笑
+Ah, in that case, why don't you eat the peaches on the eldest daughter's hat ?
+
+*LHT ルーミア 笑
+Oh ! Alright, let's eaaat !!
+
+*RHT 天子 驚
+...! Iku !! What are you saying ?
+Don't eat my fruits without permission !!
+
+*LHT ルーミア 哀
+Huuuh ?? I can't eat ??
+
+*CHT リグル 哀
+These peaches are hers, but...
+*CHT リグル 笑
+Since she ruined your meal, she probably owes you a refund.
+
+*RHT 天子 怒
+H-Hey !! They're not for people like you !!
+
+*LHT レティ 怒
+...Well, what did you come here for ?
+
+*RHT 天子
+Oh ? Wanna know ?? Wanna know ??
+*RHT 天子 笑
+I don't know if I can tell you that !!
+
+*CHT 衣玖 笑
+She did this just to entertain herself.
+
+*RHT 天子 驚
+Why did you tell them !?
+
+*LHT レティ 怒
+Just to entertain herself...?
+
+*CHT 衣玖
+That's right. A little while ago, she poked her nose into someone's affairs again.
+However, she has been beaten at her own game brilliantly, and it looks like she can't accept that.
+*CHT 衣玖 哀
+So, she said "I wanna destroy something right now !!" to distract herself.
+
+*LHT レティ 驚
+So it was for this only reason that she broke the ice Cirno made into pieces...?
+
+*CHT 衣玖 哀
+That's right.
+*CHT 衣玖
+Good grief, She really just takes it out on others...
+
+*RHT 天子 驚
+I'm asking you, why did you blurt out everything !?
+
+*CHT 文 哀
+Doing something like that on a whim, huh... Now where have I seen something like that before...
+
+*LHT 幽香 笑
+Hmm, I wonder who could do such a terrible thing.
+
+*CHT 文 笑
+What ? I was talking about you !
+
+*LHT 幽香 笑
+Sorry, I don't remember doing something like that.
+
+*CHT 文 哀
+...Hm-hm.
+
+*LHT 幽香
+However... You have a lot of nerves to come to me to distract yourself.
+*LHT 幽香 笑
+Do you want me to play with you ?
+
+*CHT 衣玖 笑
+Indeed. She wanted to ask you... to roast her by all means.
+
+*RHT 天子 驚
+I never said that !!!
+*RHT 天子 怒
+Hmph ! Do you think crawling youkais like you can compete with a celestial !?
+
+*CHT 衣玖 笑
+I mean, you already lost to those youkais in the Netherworld...
+
+*RHT 天子 驚
+T-That's because I lowered my guard ! If i get serious, those guys don't stand a chance !!
+
+*LHT レティ 笑
+If we're crawling youkais, why are you even talking seriously to us ?
+
+*RHT 天子 怒
+I-I'm only half serious, of course !
+
+*LHT ヤマメ 笑
+If you're not serious about it, you'll just lose again !
+
+*RHT 天子 驚
+S-Shut, shut up, shut up !!
+*RHT 天子 怒
+I've had enough ! Talking won't get us anywhere ! Come on, fight me !!
+*RHT 天子 笑
+I'll show you all my immense power !!
+
+*LHT チルノ 怒
+You're the one who should shut up !
+I'll make you pay for breaking my giant ice block !
+
+*CHT 衣玖 哀
+Yes, please do. Teach her a lesson.
+
+*RHT 天子 驚
+Iku ! Are you really my ally ot what !!?
+
+*CHT 衣玖 笑
+Of course, I only think and act for your own good.
+
+*RHT 天子 怒
+...Anyway, bring it on ! I'm waiting for you !
+
+*LHT 文 哀
+Well well, how nice of you to wait for us...
+
+*LHT レティ 怒
+Cirno, let's go.
+
+*CHT チルノ 怒
+Yeah ! I'm gonna beat her !!
+
+*NHT
+*NWK
+*NIG
+*SND BGM22
+*FI2
+*END

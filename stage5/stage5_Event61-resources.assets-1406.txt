@@ -1,0 +1,17 @@
+;START
+;;ーーーーーーー
+;;VS Yoshika
+;;ーーーーーーー
+
+*SND BGM26
+
+*LHT 芳香
+Alright, let's go !
+*LHT 芳香 笑
+Master Seiga, watch me !
+
+*NHT
+*NWK
+*RSN
+
+*END

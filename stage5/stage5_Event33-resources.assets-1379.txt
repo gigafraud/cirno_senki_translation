@@ -1,0 +1,109 @@
+;START
+;;ーーーーーーーーー
+;;天子撃破、強化復活
+;;ーーーーーーーーー
+
+*SND BGM24
+
+*LIV 天子
+
+*LHT チルノ 笑
+Hehe, I win ! Piece of cake !
+
+*RHT 天子 驚
+What do you mean ? It's not over yet !
+I was only going lightly, you know !
+
+*LHT ヤマメ 笑
+If you lose because you weren't paying attention, it's entirely your fault !
+
+*RHT 天子 驚
+I can't believe this ! Iku !!
+
+*LHT 衣玖
+You called ?
+
+*RHT 天子 怒
+Enough with the defense at the back ! Help me kick them out !
+
+*LHT 衣玖
+I see. Together, we might be able to win.
+
+*RHT 天子 怒
+Right ! So hurry !
+
+*LHT 衣玖
+But... Are you really sure ?
+
+*NHT
+*NWK
+
+*SLP 60
+
+*RHT 天子 驚
+Hmm ?
+
+*LHT 衣玖 哀
+Well...
+I wasn't expecting the eldest daughter to borrow the powers of someone like me...
+Wouldn't it damage the view people have of celestials ?
+
+*RHT 天子 驚
+Iku, what are you talking about ?
+
+*LHT 衣玖 哀
+I can't really do something like that.
+*LHT 衣玖
+I don't want to tarnish your reputation...
+
+*RHT 天子 驚
+H-Huh !?
+
+*LHT 衣玖
+It's not like I don't want to help you, but...
+*LHT 衣玖 笑
+I'm sorry, eldest daughter. Please understand.
+
+*RHT 天子 驚
+Your words and your face don't match at all !
+
+*LHT 衣玖 笑
+My apologies.
+I'll be watching the fight, so please feel free to beat her up.
+
+*CHT レティ 驚
+O-Oh, really ?
+
+*RHT 天子 驚
+Why did you say that to her !?
+*RHT 天子 怒
+Raaah ! Ok, I'll do it ! When I feel like it, I can...!
+
+*LHT サニー 笑
+Hahaha, your face is all red !
+
+*RHT 天子 怒
+S-Shut up !!
+
+*NHT
+*NWK
+
+;;ーーーーーーー
+;;天子復活、強化
+;;ーーーーーーー
+
+*EF2 天子 CFX_ElectricityBall*size=6*lifetime=3
+*KON しゃきーん
+*SLP 30
+
+*STP 天子 HP 195
+*STP 天子 全 5
+
+*RHT 天子 怒
+ふんっ！　あんた達のなまっちょろい[r]攻撃なんて、全部はねのけてやるんだから！
+
+*NHT
+*NWK
+*RSN
+
+*END

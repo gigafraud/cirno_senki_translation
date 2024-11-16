@@ -1,0 +1,173 @@
+;START
+;;ーーーーーーー
+;;Seiga appears
+;;ーーーーーーー
+
+*SND BGM21
+
+*TKI 青娥 18,27 IDBE21 E GC1 青娥 33
+*RIT IDBE21 吸奪術弾
+*RIT IDBE21 傷薬
+*ITM IDBE21 呪怨術弾
+*IT2 IDBE21 命奪術弾
+*EQP IDBE21 呪怨術弾
+*CP2 IDBE21 ATK_ALL 11 3 8 21 23
+*BOS IDBE21
+*STP IDBE21 全 3
+
+*TKI 芳香 18,26 IDBE22 C GC1 芳香 32
+*RIT IDBE22 大型蒼弾
+*RIT IDBE22 遠距離大型蒼弾
+*RIT IDBE22 傷薬
+*IT2 IDBE22 宵闇大型弾
+*EQP IDBE22 宵闇大型弾
+*CP2 IDBE22 ATK_ALL 1 5
+*BOS IDBE22
+*STP IDBE22 HP 10
+*STP IDBE22 全 2
+
+*RED チルノdata_others/状態異常耐性
+
+*MVG 青娥
+*SLP 30
+
+*LHT 青娥
+My my. I came to experience the Misty Lake's atmosphere, but...
+*LHT 青娥 笑
+Hehehe. Looks like I came across an interesting scene.
+
+*RHT 芳香
+Master Seiga, is there really something interesting here ?
+
+*LHT 青娥 笑
+Yes... Indeed there is...
+
+*NHT
+*NWK
+
+*MVG 天子
+*SLP 30
+
+*LHT 衣玖 
+Eldest daughter, it seems someone else showed up.
+
+*RHT 天子
+I can see that.
+
+*NHT
+*NWK
+
+*MVG 青娥
+*SLP 30
+
+*MV0 青娥 10,25
+
+*MVG 青娥
+*SLP 30
+
+*LHT 青娥
+You, Miss peach-hat over there, can you give me a minute ?
+
+*RHT 天子
+Who are you ? You seem to be an hermit, what do you want ?
+I’m busy killing time and diverting myself.
+
+*LHT 青娥 哀
+I don't think you can both be busy and killing time, but...
+*LHT 青娥
+Anyway, I was wandering if you would let me help you.
+
+*RHT 天子
+Help ? I don't need help.
+
+*LHT 青娥 笑
+How cold. You didn't have to reject me like that.
+*LHT 青娥
+Besides, I think my tricks and techniques will make your boredom dissapear.
+
+*CHT 衣玖 哀
+...
+
+*RHT 天子
+Hmm…. Fine, go ahead. If you’re saying something like that, you must be confident, huh ?
+*RHT 天子 笑
+Then, try and entertain me.
+
+*CHT 衣玖 驚
+Eldest daughter, are you sure about this ?
+
+*RHT 天子
+It’s fine. Having lots of ways to pass the time makes things even more enjoyable.
+Let’s see how interesting this hermit’s powers can be.
+
+*LHT 青娥 笑
+Hehe, your approval is much appreciated. Well then, I’m looking forward to work with you, miss Celestial.
+
+*CHT 衣玖 怒
+...
+
+*NHT
+*NWK
+*SLP 30
+*MKI 青娥 右
+
+*LHT 青娥
+Yoshika.
+
+*RHT 芳香
+Oooh ? You called, Master Seiga ?
+
+*LHT 青娥
+Yes, now is your turn. Go to those fairies fight them.
+*LHT 青娥 笑
+If you do your best, we’ll eat delicious food afterwards, okay ?
+
+*RHT 芳香 笑
+Yaaay ! I’ll do my best, Master Seiga ! Alright, I’m going !
+
+*NHT
+*NWK
+
+*MVG 芳香
+
+*MV1 青娥 10,24
+*MV1 芳香 21,22
+*MVA
+
+*MVG 芳香
+*SLP 30
+
+*MVG チルノ
+*SLP 30
+
+*LHT チルノ 哀
+Hmm ? What's that ?
+
+*RHT レティ 怒
+Something is coming...
+
+*LHT チルノ 笑
+Hehe. No matter how many ennemies come, they're no match against me !
+*LHT チルノ 怒
+Leave that alone and let's charge towards that celestial freak !
+
+*RHT 大妖精 哀
+Cirno, is this okay ? Aren't we going to get caught between two fires ?
+
+*LHT チルノ 笑
+It's fine, it's fine ! 'Cause I'll beat her before that happens !
+
+;;*RHT レティ
+;;それもそうね。あちらからもまだ距離が[r]あるし、速攻をかければ……
+
+;;*LHT チルノ 笑
+;;そーゆーこと！[r]行くよ、大ちゃん！
+
+*RHT 大妖精 驚
+O-Okay...
+
+*NHT
+*NWK
+*RSN
+
+*END

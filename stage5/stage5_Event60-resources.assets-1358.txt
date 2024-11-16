@@ -1,0 +1,17 @@
+;START
+;;ーーーーーーー
+;;青娥と戦闘した
+;;ーーーーーーー
+
+*SND BGM26
+
+*LHT 青娥
+Oh my. The kids seem to be in good spirits. However, I don't think it's good to be too energetic.
+*LHT 青娥 笑
+Hehehe, but maybe I'm thinking too much.
+
+*NHT
+*NWK
+*RSN
+
+*END

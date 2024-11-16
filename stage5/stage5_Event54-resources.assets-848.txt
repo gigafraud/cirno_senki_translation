@@ -1,0 +1,26 @@
+;START
+;;ーーーーーーーーーー
+;;Yuuka VS Tenshi
+;;ーーーーーーーーーー
+
+*SND BGM26
+
+*LHT 幽香
+Hmm, I'm in the mood for a fight right now.
+
+*RHT 天子
+Oh, you look quite powerful...
+*RHT 天子 笑
+...But you're still an earth youkai. I guess I can play with you for a bit.
+
+*LHT 幽香 笑
+Oh, you want to play with me, you say...? Then let's play.
+
+*LHT 幽香 笑
+Hehehe...
+
+*NHT
+*NWK
+*RSN
+
+*END

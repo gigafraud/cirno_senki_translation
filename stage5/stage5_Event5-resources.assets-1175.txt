@@ -1,0 +1,85 @@
+;START
+;;ーーーーーーーー
+;;岩配置イベント２
+;;ーーーーーーーー
+
+*SND BGM21
+
+*MVG 天子
+*SLP 30
+
+*RHT 天子
+They’re surprisingly skilled for a bunch of small fries crawling on the ground, huh ?
+*RHT 天子 笑
+In that case, how about this ?
+
+;;ーーーーーー
+;;岩、要石配置
+;;ーーーーーー
+
+*NHT
+*NWK
+
+*RED チルノdata_stages/chirno_stage5/stage5_STONE2
+
+*NHT
+*NWK
+
+*MVG チルノ
+*SLP 30
+
+*LHT レティ 驚
+Ugh, rocks again...?
+
+*RHT チルノ 哀
+What ? It's the same trick again. Boring !
+
+*LHT ヤマメ 驚
+"Boring"...? Is this your basis for making a judgement ?
+
+*RHT パルスィ
+I don't think she has any form of judgement at all...
+
+*LHT キスメ 怒
+...Hey, what's that big rock over here ?
+
+*KON 地震
+
+*LHT キスメ 驚
+W-Wah !?
+
+*RHT ヤマメ 驚
+A-An earthquake !?
+
+*NHT
+*NWK
+
+*MVG 天子
+*SLP 30
+
+*RHT 天子 笑
+Hahaha ! What do you guys think of that ? This is a keystone. That's what caused this earthquake.
+When it comes to me, I can easily manipulate the entire planet !
+
+*LHT 衣玖 哀
+...It’s fine and all to boast about your strength, but was it a good idea to reveal all your tricks ?
+
+*RHT 天子
+That's fine. I'm just making this fight a little bit interesting.
+
+*NHT
+*NWK
+
+*MVG 幽香
+*SLP 30
+
+*LHT 幽香
+I see. I’m grateful for your kindness, but I don’t appreciate your cockyness.
+*LHT 幽香
+Shall we destroy those troublesome rocks quick ?
+
+*NHT
+*NWK
+*RSN
+
+*END

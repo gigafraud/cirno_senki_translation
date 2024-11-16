@@ -1,0 +1,63 @@
+;START
+;;ーーーーーーーー
+;;岩配置イベント１
+;;ーーーーーーーー
+
+*SND BGM21
+
+*MVG 天子
+*SLP 30
+
+*RHT 天子 哀
+Geez, how pathetic. They can’t even hold them back ?
+*RHT 天子 笑
+Sigh, looks like I have to do something in the end.
+
+*LHT 衣玖
+You look happy to do that.
+
+*RHT 天子 笑
+N-Not really. But I have to now.
+
+*LHT 衣玖 笑
+I see. Were they stronger than you anticipated ?
+
+*RHT 天子
+Absolutely not ! Yaaah !
+
+*NHT
+*NWK
+
+;;ーーー
+;;岩配置
+;;ーーー
+
+*RED チルノdata_stages/chirno_stage5/stage5_STONE1
+
+*NHT
+*NWK
+
+*MVG チルノ
+*SLP 30
+
+*LHT チルノ 驚
+Wawah ! What's that !?
+
+*RHT 文
+I see... Celestials have great powers, as expected.
+
+*LHT レティ 哀
+That's a problem. We can't proceed further with this.
+
+*RHT 幽香
+Well, in that case, we just have to blast through these rocks.
+;;ほら、途方に暮れている暇があったら、[r]さっさとやってしまうわよ。
+
+*LHT チルノ 笑
+Yeah ! I'll pay her back for destroying my ice block !!
+
+*NHT
+*NWK
+*RSN
+
+*END

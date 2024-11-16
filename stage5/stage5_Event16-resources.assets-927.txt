@@ -1,0 +1,55 @@
+;START
+;;ーーーーーーーーーーー
+;;1 turn after event 15
+;;ーーーーーーーーーーー
+
+*SND 幽夢
+
+*MVG 幽香
+*SLP 30
+
+*LHT 幽香
+...I see, so this is what it feels like to be controlled.
+*LHT 幽香 哀
+Good grief, what an unpleasant feeling to not being able to move the way you want.
+
+*RHT 青娥 驚
+Huh...? My amulet... It's been broken...?
+
+*LHT 幽香 笑
+Well, that was a pleasant experience. I feel like my body has become lighter, somehow.
+I thank you for this.
+
+*RHT 青娥 笑
+Ah... Ahahaha... This is what matters the most. Now then...
+
+*LHT 幽香 笑
+Oh, wait a second.
+
+*RHT 青娥 哀
+U-Uh... I need to go have a word with the celestial over there...
+
+*LHT 幽香 邪悪
+But I haven’t showed my gratitude... yet.
+
+*RHT 青娥 笑
+O-Oh. That wouldn't be necessary...
+
+*LHT 幽香 邪悪
+Now now, you don't have to be shy about it... Hehehe...
+
+*NHT
+*NWK
+
+*RSN
+
+;;ーーーーーーーーーー
+;;幽香、味方に復帰
+;;スキル「手加減」解除
+;;ーーーーーーーーーー
+
+*MKT 幽香
+*RSK 手加減
+*ACT 幽香 ON
+
+*END

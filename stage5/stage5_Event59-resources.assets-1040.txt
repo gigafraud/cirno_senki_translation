@@ -1,0 +1,21 @@
+;START
+;;ーーーーーーーーーー
+;;Yuuka VS Iku
+;;ーーーーーーーーーー
+
+*SND BGM26
+
+*RHT 衣玖 哀
+I'm also responsible for the eldest daugher's actions.
+I probably have to pay for that...
+
+*LHT 幽香
+Oh, you want to get punished ?
+*LHT 幽香 笑
+I can give that to you, if you want.
+
+*NHT
+*NWK
+*RSN
+
+*END

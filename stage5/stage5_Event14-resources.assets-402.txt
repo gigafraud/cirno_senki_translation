@@ -1,0 +1,145 @@
+;START
+;;ーーーーーーーー
+;;Yuuka approaches Seiga
+;;ーーーーーーーー
+
+*SND BGM19
+
+*MVG 青娥
+*SLP 30
+
+*RHT 青娥
+This woman seems to be their greatest strength... In that case...
+
+*LHT 幽香
+...You look like you want to speak to me. Out with it, then.
+
+*RHT 青娥 笑
+Oh no, it's nothing important. I was just noticing you have such wonderful powers.
+
+*LHT 幽香
+Is that all ? I don't think so. Get to the point, I don't like it when people beat around the bush.
+
+*RHT 青娥
+You’re quite impatient, aren’t you ? Alright, then.
+*RHT 青娥 笑
+I can make you even stronger, if that is what you want. 
+
+*LHT 幽香
+...
+
+*RHT 青娥
+You’d like to, right ? In that case, I have good news for you.
+*RHT 青娥 笑
+Here, this amulet will amplify your powers, you should try it.
+
+*LHT 幽香 笑
+And what benefit would you get from me using it ?
+
+*RHT 青娥 笑
+What benefit are you talking about ?
+*RHT 青娥
+Actually, this amulet is a prototype, and I would like to see if it works.
+*RHT 青娥 笑
+So basically, it’s a test.
+
+*LHT 幽香 笑
+Well, to be frank, I don’t hate the idea.
+
+*RHT 青娥
+Really ? So, do you want to try it ?
+
+*LHT 幽香
+I’ll try it to check the effects.
+
+*RHT 青娥 笑
+Thank you. Then I’ll give it to you right away... Hehehe.
+
+*NHT
+*NWK
+*SLP 30
+;;ーーーーーーーーー
+;;幽香、敵ユニット化
+;;ーーーーーーーーー
+*TK2 幽香
+
+*IF0 リグル
+*MVG リグル
+*SLP 30
+;ENDIF0
+
+*LHT リグル 驚
+Huh ? Miss Yuuka...? Miss Yuuka !?
+*LHT リグル 怒
+What's wrong, Miss Yuuka !?
+
+
+*NHT
+*NWK
+
+*MVG 幽香
+*SLP 30
+
+*LHT 幽香
+...
+
+*RHT 青娥
+Wonderful... What an amazing power...
+*RHT 青娥 笑
+We can even use her as a walking incense.
+*RHT 青娥
+Well then, it’s time to put my manipulation skills to the test, hehehe.
+
+*LHT 幽香
+...
+
+*NHT
+*NWK
+
+*IF0 リグル
+*MVG リグル
+*SLP 30
+;ENDIF0
+
+*LHT リグル 驚
+Miss Yuuka, pull yourself together !!
+
+*RHT 文 怒
+It’s no use ! It would be too dangerous to approach her right now !
+
+*LHT リグル 哀
+B-But...
+
+*RHT レティ 怒
+Yuuka... I can't believe you would fall for such a trick.
+
+*RHT 文 哀
+It wouldn’t be a good idea to confront her.
+Let's try to keep our distances for now.
+
+*LHT リグル 哀
+Miss Yuuka...
+
+;;ーーーーーーーーーーーーーーー
+;;幽香、行動パターンを「待機」に
+;;ーーーーーーーーーーーーーーー
+
+*CPU 幽香 ATK_ALL 9
+*CPU 幽香 MOV_ALL 3
+
+;;ーーーーーーーーーーー
+;;幽香撃破イベントを設定
+;;ーーーーーーーーーーー
+
+*TKD 幽香 34
+
+;;手加減外す
+*RSK 幽香 手加減
+
+
+*NHT
+*NWK
+
+*RSN
+
+*END
