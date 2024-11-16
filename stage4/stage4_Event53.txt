@@ -1,0 +1,33 @@
+;START
+;;ーーーーーーーーーーーー
+;;Mystia fights Aya
+;;ーーーーーーーーーーーー
+
+*SND BGM27
+
+*LHT ミスティア 笑
+♪ So now we fly ever free...　We're free before the thunderstorm ♪
+
+*RHT 文
+A night sparrow who likes to sing... She seems to be akin to the rumors say.
+*RHT 文 笑
+This looks interesting, it might be nice to interview her a little.
+
+*LHT ミスティア 笑
+Hmm ? What ? What ? A song request ?
+Well then, I'll fulfill your request right away... Until you go crazy !♪
+
+*RHT 文 笑
+No, you don't have to go that far. Just sing normally, okay ?
+
+*LHT ミスティア 笑
+It would be boring, then ! I'll have you listen to my songs until the end !
+
+*RHT 文 哀
+Hmm... Why did it come to this...?
+
+*NHT
+*NWK
+*RSN
+
+*END

@@ -1,0 +1,33 @@
+;START
+;;ーーーーーーーーーーー
+;;Yuuka fights Hatate
+;;ーーーーーーーーーーー
+
+*SND BGM26
+
+*RHT はたて 驚
+Oh no... I'm in front of the dangerous one.
+
+*LHT 幽香 笑
+My my, don't say that in front of me !
+
+*RHT はたて 驚
+T-This is bad...
+
+*LHT 幽香 笑
+Hehehe, you look like a terrified little crow... I'll give you some love, okay ?
+
+*RHT はたて 怒
+Ah !? What's with that change of mood !? It can't be !
+
+*LHT 幽香 邪悪
+Well then, let's have fun. Hehehehe...
+
+*RHT はたて 苦
+No ! Don't come any closer ! Get away from meee !!
+
+*NHT
+*NWK
+*RSN
+
+*END

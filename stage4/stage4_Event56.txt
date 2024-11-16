@@ -1,0 +1,18 @@
+;START
+;;ーーーーーーーーーー
+;;サニーと椛が戦闘した
+;;ーーーーーーーーーー
+
+*SND BGM27
+
+*LHT サニー 笑
+I'm coming close without her knowing anything... Here !
+
+*RHT 椛 驚
+H-Huh !? S-Since when did you...!? For you to decieve my eyes...?
+
+*NHT
+*NWK
+*RSN
+
+*END

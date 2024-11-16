@@ -1,0 +1,120 @@
+;START
+;;ーーーーーーーーーーーーーーー
+;;Several turns later, if Yuuka was defeated (?)
+;;ーーーーーーーーーーーーーーー
+
+;;ーーーーーーーーーーーー
+;;イベント３が発生したか
+;;ーーーーーーーーーーーー
+
+*IF0 EVENT4_3
+
+*SKP END_EVE
+;;ーーーーーーーーーーーーーーー
+;;発生していればイベントスキップ
+;;ーーーーーーーーーーーーーーー
+
+;ENDIF0
+
+*SND 妖怪の山1
+
+*LIV 文
+*ACT 文 ON
+*LIV はたて
+*ACT はたて ON
+*BOS IDBH
+
+*MVG 文
+*SLP 30
+
+*LHT 文
+It's about time. Let's try something else.
+
+*RHT はたて
+Oh ? Are you going to break the barrier ?
+
+*LHT 文
+Yeah. Thanks to Momiji and the others, they should be exhausted by now.
+We should break the barrier and set up all at once from this side as well.
+
+*RHT はたて
+Hmm... Ok, I understand.
+*RHT はたて 笑
+Let me do a little work too.
+
+*LHT 文 驚
+Hatate, where are you going ?
+
+*RHT はたて 笑
+I told you, I'm gonna do my work. Leave it to me.
+
+*NHT
+*NWK
+
+;;ーーーーーーーーーーーーーーーーーーーー
+;;はたて、数歩移動した後に指定位置へワープ
+;;はたて率いる増援出現
+;;ーーーーーーーーーーーーーーーーーーーー
+
+*MV0 はたて 17,16
+*MV4 はたて 16,29
+*MKI はたて 下
+
+*RED チルノdata_stages/chirno_stage4/stage4_ENEMY3
+
+*LHT 文 哀
+... What are you thinking...?
+
+*NHT
+*NWK
+
+*IF0 にとり
+*SKP nitoLIV
+;ENDIF0
+*LIV にとり
+*ACT にとり ON
+*BOS IDBN
+;nitoLIV
+
+*IF0 椛
+*SKP momiLIV
+;ENDIF0
+*LIV 椛
+*ACT 椛 ON
+*BOS IDBM
+;momiLIV
+
+*MVG にとり
+*SLP 30
+
+*MV4 文 18,23
+*REM 文
+
+*LHT にとり 驚
+Momiji ! Look at the wind !
+
+*RHT 椛 怒
+It means it's our turn to go ! Please help me !
+
+*LHT にとり 怒
+That's right ! Let's go, Momiji !
+
+*NHT
+*NWK
+
+*MV4 椛 8,20
+*MV4 にとり 7,20
+*MVG 椛
+*SLP 15
+
+*STP 椛 HP 0
+*STP にとり HP 0
+
+*DBL 椛 にとり
+*SLP 30
+
+*RSN
+
+;END_EVE
+
+*END

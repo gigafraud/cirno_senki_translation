@@ -1,0 +1,208 @@
+;START
+
+*FO2
+*NIG
+
+*SND 妖怪の山2
+
+*TTL Cirno_Senki\nChapter_4\nThe_Strongest_Motive 180
+
+*SLP 30
+*IMG stage12_2背景
+*SLP 30
+
+*LHT チルノ 笑
+Yaaay ! Letty is here ! It's summer, but Letty is with uuus !!
+I'm so happy !!
+
+*RHT レティ 笑
+Cirno... Aren't you a little too lively ? Calm down for a bit.
+
+*LHT チルノ 笑
+I can't help it ! I'm so happy !
+
+*RHT レティ 笑
+Good grief, it can't be helped...
+
+*CHT 大妖精
+Cirno looks happy...
+
+*RHT サニー 驚
+...Even though she got kicked down just earlier, she's already fire up again.
+How can she be so resilient...?
+
+*CHT ミスティア
+We can say that Cirno's greatest strength is her resilience.
+*CHT ミスティア 笑
+No matter what happens, she never gives up.
+
+*LHT ルーミア 驚
+...If I was like her, Could I eat as much shaved ice as I want ?
+
+*CHT ルナ 哀
+You could, but you'll surely have stomach aches.
+
+*LHT ルーミア 哀
+I don't want that...
+
+*RHT パルスィ
+(She really loves eating, does she...)
+
+*NHT
+*NWK
+*SLP 60
+
+*LHT 幽香 怒
+...
+
+*RHT リグル
+Miss Yuuka, what's the matter ? You look like you're in a bad mood for quite some time.
+
+*LHT 幽香 怒
+How unpleasant.
+
+*RHT リグル 驚
+Eh ?
+
+*LHT 幽香 怒
+I have the feeling I'm being watched by someone since we left the cave.
+I find this very unpleasant and I can't help it.
+
+*RHT リグル 驚
+I-I'm sorry. I was worried about you, so I kept glancing at you...
+
+*LHT 幽香
+...
+
+*CHT スター
+I don't think she was talking about you, Wriggle...
+
+*RHT リグル 驚
+H-Huh ? Really ??
+
+*CHT ヤマメ 笑
+Ahaha ! You have good intuition, but you can also be surprisingly slow.
+
+*RHT リグル 哀
+S-Shut up !
+Because YOU know who's watching Miss Yuuka, maybe ?
+
+*LHT キスメ
+I don't know who, but I've been having the same feeling for a while too.
+
+*RHT リグル
+Oh, really ?
+
+*CHT スター 怒
+I'm feeling someone's presence lately. Perhaps it's the person Yuuka is talking about.
+
+*LHT 幽香
+They're surely monitoring me.
+*LHT 幽香 怒
+Good grief... It's extremely uncomfortable to be always watched secretly.
+
+*CHT ヤマメ
+Monitoring, huh...
+*CHT ヤマメ 怒
+Yes, I don't enjoy this either.
+
+*LHT キスメ 怒
+Yeah. If they have something to say, then they should come out and talk to us right now.
+
+*RHT リグル 怒
+I wonder if we should force them to go away.
+*RHT リグル
+Hey, do you know where this person is lurking ?
+
+*CHT スター 笑
+Yes, of course.
+
+*LHT 幽香
+Wait... I have a better idea.
+
+*CHT ヤマメ
+A better idea ?
+
+*LHT 幽香 笑
+Yes. A very interesting one.
+*LHT 幽香
+You, the ice fairy there... Cirno, can I talk to you for a bit ?
+
+*RHT チルノ
+Hmm ? What ? What's up ??
+*RHT チルノ 哀
+I'm busy freezing frogs.
+
+*CHT スター 哀
+Why are you freezing frogs...?
+
+*RHT チルノ 笑
+'Cause they're in the way !
+
+*CHT キスメ 哀
+These frogs are a serious calamity as well...
+
+*LHT 幽香 笑
+Oh yes, that sounds fun.
+*LHT 幽香
+However, do you want to freeze more interesting things ?
+
+*RHT チルノ 驚
+Eh !? More interesting things !?
+
+*LHT 幽香 笑
+That's right. For example, crows and wolves... There are plenty around.
+
+*RHT チルノ
+What !? That sounds fun !!
+*RHT チルノ 笑
+Alright, alright ! I'm gonna do it !!
+
+*CHT レティ 驚
+Crows and wolves...? No way, you...!
+
+*RHT 大妖精 哀
+Could this be dangerous...?
+
+*LHT 幽香 笑
+Hehehe, I wonder.
+
+*CHT レティ 怒
+What are you talking about !? That's too dangerous !
+
+*LHT 幽香 笑
+But she looks full of enthusiasm.
+
+*RHT チルノ 笑
+Hehehe, I'm the strongest ! There's nothing in this world that can't be frozen !
+
+*CHT レティ 怒
+You don't know what you're talking about ?
+
+*RHT サニー 哀
+Isn't she simply talking about bad things ?
+
+*LHT 幽香 笑
+Is that so ? Either way, I think this child will be happy to go freezing them.
+
+*RHT 大妖精 哀
+...Yes, Cirno would surely go, even if she doesn't know why.
+
+*CHT レティ 怒
+...
+
+*LHT 幽香 笑
+Well then, Cirno, shall we go right now ? Hehehe !
+
+*RHT チルノ 笑
+Yaaay ! Let's srart the assault ! How many will I freeze today !?
+
+*CHT レティ 哀
+It can't be helped... I must protect Cirno so she doesn't get in danger...
+
+*NHT
+*NWK
+*NIG
+*SND BGM22
+*FI2
+*END

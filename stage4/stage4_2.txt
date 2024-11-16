@@ -1,0 +1,156 @@
+;START
+*NIG
+*SND 風神少女
+
+;;ーーーーー
+;;天狗勢配置
+;;ーーーーー
+
+*RED チルノdata_stages/chirno_stage4/TLK_ST4
+*RED チルノdata_stages/chirno_stage4/stage4_ENEMY1
+*RED チルノdata_others/状態異常耐性
+
+*SNT 妖怪の山2
+*SNM 幽夢
+*WIN 椛、にとり、はたて、文の撃破 all
+*LSE チルノの敗走:大妖精の敗走:レティの敗走 all
+
+;;ーーーーーーーーーーーーーーーーーーー
+;;ボス天狗（もしくは文がボス）へ画面移動
+;;椛出現。ボスの許へ移動
+;;ーーーーーーーーーーーーーーーーーーー
+
+*MVG IDB1
+*SLP 30
+
+*MV4 椛 28,23
+*MV1 椛 28,28
+*MVA
+*SLP 15
+
+*LHT 椛 怒
+Greetings, I've got something to report !
+Yuuka Kazami, as well as fairies and youkais, are invading our territory and are coming towards us !
+They are closing in on the restricted area !
+
+*RHT 天狗紫
+Guh...! Yuuka Kazami, why are you...? What is your purpose...!?
+But it's not the moment to say such a thing. We have to intercept the ambush, quick !
+Request everyone to dispatch ! We must repel them no matter what !!
+
+*LHT 椛 怒
+Roger !
+
+*NHT
+*NWK
+
+*MV0 椛 28,23
+*MV0 IDB4 28,28
+*MKI IDB4 下
+
+*RHT 天狗紫
+Now that the administration has just changed, everyone pay attention to the Great Tengu...
+We absolutely need to prevent any damage to the village...
+
+*NHT
+*NWK
+*MV4 椛 8,29
+*REM 椛
+*REM にとり
+;;ーーーーーーーーーーーーーーーーーーー
+;;椛、数歩移動して消える。初期配置へ
+;;その後、はたて出現。画面をはたてへ移動
+;;付近に文出現。はたてのそばへ
+;;ーーーーーーーーーーーーーーーーーーー
+
+*MVG 文
+*SLP 30
+*MV0 はたて 26,9
+*MKI 文 左
+*SLP 15
+
+*LHT はたて 哀
+It's kind of noisy here... What are they talking about ?
+
+*RHT 文
+Oh, Hatate. You came just at the right moment.
+
+*LHT はたて 哀
+At the right moment...? When you say that to me, I have a bad feeling about it...
+
+*RHT 文 笑
+You are free right now, right ? Can you give me a hand for a bit ?
+
+*LHT はたて 怒
+Ah ? For what ?
+
+*RHT 文 哀
+What will you say if I tell you that the village is attacked ?
+*RHT 文 笑
+There's no way you would just say "That doesn't matter to me", right ?
+
+*LHT はたて 怒
+R-Really !? Why didn't you tell me that right away ?
+
+*RHT 文 哀
+Don't scream at me like that...
+
+*LHT はたて 怒
+Then, would YOU understand even without the explanations ?
+
+*RHT 文 笑
+No. What are you talking about ? I don't understand such a thing.
+
+*LHT はたて 怒
+Then don't ask me for something unreasonable !
+
+*RHT 文 哀
+You're really noisy, are you ? You should only answer "Got it" without thinking about anything.
+You're only allowed to answer either "Got it", "Understood", or "It can't be helped" !
+
+*LHT はたて 怒
+Those are all the same !
+
+*RHT 文 笑
+They have slightly different meanings. Should I explain them to you one by one ?
+
+*LHT はたて 怒
+You don't need to !
+
+*RHT 文
+Anyway. We should stop loitering and go quickly.
+It seems the intruders will come soon.
+
+*LHT はたて 哀
+Sigh... It seems like the quarrel settled down, so I went to the village thinking it would be ok...
+Geez, why do I get involved into these troublesome things every time ?
+
+*RHT 文 笑
+You sure are lucky !
+
+*LHT はたて 怒
+S-Shut up, you pestilence ! It's your fault most of the time !
+*LHT はたて
+Grr, let's go and finish this quickly !
+
+*RHT 文 哀
+We could have sped things up from the beginning...
+
+*LHT はたて 怒
+Should I hit you in the end ?
+
+*NHT
+*NWK
+*SLP 15
+
+*MVG チルノ
+*CUR チルノ
+
+*REM 文
+*REM はたて
+
+;;ーーーーーーーーーーー
+;;文、はたて、初期配置へ
+;;ーーーーーーーーーーー
+
+*END

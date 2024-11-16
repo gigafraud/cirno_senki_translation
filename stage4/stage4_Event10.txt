@@ -1,0 +1,21 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+;;大チル共鳴状態で、共鳴状態の文はたてと戦闘した i have no idea
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+
+*SND BGM26
+
+
+*LHT チルノ 怒
+Hmph ! It doesn't matter how many you all are, you ain't scaring me !
+*LHT チルノ 笑
+Dai ! Let's go !
+
+*RHT 大妖精 笑
+Yes ! Cirno, leave it to me !
+
+*NHT
+*NWK
+*RSN
+
+*END

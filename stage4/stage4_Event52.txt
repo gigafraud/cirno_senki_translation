@@ -1,0 +1,33 @@
+;START
+;;ーーーーーーーーー
+;;Yuuka fights Aya
+;;ーーーーーーーーー
+
+*SND BGM26
+
+*RHT 文 怒
+Yuuka Kazami... Why are you here...?
+
+*LHT 幽香 笑
+You're in the way. Move.
+
+*RHT 文 驚
+Huh ?
+
+*LHT 幽香 笑
+Didn't you hear ? I told you to move.
+I'm in a bad mood right now. So if you say that you won't move...
+*LHT 幽香 邪悪
+You won't like what's coming next.
+
+*RHT 文 怒
+I-I told you already, I can't withdraw !
+
+*LHT 幽香 笑
+Ah, I see. Then, I won't go lightly on you...
+
+*NHT
+*NWK
+*RSN
+
+*END

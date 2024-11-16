@@ -1,0 +1,21 @@
+;START
+;;ーーーーーーーーーーーーーーーー
+;;Cirno fights Yuuka
+;;ーーーーーーーーーーーーーーーー
+
+*SND BGM26
+
+*RHT チルノ 苦
+That's so weird !
+Ice that isn't cold isn't ice !
+
+*LHT 幽香
+It seems she completely lost her temper...
+*LHT 幽香 笑
+Oh well. This looks interesting, so shall we be opponents for a bit ?
+
+*NHT
+*NWK
+*RSN
+
+*END
