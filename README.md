@@ -36,7 +36,7 @@ EXAMPLE : *LHT ミスティア 驚
 Eh ? Wait, what is this !?
 
 
-This will put a character sprite on the left side of the screen with a specific emotion. If there's text on the line right under, it will show a dialogue box with the character's name, and show the dialogue.
+This will put a character sprite on the left side of the screen with a specific emotion. If there's text on the line right under, it will show a dialogue box with the character's name, and show the dialogue. The character's name is in japanese, as well as the emotion. It would probably be a pain to put it in english, so I probably won't touch that. Also, some characters have specific emotions that others don't have.
 
 *RHT does the same thing, it just puts the character sprite on the right instead.
 
