@@ -1,0 +1,197 @@
+;START
+
+*RED チルノdata_stages/chirno_stage1/TLK_ST1
+*SNM おてんば恋娘
+*SNT ほおずきみたいに紅い魂
+
+*STP 大妖精 武器レベル_札 1
+*SKL 大妖精 大ちゃんポケット
+
+*MKI チルノ 上
+*MKI 大妖精 上
+*STP 大妖精 HP -3
+*STP 大妖精 力 -1
+*STP 大妖精 守備 -2
+*ITM 大妖精 傷薬
+
+*TKI ミスティア 15,2 IDEB1 E GB1 Mystia 4 高速蒼弾
+*RIT ミスティア 高速霊撃弾
+*RIT ミスティア 傷薬
+*EQP ミスティア 高速蒼弾
+*CPU ミスティア ATK_ALL 4 11 1 21
+*BOS IDEB1
+
+*TKI リグル 13,2 IDEB2 E GB2 Wriggle 6 追尾蒼弾 精密追尾弾
+*RIT リグル 雷鳴追尾弾
+*RIT リグル 傷薬
+*EQP リグル 精密追尾弾
+*CPU リグル ATK_ALL 4 11 6 8 21
+*BOS IDEB2
+
+*TKI ルーミア 14,2 IDEB3 E GB3 Rumia 7
+*RIT IDEB3 傷薬
+*CPU ルーミア ATK_ALL 4 3 21
+*BOS IDEB3
+
+*RED チルノdata_others/状態異常耐性
+
+;;ーーーーーーーーーーーーーーーーーー
+;;Beginning of Chapter 1
+;;ーーーーーーーーーーーーーーーーーー
+
+*RED チルノdata_stages/chirno_stage1/TLK_ST1
+
+*SLP 60
+In front of the ruined shrine...
+*SLP 30
+*SND ほおずきみたいに紅い魂
+*FI2
+
+;;ミスリグルーミアを配置
+;;ーーーーーーーーーーーーーーーーーーーーーーーーー
+;;冒頭でチルノと会話するため、チルノ達の近くに仮配置
+;;ーーーーーーーーーーーーーーーーーーーーーーーーー
+
+;;１章のみstage1.txtで味方作成行う
+;;*MAK チルノ 9,10
+;;*MAK 大妖精 8,10
+
+;;ーーーーーーーーー
+;;画面をチルノへ移動
+;;ーーーーーーーーー
+*MVG チルノ
+*SLP 30
+
+*CHT ルーミア
+... A special training ?
+
+*RHT ミスティア 哀
+This is sudden, as always. What happened this time ? 
+
+*LHT チルノ
+A special training is a special training, like I said !
+I’m getting stronger to truly become the strongest !
+*LHT チルノ 笑
+If I do that, I’ll become even stronger ! I’m amazing !! 
+
+*RHT リグル 哀
+Err...  Dai, can you translate what she says ? 
+
+*CHT 大妖精 哀
+Err, actually... There’s this, that and such-and-such...
+
+*RHT ルーミア 笑
+Such-and-such, good, average, bad ~ ♪  
+
+*RHT ミスティア 笑
+Vertical, vertical, horizontal, horizontal, draw a circle  ♪ 
+
+*CHT 大妖精 哀
+... And this is all. 
+
+*RHT リグル 哀
+... I don’t get it...
+
+*LHT チルノ 笑
+... And that’s why I want all of you to attend our training. 
+C'mon, it’s not the time to sing ! Everyone participate !!
+
+*RHT リグル 哀
+... It must be difficult for Dai.
+
+*CHT 大妖精 笑
+As long as Cirno is okay, this much is nothing. 
+
+*RHT リグル 笑
+Ahaha, I guess so.
+
+*CHT ルーミア
+So, what do we do in this special training ?
+*CHT ルーミア 笑
+We travel to the mountain and play with waterfalls ?
+
+*RHT ミスティア 笑
+Or we do vocal exercices to the mountain ? 
+
+*LHT チルノ
+That sounds interesting, but… Let’s do a battle directly ! 
+
+*RHT ミスティア
+It’s the same as usual, in the end. 
+
+*CHT リグル
+But it’s simple and easy to understand. 
+
+*RHT ルーミア 笑
+Then, let’s get started right away ~
+I was bored and that sounds interesting. 
+
+*CHT ミスティア 笑
+Well then, I’ll call everyone who’s nearby,
+and make a special training competition !
+
+*NHT
+*NWK
+*SLP 30
+
+;;ーーーーーーーーーーーーーーーーーーーーーーーーー
+;;野良妖精、野良妖怪出現
+;;*REDで敵配置スクリプトを記述したイベントを読み込み
+;;ーーーーーーーーーーーーーーーーーーーーーーーーー
+
+*RED チルノdata_stages/chirno_stage1/stage1_ENEMY1
+
+*LHT チルノ 笑
+Hehe, now you’re talking !
+*LHT チルノ
+Just so you know, I won’t go easy on you !! 
+
+*CHT 大妖精 驚
+Cirno ! You should be careful and not get hurt ! 
+
+*RHT ミスティア 笑
+Take this seriously, or else it won’t be a special training ! 
+You’re gonna listen to my songs to their fullest ♪♪ 
+
+*LHT チルノ 笑
+Hehe ! I’ll cover my ears ‘cause this is gonna hurt !!  
+
+*RHT ミスティア 怒
+Grr... Wriggle ! Rumia ! I’m sorry but can you stay behind and watch for a moment ? 
+I can’t keep silent after what she said !! 
+
+*LHT リグル 哀
+Sigh, it can’t be helped. 
+*LHT リグル
+Rumia, we’ll let Misty do what she likes for a moment. 
+If we don’t, I don’t think she’ll be in a good mood for a while.
+
+*RHT ルーミア 笑
+O~kay. Do your best, Misty !
+
+*NHT
+*NWK
+
+;;ーーーーーーーーーーーーーーーーー
+;;各々、初期配置へ移動。ステージ開始
+;;ーーーーーーーーーーーーーーーーー
+*MV1 ルーミア 14,12
+*MV1 リグル 13,12
+*MV1 ミスティア 15,12
+*MVA
+
+*MV4 リグル 14,21
+*MV4 ルーミア 3,26
+
+*REM ルーミア
+*REM リグル
+
+*CAL チルノ
+*CAL 大妖精
+
+*FIN
+*FI2
+
+*CUR チルノ
+
+*END

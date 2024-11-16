@@ -1,0 +1,18 @@
+
+*TKI 妖精赤 14,6 IDE1 B G1 Fairy 1 追尾蒼弾
+*TKI 妖精青 11,4 IDE2 B G1 Fairy 1
+*IT2 IDE2 高速蒼弾
+*TKI 妖怪赤 19,3 IDE3 B G1 Youkai 1 大型蒼弾
+
+*TKI 妖精緑 13,8 IDE4 E G2 Fairy 1 術式弾
+*IT2 IDE4 回復札
+*TKI 妖怪赤 10,6 IDE5 A G2 Fairy 1 大型蒼弾
+*TKI 妖精赤 12,8 IDE6 A G2 Fairy 2 追尾蒼弾
+
+*TKI 妖怪青 15,10 IDE7 A G3 Youkai 2 高速蒼弾
+*TKI 妖怪青 13,11 IDE8 A G3 Youkai 2 高速蒼弾
+*TKI 妖怪青 17,11 IDE9 A G3 Youkai 2 高速蒼弾
+
+*TKI 妖怪兎緑 19,9 IDE10 A G2 Bnuuy 3 追尾蒼弾
+*SKL IDE10 壁抜け
+

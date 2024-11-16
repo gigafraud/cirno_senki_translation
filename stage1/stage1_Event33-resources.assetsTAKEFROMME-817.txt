@@ -1,0 +1,13 @@
+;;ーーーーーーーーー
+;;When Rumia is defeated
+;;ーーーーーーーーー
+;START
+
+*LHT ルーミア
+Aaah, now that I used all my powers, I’m hungry..
+*LHT ルーミア 笑
+I’m gonna eat something !
+
+*NHT
+*NWK
+*END
