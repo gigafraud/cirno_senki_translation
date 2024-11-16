@@ -1,0 +1,35 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+;;Luna VS Tenshi
+;;Only if you chose to make the ice block without asking Dai
+;;ーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+*IF0 EVENT5_99
+
+*SND BGM24
+
+*LHT ルナ 哀
+...
+
+*RHT 天子 哀
+What ? If you have something to say, then just spit it out already.
+
+*LHT ルナ 哀
+...Thank you. You saved me earlier.
+
+*RHT 天子 驚
+What ?
+
+*LHT ルナ 驚
+N-Nah, it's nothing. Forget it !
+
+*RHT 天子 驚
+...?
+
+*NHT
+*NWK
+*RSN
+
+;ENDIF0
+
+*END

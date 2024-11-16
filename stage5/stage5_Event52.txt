@@ -1,0 +1,40 @@
+;START
+;;ーーーーーーーーーーー
+;;Cirno VS Tenshi
+;;ーーーーーーーーーーー
+
+*SND BGM26
+
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+;;青娥撃破で大妖精を安堵させるイベントが発生したか
+;;ーーーーーーーーーーーーーーーーーーーーーーーー
+*IF0 EVENT5_32
+
+*LHT チルノ
+Alright, let's go ! We'll see which sword is stronger !!
+
+*SKP EVE_FLG
+
+;ENDIF0
+
+*LHT チルノ
+Alright, let's go ! I'll beat you up and reassure Dai !
+
+;EVE_FLG
+
+*IF0 EVENT5_21
+
+*RHT 天子
+Hehehe ! I wonder what you're trying to do with this puny ice sword !
+
+;ENDIF0
+
+*RHT 天子 笑
+Don't think that a mere fairy can stand against me !
+
+*NHT
+*NWK
+
+*RSN
+
+*END

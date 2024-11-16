@@ -1,0 +1,90 @@
+;START
+;;ーーーーーーーーーーー
+;;水棲持ち屍兵と接触した
+;;ーーーーーーーーーーー
+
+*SND BGM21
+
+*MVG 大妖精
+*SLP 30
+
+*LHT 大妖精 驚
+H-Huh ? Something is coming out of the lake !!
+
+*RHT 文 哀
+Wow. The kappas would be jealous.
+
+*LHT 幽香
+Mmh... This is certainly not that celestial's doing.
+
+*RHT チルノ 怒
+Hmph ! This isn't gonna stop us !
+
+*LHT 大妖精 哀
+Cirno, are you okay ?
+*RHT チルノ 笑
+Of course I am !
+
+*LHT レティ 哀
+That said, there is no end to it if we just knock them down.
+We have to aim for the people controlling them.
+
+*LHT 幽香
+I agree. It would be a pain to focus on the small ones. We need to attack this celestia directly.
+
+*RHT チルノ
+I see ! Sounds good !
+
+*LHT 大妖精 驚
+Y-Yeah... I hope it won't be too dangerous.
+
+*CHT サニー
+Dai, are you scared ?
+
+*LHT 大妖精 苦
+...
+
+;;ーーーーーーーーーーーーーーーーーーー
+;;反発度判定。一定以上であればセリフ追加
+;;ーーーーーーーーーーーーーーーーーーー
+
+
+
+*CHT サニー
+Don't worry, Dai. We'll stay with you.
+Cirno and the others can go and defeat that celestial.
+
+*CHT ルナ 笑
+Yeah. We'll protect you, Dai.
+
+*LHT 大妖精 哀
+But what if someone gets hurt...
+
+*CHT スター 笑
+It's okay. We're all in this together. Don't let that bother you.
+
+*LHT 大妖精 哀
+O-Okay...
+
+*NCH
+
+;;ーーーーーーーーー
+;;セリフ追加ここまで
+;;ーーーーーーーーー
+
+*RHT チルノ 哀
+Dai...
+*RHT チルノ 苦
+Hmm... What should I do...
+
+*LHT レティ
+The choice is yours, Cirno.
+Should we go for Tenshi herself, or beat the ennemies around before proceeding.
+It's up to you.
+
+
+*NHT
+*NWK
+*RSN
+
+*END

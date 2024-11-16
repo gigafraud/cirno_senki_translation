@@ -1,0 +1,51 @@
+;START
+;;ーーーーーーーーーーー
+;;1 turn after event 14
+;;ーーーーーーーーーーー
+
+*SND BGM19
+
+*MVG 青娥
+*SLP 30
+
+*RHT 青娥 笑
+Now then, my new puppet, shall we go ?
+*RHT 青娥
+Get rid of those fairies and youkais.
+
+*LHT 幽香
+...
+
+*RHT 青娥 哀
+Oh ? She’s not moving. Don’t tell me I failed in my manipulation techniques ?
+*RHT 青娥
+Hey, what’s the matter ? Go and attack those fairies.
+
+*LHT 幽香 笑
+...
+
+*RHT 青娥 哀
+Huh, it looks like this isn’t working.
+*RHT 青娥
+There’s no helping it, then. I still managed to neutralize the enemy’s most powerful force.
+
+*NHT
+*NWK
+
+*MVG レティ
+*SLP 30
+
+*LHT レティ 驚
+She's acting strange...
+
+*RHT 文 驚
+Yeah. It might be a good idea to keep an eye on the situation there.
+
+*LHT リグル 哀
+...
+
+*NHT
+*NWK
+*RSN
+
+*END

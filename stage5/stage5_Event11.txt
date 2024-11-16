@@ -1,0 +1,35 @@
+;START
+;;ーーーーーーー
+;;Yoshika respawns again
+;;ーーーーーーー
+
+*LIV 芳香
+*ACT 芳香 ON
+
+*RIT 芳香 宵闇大型弾
+*ITM 芳香 宵闇大型弾
+*EQP 芳香 宵闇大型弾
+
+*MVG 芳香
+*SLP 30
+
+*RHT 芳香 笑
+Tadaaam, here I come ! I can still going !
+
+*NHT
+*NWK
+
+*IF0 文
+*MVG 文
+*SLP 30
+;ENDIF0
+
+*LHT 文 哀
+Ugh... Watching this makes me feel nauseous...
+
+*NHT
+*NWK
+
+*RSN
+
+*END

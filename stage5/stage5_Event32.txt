@@ -1,0 +1,104 @@
+;START
+;;ーーーーーーー
+;;Beat Seiga again
+;;ーーーーーーー
+
+*RHT 青娥 驚
+R-Really...? I can't believe you managed to defeat my techniques...
+*RHT 青娥 苦
+...I'll have to reteat now.
+I wanted to get close with that celestial and get me a ticket to Heaven, but...
+*RHT 青娥 哀
+Sigh...
+
+*NHT
+*NWK
+
+;;ーーーーーーーーーーーーーーーーーーーーーーーーーーー
+;;チルノが天子に攻撃を仕掛けていた場合、イベントスキップ
+;;ーーーーーーーーーーーーーーーーーーーーーーーーーーー
+*IF0 EVENT5_52
+
+*FLG 98 ON
+*SKP END_EVE1
+
+;ENDIF0
+
+*MVG チルノ
+*SLP 30
+
+*LHT チルノ 笑
+We did it ! We defeated that weirdo !
+*LHT チルノ
+Dai, it's okay now ! There's nothing to be scared of !
+
+*RHT 大妖精 笑
+Yeah ! Thank you, Cirno !
+
+;END_EVE1
+
+;;ーーーーーーーーーーーーーーーーーーーーーー
+;;If event 16 hasn't been triggered
+;;ーーーーーーーーーーーーーーーーーーーーーー
+*IF1 EVENT5_16
+
+*SKP END_EVE2
+
+;ENDIF1
+
+;;ーーーーーーーーーーーーーーーー
+;;未発生の場合、会話追加。幽香復帰
+;;ーーーーーーーーーーーーーーーー
+
+*MVG 幽香
+*SLP 30
+
+*LHT 幽香
+...Ah.
+
+*RHT レティ 驚
+Yuuka...?
+
+*RHT リグル 驚
+Miss Yuuka ! Are you okay ?
+
+*LHT 幽香
+...Hmm. I wanted to express my gratitude to her once I dispelled her talisman.
+I already broke free from her control.
+
+*RHT リグル 哀
+R-Really...?
+
+*LHT 幽香
+You didn’t have to go defeat that hermit, I can break this kind of spell on my own.
+
+*RHT レティ 怒
+...I see. My apologies...?
+
+*LHT 幽香
+Whatever. It doesn't matter anymore.
+*LHT 幽香 笑
+Thank you for your help, it was much appreciated.
+
+*RHT リグル 驚
+N-No problem !
+
+*LHT 幽香
+Now then. All that is left is that celestial.
+*LHT 幽香 笑
+I think it's time to wrap this up. Hehehe.
+
+
+
+
+*NHT
+*NWK
+
+*RSN
+
+*MKT 幽香
+*RSK 手加減
+*ACT 幽香 ON
+
+
+*END

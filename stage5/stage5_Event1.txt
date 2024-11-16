@@ -1,0 +1,42 @@
+;START
+;;ーーーーーーー
+;;Immediatly at the start
+;;ーーーーーーー
+
+*LHT チルノ 怒
+Ugh, that girl is so far away !
+It's gonna take so much time to reach her.
+*LHT チルノ
+Ah, I know !
+*LHT チルノ 笑
+Hey, Misty and Aya ! Bring me across the lake !
+
+*RHT ミスティア 驚
+Eh ? You want us to fly in that fog ??
+
+*RHT 文 哀
+Hmm... I don't think that's a good idea...
+
+*LHT チルノ 哀
+Huh ? Why ??
+
+*RHT ミスティア 哀
+It would be dangerous to fly when you can’t see what’s around you.
+I would lose my sense of direction and fall in the water... I don't want that.
+
+*RHT 文 哀
+She's right. I'm sorry, but we can't fly above the lake.
+
+*CHT 大妖精
+Cirno, you can't put them in danger.
+Let's go around the lake instead.
+
+*LHT チルノ 哀
+Hmm... I guess it can't be helped...
+
+
+*NHT
+*NWK
+*RSN
+
+*END

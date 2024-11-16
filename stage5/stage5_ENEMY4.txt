@@ -1,0 +1,34 @@
+
+*TKI 僧兵赤 5,15 IDE401 B GE4 Corpse 37 追尾呪怨弾
+*ITM IDE401 大天狗の羽
+*SKL IDE401 水棲
+*TKI 僧兵青 5,14 IDE402 B GE4 Corpse 37 遠距離高速銀弾 極氷高速弾 
+*SKL IDE402 水棲
+;;*TKI 僧兵黄 5,13 IDE403 B GE4 Corpse 37 致死暗黒術弾
+;;*SKL IDE403 水棲 待ち伏せ
+*TKI 僧兵赤 5,12 IDE404 B GE4 Corpse 37 追尾錯乱弾 追尾銀弾
+*SKL IDE404 水棲
+;;*TKI 僧兵青 5,11 IDE405 B GE4 Corpse 37 高速貫通弾
+;;*SKL IDE405 水棲 レーダー 怒り
+;;*TKI 僧兵黄 5,10 IDE406 B GE4 Corpse 37 致死暗黒術弾
+;;*SKL IDE406 水棲
+*TKI 僧兵赤 5,9 IDE407 B GE4 Corpse 37 追尾呪怨弾 追尾侵蝕弾
+*SKL IDE407 水棲
+*TKI 僧兵青 5,8 IDE408 B GE4 Corpse 37 高速貫通弾
+*SKL IDE408 水棲
+*TKI 僧兵黄 6,7 IDE409 B GE4 Corpse 37 致死暗黒術弾
+*SKL IDE409 水棲 壁抜け
+*HAD *TKI 僧兵赤 7,6 IDE410 B GE4 Corpse 37 極氷追尾弾
+*HAD *SKL IDE410 水棲
+*HAD *TKI 僧兵青 8,5 IDE411 B GE4 Corpse 37 高速呪怨弾
+*HAD *SKL IDE411 水棲
+*NML *TKI 僧兵黄 9,4 IDE412 C GE4 Corpse 37 致死暗黒術弾
+*NML *IT2 IDE412 龍神の像
+*NML *SKL IDE412 水棲
+
+*HAD *ST2 GE4 全 3
+*NML *ST2 GE4 HP 15
+*NML *ST2 GE4 武器レベル_速 1
+*NML *ST2 GE4 武器レベル_追 1
+*NML *ST2 GE4 武器レベル_魔 1
+

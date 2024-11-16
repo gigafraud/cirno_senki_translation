@@ -1,0 +1,26 @@
+;START
+;;ーーーーーーーーーーーー
+;;Rumia VS Yoshika
+;;ーーーーーーーーーーーー
+
+*SND BGM26
+
+*LHT ルーミア 哀
+...You don't look delicious at all.
+
+*RHT 芳香
+I-I look bad ? But Master Seiga keeps me clean !
+*LHT ルーミア
+Is that so ?
+
+*RHT 芳香 笑
+Yes, she does !
+
+*LHT ルーミア 哀
+...But you still don't look delicious.
+
+*NHT
+*NWK
+*RSN
+
+*END

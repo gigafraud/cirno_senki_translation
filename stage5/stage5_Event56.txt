@@ -1,0 +1,15 @@
+;START
+;;ーーーーーーー
+;;VS Iku
+;;ーーーーーーー
+
+*SND BGM26
+
+*LHT 衣玖
+I'm sorry. There is no reason for me to fight you, but I have to follow the eldest daughter's whim.
+
+*NHT
+*NWK
+*RSN
+
+*END

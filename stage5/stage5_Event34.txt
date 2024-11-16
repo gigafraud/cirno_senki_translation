@@ -1,0 +1,88 @@
+;START
+
+;;ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+;;If Yuuka was defeated before event 16
+;;ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+*IF0 EVENT5_16
+
+*SKP END_EVE
+
+;ENDIF0
+
+*IF0 EVENT5_32
+
+*SKP END_EVE
+
+;ENDIF0
+
+;;ーーーーーーーーーーーーー
+;;幽香が復帰する前に撃破した
+;;ーーーーーーーーーーーーー
+
+
+*SND BGM24
+
+*LIV 幽香
+
+*RHT 幽香
+...
+
+*LHT レティ 驚
+She stopped moving...!
+
+*CHT 文 怒
+Ok ! Take that talisman away...!
+
+*LHT チルノ
+Hmm ? That talisman ?
+*LHT チルノ 笑
+Got it !
+
+
+*NCH
+*RHT 幽香
+...Oh.
+
+*LHT リグル 驚
+Miss Yuuka ! Are you okay !?
+
+*RHT 幽香 哀
+...I feel so pathetic. Even if I couldn't move as I want... I still got hit way too much...
+
+*LHT リグル 哀
+Huh...?
+
+*LHT レティ 哀
+I'm sorry. We had no other choice but to do this.
+
+*RHT 幽香
+I could have broken this talisman myself.
+*RHT 幽香 哀
+Sigh... Now, I can't thank that wicked hermit properly now.
+
+*LHT リグル 哀
+...
+
+*RHT 幽香
+It would be too boring to go home now... I'll let you guys accompany me for a little longer.
+*RHT 幽香 笑
+What exciting things are you guys going to accomplish ? Hehehe...
+
+*LHT 文 驚
+(What on earth is she thinking about...?)
+
+*NHT
+*NWK
+
+*MKT 幽香
+*REM 幽香
+
+
+;END_EVE
+
+*NHT
+*NWK
+*RSN
+
+*END

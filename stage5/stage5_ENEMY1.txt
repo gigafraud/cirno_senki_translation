@@ -1,0 +1,300 @@
+
+*TKI 天子 9,25 IDB1 E GB1 Tenshi 34 高速光弾 高速光弾
+*RIT 天子 高速銀弾
+*RIT 天子 傷薬
+*STP 天子 武器レベル_速 1
+*EQP 天子 高速光弾
+*ITM 天子 治療薬
+*IT2 天子 天界の桃
+*CPU 天子 ATK_ALL 4 3 21
+*BOS IDB1
+
+*TKI 衣玖 10,27 IDB2 E GB1 Iku 33
+*RIT 衣玖 雷光弾
+*RIT 衣玖 傷薬
+*ITM 衣玖 狂雷弾
+*ITM 衣玖 全快札
+*ITM 衣玖 特効薬
+*IT2 衣玖 天女の羽衣
+*EQP 衣玖 狂雷弾
+*STP 衣玖 武器レベル_札 3
+*CPU 衣玖 ATK_ALL 9 21
+*CPU 衣玖 SPC_ALL 3
+*BOS IDB2
+
+*TKI 僧兵青 4,23 ID01 B G1 Monk 30 高速凍傷弾
+*SKL ID01 猛毒
+*TKI 僧兵赤 3,22 ID02 B G1 Monk 30 必中弾
+*SKL ID02 滅殺
+*TKI 僧兵黄 4,22 ID03 B G1 Monk 30 風神弾
+;;*TKI 僧兵赤 5,22 ID04 B G1 Monk 30 追尾凍傷弾 追尾銀弾
+;;*TKI 僧兵青 4,21 ID05 B G1 Monk 30 遠距離高速銀弾
+
+*TKI 怨霊赤 0,16 ID06 E G1E Ghost 28 極大弾
+*IT2 ID06 太陽の雫
+*SKL ID06 猛毒
+*TKI 怨霊赤 1,16 ID07 E G1E Ghost 20 雷神大型弾 轟炎大型弾
+*SKL ID07 滅殺
+*NML *SKL ID07 恨み
+*TKI 怨霊赤 2,16 ID08 E G1E Ghost 31 大型吸奪弾
+*HAD *SKL ID08 滅殺 恨み
+*TKI 怨霊赤 3,16 ID09 E G1E Ghost 31 大型脱力弾
+*SKL ID09 恨み
+*TKI 怨霊赤 4,16 ID10 E G1E Ghost 28
+*IT2 ID10 大型浄化弾
+*SKL ID10 恨み
+
+*TKI 僧兵青 23,2 ID11 B G1 Monk 30 高速凍傷弾
+*IT2 ID11 大天狗の羽
+*TKI 僧兵赤 24,5 ID12 B G1 Monk 30 追尾脱力弾
+*IT2 ID12 黒曜石
+*HAD *TKI 僧兵黄 25,1 ID13 B G1 Monk 35 致死暗黒術弾
+*HAD *BOS ID13
+*TKI 僧兵青 25,3 ID14 B G1 Monk 30 轟炎高速弾
+*TKI 僧兵赤 23,1 ID15 B G1 Monk 31 命奪追尾弾
+*TKI 僧兵黄 20,0 ID16 B G1 Monk 30 命奪術弾
+*IT2 ID16 阿礼の書
+*SKL ID16 祈り
+*BOS ID16
+;;*TKI 僧兵青 27,7 ID17 B G1 Monk 31 極氷高速弾
+;;*TKI 僧兵赤 28,4 ID18 B G1 Monk 29 雷神追尾弾
+;;*SKL ID18 金剛
+*TKI 僧兵黄 25,5 ID19 B G1 Monk 30 命奪術弾
+
+*TKI 怨霊赤 10,0 ID20 B G1 Ghost 31 大型呪怨弾
+*IT2 ID20 対魔術印
+*HAD *SKL ID20 突撃 恨み
+*TKI 怨霊緑 11,2 ID21 B G1 Ghost 31 大型浄化弾
+*IT2 ID21 龍神の像
+*SKL ID21 対魔特性
+*TKI 怨霊青 8,1 ID22 B G1 Ghost 31 命奪追尾弾
+*HAD *SKL ID22 恨み
+*TKI 怨霊赤 11,3 ID23 B G1 Ghost 31 大型衝撃弾
+*HAD *SKL ID23 恨み
+;;*TKI 怨霊緑 6,1 ID24 B G1 Ghost 31 大型衝撃弾
+;;*SKL ID24レーダー
+;;*TKI 怨霊青 7,0 ID25 B G1 Ghost 31 轟炎追尾弾
+;;*SKL ID25
+
+*TKI 怨霊赤 6,4 ID26 E G1 Ghost 30 遠距離大型銀弾
+*SKL ID26 吸奪 恨み レーダー
+*STP ID26 HP 10
+*TKI 怨霊赤 7,4 ID27 E G1 Ghost 35 遠距離大型銀弾
+*HAD *SKL ID27 吸奪 恨み
+*BOS ID27
+*TKI 上級妖怪黒 6,5 ID28 E G1Ex Youkai 31 大型吸奪弾
+*SKL ID28 恐怖 治癒 追撃
+*TKI 上級妖怪黒 7,5 ID29 E G1Ex Youkai 30 轟炎大型弾
+*SKL ID29 恐怖
+*TKI 僧兵黄 6,6 ID30 E G1Ex Monk 28 暴風弾 遠距離回復札
+*SKL ID30 カリスマ
+*HAD *TKI 僧兵黄 5,5 ID31 E G1Ex Monk 32 致死暗黒術弾 遠距離回復札
+*HAD *SKL ID31 カリスマ
+
+*TKI 怨霊赤 3,2 ID32 B G1 Ghost 31 宵闇大型弾
+*HAD *SKL ID32 恨み
+*TKI 怨霊緑 2,4 ID33 B G1 Ghost 31 遠距離大型銀弾
+*IT2 ID33 龍神の像
+*TKI 怨霊青 2,1 ID34 B G1 Ghost 31 極氷追尾弾
+*SKL ID34 連続
+*BOS ID34
+
+*TKI 上級妖怪赤 4,8 ID35 A G1 Youkai 33 極大弾
+*SKL ID35 カリスマ レーダー
+*IT2 ID35 天女の羽衣
+*TKI 上級妖怪青 0,8 ID36 A G1 Youkai 33 神速弾
+*IT2 ID36 阿礼の書
+*HAD *SKL ID36 貫通 レーダー
+*BOS ID36
+;;*TKI 上級妖怪黒 2,11 ID37 A G1Ex Youkai 33 雷神大型弾
+*TKI 上級妖怪赤 1,10 ID38 A G1Ex Youkai 33 極大弾
+*IT2 ID38 天女の羽衣
+*TKI 上級妖怪青 3,8 ID39 A G1Ex Youkai 33 遠距離高速銀弾
+*TKI 上級妖怪黒 0,13 ID40 A G1 Youkai 33 極大弾
+*TKI 上級妖怪赤 1,6 ID41 A G1 Youkai 33 超級氷塊弾
+*SKL ID41 金剛
+*BOS ID41
+*TKI 上級妖怪青 4,10 ID42 A G1 Youkai 33 神速弾
+*SKL ID42 見切り 猛毒
+*BOS ID42
+
+*ST3 僧兵青 全 5
+*ST3 僧兵青 武器レベル_速 1
+*ST3 僧兵赤 全 5
+*ST3 僧兵赤 武器レベル_追 1
+*ST3 僧兵黄 全 5
+*ST3 僧兵黄 武器レベル_魔 1
+
+;;*ENG 2 
+*ENG 2 *TKI 僧兵青 4,23 IDE201 B G1E2 Monk 31 高速貫通弾
+*ENG 2 *SKL IDE201 連続
+*ENG 2 *TKI 僧兵赤 3,22 IDE202 B G1E2 Monk 32 極氷追尾弾
+*ENG 2 *SKL IDE202 怒り
+;;*ENG 2 *TKI 僧兵黄 4,22 IDE203 B G1E2 Monk 32 致死暗黒術弾
+;;*ENG 2 *TKI 僧兵赤 5,22 IDE204 B G1E2 Monk 31 追尾銀弾
+;;*ENG 2 *TKI 僧兵青 4,21 IDE205 B G1E2 Monk 31 高速紅弾
+*HAD *ENG 2 *ST2 G1E2 全 1
+*HAD *ENG 2 *ST2 G1E2 武器レベル_速 1
+*HAD *ENG 2 *ST2 G1E2 武器レベル_追 1
+*HAD *ENG 2 *ST2 G1E2 武器レベル_魔 1
+
+;;*ENG 3 
+*ENG 3 *TKI 僧兵青 21,5 IDE301 B G1E3 Monk 31 轟炎高速弾
+*ENG 3 *SKL IDE301 壁抜け
+*ENG 3 *TKI 僧兵赤 22,6 IDE302 B G1E3 Monk 33 極氷追尾弾
+*NML *ENG 3 *SKL IDE302 壁抜け
+*NML *ENG 3 *TKI 僧兵黄 22,5 IDE303 B G1E3 Monk 31 極光氷弾
+;;*ENG 3 *TKI 僧兵赤 22,4 IDE304 B G1E3 Monk 33 命奪追尾弾
+;;*ENG 3 *TKI 僧兵青 23,5 IDE305 B G1E3 Monk 31 高速貫通弾
+*ENG 3 *SKL IDE305 金剛 猛毒
+*HAD *ENG 3 *ST2 G1E3 全 2
+*HAD *ENG 3 *ST2 G1E3 武器レベル_速 1
+*HAD *ENG 3 *ST2 G1E3 武器レベル_追 1
+*HAD *ENG 3 *ST2 G1E3 武器レベル_魔 1
+
+;;*ENG 4 
+*ENG 4 *TKI 僧兵青 4,23 IDE401 B G1E4 Monk 31 極氷高速弾
+*ENG 4 *SKL IDE401 対魔特性
+*ENG 4 *TKI 僧兵赤 3,22 IDE402 B G1E4 Monk 31 必中弾
+*ENG 4 *SKL IDE402 すり抜け
+*NML *ENG 4 *IT2 IDE402 御神酒
+*NML *ENG 4 *TKI 僧兵黄 4,22 IDE403 B G1E4 Monk 31 致死暗黒術弾
+;;*ENG 4 *TKI 僧兵赤 5,22 IDE404 B G1E4 Monk 33 追尾侵蝕弾
+;;*ENG 4 *SKL IDE404 レーダー 混乱
+;;*ENG 4 *TKI 僧兵青 4,21 IDE405 B G1E4 Monk 33 極氷高速弾
+;;*ENG 4 *SKL IDE405 必殺
+*HAD *ENG 4 *ST2 G1E4 全 3
+*HAD *ENG 4 *ST2 G1E4 武器レベル_速 1
+*HAD *ENG 4 *ST2 G1E4 武器レベル_追 1
+*HAD *ENG 4 *ST2 G1E4 武器レベル_魔 1
+
+;;*ENG 5 
+*ENG 5 *TKI 僧兵青 21,5 IDE501 B G1E5 Monk 32 轟炎高速弾
+*HAD *ENG 5 *SKL IDE501 連続
+*ENG 5 *TKI 僧兵赤 22,6 IDE502 B G1E5 Monk 32 必中弾
+*ENG 5 *SKL IDE502 回復 追撃 気絶
+*BOS IDE502
+*NML *ENG 5 *TKI 僧兵黄 22,5 IDE503 B G1E5 Monk 32 致死暗黒術弾
+*NML *ENG 5 *TKI 僧兵赤 22,4 IDE504 B G1E5 Monk 32 追尾呪怨弾
+;;*ENG 5 *TKI 僧兵青 23,5 IDE505 B G1E5 Monk 32 高速凍傷弾
+;;*ENG 5 *SKL IDE505 待ち伏せ
+*HAD *ENG 5 *ST2 G1E5 全 4
+*HAD *ENG 5 *ST2 G1E5 武器レベル_速 1
+*HAD *ENG 5 *ST2 G1E5 武器レベル_追 1
+*HAD *ENG 5 *ST2 G1E5 武器レベル_魔 1
+
+;;*ENG 6 
+*ENG 6 *TKI 僧兵青 4,23 IDE601 B G1E6 Monk 33 轟炎高速弾
+*ENG 6 *SKL IDE601 気絶 精神結界
+*ENG 6 *TKI 僧兵赤 3,22 IDE602 B G1E6 Monk 33 追尾錯乱弾
+;;*ENG 6 *TKI 僧兵黄 4,22 IDE603 B G1E6 Monk 33 致死暗黒術弾
+;;*ENG 6 *TKI 僧兵赤 5,22 IDE604 B G1E6 Monk 33 命奪追尾弾
+*ENG 6 *IT2 IDE604 金剛酒
+*ENG 6 *TKI 僧兵青 4,21 IDE605 B G1E6 Monk 33 高速侵蝕弾
+*ENG 6 *IT2 IDE605 月光の粉
+*ENG 6 *ST2 G1E6 全 3
+*ENG 6 *ST2 G1E6 武器レベル_速 1
+*ENG 6 *ST2 G1E6 武器レベル_追 1
+*ENG 6 *ST2 G1E6 武器レベル_魔 1
+
+;;*ENG 7 
+*ENG 7 *TKI 僧兵青 21,5 IDE701 B G1E7 Monk 32 高速猛毒弾
+*ENG 7 *SKL IDE701 凍傷
+*ENG 7 *TKI 僧兵赤 22,6 IDE702 B G1E7 Monk 32 必中弾
+*ENG 7 *SKL IDE702 気絶
+*NML *ENG 7 *TKI 僧兵黄 22,5 IDE703 B G1E7 Monk 32 致死暗黒術弾
+;;*ENG 7 *TKI 僧兵赤 22,4 IDE704 B G1E7 Monk 32 追尾錯乱弾
+;;*ENG 7 *SKL IDE704 レーダー
+;;*ENG 7 *IT2 IDE704 大天狗の羽
+;;*ENG 7 *TKI 僧兵青 23,5 IDE705 B G1E7 Monk 32 高速凍傷弾
+;;*ENG 7 *SKL IDE705 滅殺
+*ENG 7 *ST2 G1E7 全 5
+*ENG 7 *ST2 G1E7 武器レベル_速 1
+*ENG 7 *ST2 G1E7 武器レベル_追 1
+*ENG 7 *ST2 G1E7 武器レベル_魔 1
+
+;;*ENG 8 
+*HAD *ENG 8 *TKI 僧兵青 4,23 IDE801 B G1E8 Monk 31 高速侵蝕弾
+*HAD *ENG 8 *SKL IDE801 追撃
+*HAD *ENG 8 *TKI 僧兵赤 3,22 IDE802 B G1E8 Monk 31 轟炎追尾弾
+*NML *ENG 8 *TKI 僧兵黄 4,22 IDE803 B G1E8 Monk 31 致死暗黒術弾
+*ENG 8 *SKL IDE803 見切り 壁抜け 精神結界
+*ENG 8 *TKI 僧兵赤 5,22 IDE804 B G1E8 Monk 31 追尾呪怨弾
+*ENG 8 *TKI 僧兵青 4,21 IDE805 B G1E8 Monk 31 高速凍傷弾
+*ENG 8 *ST2 G1E8 全 5
+*ENG 8 *ST2 G1E8 武器レベル_速 1
+*ENG 8 *ST2 G1E8 武器レベル_追 1
+*ENG 8 *ST2 G1E8 武器レベル_魔 1
+
+;;*ENG 9 
+*ENG 9 *TKI 僧兵青 21,5 IDE901 B G1E9 Monk 35 高速凍傷弾
+*ENG 9 *SKL IDE901 必殺
+*ENG 9 *TKI 僧兵赤 22,6 IDE902 B G1E9 Monk 35 極氷追尾弾
+*ENG 9 *SKL IDE902 貫通 恐怖
+*NML *ENG 9 *TKI 僧兵黄 22,5 IDE903 B G1E9 Monk 35 致死暗黒術弾
+*NML *ENG 9 *SKL IDE903 乱舞 連続
+;;*ENG 9 *TKI 僧兵赤 22,4 IDE904 B G1E9 Monk 35 極氷追尾弾
+;;*ENG 9 *TKI 僧兵青 23,5 IDE905 B G1E9 Monk 35 極氷高速弾
+;;*ENG 9 *SKL IDE905 祈り
+*ENG 9 *ST2 G1E9 全 5
+*ENG 9 *ST2 G1E9 武器レベル_速 1
+*ENG 9 *ST2 G1E9 武器レベル_追 1
+*ENG 9 *ST2 G1E9 武器レベル_魔 1
+
+;;*ENG 10 
+*HAD *ENG 10 *TKI 僧兵青 4,23 IDE1001 B G1E10 Monk 35 轟炎高速弾
+*HAD *ENG 10 *TKI 僧兵赤 3,22 IDE1002 B G1E10 Monk 35 命奪追尾弾
+*ENG 10 *TKI 僧兵黄 4,22 IDE1003 B G1E10 Monk 35 致死暗黒術弾
+*ENG 10 *SKL IDE1003 追撃
+*ENG 10 *TKI 僧兵赤 5,22 IDE1004 B G1E10 Monk 35 極氷追尾弾
+*ENG 10 *IT2 IDE1004 天界の桃
+*ENG 10 *TKI 僧兵青 4,21 IDE1005 B G1E10 Monk 35 高速侵蝕弾
+*ENG 10 *ST2 G1E10 全 5
+*ENG 10 *ST2 G1E10 武器レベル_速 1
+*ENG 10 *ST2 G1E10 武器レベル_追 1
+*ENG 10 *ST2 G1E10 武器レベル_魔 1
+
+;;*ENG 11 
+*HAD *ENG 11 *TKI 僧兵青 21,5 IDE1101 B G1E11 Monk 35 高速呪怨弾
+*HAD *ENG 11 *SKL IDE1101 混乱 突撃
+*ENG 11 *TKI 僧兵赤 22,6 IDE1102 B G1E11 Monk 35 追尾脱力弾
+*ENG 11 *IT2 IDE1102 黄金
+*ENG 11 *SKL IDE1102 滅殺 乱舞
+*ENG 11 *TKI 僧兵黄 22,5 IDE1103 B G1E11 Monk 35 致死暗黒術弾
+;;*ENG 11 *TKI 僧兵赤 22,4 IDE1104 B G1E11 Monk 35 追尾侵蝕弾
+;;*ENG 11 *TKI 僧兵青 23,5 IDE1105 B G1E11 Monk 35 高速凍傷弾
+;;*ENG 11 *SKL IDE1105 祈り
+*ENG 11 *ST2 G1E11 全 5
+*ENG 11 *ST2 G1E11 武器レベル_速 1
+*ENG 11 *ST2 G1E11 武器レベル_追 1
+*ENG 11 *ST2 G1E11 武器レベル_魔 1
+
+;;*ENG 12 
+*ENG 12 *TKI 僧兵青 4,23 IDE1201 B G1E12 Monk 35 極氷高速弾
+*ENG 12 *SKL IDE1201 すり抜け
+*ENG 12 *TKI 僧兵赤 3,22 IDE1202 B G1E12 Monk 35 追尾猛毒弾
+*ENG 12 *TKI 僧兵黄 4,22 IDE1203 B G1E12 Monk 35 致死暗黒術弾
+*ENG 12 *SKL IDE1203 凍傷 恐怖
+*ENG 12 *IT2 IDE1203 月光の粉
+;;*ENG 12 *TKI 僧兵赤 5,22 IDE1204 B G1E12 Monk 35 追尾脱力弾
+;;*ENG 12 *TKI 僧兵青 4,21 IDE1205 B G1E12 Monk 35 高速侵蝕弾
+;;*ENG 12 *SKL IDE1205 追撃
+*ENG 12 *ST2 G1E12 全 5
+*ENG 12 *ST2 G1E12 武器レベル_速 1
+*ENG 12 *ST2 G1E12 武器レベル_追 1
+*ENG 12 *ST2 G1E12 武器レベル_魔 1
+
+;;*ENG 13 
+*HAD *ENG 13 *TKI 僧兵青 21,5 IDE1301 B G1E13 Monk 35 高速侵蝕弾
+*HAD *ENG 13 *TKI 僧兵赤 22,6 IDE1302 B G1E13 Monk 35 必中弾
+*HAD *ENG 13 *TKI 僧兵黄 22,5 IDE1303 B G1E13 Monk 35 致死暗黒術弾
+*HAD *ENG 13 *SKL IDE1303 追撃
+*HAD *ENG 13 *TKI 僧兵赤 22,4 IDE1304 B G1E13 Monk 35 追尾脱力弾
+*HAD *ENG 13 *TKI 僧兵青 23,5 IDE1305 B G1E13 Monk 35 極氷高速弾
+*HAD *ENG 13 *SKL IDE1305 金剛
+*HAD *ENG 13 *ST2 G1E13 全 5
+*HAD *ENG 13 *ST2 G1E13 武器レベル_速 1
+*HAD *ENG 13 *ST2 G1E13 武器レベル_追 1
+*HAD *ENG 13 *ST2 G1E13 武器レベル_魔 1
+
+
