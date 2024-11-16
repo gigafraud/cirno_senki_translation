@@ -32,7 +32,9 @@ This function simply executes another file. Usually, it will execute a stageX_EN
 
 ### *LHT characterName emotion
 EXAMPLE : *LHT ミスティア 驚
-           Eh ? Wait, what is this !?
+
+Eh ? Wait, what is this !?
+
 
 This will put a character sprite on the left side of the screen with a specific emotion. If there's text on the line right under, it will show a dialogue box with the character's name, and show the dialogue.
 
