@@ -1,0 +1,425 @@
+;START
+
+;;ーーーーーーーーーーーーーーーーーーーーーー
+;;共鳴リリー白黒、秋姉妹を含め、敵を全滅させた
+;;ーーーーーーーーーーーーーーーーーーーーーー
+
+*SND おてんば恋娘
+
+*LHT リリーブラック 苦
+Waaah ! Why didn't we wiiin !?
+
+*RHT リリーホワイト 苦
+Oh no...
+
+*NHT
+*NWK
+*KON 撃破
+*SLP 60
+
+*LHT 穣子 苦
+Sigh... I'm frying potatoes. Shizuha, do you want some ?
+
+*RHT 静葉 苦
+Yes, please... Ooh, this is so sad...
+
+*NHT
+*NWK
+*KON 撃破
+*SLP 60
+
+*LHT チルノ 笑
+How was it !? I won !!
+
+*RHT キスメ 驚
+She says "I won", but did the whole season fight really mattered to her ?
+
+*CHT サニー 哀
+Probably not... It's rather that she didn't care about the seasons at all...
+
+*NCH
+*RHT レティ 笑
+Thank you, Cirno. I'm saved thanks to you.
+
+*LHT チルノ 笑
+I did this for all of you. This wasn't a big deal at all to me !
+
+*RHT レティ 笑
+Hehehe, thank you, really.
+
+*LHT チルノ 笑
+Hehehe !
+
+*CHT 大妖精 哀
+... This is good that we solved this issue, I guess.
+
+*RHT ヤマメ
+We ended up winning, so it's fine. Don't worry about it.
+
+*CHT 大妖精 哀
+Yes...
+
+*RHT パルスィ
+By the way, I'm a little concerned about something...
+
+*LHT チルノ
+Hmm ?
+
+*RHT パルスィ
+There's spring, autumn and winter, but... What about summer ?
+
+*CHT ミスティア 驚
+Ah, now that you say it...
+
+*LHT リグル 驚
+Summer...
+
+*CHT スター
+Now that she mentions it... Nobody was here to represent summer.
+Are there such people at all ?
+
+*RHT レティ
+There's not a particular person representing summer themselves. However...
+
+*CHT ルナ
+However...?
+
+*RHT レティ
+There's a person who loves sunflowers and can be considered as a symbol of summer.
+
+*LHT リグル 哀
+Could it be...
+
+*RHT レティ
+Yes, I'm talking about the person you're thinking about.
+
+*LHT チルノ 哀
+...?
+
+*CHT スター 驚
+H-Huh...? Hey, there's someone coming over here !
+
+*LHT リグル 驚
+Another one...? No way...!
+
+*NHT
+*NWK
+
+;;ーーーー
+;;幽香出現
+;;ーーーー
+*SND 幽夢
+
+*TKI 幽香 23,5 IDBE21 C GBE1 幽香 30 魔閃極光弾
+*RIT IDBE21 大型連紅弾
+*EQP IDBE21 魔閃極光弾
+
+*MVG 幽香
+*SLP 30
+
+*LHT 幽香
+Well well... When I come and see how the flowers here are doing...
+*LHT 幽香 笑
+...And then I heard people talking about me behind my back.
+
+*RHT レティ 驚
+...!
+
+*CHT リグル 驚
+M-Miss Yuuka...!?
+
+*RHT ヤマメ 驚
+T-This is...
+
+*CHT ルナ 哀
+H-Hey, I feel a terrifyingly strong power coming from her...
+
+*RHT パルスィ
+I'm also sensing a very intimidating aura.
+
+*LHT 幽香
+A lot of people gathered here... I know what happened, but... Please fight with moderation.
+*LHT 幽香 笑
+If something were to happen to my flowers, I won't tell what will happen to the culprit.
+
+*RHT レティ 哀
+O-Okay, we'll be careful.
+
+*CHT チルノ 哀
+Hey, Letty. What's wrong ? Who's that ?
+
+*LHT リグル 驚
+C-Cirno ! Don't disrespect Miss Yuuka !!
+She is a great powerful youkai !
+
+*CHT キスメ 驚
+Great...? She's that strong ?
+
+*RHT レティ 怒
+Yes. It's not an exaggeration to say she's the most powerful youkai around.
+;;ええ。それこそ、この辺りでは屈指の力を持っていると言っても過言ではないくらいよ。[n]そして……
+
+;;*CHT サニー 驚
+;;そして？？
+
+;;*LHT リグル 哀
+;;とんでもない加虐趣味を持ってる人なんだよ。
+
+;;*CHT ルナ 哀
+;;………[p]嫌な予感しかしないわ……
+
+;;*RHT スター 笑
+;;ルナ。気を付けないと、目を付けられちゃうかもよ？？
+
+;;*CHT ルナ 苦
+;;そ、そんなの絶対やだよ！！
+
+;;*LHT リグル 哀
+;;と、とにかく。そういうことだから、ここは大人しくしておかないと……！
+
+*CHT チルノ
+Strong ?
+
+*LHT リグル 驚
+Hm ?
+
+*CHT チルノ
+Like, really strong ?
+
+*RHT 大妖精 驚
+Cirno, no !!
+
+*LHT リグル 驚
+Cirno... Don't tell me...
+
+*CHT チルノ 笑
+Hehe ! Doesn't matter how strong you say she is, there's no way she can beat me !
+*CHT チルノ
+I'll have to get back to those youkais to get my revenge, so she'll be good practice !!
+*NCH
+*RHT レティ 驚
+This is bad...! Cirno, stop ! Cirno !!
+
+*NHT
+*NWK
+
+;;ーーーーーーーーーーーー
+;;チルノ、幽香に接近。攻撃
+;;ーーーーーーーーーーーー
+*DB2 チルノ
+*MV4 チルノ 15,4
+*MV0 チルノ 17,5
+*MV0 チルノ 22,5
+
+*CHT チルノ 笑
+I'm the strongest ! Prepare yourself !!
+
+*LHT 幽香
+Hm ?
+
+*NHT
+*NWK
+
+*ATK チルノ 幽香 HIT
+
+;;ーーーーーーーーーーーーーーーーー
+;;反撃で撃破される。（もしくは瀕死）
+;;ーーーーーーーーーーーーーーーーー
+
+*MKI 幽香 左
+*ATK 幽香 チルノ HIT
+
+*IF0 チルノ
+*SKP Chirno
+;ENDIF0
+*LIV チルノ
+;Chirno
+
+*MV0 チルノ 21,5
+*MKI チルノ 右
+
+*LHT チルノ 驚
+Gyaaa !?
+
+*RHT レティ 驚
+Cirno !!
+
+*CHT 大妖精 驚
+Cirno !?
+
+*NHT
+*NWK
+*SLP 30
+*KON bee
+*MKI 大妖精 下
+*MV4 大妖精 21,8
+*SLP 15
+*MV1 大妖精 21,6
+*MVA
+*SLP 30
+
+*LHT 大妖精 驚
+Cirno, are you ok !? Hang on !!
+
+*RHT 幽香
+Good grief, acting all high and mighty... So this is how fairies...
+...Ah ?
+*RHT 幽香 驚
+(A scratch on my left arm...?)
+
+*LHT 大妖精 驚
+Cirno !? answer me !!
+
+*CHT チルノ 苦
+*mumble* ...I'm the... str... *squeeze*
+
+*LHT 大妖精 苦
+N-No... Cirno !!
+
+*RHT 幽香
+(This fairy...)
+
+*NHT
+*NWK
+*MV4 レティ 15,4
+*MV0 レティ 22,4
+*MV0 レティ 22,5
+*MKI レティ 右
+
+*LHT レティ 怒
+Wait.
+
+*RHT 幽香
+What do we have here ?
+
+*LHT レティ 怒
+I won't let you lay another finger on Cirno. Even if...
+
+*RHT 幽香
+Hmm. I think it would be better for you to not sacrifice yourself for such things.
+
+*LHT レティ 怒
+I can't just watch my friend get hurt without doing anything.
+
+*RHT 幽香 笑
+Hehehe. I think you misunderstood something.
+
+*LHT レティ 驚
+What do you mean...?
+
+*RHT 幽香 笑
+That's right. I just have an interest in this fairy.
+
+*LHT レティ 怒
+... Are you going to make her your target to your oppression ?
+
+*RHT 幽香 哀
+Sigh... Do I make such a bad impression ?
+*RHT 幽香
+... I just got interested in her recklessness and extraordinary power. Nothing more, nothing less.
+
+*CHT 大妖精 驚
+...
+
+*RHT 幽香
+Cirno... Is that how she is called ? She's really interesting...
+Even though she's a mere fairy, she can't have such powers at this point.
+*RHT 幽香 笑
+That's why I want to observe this fairy's behaviour just for a bit.
+
+*LHT レティ 怒
+Can I really trust you ?
+
+*RHT 幽香
+Well, if I tell you to believe me, will you trust me ?
+;;信じろ、とは言わないわ。[n]けれど、信じられない場合は、その時はどうするつもりかしら？
+
+*LHT レティ 怒
+...Alright. Do as you please.
+
+*RHT 幽香 笑
+You finally understand.
+
+*LHT レティ 怒
+However, I can't let you stay near Cirno while I'm not around.
+I will come with you as well.
+
+*CHT 大妖精 驚
+Eh ? But Miss Letty, it's summer now, isn't it ? Are you going to be okay ?
+
+*LHT レティ 哀
+I am indeed weak to heat, but I need my friend to be safe.
+*LHT レティ 笑
+Don't worry, I'll be okay.
+
+*CHT 大妖精 哀
+O-okay...
+
+*LHT レティ 怒
+I hope you don't mind.
+
+*RHT 幽香 笑
+Sure. Do as you like.
+;;何でも良いわ。好きにしたらいいわ。
+
+*LHT レティ 怒
+And I will.
+
+*CHT 大妖精 哀
+...
+
+*NHT
+*NWK
+*SLP 60
+
+*LHT ルナ 哀
+H-Hey... I wonder if it'll be alright that such a scary person joins us.
+
+*RHT スター 笑
+What ? Are you scared, Luna ?
+
+*LHT ルナ 哀
+I-I am... What about you ?
+
+*RHT スター 驚
+U-Uuuh...
+
+*LHT リグル
+...It will probably be alright.
+
+*RHT サニー 哀
+Really ?
+
+*LHT リグル
+Yes... She's merciless towards those who defy her, but she can be kind when she wants to.
+She's nice with my bugs... So it should be okay.
+
+*RHT パルスィ
+I wonder if she really intends to stay calm.
+
+*LHT ヤマメ 笑
+Parsee... Don't say that in front of her, she may make you her target.
+
+*RHT パルスィ 驚
+Eh...?
+*RHT パルスィ 哀
+L-Let's try to noy say thoughtless things...
+
+
+*NHT
+*NWK
+*SLP 30
+*NSN
+*FO2
+*SLP 30
+
+*MKT 幽香
+*RIT 幽香 魔閃極光弾
+*ITM 幽香 魔閃極光弾2
+*EQP 幽香 魔閃極光弾2
+*SKL 幽香 手加減
+
+*RED チルノdata_others/状態異常耐性
+
+*SND BGM28
+*END

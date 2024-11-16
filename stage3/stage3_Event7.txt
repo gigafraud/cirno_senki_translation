@@ -1,0 +1,32 @@
+;START
+;;ーーーーーー
+;;18 turns passed
+;;ーーーーーー
+
+*MVG 穣子
+
+*LHT 妖怪赤 苦
+L-Lady Minoriko... I'm reaching my limit...
+I-Can we stop with the potatoes... For now ? Burp.
+
+*RHT 穣子 哀
+E-Eeeer...
+*RHT 穣子 笑
+I guess I got carried away and made you eat too much. Ahahaha...
+
+*NHT
+*NWK
+*MVG ルーミア
+*SLP 30
+
+*LHT ルーミア
+How nice... Those roasted potatoes look delicious...
+*LHT ルーミア 笑
+Will this person give me roasted potatotes as well if I ask her ??
+
+*NHT
+*NWK
+
+*RSN
+
+*END

@@ -1,0 +1,24 @@
+;START
+;;ーーーーーーーーーーー
+;;Cirno fights Minoriko
+;;ーーーーーーーーーーー
+
+*SND BGM26
+
+*RHT 穣子 怒
+Ice is a great threat to harvest... You're my natural ennemy ! I don't even want you to like autumn !
+
+*LHT チルノ 笑
+Are you mad ? If you have something against me, why don't you try to beat me ?
+
+*RHT 穣子 怒
+You don't have to tell me that... Fairies like you don't stand a chance !!
+
+*LHT チルノ 怒
+Alright, now you've done it !! Don't look down on me !!
+
+*NHT
+*NWK
+*RSN
+
+*END
