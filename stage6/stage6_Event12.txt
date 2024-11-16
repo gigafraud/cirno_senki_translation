@@ -1,0 +1,100 @@
+;START
+;;ーーーーーーー
+;;NPC Byakuya appears
+;;ーーーーーーー
+
+*SNA 月時計ルナ
+
+*NPC 白夜 7,5 IDEN121 A GN1 白夜 40 
+*RIT 白夜 傷薬
+*RIT 白夜 傷薬
+*RIT 白夜 懐中時計
+*ITM 白夜 高速連銀弾
+*ITM 白夜 特効薬
+*ITM 白夜 懐中時計
+*STP 白夜 全 5
+*STP 白夜 HP 5
+*STP 白夜 武器レベル_速 2
+*SKL 白夜 恐怖 対魔特性
+*CPU 白夜 ATK_ALL 4 7 11 3 8
+*CPU 白夜 MOV_ALL 2
+*CPU 白夜 SPC_ALL 3
+*TG2 白夜 7,5
+
+*RED チルノdata_others/状態異常耐性
+
+*MVG 白夜
+*SLP 30
+
+*LHT 白夜
+Mmh... These youkais are probably excited because of the spring weather...
+A little too excited.
+
+*LHT 白夜 哀
+I don't want to get involved with the village, but I can't leave them alone.
+*LHT 白夜 怒
+I'm going to take all of you down !
+
+*NHT
+*NWK
+
+*MVG チルノ
+*SLP 30
+
+*LHT レティ 驚
+Is that... A human ?
+
+*RHT 文
+She looks weird, but it seems so.
+Looks like she's going to help us.
+
+*LHT チルノ 哀
+Hmm... I feel like I've seen her somewhere before...
+
+*RHT 大妖精 驚
+Cirno, do you know her ?
+
+*LHT チルノ 笑
+I don't remember !
+
+*RHT ミスティア
+Wriggle, do you ?
+
+*LHT リグル 哀
+Hmm... What about you, Yamame ?
+
+*RHT ヤマメ 哀
+N-No...
+
+*RHT サニー
+Aren't you confusing her with someone else ?
+
+*LHT チルノ 笑
+Well, okay ! If she's going to help me, then I won't complain !
+
+*RHT ルーミア 笑
+Yeah, I agree !
+
+*LHT ルナ 哀
+I wonder if that's okay.
+
+*RHT キスメ
+Why wouldn't it be ?
+
+*LHT スター
+Well, it's too late now anyway.
+
+*RHT パルスィ 微笑
+If even you don't worry about it, then it might not be a bad thing.
+
+*LHT チルノ 笑
+ということで、こっちも負けずに行くぞーっ！
+
+
+
+*NHT
+*NWK
+*RSN
+*TKD 白夜 40
+
+*END

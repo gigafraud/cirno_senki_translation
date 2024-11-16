@@ -1,0 +1,49 @@
+;START
+;;ーーーーーーーー
+;;橙（猫又）、出現
+;;ーーーーーーーー
+
+*SNA ティアオイエツォン
+
+*TKI 猫又 26,28 IDEB061 B G1 猫又 35
+*RIT 猫又 追尾霊撃弾
+*RIT 猫又 追尾紅弾
+*RIT 猫又 傷薬
+*IT2 猫又 追尾乱舞弾
+*EQP 猫又 追尾乱舞弾
+*CPU 猫又 ATK_ALL 4 1
+*BOS 猫又
+
+*TKI 妖怪兎青 25,29 IDE061 B G1 妖怪兎 35 高速浄化弾
+*SKL IDE061 すり抜け
+*BOS IDE061
+;;*NML *TKI 妖怪兎緑 24,28 IDE062 B G1 妖怪兎 35
+;;*NML *IT2 IDE062 極氷追尾弾
+;;*NML *TKI 妖怪兎赤 26,27 IDE063 B G1 妖怪兎 37 極大弾
+;;*NML *SKL IDE063 すり抜け
+*NML *TKI 妖怪兎青 27,28 IDE064 B G1 妖怪兎 36 高速浄化弾
+*NML *SKL IDE064 レーダー 凍傷 すり抜け
+*NML *BOS IDE064
+;;*TKI 妖怪兎緑 29,29 IDE065 B G1 妖怪兎 35 追尾乱舞弾
+;;*SKL IDE065 すり抜け
+
+*RED チルノdata_others/状態異常耐性
+
+*CP3 G1 MOV_ALL 2
+*TG4 G1 28,14
+
+*MVG 猫又
+*SLP 30
+
+*RHT 猫又 笑
+にゃ～っ！
+*RHT 猫又
+よぉし……　私も行くぞーっ！
+*RHT 猫又 笑
+いっぱい人間をやっつけて、すっごい妖怪に[r]なってやるんだいっ！
+
+*NHT
+*NWK
+
+*RSN
+*END

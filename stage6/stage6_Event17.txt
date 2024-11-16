@@ -1,0 +1,28 @@
+;START
+;;ーーーーーーーー
+;;ＮＰＣ僧兵Ｄ登場
+;;ーーーーーーーー
+
+*NPC 僧兵青 14,28 IDN06 E G1N 僧兵 36 神速弾 治療薬
+*STP IDN06 全 5
+*CP2 IDN06 ATK_ALL 9
+*CP2 IDN06 MOV_ALL 2
+*CP2 IDN06 SPC_ALL 3
+*SKL IDN06 回復 凍傷
+*TG2 IDN06 28,15
+
+*SND BGM24
+
+*MVG IDN06
+*SLP 30
+
+*LHT 僧兵青
+こんなことになるなんて……[r]天は私を見放したのか……
+それとも、最後にはしっかりと[r]拾ってくれるのか……[n]天よ……！
+
+
+*NHT
+*NWK
+*RSN
+
+*END

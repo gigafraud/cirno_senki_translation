@@ -1,0 +1,76 @@
+;START
+*NIG
+
+;;ーーーーーーーーーーーーーー
+;;撃破イベント、戦闘前会話設定
+;;ーーーーーーーーーーーーーー
+
+*WIN 敵の全滅 all
+;;実際は24ターン以降かつ敵の全滅
+*LSE チルノの敗走:大妖精の敗走:レティの敗走:門の突破 all
+
+*RED チルノdata_stages/chirno_stage6/TLK_ST6
+
+;;ーーーーーーー
+;;暴走妖怪等配置
+;;ーーーーーーー
+
+*RED チルノdata_stages/chirno_stage6/stage6_ENEMY
+
+*RED チルノdata_stages/chirno_stage6/stage6_engun
+
+*RED チルノdata_others/状態異常耐性
+
+*SND BGM24
+
+*MVG チルノ
+*SLP 30
+
+*LHT チルノ 笑
+Alright, here I am !
+
+*RHT 文 怒
+Looks like they haven't done too much damage yet. Cirno, let's go !
+
+*LHT キスメ 驚
+Oh, right. The goal is to... Protect the Human Village !?
+*LHT キスメ 怒
+You guys didn't tell me this was the plan...!
+
+*RHT 文 哀
+(Oh... It looks like these ones had some trouble with the humans...)
+...I understand how you feel.
+*RHT 文
+But you can use this occasion to show the humans how dangerous you are.
+
+*LHT ヤマメ 怒
+Mmmh... But we're still helping them...
+
+*RHT 文
+Please. You can help us AND keep the humans away from you. We both win here.
+
+*LHT リグル
+I agree. Let's show off our power !
+
+*RHT パルスィ
+...Welp, I guess we can't help it. No point in complaining here.
+As a way to replay Cirno and her friends, I'll give you a hand.
+
+*LHT キスメ 怒
+...
+*LHT キスメ
+...Ok. But just this once.
+
+*RHT 文 笑
+It's decided, then. Let's go !
+Cirno, please !
+
+*LHT チルノ 笑
+Alright ! Well then... Chaaarge !!!
+
+*NHT
+*NWK
+
+*CUR チルノ
+
+*END

@@ -1,0 +1,115 @@
+;START
+;;ーーーーーーーーーーーーーー
+;;Nue, Ichirin, Unzan and Murasa appears
+;;ーーーーーーーーーーーーーー
+
+*SNA 幽霊客船の時空を越えた旅
+
+*NML *TKI 怨霊青 23,1 IDE011 B G1 怨霊 38 雷神追尾弾
+*NML *SKL IDE011 恐怖
+*NML *STP IDE011 全 2
+*NML *BOS IDE011
+;;*NML *TKI 怨霊青 23,2 IDE012 B G1 怨霊 38 追尾連銀弾
+;;*NML *STP IDE012 武器レベル_追 1
+;;*NML *EQP IDE012 追尾連銀弾
+;;*NML *SKL IDE012 貫通 祈り 恐怖
+;;*NML *STP IDE012 全 2
+
+;;*TKI 上級妖怪黒 22,1 IDE014 B G1 妖怪 37 大型吸奪弾
+;;*SKL IDE014 気絶 恐怖
+;;*STP IDE014 全 3
+;;*BOS IDE014
+;;*NML *TKI 上級妖怪黒 22,2 IDE015 B G1 妖怪 36 大型連銀弾
+;;*NML *STP IDE015 武器レベル_大 1
+;;*NML *EQP IDE015 大型連銀弾
+;;*NML *SKL IDE015 恐怖 対人特性
+;;*NML *STP IDE015 全 3
+
+*TKI 妖精2青 24,1 IDE017 B G1 妖精 37
+*IT2 IDE017 高速連銀弾
+;;*SKL IDE017 カリスマ 対魔特性
+;;*STP IDE017 全 2
+*BOS IDE017
+;;*NML *TKI 妖精2青 24,2 IDE018 B G1 妖精 38 轟炎高速弾
+;;*NML *SKL IDE018 混乱 カリスマ
+;;*NML *STP IDE018 全 2
+
+;;*NML *TKI 怨霊赤 25,1 IDE01C B G1 怨霊 37 雷神大型弾
+;;*NML *IT2 IDE01C 進化の宝玉
+;;*NML *STP IDE01C 力 10
+;;*NML *SKL IDE01C 猛毒 怒り
+;;*NML *TKI 怨霊赤 25,2 IDE01D B G1 怨霊 37 極大弾
+;;*NML *STP IDE01D 力 10
+;;*NML *SKL IDE01D 怒り
+
+*TKI ぬえ 22,0 IDEB011 B G1 ぬえ 38 高速光弾 高速錯乱弾
+*RIT ぬえ 高速紅弾
+*RIT ぬえ 遠距離高速蒼弾
+*RIT ぬえ 傷薬
+*STP ぬえ 武器レベル_速 1
+*EQP ぬえ 高速光弾
+*IT2 ぬえ 月光の粉
+*BOS ぬえ
+*CPU ぬえ ATK_ALL 11 4 1 8 23
+
+*TKI 村紗 23,0 IDEB012 B G1 村紗 37
+*RIT 村紗 氷結大型弾
+*RIT 村紗 傷薬
+*IT2 村紗 超級氷塊弾
+*EQP 村紗 超級氷塊弾
+*BOS 村紗
+*CPU 村紗 ATK_ALL 4 7 11 3
+
+*TKI 一輪 24,0 IDEB013 B G1 一輪 36 追尾脱力弾
+*RIT 一輪 精密追尾弾
+*RIT 一輪 傷薬
+*IT2 一輪 対魔術印
+*EQP 一輪 追尾脱力弾
+*BOS 一輪
+*CPU 一輪 ATK_ALL 4 11 10
+
+*TKI 雲山 25,0 IDEB014 B G1 雲山 38
+*RIT 雲山 大型紅弾
+*IT2 雲山 極大弾
+*EQP 雲山 極大弾
+*BOS 雲山
+*CPU 雲山 ATK_ALL 7 3
+
+*RED チルノdata_others/状態異常耐性
+
+*CP3 G1 MOV_ALL 2
+*TG4 G1 28,14
+
+*MVG ぬえ
+*SLP 30
+
+*RHT ぬえ
+It's been a while since I've been on the surface.
+*RHT ぬえ 笑
+Time to let off steam on these humans !
+
+*LHT 一輪 笑
+I agree. After all, youkais do have to attack humans.
+
+*RHT 村紗 怒
+If miss Byakuren has become our ennemy... Then humans are too...!
+
+;;*LHT 寅丸 怒
+;;聖……　あなたには、もうついていけません。[r]あなたがそのような人だったなんて……
+
+*RHT 雲山 神妙
+...
+
+*LHT ぬえ 怒
+Everyone, let's go ! We'll make these humans pay !
+
+*RHT 村紗 怒
+Miss Byakuren... I'll destroy what you are trying to protect...!
+
+*NHT
+*NWK
+
+*RSN
+*TKD 村紗&ぬえ 30
+*TKD 一輪&雲山 31
+*END

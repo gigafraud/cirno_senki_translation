@@ -1,0 +1,68 @@
+;START
+;;ーーーーーーーー
+;;Yuugi and Meiling appears
+;;ーーーーーーーー
+
+*SNA 華のさかづき大江山
+
+*TKI 勇儀 4,1 IDEB111 B G1 勇儀 40 極大弾
+*RIT 勇儀 大型紅弾
+*STP 勇儀 全 5
+*STP 勇儀 HP 28
+*STP 勇儀 武器レベル_大 3
+*IT2 勇儀 金剛酒
+*EQP 勇儀 極大弾
+*NML *SKL 勇儀 連続
+*CPU 勇儀 ATK_ALL 4 3
+*BOS 勇儀
+
+*TKI 美鈴 5,1 IDEB112 B G1 美鈴 40 高速連銀弾
+*RIT 美鈴 高速紅弾
+*RIT 美鈴 傷薬
+*RIT 美鈴 星の帽章
+*IT2 美鈴 星の帽章
+*STP 美鈴 武器レベル_速 2
+*EQP 美鈴 高速連銀弾
+*CPU 美鈴 ATK_ALL 4 10
+*STP 美鈴 HP 30
+;;*STP 美鈴 全 10
+*BOS 美鈴
+
+*RED チルノdata_others/状態異常耐性
+
+*CP3 G1 MOV_ALL 2
+*TG4 G1 28,14
+
+*MVG 美鈴
+*SLP 30
+
+*RHT 勇儀
+Alright !
+Meiling. Lets check out the results of our training here, ok ?
+
+*LHT 美鈴
+Yes ! I'll show you !
+
+*RHT 勇儀 笑
+Yeah, that's what I want to hear !
+*RHT 勇儀
+Are you ready ? I want you to only use kicks in this fight !
+
+*LHT 美鈴 驚
+What ? Only kicks ?
+
+*RHT 勇儀
+That's right. Don't tell me something pathetic like "I can't do that", ok ?
+
+*LHT 美鈴 怒
+O-Of course I won't ! I can do that no problem !
+Here I go !
+
+*NHT
+*NWK
+
+*RSN
+
+*TKD 勇儀&美鈴 37
+
+*END

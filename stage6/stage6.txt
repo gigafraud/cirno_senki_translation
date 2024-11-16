@@ -1,0 +1,536 @@
+;START
+
+*FO2
+*NIG
+
+*SND BGM12
+
+Fighting against humans, spring fairies, autumn gods...
+Even Tengus and Celestials.
+This summer has been a very lively one for our little fairy.
+"I am truly the strongest now !"
+After these great (?) accomplishments, Cirno is more confident than ever.
+"If I keep training, I'll be able to beat those weird people soon !"
+She continued to wait for the "time" to come.
+
+*SLP 30
+
+And then, when that time came...
+Cirno decided to take her revenge.
+
+*NSN
+
+However...
+
+
+*TTL Cirno_Senki\nChapter_6\nサイキョーの人助け 270
+
+*NWK
+
+*IMG チルノステージ6背景
+
+;;ーーーーーーーーーーーーーーーーーーーー
+;;If repulsion is high enough, add lines
+;;ーーーーーーーーーーーーーーーーーーーー
+
+*SND 鳥のさえずり
+
+*IF0 HANPATSU_5
+
+*LHT 大妖精 哀
+...
+
+*RHT リグル 驚
+Hm ? Dai, what's with the long face ?
+
+*LHT 大妖精 哀
+Oh, Wriggle...
+
+*RHT リグル 哀
+Dai... You've been like this for quite some time.
+Tell me what's wrong. Maybe it'll make you feel better.
+
+*LHT 大妖精
+...
+*LHT 大妖精 哀
+...I wonder what Cirno thinks of me.
+
+*RHT リグル
+What she thinks of you ?
+
+*LHT 大妖精 哀
+I feel like she doesn't like me...
+
+*RHT リグル
+Really ?
+
+*LHT 大妖精 絶望
+Yeah... She doesn't listen to me at all...
+*LHT 大妖精 絶望
+And she spends more time with Letty than with me...
+*LHT 大妖精 絶望
+Am I really... A friend to her...?
+
+*RHT リグル 哀
+... 
+
+*LHT 大妖精 哀
+...
+
+*RHT リグル
+But... You're always at her side, right ?
+So, you know more than me that she can be rough like that sometimes.
+*RHT リグル 笑
+I'm sure she does care about you, Dai. She just doesn't show it.
+That's what I think...
+
+*LHT 大妖精
+P-Probably, yes...
+*LHT 大妖精 笑
+Thank you, Wriggle.
+
+*RHT リグル 笑
+Don't mention it. I'm glad you feel better !
+
+*LHT 大妖精 笑
+Yeah !
+
+*NHT
+*NWK
+*SLP 60
+
+*LHT リグル 哀
+Dai... Are you okay ?
+
+*RHT パルスィ
+Hmm...
+
+*LHT リグル 驚
+W-What !? Have you been listening to us ?
+
+*RHT パルスィ 哀
+How can such a kind little child can be this jealous ?
+
+*LHT リグル
+Jealous ?
+
+*RHT パルスィ
+Yes. I feel a lot of jealousy in her.
+*RHT パルスィ 哀
+This much jealousy can drive a person crazy...
+...And I don't want to see her getting consumed by hatred.
+
+*LHT リグル 哀
+...
+
+*NHT
+*NWK
+*SLP 30
+*NIG
+*SLP 60
+
+;ENDIF0
+;;ーーーーーーーーーー
+;;End of lines. Beginning of the chapter
+;;ーーーーーーーーーー
+
+
+*SND BGM27
+*IMG チルノステージ6背景
+*SLP 30
+
+
+*LHT チルノ 笑
+Let's go ! I'll freeze you to the bone !
+Watch this !
+
+*RHT ミスティア 笑
+Hehe ! Doesn't matter how strong an attack is if it doesn't hit me !
+
+*KON ミス
+
+*NHT
+*NWK
+
+*LHT ヤマメ
+She's really good at dodging. As expected from a bird youkai.
+
+*RHT ルーミア 笑
+Misty ! Do your best !!
+
+*LHT ルナ
+Both of them are really fast. Way faster than me.
+
+*RHT スター 笑
+You can't go too fast, since you'll fall on the ground anyway !
+
+*LHT ルナ 怒
+Hey ! As long as I don't fall, I'm way better than you !
+
+*RHT サニー 笑
+"As long as I don't fall", huh ?
+
+*LHT リグル 驚
+Misty, be cafeful !
+
+*KON アタック
+
+*RHT ミスティア 驚
+Ouch ! 
+*RHT ミスティア 怒
+Hey, that hurts !
+
+
+*CHT 大妖精 驚
+Cirno !?
+
+*LHT チルノ 驚
+W-what is it ?
+
+*KON アタック
+
+*LHT チルノ 哀
+Ouch ! Oh no, I let my guard down...
+
+*NHT
+*NWK
+
+*RHT キスメ
+How can a single bullet hurt you so much ? Are you really that weak ?
+
+*LHT パルスィ
+Your bucket absorbs the hits.
+
+*RHT 天子 笑
+I don't need a bucket to resist bullets !
+
+*LHT ヤマメ 笑
+Yeah, but you're a special case. You enjoy it.
+
+*RHT 天子 驚
+W-What !!? Don't spread lies like that, you little spider girl !
+
+*LHT ヤマメ 笑
+Oh ? Did I hit a nerve ?
+
+*RHT 天子 驚
+Grr !! 
+
+*LHT 衣玖 笑
+I'm glad the eldest daughter is having fun.
+
+*LHT パルスィ
+...She's very easy to tease. I'm starting to understand Yuuka, now.
+
+*RHT キスメ 哀
+I just hope Yamame doesn't go too far.
+
+*LHT 衣玖 笑
+It's fine. Getting humbled is good for her.
+
+*RHT キスメ 哀
+If you say so...
+
+*NHT
+*NWK
+*SLP 30
+
+*RHT ミスティア 苦
+Ha... Ha... I guess it's a draw...
+
+*LHT チルノ 苦
+H-huh ?
+*LHT チルノ 怒
+That's not true ! I definitely won !
+
+*RHT ミスティア 怒
+No way !
+
+*CHT レティ
+It was close, but I think Cirno won that fight.
+She is more tired than hurt.
+
+*RHT ミスティア 哀
+Ooh...
+
+*CHT リグル
+Right.
+They both got hit, but Misty looks more in pain, so I'd say Cirno won here.
+*LHT チルノ 笑
+Yeah ! I won again !
+
+*RHT ミスティア 怒
+Grr... I'll win next time !
+
+*LHT チルノ 笑
+Hehehe !
+
+*NCH
+*NRH
+*NSN
+
+*LHT チルノ
+Hey, Aya ! Did you take a picture ? Do I look cool in it ??
+
+*SND 鳥のさえずり
+
+*RHT 文 哀
+...
+
+*LHT チルノ 怒
+Aya !! I'm talking to you !!
+
+
+*RHT 文 怒
+Hmm... This can be bad...
+
+*CHT 大妖精 哀
+I don't think she heard you...
+
+*LHT サニー
+Luna, what did you do again ?
+
+*CHT ルナ 哀
+I didn't do anything...
+
+*NCH
+
+*LHT レティ
+What happened ? You look worried.
+
+*LHT チルノ 怒
+Hey ! Show me the photo !
+
+*RHT 文 驚
+W-Wow !! You startled me !
+
+*LHT チルノ 怒
+Don' tell me you didn't see that !
+*LHT チルノ 哀
+I beat Misty in the coolest way possible...
+
+*CHT ミスティア 怒
+You didn't really beat me !
+
+*LHT リグル 哀
+Misty, calm down...
+
+*RHT 文 哀
+Oh, sorry. I got some news from my friends, so I wasn't looking.
+
+*LHT チルノ 哀
+So you didn't take any photos...
+
+*CHT キスメ 笑
+It's fine. She can always take some later.
+
+*LHT チルノ 哀
+I guess...
+
+*NCH
+
+*LHT パルスィ
+By the way, what are those news ? By the looks of it, they're not good news.
+
+*RHT 文
+Oh no, don't worry about it.
+
+*LHT ヤマメ
+You look worried, so it has to be important.
+*LHT ヤマメ 笑
+C'mon, we're your friends. You can tell us.
+
+*RHT 文 哀
+...Sure, if you really want to hear about it.
+Some of our people started acting weird.
+
+*SND BGM21
+
+*LHT レティ 驚
+Weird ?
+
+*RHT 文 哀
+Yes. It was only youkais at first. But now, even some Tengus started acting up.
+
+*LHT レティ 哀
+...I see.
+
+*RHT リグル
+Letty, do you know something about it ?
+
+*LHT パルスィ
+I might have a few ideas about what is causing this.
+Recently, I've been feeling more aggressive too.
+
+*RHT キスメ 笑
+Aren't you just jealous ?
+
+*LHT パルスィ 驚
+No, I'm not.
+
+*RHT ルーミア 哀
+Hey. I've been feeling really hungry recently, do you think it's related ?
+
+*LHT リグル
+...Aren't you always hungry ?
+
+*RHT ルーミア 哀
+...Huh.
+
+*LHT レティ 怒
+Maybe it is related. As if something in the air was making us become hot-blooded.
+
+*RHT 天子 笑
+I don't feel anything weird. Maybe you guys are just sick.
+You guys should learn from me and not let yourself be fazed by a few things.
+
+*LHT ヤマメ 笑
+I wouldn't learn from her, if I were you.
+
+*RHT 天子 驚
+I'm starting to wonder if you really are at my side or not.
+
+*LHT 幽香
+(...Hot-blooded, huh.)
+
+*SLP 30
+
+*RHT 文 哀
+(What is that ?... A group of bloodthirsty youkais ? Where are they going ?)
+*RHT 文 驚
+(Is that... The path to the Human Village ?)
+...
+*RHT 文 哀
+(The Great Tengu told us we are allowed to go there in case of emergency.)
+(I think I should do something about it.)
+
+*NSN
+
+*RHT 文 怒
+Miss Cirno, I have a request !
+
+*LHT 大妖精 驚
+What is it ?
+
+*LHT チルノ
+Hmm ? What do you want ?
+
+*SND おてんば恋娘
+
+*RHT 文 怒
+Help me stop my friends and these youkais !
+
+*LHT サニー 驚
+??
+
+*LHT チルノ 哀
+Why me ?
+
+*RHT 文 怒
+You're the only one I can ask that. I can only rely on you.
+I'm sure you can deal with them. Please help me !
+*RHT 文 笑
+Also... By doing that, you would prove to everyone that you really are strong !
+You would be a hero !
+
+*LHT チルノ 驚
+Oh, really ??
+*LHT チルノ 笑
+Then let's go ! I'll help you !
+
+*RHT リグル 驚
+W-Wait, Cirno ! Shouldn't we consult with everyone and decide after ?
+
+*LHT サニー
+I'm down.
+*LHT サニー 笑
+After all, it's not every day you get to become a hero !
+
+;;*LHT ヤマメ
+;;うん。悪い話じゃないかもね。
+;;*LHT ヤマメ 笑
+;;それに、地上の妖怪とは一度やり合って[r]みたいって思ってたし。
+
+*RHT リグル 驚
+...
+*RHT リグル 哀
+What about you, Miss Yuuka ? You aren't interested, right ?
+
+*LHT 幽香
+(Saving humans, huh ? Then maybe...)
+*LHT 幽香 笑
+I'm ok with this. It sounds fun.
+
+*RHT リグル 驚
+Oh, really...?
+
+*LHT 幽香 笑
+See, looks like everyone is willing to help our friend. What are we waiting for ?
+
+*CHT 天子 怒
+Hey ! I don't want to do this !!
+
+*RHT 衣玖 哀
+Eldest daughter, you should put your pride aside...
+
+*CHT 天子 驚
+Why ? I don't want to help them !
+
+*LHT 幽香 邪悪
+...You're going with us... Right ?
+
+*CHT 天子 苦
+O-Oh ! I suddenly feel like fighting youkais ! I-I'll show them !
+
+*RHT キスメ 哀
+I really wonder what happened between these two.
+
+*CHT スター
+She got tickled for at least an hour.
+
+*LHT ヤマメ 驚
+Terrifying...
+
+*RHT リグル 哀
+What about Misty and the others ?
+
+*CHT ミスティア
+If everyone goes, I'm going too.
+
+*LHT ルーミア 笑
+I'm going with Misty !
+
+*RHT リグル 哀
+... I wonder if it's really ok...
+
+*CHT 文
+I see. Thank you, everyone.
+*CHT 文 笑
+Cirno, let's go !
+
+*LHT チルノ 笑
+Yes ! Let's go and beat these youkais !
+Letty, I'll become a hero !
+
+*RHT レティ 笑
+Alright. Let's do our best.
+
+*RHT 大妖精 哀
+Please just try to not get hurt...
+
+*LHT チルノ 笑
+Don't worry, I'll be fine !
+
+*RHT 大妖精 驚
+*CHT 文 驚
+...Huh ? Wait, Cirno ! It's the other way !! Cirnooo !!!
+
+
+
+*NHT
+*NWK
+*NIG
+*SLP 30
+*SND BGM22
+*FI2
+*END

@@ -1,0 +1,28 @@
+;START
+;;ーーーーーーーー
+;;ＮＰＣ僧兵Ｂ登場
+;;ーーーーーーーー
+
+*NPC 僧兵黄 27,28 IDN04 E G1N 僧兵 36 命奪術弾 治療薬
+*STP IDN04 全 5
+*CP2 IDN04 ATK_ALL 9
+*CP2 IDN04 MOV_ALL 2
+*CP2 IDN04 SPC_ALL 3
+*SKL IDN04 追撃 すり抜け
+*TG2 IDN04 28,15
+
+*SND BGM24
+
+*MVG IDN04
+*SLP 30
+
+*LHT 僧兵黄
+な、なんなんですかこれはーっ！
+はぁ……今日の運勢は最悪だっていう占い、[r]こういうことだったんですね……
+
+*NHT
+*NWK
+
+*RSN
+
+*END

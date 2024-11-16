@@ -1,0 +1,28 @@
+;START
+;;ーーーーーーーー
+;;ＮＰＣ僧兵Ｃ登場
+;;ーーーーーーーー
+
+*NPC 僧兵赤 23,0 IDN05 E G1N 僧兵 36 追尾脱力弾 治療薬
+*STP IDN05 全 5
+*CP2 IDN05 ATK_ALL 9
+*CP2 IDN05 MOV_ALL 2
+*CP2 IDN05 SPC_ALL 3
+*SKL IDN05 追撃 必殺 猛毒
+*TG2 IDN05 28,15
+
+*SND BGM24
+
+*MVG IDN05
+*SLP 30
+
+*LHT 僧兵赤
+な、なによこれ……[r]悪い夢でも見てるってわけ？
+もうっ！　夢なら早く覚めちゃってよ！！
+
+*NHT
+*NWK
+
+*RSN
+
+*END

@@ -1,0 +1,80 @@
+;START
+;;ーーーーーー
+;;Aki and Shizua appears
+;;ーーーーーー
+
+*SND BGM24
+
+*TKI 静葉 1,21 IDEB101 B G1 静葉 38 星光術弾
+*RIT 静葉 回復札
+*RIT 静葉 旋風弾
+*RIT 静葉 傷薬
+*STP 静葉 武器レベル_魔 2
+*EQP 静葉 星光術弾
+*IT2 静葉 対魔術印
+*BOS 静葉
+*STP 静葉 魔力 5
+*CPU 静葉 ATK_ALL 4 10
+
+*TKI 穣子 1,20 IDEB102 B G1 穣子 37 雷神大型弾
+*RIT 穣子 大型紅弾
+*RIT 穣子 回復札
+*RIT 穣子 傷薬
+*STP 穣子 武器レベル_大 2
+*EQP 穣子 雷神大型弾
+*IT2 穣子 ほこほこ焼き芋
+*BOS 穣子
+*STP 穣子 力 5
+*CPU 穣子 ATK_ALL 4 6
+
+*TKI 妖怪赤 2,22 IDE101 B G1 秋妖怪 40 大型吸奪弾
+*SKL IDE101 回復
+;;*STP IDE101 全 10
+*TKI 妖怪赤 2,21 IDE102 B G1 秋妖怪 40 大型吸奪弾
+;;*SKL IDE102 待ち伏せ 回復
+;;*STP IDE102 全 10
+*TKI 妖怪赤 2,20 IDE103 B G1 秋妖怪 40 大型吸奪弾
+*SKL IDE103 追撃 回復
+*IT2 IDE103 阿礼の書
+*BOS IDE103
+;;*STP IDE103 全 10
+;;*NML *TKI 妖怪赤 3,23 IDE104 B G1 秋妖怪 40 大型吸奪弾
+;;*NML *STP IDE104 全 10
+;;*NML *SKL IDE104 回復
+*NML *TKI 妖怪赤 3,19 IDE105 B G1 秋妖怪 40 大型吸奪弾
+*NML *SKL IDE105 猛毒 回復
+*NML *STP IDE105 全 10
+*NML *BOS IDE105
+
+*RED チルノdata_others/状態異常耐性
+
+*CP3 G1 MOV_ALL 2
+*TG4 G1 28,14
+
+*MVG 穣子
+*SLP 30
+
+*RHT 静葉 怒
+You guys celebrate spring, but never autumn...
+
+*LHT 穣子 怒
+I agree.
+*LHT 穣子 哀
+Usually, they only thank us when the harvest is good.
+But that's it... No offerings, no prayers...
+*LHT 穣子 怒
+They don't understand that we need their faith to apply our powers...
+
+*RHT 静葉 怒
+If that's the case, we have no choice but to... use force, don't we ?
+
+*LHT 穣子 怒
+We do. It's time to show them what happens when they neglect us !
+
+*NHT
+*NWK
+*RSN
+
+*TKD 静葉&穣子 36
+
+*END

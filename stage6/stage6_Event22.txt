@@ -1,0 +1,84 @@
+;START
+;;ーーーーーーーー
+;;青娥、芳香、出現
+;;ーーーーーーーー
+
+;;*TKI 僧兵黄 1,22 IDE2202 C G1 屍僧兵 35 致死暗黒術弾
+;;*STP IDE2202 HP 15
+;;*SKL IDE2202 回復
+*NML *TKI 僧兵赤 0,22 IDE2204 C G1 屍僧兵 34 追尾侵蝕弾
+*NML *SKL IDE2204 壁抜け 精神結界
+*NML *SKL IDE2204 回復
+*NML *STP IDE2204 HP 15
+*NML *BOS IDE2204
+
+;;*TKI 僧兵青 0,21 IDE2206 C G1 屍僧兵 34 高速凍傷弾
+;;*SKL IDE2206 怒り
+;;*SKL IDE2206 回復
+;;*STP IDE2206 HP 15
+;;*TKI 僧兵黄 1,20 IDE2208 C G1 屍僧兵 35 致死暗黒術弾
+;;*STP IDE2208 HP 15
+;;*SKL IDE2208 回復
+*TKI 僧兵赤 0,20 IDE2210 C G1 屍僧兵 34 追尾脱力弾
+*STP IDE2210 HP 15
+*SKL IDE2210 回復
+*BOS IDE2210
+
+*TKI 青娥 1,21 IDBE221 C G1 青娥 37 呪怨術弾 命奪術弾
+*RIT IDBE221 吸奪術弾
+*RIT IDBE221 傷薬
+*IT2 IDBE221 天女の羽衣
+*EQP IDBE221 呪怨術弾
+*CP2 IDBE221 ATK_ALL 11 3 8 23
+*BOS IDBE221
+*STP IDBE221 魔力 10
+
+*TKI 芳香 2,21 IDBE222 C G1 芳香 37 宵闇大型弾
+*RIT IDBE222 大型蒼弾
+*RIT IDBE222 遠距離大型蒼弾
+*RIT IDBE222 傷薬
+*IT2 IDBE222 極大弾
+*EQP IDBE222 宵闇大型弾
+*CP2 IDBE222 ATK_ALL 1
+*BOS IDBE222
+*STP IDBE222 HP 30
+*STP IDBE222 技 10
+
+*CP3 G1 MOV 2
+*TG4 G1 28,14
+
+*RED チルノdata_others/状態異常耐性
+
+*SND BGM24
+
+*MVG 青娥
+*SLP 30
+
+*RHT 青娥
+………
+
+*LHT 芳香 笑
+せーが様、賑やかだなー。[r]私達もあれに混ざりに行くのか―？
+
+*RHT 青娥
+ええ、そうね。この前のこと、しっかり[r]お礼させてもらわないといけないものね。
+
+*LHT 芳香
+おー？　なにかしてもらったっけ？
+
+*RHT 青娥 笑
+ええ。色んなことを、ね。
+*RHT 青娥 怒
+それじゃ芳香、行くわよ。[r]しっかりお願いね。
+
+*LHT 芳香 笑
+おー。まかせとけ、せーが様。
+
+
+*NHT
+*NWK
+*TKD 芳香&青娥 39
+
+*RSN
+
+*END
