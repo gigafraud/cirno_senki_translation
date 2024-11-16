@@ -1,0 +1,32 @@
+
+*TKI 妖精赤 7,13 IDSE31 B GE31 Fairy 14 爆炎追尾弾
+*TKI 妖精青 6,12 IDSE32 B GE31 Fairy 16 爆炎高速弾
+*SKL IDSE32 連続
+*TKI 妖精緑 7,12 IDSE33 B GE31 Fairy 14 極炎術弾
+*IT2 IDSE33 グリモア
+*SKL IDSE33 精神結界
+*TKI 妖精青 8,12 IDSE34 B GE31 Fairy 16 爆炎高速弾
+*TKI 妖精赤 7,11 IDSE35 B GE31 Fairy 14 爆炎追尾弾
+*SKL IDSE35 すり抜け
+
+*NML *TKI 妖精赤 13,11 IDSE36 B GE31 Fairy 15 爆炎追尾弾
+*TKI 妖精赤 14,11 IDSE37 B GE31 Fairy 15 爆炎追尾弾
+*IT2 IDSE37 大天狗の羽
+*NML *TKI 妖精青 11,10 IDSE38 B GE31 Fairy 16 爆炎高速弾
+*TKI 妖精緑 12,10 IDSE39 B GE31 Fairy 16 極炎術弾
+*SKL IDSE39 精神結界
+*TKI 妖精緑 13,10 IDSE310 B GE31 Fairy 17 極炎術弾
+*SKL IDSE310 精神結界
+*TKI 妖精青 12,9 IDSE311 B GE31 Fairy 17 爆炎高速弾
+*SKL IDSE311 見切り
+
+*TKI 妖精青 14,5 IDSE312 B GE31 Fairy 15 爆炎高速弾
+*NML *TKI 妖精青 13,4 IDSE313 B GE31 Fairy 15 爆炎高速弾
+*NML *SKL IDSE313 恐怖
+*TKI 妖精緑 14,4 IDSE314 B GE31 Fairy 20 極炎術弾
+*SKL IDSE314 精神結界
+*BOS IDSE314
+*TKI 妖精赤 15,4 IDSE315 B GE31 Fairy 14 爆炎追尾弾
+*IT2 IDSE315 翡翠
+*TKI 妖精赤 16,4 IDSE316 B GE31 Fairy 14 爆炎追尾弾
+

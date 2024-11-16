@@ -1,0 +1,17 @@
+;START
+;;ーーーーーーー
+;;Fight Minoriko
+;;ーーーーーーー
+
+*SND BGM26
+
+*LHT 穣子
+Harvest ♪! Harvest ♪! Autumn's harvest ♪!! There's no way you can't see autumn's beauty !
+*LHT 穣子 笑
+Allow me to show you its splendor !
+
+*NHT
+*NWK
+*RSN
+
+*END

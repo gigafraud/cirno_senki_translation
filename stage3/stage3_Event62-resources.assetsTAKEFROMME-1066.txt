@@ -1,0 +1,25 @@
+;START
+;;ーーーーーーーーーーー
+;;Letty fights Shizuha
+;;ーーーーーーーーーーー
+
+*SND BGM26
+
+*LHT レティ 哀
+If you're the symbol of tranquility and loneliness, I thought you would understand winter's calmness...
+
+*RHT 静葉
+There's not a moving thing. The world is only tranquility, but isn't it too calm ?
+Everything needs something like "boundaries". Harmony between static and dynamic is wonderful.
+
+*LHT レティ
+If "boundaries" are needed, isn't it strange to say "autumn is the best" ? Your opinion is biased.
+
+*RHT 静葉 激怒
+T-Those are two different things !!
+
+*NHT
+*NWK
+*RSN
+
+*END

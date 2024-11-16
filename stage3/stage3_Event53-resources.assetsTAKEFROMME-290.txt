@@ -1,0 +1,22 @@
+;START
+;;ーーーーーーー
+;;Fight Shizuha
+;;ーーーーーーー
+
+*SND BGM26
+
+*LHT 静葉
+As a minor goddess, I understand your situation.
+You don't hate autumn. You are just following your friends, right ?
+*LHT 静葉 笑
+Why don't you join us instead ? You know, with us, you'll be given an unlimited amount of sweet po-
+*LHT 静葉 驚
+Eh ? "I can't do that", you say ?
+*LHT 静葉 激怒
+W-Why are you so stubborn !? I won't forgive this !!!
+
+*NHT
+*NWK
+*RSN
+
+*END

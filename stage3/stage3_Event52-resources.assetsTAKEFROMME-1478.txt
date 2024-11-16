@@ -1,0 +1,20 @@
+;START
+;;ーーーーーーーーーーーー
+;;Fight Lily Black
+;;ーーーーーーーーーーーー
+
+*SND BGM26
+
+*LHT リリーブラック 笑
+Hey, why don't you join us ? Do you really think winter is better than spring ?
+It's not too late, come over here !
+*LHT リリーブラック 哀
+Eh ? You said no ? I see... Then...
+*LHT リリーブラック 怒
+You leave me no other choice !
+
+*NHT
+*NWK
+*RSN
+
+*END

@@ -1,0 +1,34 @@
+;START
+;;ーーーーー
+;;6 turns passed
+;;ーーーーー
+
+*MVG 穣子
+
+*RHT 穣子 笑
+Do you have enough potatoes ? There's still plenty of these left, so help yourselves !
+
+*LHT 妖怪赤
+Hurray !! Let's eaaat !!
+
+*NHT
+*NWK
+
+;;ーーーーーーーーーーーーー
+;;秋妖怪勢、レベルアップ処理
+;;ーーーーーーーーーーーーー
+
+*LVU 天狗紫 1
+*LVU 河童茶 1
+*LVU 妖怪赤 1
+*LVU 妖怪青 1
+*STP IDF2 武器レベル_大 1
+*STP IDF3 武器レベル_大 1
+*ST2 G3 HP 0
+*ST2 G3A HP 0
+The level of the autumn youkais increased
+Their HPs has completely recovered
+
+*RSN
+
+*END

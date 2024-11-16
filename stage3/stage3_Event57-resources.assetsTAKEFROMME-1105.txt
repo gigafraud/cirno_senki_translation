@@ -1,0 +1,21 @@
+;START
+;;ーーーーーーーーーーーーーーーー
+;;Letty fights Lily White
+;;ーーーーーーーーーーーーーーーー
+
+*SND BGM26
+
+*RHT リリーホワイト 怒
+The warm spring is better than the cold winter, obviously !
+
+*LHT レティ 怒
+...I can't stay silent. Not because you praise spring, but because you deny my season.
+
+*RHT リリーホワイト 怒
+I won't lose !
+
+*NHT
+*NWK
+*RSN
+
+*END

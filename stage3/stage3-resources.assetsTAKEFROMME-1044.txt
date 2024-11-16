@@ -1,0 +1,332 @@
+;START
+
+*FO2
+*NIG
+
+*SND BGM23
+
+Thus, Cirno's group greatly expanded.
+"Together, we can easily beat anyone in our path !"
+Cirno smiled looking at all her friends, and said "I'll surely get my revenge now !"
+However, for some reason, Cirno didn't take immediate action.
+Instead, she decided to spend time with her companions.
+
+*NWK
+
+*SLP 30
+
+*TTL チルノ戦記\n第三章\nさいきょーの一回休み 270
+
+*NWK
+
+*SLP 30
+At the Misty Lake...
+
+*NHT
+*NWK
+*IMG stage13背景
+*SLP 30
+
+
+*LHT チルノ 苦
+So hot...
+
+*RHT 大妖精 驚
+... Cirno ?
+
+*CHT サニー
+It's not that hot though...
+
+*RHT ルナ
+She's an ice fairy, so it makes sense that it's too hot for her.
+
+*CHT スター 笑
+Hehe, she's weakened ! It's our chance !
+
+*LHT チルノ 怒
+Grr, this heat is nothing ! I'm perfectly fine !
+
+*RHT リグル 哀
+Stop it. Calm down, you're going to overheat.
+
+*CHT サニー 哀
+True...
+
+*RHT 大妖精
+Yes.
+*RHT 大妖精 笑
+Instead of fighting, we should cool ourselves in the lake.
+
+*RHT ルナ 笑
+Ah, that sounds nice.
+
+*LHT チルノ 笑
+Yeah ! Good idea, Dai ! I'll be the first one in the water !
+
+*CHT スター 驚
+... Huh !? Don't take off your clothes in front of everyone !
+
+*RHT ルナ 驚
+She's really doing this...
+
+*LHT チルノ 笑
+I don't care ! C'mon everyone, let's jump in !
+
+*RHT ルナ 驚
+D-Don't push me in the water !!
+
+*CHT サニー 驚
+Ah.
+
+*RHT 大妖精 驚
+Huh ?
+
+*CHT スター 哀
+Poor Luna...
+
+*LHT チルノ 笑
+C'mon, the water is really nice ! All of you, come bathing !
+
+*CHT ルナ 苦
+L-leave me alone !
+
+*NHT
+
+*RHT リグル 驚
+Hmm... Cirno is being a handful as always.
+*RHT リグル
+Where are the other ones ?
+
+*LHT ミスティア 哀
+...
+
+*CHT ルーミア 笑
+Mistyyy ! Huuug !
+
+*RHT ヤマメ 笑
+Look at them, playing in the water.
+
+*CHT パルスィ 微笑
+Hmm, I'm not that envious of them.
+
+*RHT キスメ 哀
+Does Rumia really want a hug ? Anyway, it is pretty hot today.
+
+*CHT リグル
+Misty, are you ok ?
+
+*LHT ミスティア 哀
+... Too hot...
+
+*CHT ルーミア 驚
+Oh, really ?
+*CHT ルーミア 笑
+Then, I'll make darkness to protect you from the sun !
+
+*NLH
+*NCH
+
+*RHT キスメ 哀
+...
+
+*CHT パルスィ
+That's... A way to cool her down...
+
+*LHT ヤマメ 笑
+You can't even see them anymore.
+Hey, you two, don't do anything funny, ok ?
+
+*NHT
+*NWK
+
+"Mystiaaaa !!!"
+"Come here !!!"
+"Is this what I've been doing to people ?"
+
+*RHT リグル
+... Welp, Cirno isn't the only one messing around.
+
+*NHT
+*NWK
+*SLP 60
+
+*LHT サニー 笑
+Hehehe ! I'm gonna sink you !
+
+*CHT 大妖精 驚
+Waaah !?
+*CHT 大妖精 笑
+Geez, don't scare me like that ! I'll get my revenge !
+
+*RHT スター 笑
+I'll help you, Dai ! Prepare yourself, Sunny !
+
+*LHT サニー 怒
+Grr, 2 Versus 1 is unfair ! Luna, help me out !
+
+*CHT ルナ 驚
+Eh ? Me too ?
+
+*RHT スター 笑
+Hehehe ! In that case, I'll be Luna's opponent !
+
+*CHT ルナ 怒
+S-sure ! I'm not gonna lose !
+
+*NRH
+
+*LHT サニー 笑
+Ready ? Fiiight !
+*LHT サニー
+... Huh ?
+
+*CHT 大妖精 驚
+Hm ? What is it ?
+
+*LHT サニー
+I was wondering if Cirno was gonna break into the battle, but she's strangely quiet...
+
+*CHT 大妖精 驚
+Oh, you mean Cirno ? Now that you mention it... What is she doing ?
+
+*RHT チルノ 哀
+...
+*RHT チルノ 笑
+Yeah, that's a good idea !
+
+*CHT 大妖精
+What are you doing, Cirno ?
+
+*RHT チルノ 笑
+Hehe, I just thought of something good !
+
+*LHT サニー 哀
+Something good ?
+*LHT サニー 笑
+I don't really expect you to have good ideas !
+
+*RHT チルノ 笑
+Don't say that ! Because it's actually veeeery good !
+*RHT チルノ 哀
+...
+
+*CHT 大妖精 驚
+(Who is she looking at... ? Is it... Rumia ?)
+*CHT 大妖精
+(I can't see her at all, but I assume it's her.)
+
+*LHT サニー
+So, what is this "good thing" you're talking about ?
+
+*RHT チルノ 笑
+Oh yeah. Hey guys, let's go the the mountain right now !
+
+*CHT 大妖精 驚
+The mountain ?
+
+*LHT サニー 驚
+Are we going to climb it ?
+
+*RHT チルノ 笑
+Yes ! To go see Letty !
+
+*LHT サニー 驚
+Letty ?
+
+*CHT 大妖精 笑
+Oh yeah, you don't know her. Letty is a snow youkai that can manipulate winter.
+And since Cirno is an ice fairy, they get along well.
+
+*LHT サニー
+Oh, I see. So she just wanna go see her.
+*LHT サニー 笑
+That sounds good. If we have someone like her with us, the weather will be easier to withstand.
+
+*RHT チルノ 笑
+Exactly ! That's a good idea, right ?
+
+*CHT 大妖精
+If everyone is ok with this, I'm fine with it as well...
+
+*LHT サニー
+Sounds good to me. She's gonna get rid of the heat, right ?
+
+*RHT チルノ
+Yes ! When Letty's here, the place is always refreshing, it's very pleasant.
+
+*LHT サニー 笑
+Perfect ! 
+
+*RHT チルノ 笑
+It's settled then ! Let's go to Letty's place right away !
+
+*LHT サニー 笑
+Yaaay !!
+
+*CHT 大妖精 笑
+Yaaay !
+*CHT 大妖精 驚
+... Hmm ? By the way, where are Luna and Star ?
+
+*LHT サニー
+Huh ? They're not around ?
+
+*NHT
+*NWK
+*SLP 30
+
+*RHT スター 驚
+Waaah ! Luna, I'm sorry ! Are you ok ?
+
+*CHT ルナ 哀
+Glub-glub-glub-glub
+
+*LHT サニー 驚
+W-What !?
+
+*CHT 大妖精 驚
+Luna ! Is she sinking !?
+
+*LHT サニー 哀
+Star... What did you do to her...
+
+*RHT スター
+Uuh... I tried to sneak attack her...
+*RHT スター
+It worked well... A little too well...
+
+*LHT チルノ 哀
+Can she really sink that easily...?
+
+*RHT スター 哀
+Yeah, right ?
+
+*LHT サニー
+Hey Luna, are you still alive ?
+
+*CHT ルナ 哀
+Glub-glub-glub !
+
+*LHT チルノ
+I think she's dead.
+
+*RHT スター
+Looks dead.
+
+*LHT サニー
+Yep, she's definitely dead.
+
+*RHT 大妖精 驚
+Don't say that ! We must help her out, quick !!
+Luna ! Lunaaa !!
+
+
+*NHT
+*NWK
+*NIG
+
+*SLP 30
+
+*SND BGM22
+*FI2
+*END

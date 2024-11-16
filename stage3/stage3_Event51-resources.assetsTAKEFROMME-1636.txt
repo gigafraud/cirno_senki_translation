@@ -1,0 +1,16 @@
+;START
+;;ーーーーーーーーーーーー
+;;Fight Lily White
+;;ーーーーーーーーーーーー
+
+*SND BGM26
+
+*LHT リリーホワイト 笑
+Spring ! It's spring ! The wonderful and lovely spring !
+I won't give spring to those who won't admit its loveliness !!
+
+*NHT
+*NWK
+*RSN
+
+*END

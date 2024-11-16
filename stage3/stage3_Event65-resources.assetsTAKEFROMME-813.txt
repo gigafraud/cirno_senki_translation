@@ -1,0 +1,69 @@
+;START
+;;ーーーーーーーーーーーー
+;;Rumia fights Minoriko
+;;ーーーーーーーーーーーー
+
+*SND 妖魔夜行
+
+;;ーーーーーーーーーーー
+;;Did event 7 occured ?
+;;ーーーーーーーーーーー
+
+*IF0 EVENT3_7
+
+*LHT ルーミア 
+Hey hey ! Do you still have potatoes you distributed to the others earlier ??
+
+*RHT 穣子
+Huh ? Are you talking about roasted sweet potatoes ? I still have some, but...
+
+*LHT ルーミア 笑
+Great ! Give some potatoes to me as well !!
+
+*RHT 穣子 哀
+Even if I would love to give you some... But we're ennemies right now...
+*RHT 穣子
+Oh, I know ! If you join us, I can give you potatoes.
+
+*LHT ルーミア 哀
+Who cares if we're ennemies of allies ?
+Don't say mean things like that.
+
+*RHT 穣子 怒
+I can't ! If you don't want to join our side, forget about the potatoes !
+
+*LHT ルーミア 怒
+Humph ! Stingy !! If you say you're not gonna give me some, I'll take them by force !!
+
+*RHT 穣子 怒
+I'm not handing them over that easily !!
+
+*SKP END_EVE
+
+;ENDIF0
+;;ーーーーーーーーーーーー
+;;If event 7 has not occured
+;;ーーーーーーーーーーーー
+
+*LHT ルーミア
+Sniff sniff sniff...
+*LHT ルーミア 笑
+It smells good over here !
+What is it, what is it ? Is that potatoes ??
+
+*RHT 穣子 笑
+That's right ! I'm proud of this autumn fragrance !
+
+*LHT ルーミア 笑
+Is that so !? They look tasty ! Let's eaaaat !!
+
+*RHT 穣子 怒
+...Hey ! I'm not a potato !!
+
+;END_EVE
+
+*NHT
+*NWK
+*RSN
+
+*END
