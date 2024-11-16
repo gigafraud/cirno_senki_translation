@@ -1,0 +1,36 @@
+;START
+;;ーーーーーーーーー
+;;幽香と椛が戦闘した
+;;ーーーーーーーーー
+
+*SND BGM26
+
+*LHT 幽香
+...
+
+*RHT 椛 怒
+...
+
+*LHT 幽香 笑
+Give paw.
+
+*RHT 椛 驚
+Excuse me ?
+
+*LHT 幽香 笑
+If I say "give paw", you must give paw. Can't you do that ?
+
+*RHT 椛 怒
+I-I'm not a dog !!
+
+*LHT 幽香 哀
+Good grief, you haven't been trained, huh.
+
+*RHT 椛 怒
+How long are you going to make fun of me !? I won't forgive that !
+
+*NHT
+*NWK
+*RSN
+
+*END

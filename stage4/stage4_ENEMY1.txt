@@ -1,0 +1,172 @@
+
+*TKI 天狗紫 28,29 IDB1 E GB1 Tengu 30 神速弾 雷神高速弾 極氷追尾弾
+*BOS IDB1
+*TKI 白狼天狗黒 27,29 IDB2 A GB1 白狼天狗 25 宵闇大型弾
+*TKI 白狼天狗黒 29,29 IDB3 A GB1 白狼天狗 25 宵闇大型弾
+*TKI 白狼天狗白 27,28 IDB4 A GB1 白狼天狗 25 大型吸奪弾
+
+*TKI 文 27,9 IDBA A GB2 Aya 28 神速弾 雷神高速弾
+*BOS IDBA
+*RIT IDBA 高速紅弾
+*RIT IDBA 遠距離高速紅弾
+*RIT IDBA 傷薬
+*EQP IDBA 神速弾
+*ITM IDBA 治療薬
+*IT2 IDBA 大天狗の羽
+*CPU 文 ATK_ALL 4 11 6 8
+*CPU 文 SPC_ALL 3
+
+*TKI はたて 18,9 IDBH A GB2 Hatate 27 遠距離高速銀弾 極氷高速弾
+*BOS IDBH
+*RIT IDBH 遠距離高速蒼弾
+*RIT IDBH 遠距離高速蒼弾
+*RIT IDBH 大天狗の羽
+*RIT IDBH 傷薬
+*EQP IDBH 遠距離高速銀弾
+*ITM IDBH 治療薬
+*IT2 IDBH 大天狗の羽
+*CPU はたて ATK_ALL 4 11 3 8
+*CPU はたて SPC_ALL 3
+
+*TKI 椛 8,29 IDBM E GB3 Momiji 26
+*BOS IDBM
+*RIT IDBM 追尾霊撃弾
+*RIT IDBM 傷薬
+*ITM IDBM 追尾乱舞弾
+*IT2 IDBM 懐中時計
+*ITM IDBM 治療薬
+*STP IDBM 武器レベル_追 1
+*EQP IDBM 追尾乱舞弾
+*STP IDBM 力 4
+*CPU 椛 ATK_ALL 4 7 1
+*CPU 椛 SPC_ALL 3
+
+*TKI にとり 16,6 IDBN E GB3 Nitori 26
+*BOS IDBN
+*RIT IDBN 大型紅弾
+*RIT IDBN 傷薬
+*ITM IDBN 大型衝撃弾
+*EQP IDBN 大型衝撃弾
+*ITM IDBN 治療薬
+*IT2 IDBN 龍神の像
+*STP IDBN 武器レベル_大 1
+*CPU にとり ATK_ALL 4 11 10
+*CPU にとり SPC_ALL 3
+
+*TKI 天狗青 7,7 ID1 A G1 Tengu 23 高速凍傷弾
+*TKI 天狗青 8,7 ID2 A G1 Tengu 23 高速侵蝕弾
+*TKI 白狼天狗緑 7,6 ID3 A G1 Tengu 22 必中弾
+*TKI 白狼天狗緑 8,6 ID4 A G1 Tengu 22 必中弾
+
+*TKI 天狗紫 5,10 ID5 A G1 Tengu 23 追尾呪怨弾
+*IT2 ID5 大天狗の羽
+*TKI 天狗紫 5,9 ID6 A G1 Tengu 23 追尾脱力弾
+*TKI 白狼天狗青 4,10 ID7 A G1 Tengu 22 高速連紅弾
+*TKI 白狼天狗青 4,9 ID8 A G1 Tengu 22 高速連紅弾
+
+*HAD *TKI 天狗緑 0,14 ID9 A G1 Tengu 23 追尾猛毒弾
+*HAD *TKI 天狗緑 1,14 ID10 A G1 Tengu 23 追尾侵蝕弾
+*TKI 白狼天狗赤 0,13 ID11 A G1 Tengu 22 大型連紅弾
+*TKI 白狼天狗赤 1,13 ID12 A G1 Tengu 22 大型連紅弾
+
+*TKI 妖精緑 7,10 ID13 E G1 Idk 23 遠距離回復札 雷神弾
+*IT2 ID13 厄除札
+*STP ID13 魔力 5
+*STP ID13 全 5
+*TKI 妖精緑 8,10 ID14 E G1 Idk 23 遠距離回復札 雷神弾
+*STP ID14 魔力 5
+*STP ID14 全 5
+
+*TKI 天狗青 7,14 ID15 A G1 Tengu 23 高速侵蝕弾
+*TKI 天狗青 8,14 ID16 A G1 Tengu 23 高速錯乱弾
+*TKI 白狼天狗緑 7,13 ID17 A G1 Tengu 22 追尾紅弾
+*TKI 白狼天狗緑 8,13 ID18 A G1 Tengu 22 追尾紅弾
+
+*HAD *TKI 天狗紫 0,18 ID19 B G1 Tengu 23 追尾侵蝕弾
+*HAD *TKI 天狗紫 1,18 ID20 B G1 Tengu 23 追尾錯乱弾
+*HAD *IT2 ID20 転生の宝玉
+*TKI 白狼天狗青 0,17 ID21 B G1 Tengu 22 高速連紅弾
+*TKI 白狼天狗青 1,17 ID22 B G1 Tengu 22 高速連紅弾
+
+;;*TKI 天狗緑 7,18 ID23 A G1 Tengu 23 追尾猛毒弾
+;;*TKI 天狗緑 8,18 ID24 A G1 Tengu 23 追尾侵蝕弾
+*TKI 白狼天狗赤 7,17 ID25 A G1 Tengu 22 大型連紅弾
+*TKI 白狼天狗赤 8,17 ID26 A G1 Tengu 22 大型連紅弾
+
+*TKI 天狗青 0,26 ID27 A G1 Tengu 23 高速侵蝕弾
+*IT2 ID27 翡翠
+*TKI 天狗青 1,26 ID28 A G1 Tengu 23 高速錯乱弾
+*TKI 白狼天狗緑 0,25 ID29 A G1 Tengu 22 追尾紅弾
+*TKI 白狼天狗緑 1,25 ID30 A G1 Tengu 22 追尾紅弾
+
+*TKI 天狗紫 7,26 ID31 B G1 Tengu 24 追尾紅弾
+*TKI 天狗紫 8,26 ID32 B G1 Tengu 24 追尾紅弾
+*TKI 天狗紫 14,26 ID33 A G1 Tengu 24 追尾猛毒弾
+*IT2 ID33 進化の宝玉
+*TKI 白狼天狗青 7,25 ID34 B G1 Tengu 20 高速連紅弾
+;;*TKI 白狼天狗青 8,25 ID35 B G1 Tengu 20 高速連紅弾
+*TKI 白狼天狗青 14,25 ID36 A G1 Tengu 20 高速連紅弾
+
+*TKI 白狼天狗黄 8,20 ID37 E G1 Tengu 25
+*IT2 ID37 大型吸奪弾
+*BOS ID37
+
+*NML *TKI 白狼天狗赤 13,21 ID38 A G1 Tengu 21 大型紅弾
+*NML *TKI 白狼天狗赤 13,20 ID39 A G1 Tengu 21 大型紅弾
+*TKI 白狼天狗緑 14,21 ID40 E G1 Tengu 21 命奪追尾弾
+*STP ID40 武器レベル_追 1
+*EQP ID40 命奪追尾弾
+*IT2 ID40 天女の羽衣
+*TKI 白狼天狗緑 14,20 ID41 E G1 Tengu 21 命奪追尾弾
+*STP ID41 武器レベル_追 1
+*EQP ID41 命奪追尾弾
+
+*TKI 天狗緑 18,24 ID42 A G1 Tengu 22 追尾紅弾
+*TKI 天狗緑 19,24 ID43 A G1 Tengu 22 追尾猛毒弾
+
+*TKI 天狗青 18,15 ID44 A G1 Tengu 23 高速猛毒弾
+*TKI 天狗青 19,15 ID45 A G1 Tengu 26 高速錯乱弾
+*BOS ID45
+*TKI 妖精緑 14,7 ID46 A G1 Idk 23 遠距離回復札 爆炎追尾弾
+*STP ID46 魔力 5
+*TKI 妖精緑 14,6 ID47 A G1 Idk 23 遠距離回復札 爆炎追尾弾
+*STP ID47 魔力 5
+
+*ST3 天狗緑 全 4
+*ST3 天狗青 全 3
+*ST3 天狗紫 全 2
+
+;;*ENG 2 
+*ENG 2 *TKI 河童青 0,0 IDE21 B GE2 Kappa 23 大型衝撃弾
+*ENG 2 *TKI 河童青 1,0 IDE22 B GE2 Kappa 23 大型脱力弾
+*ENG 2 *TKI 河童青 0,1 IDE23 B GE2 Kappa 23 大型衝撃弾
+*ENG 2 *TKI 河童青 1,1 IDE24 B GE2 Kappa 23
+*ENG 2 *IT2 IDE24 宵闇大型弾
+*ENG 2 *ST2 GE2 全 3
+*ENG 2 *ST2 GE2 技 5
+*ENG 2 *ST2 GE2 幸運 5
+*ENG 2 *ST2 GE2 守備 5
+
+;;*ENG 4 
+*ENG 4 *TKI 河童緑 0,0 IDE51 B GE4 Kappa 24
+*ENG 4 *IT2 IDE51 追尾脱力弾
+*ENG 4 *TKI 河童緑 1,0 IDE52 B GE4 Kappa 24 追尾凍傷弾
+*ENG 4 *TKI 河童緑 0,1 IDE53 B GE4 Kappa 24 追尾侵蝕弾
+*ENG 4 *TKI 河童緑 1,1 IDE54 B GE4 Kappa 24 轟炎追尾弾
+*ENG 4 *STP IDE54 武器レベル_追 1
+*ENG 4 *EQP IDE54 轟炎追尾弾
+*ENG 4 *ST2 GE4 全 3
+*ENG 2 *ST2 GE4 技 5
+*ENG 2 *ST2 GE4 幸運 5
+*ENG 2 *ST2 GE4 守備 5
+
+;;*ENG 6 
+*ENG 6 *TKI 河童茶 0,0 IDE71 B GE6 Kappa 25 大型脱力弾
+*ENG 6 *TKI 河童茶 1,0 IDE72 B GE6 Kappa 25 大型猛毒弾
+*ENG 6 *TKI 河童茶 0,1 IDE73 B GE6 Kappa 25 大型衝撃弾
+*ENG 6 *TKI 河童茶 1,1 IDE74 B GE6 Kappa 25 宵闇大型弾
+*ENG 6 *ST2 GE6 全 3
+*ENG 2 *ST2 GE6 技 5
+*ENG 2 *ST2 GE6 幸運 5
+*ENG 2 *ST2 GE6 守備 5
+

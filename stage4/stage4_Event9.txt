@@ -1,0 +1,65 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーー
+;;３つ以上の味方ユニットが指定区域に進入
+;;ーーーーーーーーーーーーーーーーーーー
+
+;;ーーーーーーーーーーーーー
+;;入れられるならエフェクトを
+;;ーーーーーーーーーーーーー
+*MG2 27,14
+*EFT 27,14 Warp?FX?Prefab*size=12*lifetime=15
+*EFT 27,14 CFX_MagicPoof*size=20*lifetime=15
+*KON しゅぅん
+*SLP 30
+
+*NHT
+*NWK
+
+*IF0 EVENT4_1
+*LHT ルナ 哀
+This again !?
+*SKP 2kaime
+;ENDIF0
+*IF0 EVENT4_8
+*LHT ルナ 哀
+This again !?
+*SKP 2kaime
+;ENDIF0
+*LHT ルナ 哀
+W-What is this ...?
+;2kaime
+
+*RHT 大妖精 驚
+A-Are you all okay !?
+
+*RHT スター
+Luna, please, don't be the first one to get caught up into strange things, okay ?
+
+*LHT ルナ 怒
+Why are you telling this to me first !?
+
+*IF0 EVENT4_1
+*RHT チルノ 怒
+Aah, geez ! Why are they doing this !? Just attacking like that is unfair !!
+*SKP 2kaime2
+;ENDIF0
+*IF0 EVENT4_8
+*RHT チルノ 怒
+Aah, geez ! Why are they doing this !? Just attacking like that is unfair !!
+*SKP 2kaime2
+;ENDIF0
+*RHT チルノ 怒
+Ugh ! They'll stoop to anything just to win !! 
+;2kaime2
+
+*NHT
+*NWK
+*RSN
+
+;;ーーーーーーーーーーーーーーーーー
+;;味方ユニット、毒、気絶、凍傷状態に
+;;ーーーーーーーーーーーーーーーーー
+
+*JO2 25,11 29,17 気絶 味方 3
+
+*END

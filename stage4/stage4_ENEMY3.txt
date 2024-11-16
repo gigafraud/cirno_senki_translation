@@ -1,0 +1,42 @@
+
+*TKI 天狗紫 15,29 IDE31 A GE3H Tengu 26 遠距離高速銀弾 高速侵蝕弾
+*SKL IDE31 連続
+*TKI 天狗紫 16,28 IDE32 A GE3H Tengu 26
+*IT2 IDE32 遠距離高速銀弾
+*ITM IDE32 高速侵蝕弾
+*SKL IDE32 連続
+*TKI 天狗紫 17,29 IDE33 A GE3H Tengu 26 遠距離高速銀弾 高速侵蝕弾
+*SKL IDE33 連続
+*ST2 GE3H 全 3
+
+*TKI 天狗緑 14,29 IDE34 B GE3 Tengu 25 追尾猛毒弾
+*STP IDE34 全 3
+*TKI 天狗緑 15,28 IDE35 B GE3 Tengu 25 追尾侵蝕弾 必中弾
+*SKL IDE35 恐怖
+*STP IDE35 全 3
+*TKI 天狗緑 16,27 IDE36 B GE3 Tengu 22 追尾脱力弾
+*SKL IDE36 突撃
+*HAD *STP IDE36 全 3
+*BOS IDE36
+*TKI 天狗緑 17,28 IDE37 B GE3 Tengu 25
+*IT2 IDE37 追尾侵蝕弾
+*STP IDE37 全 3
+*TKI 天狗緑 18,29 IDE38 B GE3 Tengu 25 追尾猛毒弾
+*STP IDE38 全 3
+
+*TKI 白狼天狗赤 18,10 IDE39 A GE3 Tengu 22 大型連紅弾
+*SKL IDE39 滅殺
+*TKI 白狼天狗赤 18,9 IDE310 A GE3 Tengu 26 大型霊撃弾
+*SKL IDE310 カリスマ
+*TKI 白狼天狗赤 19,9 IDE311 A GE3 Tengu 26 火炎大型弾
+*IT2 IDE311 天界の桃
+*TKI 白狼天狗赤 18,8 IDE312 A GE3 Tengu 22 大型連紅弾
+
+*TKI 妖精緑 20,9 IDE313 A GE3 Idk 25
+*IT2 IDE313 暴風弾
+*STP IDE313 魔力 5
+*STP IDE313 全 5
+*TKI 妖精緑 18,7 IDE314 A GE3 Idk 25 暴風弾
+*STP IDE314 魔力 5
+*STP IDE314 全 5
+

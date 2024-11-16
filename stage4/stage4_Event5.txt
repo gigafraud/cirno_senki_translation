@@ -1,0 +1,152 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーー
+;;数ターン経過
+;;（もしくは、チルノが指定区域に進入？）
+;;ーーーーーーーーーーーーーーーーーーー
+
+*SND 妖怪の山1
+
+*LIV 文
+*ACT 文 ON
+
+*MVG 文
+*SLP 30
+
+*RHT 文 哀
+This ice fairy busted the vanguard... Looks like she has considerable powers...
+We'd better not underestimage her because she is a fairy.
+*RHT 文 不敵
+So... Let's prevent her from progressing by distracting her a little...
+
+*NHT
+*NWK
+
+*MV2 文 チルノ
+*MVG 文
+*SLP 30
+
+*RHT 文 笑
+Hey, Miss ice fairy over there. Do you have a moment ?
+
+*SND おてんば恋娘
+
+*LHT チルノ
+Hm ? What ? You want something from me ?
+
+*RHT 文 笑
+No, it's nothing much. You look so strong, so... I wanted to talk to you a little.
+
+*LHT チルノ 笑
+Hehehe ! That's 'cause I'm the strongest !
+*LHT チルノ
+So, what is it ?
+
+*RHT 文
+Well, since you're so strong, I wanted to ask you for help in solving a mystery.
+*RHT 文 哀
+It's a mystery that has been passed among us tengus for generations, but no one ever solved it.
+*RHT 文 笑
+So, if you really are the strongest, you should be able to solve it... Right ?
+
+*LHT チルノ 哀
+A mystery ?
+
+*RHT 文 哀
+Hmm... Looks like you can't solve it either, huh. I guess you're not the strongest after all...
+
+*LHT チルノ 怒
+Whaaat !? Of course I am ! I can solve the toughest of mysteries too !
+
+*RHT 文 笑
+Oh ! That's reassuring ! Well then, shall we start ? Listen well...
+*RHT 文
+"Ice is ice, but there is ice that is sweet and not cold. What is this ?"
+Do you know the answer, Miss strongest fairy ?
+
+*LHT チルノ 笑
+Eh ? That's easy ! Tengus are stupid for not knowing that.
+
+*RHT 文 驚
+Oh ? So you know the answer ?
+
+*LHT チルノ 笑
+Of course ! If you say sweet ice, it's shaved ice !!
+
+*RHT 文 驚
+...
+*RHT 文
+Isn't shaved ice cold ?
+
+*LHT チルノ 哀
+You said "sweet ice", so that's the only option, right ?
+
+*RHT 文 哀
+I said "An ice that is sweet and not cold" though.
+*RHT 文
+So shaved ice isn't the correct answer.
+
+*LHT チルノ 哀
+Then, melted shaved ice ?
+
+*RHT 文 哀
+Is that still ice ?
+
+*LHT チルノ 怒
+What !? There's no such thing as ice that isn't cold ! What is this !?
+
+*RHT 文
+What if I tell you that it really is a thing ?
+
+*LHT チルノ 苦
+Ugh.. That can't exist... That can't...
+
+*RHT 文 哀
+Even though you're the strongest fairy, it seems you don't know the answer after all, huh.
+*RHT 文 不敵
+I was expecting a little more from you since it was about ice...
+
+*LHT チルノ 苦
+Ugh... it's ice, and yet... It's not cold... But ice is cold...
+Grr... I don't believe it... My head's dizzy...
+*LHT チルノ 怒
+Grrr !! What is the answer !!?
+
+*RHT 文 驚
+My my... She began to vent her anger on others because she can't endure the absurdity...
+*RHT 文 不敵
+It looks like it has more effect than just stopping her.
+*RHT 文
+By the way, the correct answer was "rock candy."
+*RHT 文 哀
+Yep, something definitely got lost in translation.
+*NHT
+*NWK
+
+*MV0 文 18,25
+*MV4 文 25,23
+*REM 文
+
+*MVG 大妖精
+*SLP 30
+
+*LHT 大妖精 驚
+C-Cirno !?
+
+*RHT サニー 驚
+Wait ! Don't get close to her, it's dangerous !
+
+*LHT 大妖精 哀
+B-But...
+
+*NHT
+*NWK
+*RSN
+
+;;ーーーーーー
+;;チルノ、混乱
+;;ーーーーーー
+*DB2 チルノ
+;;厄除けで直らない混乱付与 共鳴も不可
+*JO1 チルノ 混乱2 味方 3
+
+*END

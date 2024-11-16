@@ -1,0 +1,92 @@
+;START
+;;ーーーーーーーーーーーーーー
+;;When we proceed 
+;;ーーーーーーーーーーーーーー
+
+*SND 妖怪の山1
+
+*LIV 文
+*ACT 文 ON
+*BOS IDBA
+
+*MVG 文
+*SLP 30
+
+*RHT 文 驚
+And I thought the situation would be at our advantage... Being pressed against a wall like this...
+*RHT 文 怒
+When it comes to this, it's not the time to hold back. Time to use my trump card.
+Wind ! Protect us !!
+
+*NHT
+*NWK
+
+*KON 風
+*SLP 60
+
+*MVG チルノ
+*SLP 30
+
+*LHT チルノ 驚
+Wawah ? Wind again ??
+
+*RHT レティ 驚
+Ugh... Is this... Another barrier...?
+
+*RHT 幽香 怒
+Using another trick at the last moment, huh... But we'll knock it to pieces again.
+
+*NHT
+*NWK
+
+*MVG 文
+*SLP 30
+
+*RHT 文 怒
+Everyone ! The wind is protecting us, so this is our chance !
+Let's settle this once and for all !!
+
+*NHT
+*NWK
+
+;;右側敵配置
+*RED チルノdata_stages/chirno_stage4/stage4_ENEMY4
+
+;;文、はたて撃破時イベント設定
+*TKD 文&はたて 31
+
+*RSN
+
+;;ーーーーーーーーーーーー
+;;味方ユニット、移動力半減
+;;敵ユニット、被特効無効化
+;;ーーーーーーーーーーーー
+
+*XJ1 GB1 特攻
+*XJ1 GB2 特攻
+*XJ1 GB3 特攻
+*XJ1 G1 特攻
+*XJ1 GE2N 特攻
+*XJ1 GE2K 特攻
+*XJ1 GE2M 特攻
+*XJ1 GE2 特攻
+*XJ1 GE3 特攻
+*XJ1 GE3H 特攻
+*XJ1 GE4 特攻
+*XJ1 GE4A 特攻
+
+*STP チルノ 移動 -3
+*STP 大妖精 移動 -3
+*STP ミスティア 移動 -4
+*STP リグル 移動 -3
+*STP ルーミア 移動 -3
+*STP サニー 移動 -3
+*STP ルナ 移動 -3
+*STP スター 移動 -3
+*STP キスメ 移動 -2
+*STP ヤマメ 移動 -3
+*STP パルスィ 移動 -3
+*STP レティ 移動 -3
+*STP 幽香 移動 -3
+
+*END

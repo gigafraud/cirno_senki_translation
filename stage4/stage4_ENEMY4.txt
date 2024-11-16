@@ -1,0 +1,88 @@
+
+*TKI 天狗紫 25,24 IDE41 A GE4A Tengu 24 神速弾
+*IT2 IDE41 高速銀弾
+*SKL IDE41 見切り
+*TKI 天狗紫 24,23 IDE42 A GE4A Tengu 27 神速弾 高速侵蝕弾
+*SKL IDE42 見切り カリスマ 回復
+*TKI 天狗紫 25,22 IDE43 A GE4A Tengu 24 神速弾
+*SKL IDE43 見切り 乱舞
+*ST2 GE4A 全 5
+
+*TKI 白狼天狗緑 28,23 IDE44 B GE4 Tengu 26 追尾連紅弾
+*IT2 IDE44 進化の宝玉
+*TKI 白狼天狗緑 29,23 IDE45 B GE4 Tengu 26 吸奪追尾弾 治療薬
+*TKI 白狼天狗緑 28,24 IDE46 B GE4 Tengu 26 雷鳴追尾弾 
+*TKI 白狼天狗緑 29,24 IDE47 B GE4 Tengu 26 吸奪追尾弾
+
+*TKI 白狼天狗青 24,18 IDE48 A GE4 Tengu 22 高速連紅弾
+*TKI 白狼天狗青 25,17 IDE49 A GE4 Tengu 23 高速連紅弾
+*TKI 白狼天狗青 26,18 IDE410 A GE4 Tengu 24 高速連紅弾
+*TKI 白狼天狗青 27,18 IDE411 A GE4 Tengu 28
+*IT2 IDE411 高速連紅弾
+*SKL IDE411 対魔特性
+*BOS IDE411
+*TKI 白狼天狗青 28,17 IDE412 A GE4 Tengu 23 高速連紅弾
+*TKI 白狼天狗青 29,18 IDE413 A GE4 Tengu 22 高速連紅弾
+*IT2 IDE413 進化の宝玉
+
+*TKI 妖精2黒 25,18 IDE414 E GE4 Tengu 25 遠距離雷神弾 氷塊弾
+;;*STP IDE414 全 5
+*SKL IDE414 恐怖
+*BOS IDE414
+;;*TKI 妖精2黒 28,18 IDE415 E GE4 Tengu 27 遠距離雷神弾
+;;*STP IDE415 全 5
+;;*SKL IDE415 恐怖
+
+*TKI 天狗緑 24,19 IDE416 A GE4 Tengu 23 追尾猛毒弾 吸奪追尾弾
+*NML *SKL IDE416 貫通
+*STP IDE416 全 3
+*TKI 天狗緑 25,19 IDE417 B GE4 Tengu 26 追尾侵蝕弾
+*STP IDE417 全 3
+*IT2 IDE417 進化の宝玉
+*TKI 天狗緑 26,19 IDE418 A GE4 Tengu 26 追尾凍傷弾
+*STP IDE418 全 3
+*IT2 IDE418 黄金
+;;*TKI 天狗緑 27,19 IDE419 A GE4 Tengu 26 追尾呪怨弾
+;;*STP IDE419 全 3
+;;*TKI 天狗緑 28,19 IDE420 B GE4 Tengu 26
+;;*IT2 IDE420 追尾脱力弾
+;;*STP IDE420 全 3
+*TKI 天狗緑 29,19 IDE421 A GE4 Tengu 26 追尾侵蝕弾
+*IT2 IDE421 追尾脱力弾
+*SKL IDE421 待ち伏せ
+*STP IDE421 全 3
+
+*TKI 白狼天狗赤 24,7 IDE422 E GE4 Tengu 24 大型吸奪弾
+*HAD *TKI 白狼天狗赤 25,7 IDE423 E GE4 Tengu 24 大型吸奪弾
+*HAD *SKL IDE423 滅殺
+*TKI 白狼天狗赤 24,3 IDE424 E GE4 Tengu 26
+*IT2 IDE424 大型吸奪弾
+*TKI 白狼天狗赤 25,3 IDE425 E GE4 Tengu 24 大型吸奪弾
+
+;;*TKI 白狼天狗赤 24,12 IDE426 A GE4 Tengu 26 極大弾
+;;*TKI 白狼天狗赤 25,12 IDE427 A GE4 Tengu 26 極大弾
+*TKI 白狼天狗赤 29,12 IDE428 B GE4 Tengu 26 極大弾
+*IT2 IDE428 雷神大型弾
+*SKL IDE428 必殺
+*BOS IDE428
+*TKI 白狼天狗赤 29,7 IDE429 B GE4 Tengu 24 極大弾
+*TKI 白狼天狗赤 29,3 IDE430 B GE4 Tengu 24 極大弾
+
+*TKI 天狗青 28,11 IDE431 B GE4 Tengu 27 高速侵蝕弾 高速錯乱弾
+*SKL IDE431 精神結界
+*STP IDE431 全 3
+*TKI 天狗青 29,10 IDE432 B GE4 Tengu 27 高速錯乱弾
+*STP IDE432 全 3
+;;*TKI 天狗青 29,9 IDE433 B GE4 Tengu 27 高速猛毒弾
+;;*STP IDE433 全 3
+;;*TKI 天狗青 28,8 IDE434 B GE4 Tengu 27 高速猛毒弾 高速呪怨弾
+;;*STP IDE434 全 3
+
+*TKI 妖精緑 25,5 IDE435 E GE4 Idk 27 遠距離風刃弾
+*IT2 IDE435 錯乱術弾
+*SKL IDE435 吸奪
+;;*STP IDE435 全 5
+
+;;*TKI 妖精緑 29,5 IDE436 E GE4 Idk 27 遠距離氷結弾
+;;*STP IDE436 全 5
+
