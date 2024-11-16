@@ -1,0 +1,18 @@
+
+*TKI ルーミア 3,22 IDE31 B G3 Rumia 5
+*RIT IDE31 大型紅弾
+*RIT IDE31 傷薬
+*IT2 IDE31 火炎大型弾
+*EQP IDE31 火炎大型弾
+*BOS IDE31
+*TKI ルーミア 7,26 IDE32 A G3 Rumia 5 大型蒼弾
+*RIT IDE32 大型紅弾
+*RIT IDE32 傷薬
+*EQP IDE32 大型蒼弾
+*BOS IDE32
+*TKI ルーミア 7,22 IDE33 E G3 Rumia 6 遠距離大型蒼弾
+*RIT IDE33 大型紅弾
+*RIT IDE33 傷薬
+*EQP IDE33 遠距離大型蒼弾
+*BOS IDE33
+

@@ -1,0 +1,20 @@
+
+*TKI 妖精赤 8,12 IDE11 B G1 Fairy 2 追尾蒼弾
+*TKI 妖精赤 8,11 IDE12 B G1 Fairy 2 追尾蒼弾
+*TKI 妖怪黒 11,16 IDE13 A G4 Youkai 4 大型蒼弾
+
+*TKI 妖精青 19,16 IDE14 B G2 Fairy 2 高速蒼弾
+*TKI 妖精青 18,18 IDE15 B G2 Fairy 2 高速蒼弾
+*TKI 怨霊緑 15,17 IDE16 B G4 Ghost 3 精密高速弾
+
+*TKI 怨霊青 14,20 IDE17 A G4 Ghost 4 遠距離高速蒼弾
+*IT2 IDE17 傷薬
+*TKI 怨霊青 13,21 IDE18 A G4 Ghost 4 精密高速弾
+*TKI 怨霊青 15,21 IDE19 A G4 Ghost 4
+*IT2 IDE19 精密高速弾
+
+*TKI 妖怪赤 12,21 IDE20 A G4 Youkai 3 遠距離大型蒼弾
+*TKI 妖怪赤 13,20 IDE21 A G4 Youkai 3 大型蒼弾
+*TKI 妖怪赤 15,20 IDE22 A G4 Youkai 3 大型蒼弾
+*TKI 妖怪赤 16,21 IDE23 A G4 Youkai 3 遠距離大型蒼弾
+

@@ -1,0 +1,19 @@
+;;ーーーーーーーーーーーー
+;;When Daiyousei fights Wriggle
+;;ーーーーーーーーーーーー
+;START
+
+*SND BGM27
+
+*LHT 大妖精 
+E-Even I, for a little... !
+
+*RHT リグル 驚
+Woah !? You're pretty good as well, Dai !
+*RHT リグル 笑
+Al~right ! Then, it’s my turn now !!
+
+*NHT
+*NWK
+*RSN
+*END

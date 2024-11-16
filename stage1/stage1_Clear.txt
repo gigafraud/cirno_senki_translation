@@ -1,0 +1,160 @@
+;START
+
+*CLR
+
+*SND おてんば恋娘
+
+*LIV IDEB3
+*MKT IDEB3
+
+*LHT チルノ 笑
+Hehehe ! Did you see that !?
+
+*RHT リグル 驚
+Wow, you really are powerful... Cirno, aren't you stronger than before ?
+
+*LHT チルノ 笑
+Huhu, but of course !
+*LHT チルノ
+And thanks to this special training, my skills have improved !
+*LHT チルノ 笑
+I'm getting stronger than ever !
+
+*RHT リグル 哀
+Hmm... I can't lose ground like that... I have to work harder...
+
+*CHT ミスティア
+Not only Cirno, but Wriggle is enthusiastic as well. You want to become strong too ?
+
+*RHT リグル 笑
+Obviously. After all, I also enjoy that sort of thing.
+
+*CHT ミスティア
+Hmm, is that so ?
+*CHT ミスティア 笑
+As long as I can sing, I’m satisfied. So anything’s fine ~ ♪
+
+*LHT ルーミア 笑
+Me too ! If I can eat delicious food, I’m fine !
+
+*CHT ミスティア 笑
+And if I can attack humans, I’m satisfied with the way it is now.
+
+*RHT リグル 哀
+You two are both easygoing.
+
+*CHT ミスティア 笑
+You're the one who's overthinking !
+
+*LHT ルーミア 笑
+Absolutely !
+
+*RHT リグル 哀
+Hmm... I guess so...
+
+*NHT
+*NWK
+*SLP 30
+
+*LHT チルノ 笑
+So ! Thanks for the special training, I'm one step closer for being the strongest !
+*LHT チルノ
+Dai, let's go to the next place !!
+
+*RHT 大妖精 驚
+Eh ? The next place ?
+
+*CHT ルーミア 笑
+The next place ? Are you finally gonna play with the waterfall ?
+
+*LHT チルノ 哀
+We’re not gonna do that !
+*LHT チルノ 笑
+Freezing the waterfall sounds fun, but that will be for later !
+
+*CHT リグル 驚
+Later ?  So you intend to do it someday…
+
+*RHT ミスティア
+Well then, where are you going ?
+
+*LHT チルノ 笑
+Now that I became stronger, I have one thing to do ! I’ll go testing my skills to see how strong I became ♪
+
+*RHT 大妖精 驚
+Testing your skills…? Eh ?
+
+*LHT チルノ 笑
+First of all, I’ll see those weird three fairies !
+I’ll challenge them to test my skills and show them my strength !
+I feel like no one can stop me !
+
+*CHT リグル 哀
+You’re starting to say crazy things again, I wonder if it’s okay... ?
+
+*RHT 大妖精 苦
+I don't really think so...
+
+*CHT ルーミア 笑
+But that looks interesting ! Hey hey. Since we’re all here, let’s go all together !
+
+*RHT ミスティア 笑
+Good idea. Even if Cirno is defeated, we’ll be able to help right away.
+
+*LHT チルノ 笑
+There’s no way I would be defeated !
+
+*RHT 大妖精 哀
+... ...
+
+*CHT リグル
+Ah… It will be fine if we go together.
+*CHT リグル 笑
+So, don’t make that face, Dai.
+
+*RHT 大妖精 哀
+Y-Yes.
+*RHT 大妖精 笑
+Wriggle, Mystia, and Rumia, thank you.
+
+*LHT チルノ 哀
+Geez, you worry too much, Dai.
+*LHT チルノ
+Well, fine by me either way !
+*LHT チルノ 笑
+So, let's start our assault toward those weird fairies !!
+
+*CHT ルーミア 笑
+Yaaaaay ! Assault !
+*NLH
+*NCH
+
+*RHT 大妖精 驚
+Ah, Cirno, wait !
+
+*LHT ミスティア 驚
+Rumia also went too far !
+*LHT ミスティア 怒
+Dai, let’s go as well !
+
+*RHT 大妖精 驚
+Y-Yes !
+
+*NHT
+*NWK
+*SLP 60
+
+*CHT リグル 驚
+I wonder if everything will be alright...
+*CHT リグル 笑
+But well, it will be fine as long as everyone’s here.
+
+*NHT
+*NWK
+*NSN
+
+*FO2
+
+*SND BGM28
+
+*END

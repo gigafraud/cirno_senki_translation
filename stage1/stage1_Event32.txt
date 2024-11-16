@@ -1,0 +1,91 @@
+;;ーーーーーーーー
+;;When Wriggle is defeated
+;;ーーーーーーーー
+;START
+
+*LIV リグル
+*MKT リグル
+
+*RHT リグル 哀
+Hmm... You beat me... I still have a long way to go...
+
+*LHT 大妖精 笑
+We did it, Cirno ! We won against Wriggle too !
+
+*LHT チルノ 笑
+Hehehe ~ ♪ I'm getting stronger and stronger !
+*LHT チルノ
+Now ! Rumia's last ! I'm gonna win this !
+
+*NHT
+*NWK
+
+*LIV ルーミア
+*MVG ルーミア
+*SLP 30
+
+*RHT ルーミア
+Ah, it's finally my turn ? At least let me finish...
+*RHT ルーミア 笑
+Munch munch munch munch... Gulp !
+
+*NHT
+*NWK
+
+*MVG チルノ
+*SLP 30
+*LHT チルノ 哀
+Geez, hurry up...
+
+*RHT ミスティア
+She was ... eating fruits ?
+
+*NHT
+*NWK
+
+;;ーーーーーーーーーーー
+;;Rumia spawns youkais i guess idk
+;;ーーーーーーーーーーー
+
+*RED チルノdata_stages/chirno_stage1/stage1_ENEMY3
+
+*MVG ルーミア
+*SLP 30
+*RHT ルーミア 笑
+Alright, thank you for waiting ! Well then, let's go !
+
+*LHT チルノ 笑
+Come at me !
+
+*RHT 大妖精
+Rumia is usually soft, but... She looks strong, so we should be careful...
+
+*LHT ミスティア 笑
+What will you do, Wriggle ? Will you join us on our special training against Rumia ?
+
+*RHT リグル
+I will. I feel bad since it's a 4 Against 1, Does she really have a chance ?
+
+*NHT
+*NWK
+*SLP 30
+
+*ITM リグル 雷鳴追尾弾
+*ITM リグル 傷薬
+リグルは、雷鳴追尾弾を手に入れた。
+リグルは、傷薬を手に入れた。
+*NWK
+
+*RED チルノdata_others/状態異常耐性
+
+*TTL 勝利条件の変更\nルーミアの撃破 180
+*WIN ルーミアの撃破 all
+*TKD IDEB3 33
+
+;;Displays the new win conditions (Idk where to change that '-')
+*FLG 53 ON
+*FLG 54 ON
+*FLG 55 ON
+
+*SNT 妖魔夜行
+*END

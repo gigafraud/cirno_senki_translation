@@ -1,0 +1,22 @@
+;;ーーーーーーーーーーーー
+;;When Cirno fights Wriggle
+;;ーーーーーーーーーーーー
+;START
+
+*SND BGM27
+
+*RHT リグル
+Now, let's go, Cirno. Are you ready ?
+
+*LHT チルノ 笑
+Yes ! What are you waiting for ? Come at me !
+
+*RHT リグル 驚
+(Oh, I wanted to let her come so I could counterattack... I couldn't lure her, surprisingly.)
+*RHT リグル 怒
+... In that case, it's my turn !
+
+*NHT
+*NWK
+*RSN
+*END
