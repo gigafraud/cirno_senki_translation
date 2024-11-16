@@ -1,0 +1,27 @@
+;START
+;;ーーーーーーーーーーー
+;;Cirno fights Aya Hieda
+;;ーーーーーーーーーーー
+
+*SND BGM24
+
+*LHT チルノ 笑
+Hehe ! A weak human holding a book is no match for me !
+Because I'm the strongest !
+
+*RHT 阿弥 驚
+...!?
+*RHT 阿弥 哀
+What ? It’s just a fairy... I was a little surprised, since she claims to be the strongest...
+*RHT 阿弥 笑
+Miss fairy, is that okay ? If you cause too much mischief, you’ll get into serious trouble.
+So, stop that and go home at once.
+
+*LHT チルノ 怒
+A-Are you making fun of me !? I’ll teach you what happens when you anger me !!
+
+*NHT
+*NWK
+*RSN
+
+*END

@@ -1,0 +1,30 @@
+;START
+;;ーーーーーーーーーーーー
+;;Cirno fights Star
+;;ーーーーーーーーーーーー
+
+*SND BGM27
+
+*LHT チルノ 笑
+Now, let's go ! Are you ready ?
+
+*RHT スター 驚
+U-uhh...
+*RHT スター 笑
+Can I prepare myself before ?
+
+*LHT チルノ 哀
+Geez, hurry uuup...
+
+*RHT スター 笑
+Just kidding ! An opening !
+
+*KON ミス
+*LHT チルノ 驚
+Wawawah !? That's unfair !
+
+*NHT
+*NWK
+*RSN
+
+*END

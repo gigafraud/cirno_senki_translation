@@ -1,0 +1,24 @@
+;START
+;;ーーーーーーーーーーーー
+;;Dai fights Sunny
+;;ーーーーーーーーーーーー
+
+*SND BGM27
+
+*RHT 大妖精 怒
+I-I must help Cirno as much as I can... !
+
+*LHT サニー 怒
+Grr, if it's a fight you want, it's a fight you'll get !
+
+*KON ミス
+
+*RHT 大妖精 驚
+Uwah !?
+*RHT 大妖精 苦
+I-I won't lose !
+
+*NHT
+*NWK
+*RSN
+*END

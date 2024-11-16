@@ -1,0 +1,32 @@
+;START
+;;ーーーーーーーーーーー
+;;Dai fights Luna
+;;ーーーーーーーーーーー
+
+*SND BGM27
+
+*RHT 大妖精
+...
+
+*LHT ルナ 哀
+W-what ? Don't stare at someone like that...
+
+*RHT 大妖精
+Sorry. It's just that it sounds hard to roll up your hair.
+
+*LHT ルナ 笑
+Huh ? Oh ! Well, it's easy once you get used to it.
+
+*RHT 大妖精 哀
+But if you spent all your efforts to roll them up beautifully, wouldn't it get messed up when you lose ?
+
+*LHT ルナ 驚
+... !
+*LHT ルナ 怒
+I-I'm not gonna lose to you !
+
+*NHT
+*NWK
+*RSN
+
+*END
