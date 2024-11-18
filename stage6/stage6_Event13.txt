@@ -53,7 +53,8 @@
 I made it on time ! Is that the village...?
 
 *RHT 椛 怒
-文さん、遅れてすみません！[r]援護に参りました！
+;;文さん、遅れてすみません！[r]援護に参りました！
+Miss Aya, sorry for being late ! I'm here to help !
 
 *CHT はたて 哀
 はぁ……　なんで私までこんなことに……[n]ブツブツ……
