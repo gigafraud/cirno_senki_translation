@@ -7,14 +7,18 @@
 *MKT ミスティア
 
 *RHT ミスティア 笑
+;;は～　負けちゃったけど、思いっきり歌えたし[r]満足だわ～。
 Ha... I lost, but I was able to sing with all my heart, so I'm satisfied...
 
 *LHT 大妖精 驚
+;;すごい……ミスティアちゃんに勝てちゃった。
 Wow, We won against Mystia !
 
 *LHT チルノ 笑
+;;とーぜんっ！　サイキョーの妖精は、[r]常に進化し続けるんだから！
 Or course we did ! Because I'm becoming stronger and stronger !
 *LHT チルノ
+;;さぁ、どんどん行くよー！[r]リグル！　あたいと勝負だー！
 Next one ! Wriggle ! I'm challenging you !
 
 *NHT
@@ -25,11 +29,14 @@ Next one ! Wriggle ! I'm challenging you !
 *SLP 30
 
 *RHT ルーミア
+;;リグルー、呼んでるよ～？
 Wriggle, she's calling you !
 
 *RHT リグル 驚
+;;えっ、私を指名するの？
 Eh ? Really ?
 *RHT リグル 哀
+;;う～ん……　さて、どうやって戦おうかなぁ。
 Hmm... Which approach would be best...
 
 *NHT
@@ -43,6 +50,7 @@ Hmm... Which approach would be best...
 
 *SLP 60
 *RHT リグル 怒
+;;よし……　それじゃ、行くよ！！
 Alright, Now, let's go !!
 
 *NHT
@@ -50,17 +58,22 @@ Alright, Now, let's go !!
 *MVG ミスティア
 *SLP 30
 *LHT ミスティア 笑
+;;リグルってば、珍しくやる気じゃない。[n]それじゃ、私もチルノや大ちゃん達と一緒に[r]戦ってみようかな。
+;;ふふふ～♪　リグルとは、ちょっと一回[r]やりあってみたかったのよね～。
 Looks like Wriggle is actually going at it ! Well then, I think I'll fight with you guys !
 Hehehe ~ ♪ I wanted to try it once for a bit with Wriggle ~
 
 
 *RHT リグル 驚
+;;うぇっ！？　みすちーも来るの！？
 Eeh !? You’re coming too, Misty !?
 *RHT リグル 怒
+;;で、でも……簡単にはやられないからね！！
 B-But… I won’t be beaten that easily !!
 
 
 *LHT チルノ 笑
+;;なんだっていいよ！　行っくぞー！
 All good for me ! Let's gooo !
 
 *NHT
@@ -79,8 +92,10 @@ All good for me ! Let's gooo !
 *SLP 30
 
 *RHT ルーミア
+;;う～ん、退屈だな～。
 Hmm, I’m bored...
 *RHT ルーミア 笑
+;;終わるまで、果物でも探して食べてよーっと。
 Well, I'm going to look for some fruits to eat !
 
 *NHT
