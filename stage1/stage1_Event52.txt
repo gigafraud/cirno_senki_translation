@@ -6,19 +6,25 @@
 *SND BGM27
 
 *RHT ミスティア 驚
+;;えっ、大ちゃんもやるの？
 Oh ? You're going to fight me too, Dai ?
 
 *LHT 大妖精 笑
+;;私だって、少しくらいはやれるんだよっ！
 Even I can do it a little !
 *LHT 大妖精 哀
+;;それに……[r]チルノちゃんのこと、守ってあげたいし……
 Besides... I want to help Cirno...
 
 *RHT ミスティア
+;;ホント、献身的ねぇ……[p]　まあいいわ。
 You're really devoted to her, huh... Oh well.
 *RHT ミスティア 笑
+;;それなら大ちゃんにも、私の歌を[r]たっぷり聴かせてあげちゃうんだから♪
 Then, I’ll let you hear plenty of my songs as well ♪
 
 *LHT 大妖精 怒
+;;ま、負けないんだから……っ！
 I-I won't lose...!
 
 *NHT
