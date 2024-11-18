@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーー
-;; Nitori and Momiji appears ?
+;; NPC Momiji, Nitori and Hatate appears
 ;;ーーーーーーーーーーーーーー
 
 *SNA フォールオブフォール
@@ -57,7 +57,8 @@ I made it on time ! Is that the village...?
 Miss Aya, sorry for being late ! I'm here to help !
 
 *CHT はたて 哀
-はぁ……　なんで私までこんなことに……[n]ブツブツ……
+;;はぁ……　なんで私までこんなことに……[n]ブツブツ……
+Sigh... Why do I have to join in too...?
 
 *NHT
 *NWK
@@ -66,41 +67,55 @@ Miss Aya, sorry for being late ! I'm here to help !
 *SLP 30
 
 *LHT 文 驚
-あれは……[n]皆さん、来てくれたんですね！助かります！
+;;あれは……[n]皆さん、来てくれたんですね！助かります！
+Finally ! Everyone came ! That's perfect !
 
 *RHT チルノ 怒
-あーっ！　あいつらは確か……！
+;;あーっ！　あいつらは確か……！
+More ennemies !?
 
 *LHT 文 驚
-ま、待って下さい！[n]椛さん達は私の援護に来てくれたんです。
+;;ま、待って下さい！[n]椛さん達は私の援護に来てくれたんです。
+No, no ! Momiji and the others are here to help.
 
 *RHT チルノ 怒
-でも、この前はあたいの敵だったじゃんか！
+;;でも、この前はあたいの敵だったじゃんか！
+But last time, they attacked me !
 
 *LHT 文 怒
-確かにそれは否定しません。
-ですが、今はそんなことにこだわってる場合[r]ではないんです。
-だからこそ危険を顧みず、[r]こうして来てくれているんです。[n]ですから、どうか今は許してください。
+;;確かにそれは否定しません。
+;;ですが、今はそんなことにこだわってる場合[r]ではないんです。
+;;だからこそ危険を顧みず、[r]こうして来てくれているんです。[n]ですから、どうか今は許してください。
+...Yes, that's true.
+But you shouldn't think about the past right now.
+They have come all this way to help us, so please forgive them for now.
 
 *RHT チルノ 哀
-う～……っ
+;;う～……っ
+Mmh...
 
 *CHT レティ
-……幽香、あなたはどうなの？[n]あちらから一番目の敵にされていたのは[r]あなただったようだけれど。
+;;……幽香、あなたはどうなの？[n]あちらから一番目の敵にされていたのは[r]あなただったようだけれど。
+Yuuka, what about you ? Are you okay with them joining us ?
 
 *RHT 幽香
-私に手を出してこないのであれば、[r]なんでもいいわ。
+;;私に手を出してこないのであれば、[r]なんでもいいわ。
+As long as they don't bother me, I don't mind.
 
 *LHT 文
-ありがとうございます。[n]チルノさんも構いませんよね？
+;;ありがとうございます。[n]チルノさんも構いませんよね？
+Thank you, miss Yuuka. So, Cirno ?
 
 *RHT チルノ 哀
-むぅ～っ、わかったよぉ。
+;;むぅ～っ、わかったよぉ。
+Okay, okay. I understand.
 *RHT チルノ 怒
-でも、こっちに何かしてきたら[r]許さないかんね！
+;;でも、こっちに何かしてきたら[r]許さないかんね！
+But if they try to betray us, I won't forgive you :
 
 *LHT 文 笑
-大丈夫ですよ。[r]そんなことには絶対なりませんから。
+;;大丈夫ですよ。[r]そんなことには絶対なりませんから。
+It's okay. That won't happen.
 
 *NHT
 *NWK
