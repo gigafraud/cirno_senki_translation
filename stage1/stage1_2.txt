@@ -42,6 +42,7 @@
 *RED チルノdata_stages/chirno_stage1/TLK_ST1
 
 *SLP 60
+;;――荒れ果てた神社の前……
 In front of the ruined shrine...
 *SLP 30
 *SND ほおずきみたいに紅い魂
@@ -63,70 +64,94 @@ In front of the ruined shrine...
 *SLP 30
 
 *CHT ルーミア
+;;……特訓？？
 ... A special training ?
 
 *RHT ミスティア 哀
+;;いつものことだけど、唐突ねぇ。[n]今度はなにがあったの？
 This is sudden, as always. What happened this time ? 
 
 *LHT チルノ
+;;トックンって言ったらトックンだよ！[n]シュギョーして、もっと強くなるの！
 A special training is a special training, like I said !
+;;そうすれば、あたいってばもっともっと[r]サイキョーになれるんだよ！[n]あたいすごい！！
 I’m getting stronger to truly become the strongest !
 *LHT チルノ 笑
 If I do that, I’ll become even stronger ! I’m amazing !! 
 
 *RHT リグル 哀
+;;………えーっと、大ちゃん。通訳頼んでいい？
 Err...  Dai, can you translate what she says ? 
 
 *CHT 大妖精 哀
+;;えっと、実は……かくかくしかじか、[r]ということがあって……
 Err, actually... There’s this, that and such-and-such...
 
 *RHT ルーミア 笑
+;;かくかくしかじか、まるばつさんかく～♪
 Such-and-such, good, average, bad ~ ♪  
 
 *RHT ミスティア 笑
+;;たてたてよこよこ、まる描いてちょんっ♪
 Vertical, vertical, horizontal, horizontal, draw a circle  ♪ 
 
 *CHT 大妖精 哀
+;;……ってことがあったんです。
 ... And this is all. 
 
 *RHT リグル 哀
+わかったような……わからないような……
 ... I don’t get it...
 
 *LHT チルノ 笑
+;;……ってことだから、みんなでトックンに[r]付き合って欲しいんだ。
+;;ほら、ルーミア、みすちー、歌ってる場合[r]じゃないよっ！　みんなでトックンだよっ！！
 ... And that’s why I want all of you to attend our training. 
 C'mon, it’s not the time to sing ! Everyone participate !!
 
 *RHT リグル 哀
+;;……大ちゃんも大変だねぇ。
 ... It must be difficult for Dai.
 
 *CHT 大妖精 笑
+;;チルノちゃんが無事なら、このくらい[r]なんでもないよ。
 As long as Cirno is okay, this much is nothing. 
 
 *RHT リグル 笑
+;;あはは、そうかもね。
 Ahaha, I guess so.
 
 *CHT ルーミア
+;;それで、特訓ってなにをするの？
 So, what do we do in this special training ?
 *CHT ルーミア 笑
+;;山に篭って滝で遊ぶの？
 We travel to the mountain and play with waterfalls ?
 
 *RHT ミスティア 笑
+;;それとも、山で発声練習？
 Or we do vocal exercices to the mountain ? 
 
 *LHT チルノ
+;;それも面白そうだけど……[n]やっぱり、直接勝負でやろうよ！
 That sounds interesting, but… Let’s do a battle directly ! 
 
 *RHT ミスティア
+;;結局いつもと同じじゃない。
 It’s the same as usual, in the end. 
 
 *CHT リグル
+;;でも、その方が単純でわかりやすいしね。
 But it’s simple and easy to understand. 
 
 *RHT ルーミア 笑
+;;じゃ、早速始めようよ～[n]ちょうと退屈だったし、面白そうだもんね。
 Then, let’s get started right away ~
 I was bored and that sounds interesting. 
 
 *CHT ミスティア 笑
+;;それなら、周りでヒマしてるみんなも呼んで、[r]特訓大会にしちゃいましょ♪
+;;お～いっ、みんな～～っ♪
 Well then, I’ll call everyone who’s nearby,
 and make a special training competition !
 
@@ -142,31 +167,44 @@ and make a special training competition !
 *RED チルノdata_stages/chirno_stage1/stage1_ENEMY1
 
 *LHT チルノ 笑
+;;へへっ　そう来なくちゃ！
 Hehe, now you’re talking !
 *LHT チルノ
+;;言っとくけど、手加減なんてしないからねっ！！
 Just so you know, I won’t go easy on you !! 
 
 *CHT 大妖精 驚
+;;チルノちゃん！[r]ケガしないようにしなくちゃダメだよ！
 Cirno ! You should be careful and not get hurt ! 
 
 *RHT ミスティア 笑
+;;ふふふ～っ♪　本気で来てくれないと、[r]特訓にならないもんね！
+;;行くわよ～っ♪　私の歌、たっぷり聴かせて[r]あげちゃうんだから♪♪
 Take this seriously, or else it won’t be a special training ! 
 You’re gonna listen to my songs to their fullest ♪♪ 
 
 *LHT チルノ 笑
+;;ふふんっ♪　みすちーなんて、耳塞ぎながら[r]やっつけちゃうんだから！！
 Hehe ! I’ll cover my ears ‘cause this is gonna hurt !!  
 
 *RHT ミスティア 怒
+;;むむ～っ！　言ってくれちゃって！！
+;;リグル！　ルーミア！　悪いけど、[r]しばらく見物してもらってていい？
+;;あんなこと言われたら、[r]ちょっと黙っていらんないわ！！
 Grr... Wriggle ! Rumia ! I’m sorry but can you stay behind and watch for a moment ? 
 I can’t keep silent after what she said !! 
 
 *LHT リグル 哀
+;;はぁ、仕方ないなぁ。
 Sigh, it can’t be helped. 
 *LHT リグル
+;;ルーミア、しばらくはみすちーの好きに[r]やらせてあげようよ。
+;;そうじゃないと、しばらく機嫌直りそうに[r]ないもん。
 Rumia, we’ll let Misty do what she likes for a moment. 
 If we don’t, I don’t think she’ll be in a good mood for a while.
 
 *RHT ルーミア 笑
+;;ほ～い。みすちー、がんばれ～っ！
 O~kay. Do your best, Misty !
 
 *NHT
