@@ -6,18 +6,24 @@
 *SND BGM21
 
 *RHT ルーミア 優越
-Hehehe, you're approaching me, Wriggle ?
+ふふふっ　リグル、行っちゃうよ～？
+Hehe, you're approaching me, Wriggle ?
 
 *LHT リグル 驚
+;;……っ！？　な、なんて威圧感……[n]ルーミアって、こんなにすごい力持ってたの！？
 ... !? W-What a menacing air... So Rumia have such incredible powers !?
 *LHT リグル 哀
+;;なんだろう……　ルーミアの目、なんだか[r]すごく怖く見える……
 I wonder... Her eyes look very scary...
 *LHT リグル 怒
+;;け、けどっ！[r]負けてなんて、いられないんだからっ！！
 B-But ! There's no way i can lose !!
 
 *RHT ルーミア 哀
+;;んもう、なにブツブツいってるんだよ～
 Oh, what are you muttering to yourself ?
 *RHT ルーミア 笑
+;;ほらほら、行くよ～っ♪
 C'mon c'mon, let's go !
 
 *NHT
