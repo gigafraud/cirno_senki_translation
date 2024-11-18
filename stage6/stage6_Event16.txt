@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;ＮＰＣ僧兵Ｃ登場
+;;NPC Monk C appears
 ;;ーーーーーーーー
 
 *NPC 僧兵赤 23,0 IDN05 E G1N 僧兵 36 追尾脱力弾 治療薬
@@ -17,8 +17,8 @@
 *SLP 30
 
 *LHT 僧兵赤
-な、なによこれ……[r]悪い夢でも見てるってわけ？
-もうっ！　夢なら早く覚めちゃってよ！！
+W-What ? What are all those youkais doing at the village ? Am I dreaming ?? 
+If I am, I would like to wake up !
 
 *NHT
 *NWK
