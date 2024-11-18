@@ -7,14 +7,18 @@
 *MKT リグル
 
 *RHT リグル 哀
+;;う～ん……　やられちゃったかぁ……[n]こんなことじゃ、まだまだだよね……
 Hmm... You beat me... I still have a long way to go...
 
 *LHT 大妖精 笑
+;;やったね、チルノちゃん！[r]リグルちゃんにも勝てちゃったよ！！
 We did it, Cirno ! We won against Wriggle too !
 
 *LHT チルノ 笑
+;;へへへ～っ♪　あたい、ますますサイキョーに[r]なっちゃったってことね！
 Hehehe ~ ♪ I'm getting stronger and stronger !
 *LHT チルノ
+;;さあ！　最後はルーミアの番だよ！！[r]次もあたいが勝っちゃうもんね！！
 Now ! Rumia's last ! I'm gonna win this !
 
 *NHT
@@ -25,8 +29,10 @@ Now ! Rumia's last ! I'm gonna win this !
 *SLP 30
 
 *RHT ルーミア
+;;あれ、やっと私の出番？[n]じゃ、ちょっと待ってね。これ、食べちゃうから。
 Ah, it's finally my turn ? At least let me finish...
 *RHT ルーミア 笑
+;;はぐはぐもぐもぐ……　ごっくん
 Munch munch munch munch... Gulp !
 
 *NHT
@@ -35,16 +41,18 @@ Munch munch munch munch... Gulp !
 *MVG チルノ
 *SLP 30
 *LHT チルノ 哀
+;;んもう、早くしてよ～。
 Geez, hurry up...
 
 *RHT ミスティア
+;;いつの間に果物採ってきたんだろ……
 She was ... eating fruits ?
 
 *NHT
 *NWK
 
 ;;ーーーーーーーーーーー
-;;Rumia spawns youkais i guess idk
+;;Rumia spawns youkais
 ;;ーーーーーーーーーーー
 
 *RED チルノdata_stages/chirno_stage1/stage1_ENEMY3
@@ -52,18 +60,23 @@ She was ... eating fruits ?
 *MVG ルーミア
 *SLP 30
 *RHT ルーミア 笑
+;;はい、お待たせ～♪[r]それじゃ、行くよ～っ！
 Alright, thank you for waiting ! Well then, let's go !
 
 *LHT チルノ 笑
+;;どっからでもかかってこ～い！
 Come at me !
 
 *RHT 大妖精
+;;ルーミアちゃんって、ふわふわした子だけど…[r]でも、なんだか強そうだし、気を付けないと…
 Rumia is usually soft, but... She looks strong, so we should be careful...
 
 *LHT ミスティア 笑
+;;リグル、どうする？[r]リグルも一緒にルーミア相手に特訓する？
 What will you do, Wriggle ? Will you join us on our special training against Rumia ?
 
 *RHT リグル
+;;そうだね。[r]４対１はちょっと悪い気がするけど、[r]少し相手してもらおうかな。
 I will. I feel bad since it's a 4 Against 1, Does she really have a chance ?
 
 *NHT
@@ -82,7 +95,7 @@ I will. I feel bad since it's a 4 Against 1, Does she really have a chance ?
 *WIN ルーミアの撃破 all
 *TKD IDEB3 33
 
-;;Displays the new win conditions (Idk where to change that '-')
+;;Displays the new win conditions
 *FLG 53 ON
 *FLG 54 ON
 *FLG 55 ON
