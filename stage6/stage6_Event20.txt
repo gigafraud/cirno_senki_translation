@@ -1,11 +1,13 @@
 ;START
 ;;ーーーーーーーーーーー
-;;ＮＰＣ僧兵Ｃ、離脱成功
+;;NPC Monk C successfully leaves
 ;;ーーーーーーーーーーー
 
 *LHT 僧兵赤
-た、助かった……[n]けど、これが夢だなんてことないわよね？[r]最期の幻覚とか……
-なんて、そんなことあるわけないか。[r]ありがとう。こんな物だけど、受け取って頂戴。
+;;た、助かった……[n]けど、これが夢だなんてことないわよね？[r]最期の幻覚とか……
+;;なんて、そんなことあるわけないか。[r]ありがとう。こんな物だけど、受け取って頂戴。
+I-I was saved... That wasn't a dream, was it ?
+Thank you... Please accept this.
 
 *NHT
 *NWK
@@ -15,7 +17,7 @@
 ;;ーーーーーーーーーー
 
 *ITM 大妖精 天界の桃
-大妖精は 天界の桃 を手に入れた。
+Obtained the Heavenly Peach
 
 *REM IDN05
 
