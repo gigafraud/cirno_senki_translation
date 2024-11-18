@@ -6,14 +6,18 @@
 *SND BGM27
 
 *RHT リグル
+;;さあ行くよ、チルノ。用意はいい？
 Now, let's go, Cirno. Are you ready ?
 
 *LHT チルノ 笑
+;;いつでもいいよっ！[r]どこからでもかかってこ～い！
 Yes ! What are you waiting for ? Come at me !
 
 *RHT リグル 驚
+;;（攻撃を誘って反撃かけようと思ったのに……[r] 意外と釣られないなぁ……）
 (Oh, I wanted to let her come so I could counterattack... I couldn't lure her, surprisingly.)
 *RHT リグル 怒
+;;よし……　それじゃ、こっちから……！
 ... In that case, it's my turn !
 
 *NHT
