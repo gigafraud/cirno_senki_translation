@@ -4,8 +4,10 @@
 ;START
 
 *LHT ルーミア
+;;あ～あ。とっておきの力使ったら、[r]お腹空いちゃった。
 Aaah, now that I used all my powers, I’m hungry..
 *LHT ルーミア 笑
+;;なにか食べてこよ～っと♪
 I’m gonna eat something !
 
 *NHT
