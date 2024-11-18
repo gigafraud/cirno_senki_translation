@@ -6,21 +6,27 @@
 *SND BGM27
 
 *RHT ルーミア 笑
+;;み～すちーっ♪
 Mistyyyy !
 
 *LHT ミスティア 驚
+;;ぴゃっ！？[n]ちょ、ちょっと！[r]なんで急に飛びかかってくるのよ！！
 Uwah ! H-Hey ! Why you suddenly jump at me !?
 
 *RHT ルーミア 哀
+;;ぎゅ～ってしようとしただけだよ～
 I just want to give you a hug...
 
 *LHT ミスティア 哀
+;;……抱きつくだけって感じがしなかったのは[r]気のせい？
 ... Is it my imagination, or you don't just intend to hug me ?
 
 *RHT ルーミア 笑
+;;気のせい気のせい♪
 Huhu, your imagination, your imagination...
 
 *LHT ミスティア 苦
+;;み、身の危険を感じるわ……
 I-I feel like i'm in danger...
 
 *NHT
