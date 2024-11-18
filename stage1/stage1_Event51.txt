@@ -6,12 +6,16 @@
 *SND BGM27
 
 *RHT ミスティア 笑
+;;ふふふっ♪[r]私の歌で、狂わせてあげちゃうんだからっ♪
 Hehehe ♪ My song will make you go crazy ♪
 
 *LHT チルノ 笑
+;;へんっ！　鳥目にされたって、昼間なら[r]全然怖くないもんねっ！！
 Heh ! Giving me night blindness in the daytime won't do anything !
 
 *RHT ミスティア 怒
+;;鳥目にするだけが能じゃないわよっ！
+;;むむ～っ！[r]その言葉、後悔させてやるんだから！！
 Causing night blindness isn't the only thing I can do !
 Grr... I'll make you regret your words !
 
