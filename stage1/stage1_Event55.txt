@@ -6,26 +6,35 @@
 *SND BGM27
 
 *RHT リグル 怒
+;;行くよ、みすちー！[r]手加減なんてしないからね！！
 Let's go, Misty ! I won't go easy on you !
 
 *LHT ミスティア 笑
+;;んもう、リグルってば相変わらず[r]真面目なんだから。[n]ま……　だからこそ頼りにしてるんだけどね。
+;;でも、そんなに肩に力入れてちゃ、[r]実力なんて出せやしないわよ～？
 Geez, you're taking this seriously, are you ?
 If you keep stressing yourself, you won't be able to let out your true potential, you know ?
 
 *RHT リグル 驚
+;;えっ　そ、そうかな……
 Eh ? I-Is that so ?
 
 *LHT ミスティア 笑
+;;そうそう♪[r]力抜いて、自然体でやらないと、普段できる[r]ことだってできなくなっちゃうわよ。
 That’s right that’s right ♪ Relax. When you calm down, it's way easier to think !
 
 *RHT リグル
+;;えっと……　こんな感じかな？
 Err... Like this ?
 *RHT リグル 笑
+;;あ、なるほど、確かにこの方が動けそうな[r]気がする！！
 Ah, I see, I feel like I can do anything !!
 
 *LHT ミスティア
+;;あれ？　なんで私、特訓相手に[r]助言してるんだろ。
 Huh ? Why am I advising my special training opponent ?
 *LHT ミスティア 笑
+;;まぁいいか。行っくわよ～っ！
 Whatever. Here goes !
 
 *NHT
