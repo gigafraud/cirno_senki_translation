@@ -1,11 +1,13 @@
 ;START
 ;;ーーーーーーーーーーー
-;;ＮＰＣ僧兵Ａ、離脱成功
+;;NPC Monk A successfully leaves
 ;;ーーーーーーーーーーー
 
 *LHT 僧兵青
-まさか本当に奇跡が起きるとは……[n]いや、奇跡などと言ってしまっては、[r]援護してくれた人たちに失礼というものだな。
-助かったよ。本当にありがとう。
+;;まさか本当に奇跡が起きるとは……[n]いや、奇跡などと言ってしまっては、[r]援護してくれた人たちに失礼というものだな。
+;;助かったよ。本当にありがとう。
+I-It's a miracle... No, calling it a miracle would disrespect you people who helped us.
+Thank you. Thank you so much !
 
 *NHT
 *NWK
@@ -16,7 +18,7 @@
 ;;ーーーーーーーーー
 
 *ITM 大妖精 太陽の雫
-大妖精は 太陽の雫 を手に入れた。
+Obtained a Sun Drop
 
 *REM IDN03
 
