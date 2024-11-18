@@ -8,48 +8,64 @@
 *MKT IDEB3
 
 *LHT チルノ 笑
+;;へへへ～っ♪　どうだっ！
 Hehehe ! Did you see that !?
 
 *RHT リグル 驚
+;;う～ん、やるなぁ……[r]チルノ、前より強くなったんじゃない？
 Wow, you really are powerful... Cirno, aren't you stronger than before ?
 
 *LHT チルノ 笑
+;;ふっふーん！[r]あたいはいつでもサイキョーだよっ♪
 Huhu, but of course !
 *LHT チルノ
+;;それに、トックンのおかげで、なんだかもっと[r]強くなったような気がするし、
 And thanks to this special training, my skills have improved !
 *LHT チルノ 笑
+;;あたいったらますますサイキョーねっ！
 I'm getting stronger than ever !
 
 *RHT リグル 哀
+;;う～ん……私もうかうかしてられないなぁ……[r]もっと頑張らないと……
 Hmm... I can't lose ground like that... I have to work harder...
 
 *CHT ミスティア
+;;チルノはともかく、リグルも熱心ねぇ。[r]そんなに強くなりたいの？
 Not only Cirno, but Wriggle is enthusiastic as well. You want to become strong too ?
 
 *RHT リグル 笑
+;;そりゃあね。[r]やっぱり、そういうのって憧れるじゃない。
 Obviously. After all, I also enjoy that sort of thing.
 
 *CHT ミスティア
+;;ふ～ん、そうなんだ？
 Hmm, is that so ?
 *CHT ミスティア 笑
+;;私は、歌が歌えればそれで満足だから、[r]なんでもいいけどね～♪
 As long as I can sing, I’m satisfied. So anything’s fine ~ ♪
 
 *LHT ルーミア 笑
+;;私もっ♪　美味しいもの食べられれば、[r]それでいいもんね！
 Me too ! If I can eat delicious food, I’m fine !
 
 *CHT ミスティア 笑
+;;それに人間襲うなら、今のままで充分だしね。
 And if I can attack humans, I’m satisfied with the way it is now.
 
 *RHT リグル 哀
+;;二人共気楽だなぁ。
 You two are both easygoing.
 
 *CHT ミスティア 笑
+;;リグルが色々考え過ぎなんだってば。
 You're the one who's overthinking !
 
 *LHT ルーミア 笑
+;;うんうん。
 Absolutely !
 
 *RHT リグル 哀
+;;う～ん……そうかなぁ……。
 Hmm... I guess so...
 
 *NHT
@@ -57,87 +73,118 @@ Hmm... I guess so...
 *SLP 30
 
 *LHT チルノ 笑
+;;さってと！[r]トックンのおかげで、ますますサイキョーに[r]なったわけだし！
 So ! Thanks for the special training, I'm one step closer for being the strongest !
 *LHT チルノ
+;;大ちゃん、次に行くよ！！
 Dai, let's go to the next place !!
 
 *RHT 大妖精 驚
+;;えっ、次？
 Eh ? The next place ?
 
 *CHT ルーミア 笑
+;;次？　いよいよ滝で遊ぶのかー？
 The next place ? Are you finally gonna play with the waterfall ?
 
 *LHT チルノ 哀
+;;そんなことしないよ！
 We’re not gonna do that !
 *LHT チルノ 笑
+;;滝を凍らせてやるのも楽しそうだけど、[r]それは今度ってことで！
 Freezing the waterfall sounds fun, but that will be for later !
 
 *CHT リグル 驚
+;;こ、今度って……いつかやるつもりなんだ……
 Later ?  So you intend to do it someday…
 
 *RHT ミスティア
+;;それじゃ、どこ行くの？
 Well then, where are you going ?
 
 *LHT チルノ 笑
+;;トックンして強くなったんだから、やることは[r]一つだよ！[n]どのくらい強くなったか、腕試しに行くんだ♪
 Now that I became stronger, I have one thing to do ! I’ll go testing my skills to see how strong I became ♪
 
 *RHT 大妖精 驚
+;;腕試しって……　えっ？
 Testing your skills…? Eh ?
 
 *LHT チルノ 笑
+;;まずは、この前見かけた、ヘンテコな妖精[r]三人組！
+;;あいつらと勝負して、腕試しついでにあたいの[r]強さを見せつけてやるんだよ！
+;;なんだか、あたいに対抗意識燃やしてる[r]みたいだし！
 First of all, I’ll see those weird three fairies !
 I’ll challenge them to test my skills and show them my strength !
 I feel like no one can stop me !
 
 *CHT リグル 哀
+;;……また突拍子もないこと言い出してるけど、[r]大丈夫なのかな……
 You’re starting to say crazy things again, I wonder if it’s okay... ?
 
 *RHT 大妖精 苦
+;;あんまり大丈夫じゃないと思う……
 I don't really think so...
 
 *CHT ルーミア 笑
+;;でも、なんだか面白そうだねー[n]ねぇねぇ。せっかくだし、私達も一緒に[r]行ってみようよ。
 But that looks interesting ! Hey hey. Since we’re all here, let’s go all together !
 
 *RHT ミスティア 笑
+;;それがいいかもね。チルノがやられちゃっても、すぐに助けてあげられるし。
 Good idea. Even if Cirno is defeated, we’ll be able to help right away.
 
 *LHT チルノ 笑
+;;やられちゃうなんてこと、あるわけないよっ！[n]あたいはサイキョーなんだし！
 There’s no way I would be defeated !
 
 *RHT 大妖精 哀
+;;………
 ... ...
 
 *CHT リグル
+;;あー……[n]これは私達も行った方がいいかもね。
 Ah… It will be fine if we go together.
 *CHT リグル 笑
+;;だからさ。大ちゃんも、そんな顔しないで。
 So, don’t make that face, Dai.
 
 *RHT 大妖精 哀
+;;う、うん。
 Y-Yes.
 *RHT 大妖精 笑
+;;リグルちゃん、ミスティアちゃん、[r]それにルーミアちゃんも、ありがとう。
 Wriggle, Mystia, and Rumia, thank you.
 
 *LHT チルノ 哀
+;;んもう……、大ちゃんは心配し過ぎだよー。
 Geez, you worry too much, Dai.
 *LHT チルノ
+;;まぁ、あたいはどっちでもいいけどねっ！
 Well, fine by me either way !
 *LHT チルノ 笑
+;;そいじゃ……[r]あのヘンテコ妖精に向かって、[r]トツゲキ開始～～っっ！！
 So, let's start our assault toward those weird fairies !!
 
 *CHT ルーミア 笑
+;;おーーっ！　とつげき～～っっ♪
 Yaaaaay ! Assault !
 *NLH
 *NCH
 
 *RHT 大妖精 驚
+;;あっ、チルノちゃん、待ってよ！
 Ah, Cirno, wait !
 
 *LHT ミスティア 驚
+;;ルーミアも、突っ走り過ぎだってば！
 Rumia also went too far !
 *LHT ミスティア 怒
+;;リグル、大ちゃん、私達も……！
 Dai, let’s go as well !
 
 *RHT 大妖精 驚
+;;う、うん！
 Y-Yes !
 
 *NHT
@@ -145,8 +192,10 @@ Y-Yes !
 *SLP 60
 
 *CHT リグル 驚
+;;なんだか色々、大丈夫なのかな……
 I wonder if everything will be alright...
 *CHT リグル 笑
+;;でもまあ、みんながいればなるようになるよね。
 But well, it will be fine as long as everyone’s here.
 
 *NHT
