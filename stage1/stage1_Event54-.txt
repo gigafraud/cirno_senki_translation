@@ -6,11 +6,14 @@
 *SND BGM27
 
 *LHT 大妖精 
+;;わ、私だって、少しくらいは……っ！
 E-Even I, for a little... !
 
 *RHT リグル 驚
+;;うわっ！？[p]　大ちゃんもなかなかやるね！
 Woah !? You're pretty good as well, Dai !
 *RHT リグル 笑
+;;よ～っし！[r]それじゃ、今度はこっちの番だよ！！
 Al~right ! Then, it’s my turn now !!
 
 *NHT
