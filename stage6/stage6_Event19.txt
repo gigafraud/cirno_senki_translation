@@ -1,11 +1,13 @@
 ;START
 ;;ーーーーーーーーーーー
-;;ＮＰＣ僧兵Ｂ、離脱成功
+;;NPC Monk B successfully leaves
 ;;ーーーーーーーーーーー
 
 *LHT 僧兵黄
-た、助かった……[n]占いに載ってた幸運の小物が[r]効いてくれたのかもしれませんね。
-とにかく、ありがとうございました。
+;;た、助かった……[n]占いに載ってた幸運の小物が[r]効いてくれたのかもしれませんね。
+;;とにかく、ありがとうございました。
+I-I was saved...
+That lucky charm the fortune teller gave me helped me in the end... Thank you very much.
 
 *NHT
 *NWK
@@ -16,7 +18,7 @@
 ;;ーーーーーーーーーー
 
 *ITM 大妖精 龍神の像
-大妖精は 龍神の像 を手に入れた。
+Obtained a Dragon Statue
 
 *REM IDN04
 
