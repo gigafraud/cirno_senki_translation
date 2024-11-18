@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;青娥、芳香、出現
+;;Seiga and Yoshika appears
 ;;ーーーーーーーー
 
 ;;*TKI 僧兵黄 1,22 IDE2202 C G1 屍僧兵 35 致死暗黒術弾
@@ -55,24 +55,30 @@
 *SLP 30
 
 *RHT 青娥
-………
+;;………
+...
 
 *LHT 芳香 笑
-せーが様、賑やかだなー。[r]私達もあれに混ざりに行くのか―？
+;;せーが様、賑やかだなー。[r]私達もあれに混ざりに行くのか―？
+Miss Seiga, they look like they're having so much fun. Shall we join in ?
 
 *RHT 青娥
-ええ、そうね。この前のこと、しっかり[r]お礼させてもらわないといけないものね。
+;;ええ、そうね。この前のこと、しっかり[r]お礼させてもらわないといけないものね。
+Yes. I have to take my revenge for what happened the other day.
 
 *LHT 芳香
-おー？　なにかしてもらったっけ？
+;;おー？　なにかしてもらったっけ？
+Oh ? Did they annoy you ?
 
 *RHT 青娥 笑
-ええ。色んなことを、ね。
+They did. Very much.
 *RHT 青娥 怒
-それじゃ芳香、行くわよ。[r]しっかりお願いね。
+;;それじゃ芳香、行くわよ。[r]しっかりお願いね。
+Alright. Yoshika, let's go.
 
 *LHT 芳香 笑
-おー。まかせとけ、せーが様。
+;;おー。まかせとけ、せーが様。
+Okay. Leave it to me !
 
 
 *NHT
