@@ -40,6 +40,8 @@ This will put a character sprite on the left side of the screen with a specific 
 
 *RHT does the same thing, it just puts the character sprite on the right instead.
 
+In the files, I put the original japanese dialogues in comment, and the translated dialogue right under.
+
 
 
 ### SND musicName
