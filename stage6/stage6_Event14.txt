@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;ＮＰＣ僧兵Ａ登場
+;;NPC Monk A appears
 ;;ーーーーーーーー
 
 *NPC 僧兵青 5,1 IDN03 E G1N 僧兵 36 極氷高速弾 治療薬
@@ -17,8 +17,10 @@
 *SLP 30
 
 *LHT 僧兵青
-やっとの思いでここまで来たと思ったら……
-ははは……[r]これで里に帰れたら、奇跡ってところだな……
+;;やっとの思いでここまで来たと思ったら……
+;;ははは……[r]これで里に帰れたら、奇跡ってところだな……
+Just when I thought I made it...
+Aah... I'll never get back to the village at this rate...!
 
 *NHT
 *NWK
@@ -27,18 +29,26 @@
 *SLP 30
 
 *LHT チルノ 哀
-んー？　なんだろ、あれ。
+;;んー？　なんだろ、あれ。
+Hmm ? Who's that ?
 
 *RHT 天子
-里の人間みたいね。[n]こんな場面に出くわすなんて、[r]運が無かったわね。
+;;里の人間みたいね。[n]こんな場面に出くわすなんて、[r]運が無かったわね。
+Looks like a villager. They came back at the wrong time, unfortunately.
 
 *LHT 衣玖
-……ばっさり切り捨てますねぇ。
+;;……ばっさり切り捨てますねぇ。
+Oh, so we should be careful to not hurt them.
 *LHT 衣玖 笑
-私もそのくらい非情になれれば[r]楽なんですけどねぇ。
+It would be easier if I could just attack ruthlessly.
+;;私もそのくらい非情になれれば[r]楽なんですけどねぇ。
+
+;;---------- I don't really know if that's really what Iku meant here.
+
 
 *RHT 文 哀
-う～ん……　できることなら、あの人を里に[r]帰らせてあげたいところですが……
+;;う～ん……　できることなら、あの人を里に[r]帰らせてあげたいところですが……
+Hmm... I think we should help them go back to the village.
 
 *NHT
 *NWK
