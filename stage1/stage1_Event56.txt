@@ -6,20 +6,26 @@
 *SND BGM27
 
 *RHT ルーミア
+;;………
 ... ...
 
 *LHT チルノ
+;;……どうしたの？[r]そっちから来ないならあたいから……
 ... What's wrong ? If you're not attacking, I will !
 
 *RHT ルーミア 笑
+;;うん。チルノのこと見てたら、かき氷が[r]食べたくなっちゃった。ねぇ、後で作ってよ。
 Yes. When I see you, I wanna eat shaved ice. Can you make some ?
 
 *LHT チルノ 怒
+;;あ、あたいはかき氷じゃな～～～いっ！！
 Huh ? I-I'm not shaved ice !!
 *LHT チルノ 驚
+;;って、ちょっと！[r]なんでヨダレ垂らしてるんだよっ！！
 W-Wait ! Why are you drooling !?
 
 *RHT ルーミア 笑
+;;いっただっきま～っす♪
 Time to eaaaat !
 
 *NHT
