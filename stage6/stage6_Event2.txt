@@ -61,19 +61,25 @@ So many people here... We should greet them !
 GOOOOOOOOOD MOOOOOORNING !!!!!!!
 
 *RHT 小傘 驚
-ひゃあっ！？[p]　ビックリした……
+;;ひゃあっ！？[p]　ビックリした……
+Wowowowowow !!!!
 *RHT 小傘 怒
-なんなのよ、あんたはっ！[r]いつもいつも私の邪魔してくれちゃって！！
+;;なんなのよ、あんたはっ！[r]いつもいつも私の邪魔してくれちゃって！！
+Nooo, they noticed us... You ! Why do you keep foiling my plans !?
 
 *LHT 響子 笑
-あはは、ごめんごめん。
+;;あはは、ごめんごめん。
+Hahaha, sorry, sorry.
 
 *RHT 小傘 怒
-ごめんじゃないでしょ！　まったくもうっ！
-ああもう、なんでもいいわ。[n]こんなの放っておいて、さっさと私も混ざり[r]にいかないと！
+;;ごめんじゃないでしょ！　まったくもうっ！
+;;ああもう、なんでもいいわ。[n]こんなの放っておいて、さっさと私も混ざり[r]にいかないと！
+You don't look sorry at all !!
+Well, it doesn't matter anymore right now. We just have to join the fight !
 
 *LHT 響子 驚
-あっ、待ってよー。私も行くーっ！
+;;あっ、待ってよー。私も行くーっ！
+Yeah, let's go !
 
 
 *NHT
