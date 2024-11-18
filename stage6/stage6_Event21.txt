@@ -1,11 +1,13 @@
 ;START
 ;;ーーーーーーーーーーー
-;;ＮＰＣ僧兵Ｄ、離脱成功
+;;Monk D successdully leaves
 ;;ーーーーーーーーーーー
 
 *LHT 僧兵青
-おお……[r]やはり天は私を見捨てていなかったか……
-ありがとう。あなた方は天の使いだ……
+;;おお……[r]やはり天は私を見捨てていなかったか……
+;;ありがとう。あなた方は天の使いだ……
+Ooh... Heaven hasn't abandonned me after all...
+Thank you. You are the messengers of God... Please accept this.
 
 *NHT
 *NWK
@@ -16,7 +18,7 @@
 ;;ーーーーーーーーーー
 
 *ITM 大妖精 大天狗の羽
-大妖精は 大天狗の羽 を手に入れた。
+Obtained Great Tengu's Wings
 
 *REM IDN06
 
