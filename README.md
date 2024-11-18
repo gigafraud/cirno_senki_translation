@@ -51,7 +51,7 @@ Plays a background music. As simple as that.
 
 
 --------------------------------------------------------
-There are other functions in these files, but I need to check what they actually do to be able to explain it.
+There are other functions in these files, but I need to check what they actually do to be able to explain them.
 
 
 
