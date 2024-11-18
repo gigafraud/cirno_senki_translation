@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;小傘、響子、出現
+;;Kogasa and Kyouko appears
 ;;ーーーーーーーー
 
 ;;SNAは敵味方ＮＰＣ現在曲全部この曲にする
@@ -47,15 +47,18 @@
 *SLP 30
 
 *RHT 小傘 笑
-あははっ！　やってるやってる！
+;;あははっ！　やってるやってる！
+Haha ! We made it !
 *RHT 小傘
-みんな、こんなに楽しそうにやってるのに、[r]黙って見てるだけでなんていられないよね！
+;;みんな、こんなに楽しそうにやってるのに、[r]黙って見てるだけでなんていられないよね！
+Everyone seems to be having fun here, we can't just sit back and watch !
 *RHT 小傘 笑
-ふふふっ　驚かせて驚かせて、お腹いっぱいに[r]なってやるんだからっ！
+;;ふふふっ　驚かせて驚かせて、お腹いっぱいに[r]なってやるんだからっ！
+Hehe, I'll surprise all of them by joining in !
 
 *LHT 響子 笑
-大声いっぱい！　楽しいな～っ♪[n]私も混ぜてもらっちゃおっと！
-わーーーーーっっ！！！！！
+So many people here... We should greet them !
+GOOOOOOOOOD MOOOOOORNING !!!!!!!
 
 *RHT 小傘 驚
 ひゃあっ！？[p]　ビックリした……
