@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;ＮＰＣ僧兵Ｄ登場
+;;NPC Monk D appears
 ;;ーーーーーーーー
 
 *NPC 僧兵青 14,28 IDN06 E G1N 僧兵 36 神速弾 治療薬
@@ -17,8 +17,10 @@
 *SLP 30
 
 *LHT 僧兵青
-こんなことになるなんて……[r]天は私を見放したのか……
-それとも、最後にはしっかりと[r]拾ってくれるのか……[n]天よ……！
+;;こんなことになるなんて……[r]天は私を見放したのか……
+;;それとも、最後にはしっかりと[r]拾ってくれるのか……[n]天よ……！
+No... The village is getting attacked !
+How... Has heaven given up on me...? Please save me !
 
 
 *NHT
