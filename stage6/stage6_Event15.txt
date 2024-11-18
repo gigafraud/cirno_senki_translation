@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;ＮＰＣ僧兵Ｂ登場
+;;NPC Monk B appears
 ;;ーーーーーーーー
 
 *NPC 僧兵黄 27,28 IDN04 E G1N 僧兵 36 命奪術弾 治療薬
@@ -17,8 +17,8 @@
 *SLP 30
 
 *LHT 僧兵黄
-な、なんなんですかこれはーっ！
-はぁ……今日の運勢は最悪だっていう占い、[r]こういうことだったんですね……
+W-What is happening here !?
+Sigh... So that's what the fortune teller warned me about...
 
 *NHT
 *NWK
