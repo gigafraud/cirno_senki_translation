@@ -9,8 +9,11 @@
 *SLP 30
 
 *RHT ルーミア 哀
+;;うー～っ……　４対１なんてずるいよ～
 Uu... 4 Versus 1 isn't fair...
 *RHT ルーミア 笑
+;;あっ、そうだ！　いいこと考えた！
+;;ふふふーっ♪　私のとっておき、[r]見せてあげちゃうもんね～！
 Ah, I know ! I came up with a good idea !
 Hehehe ! Watch this !
 
@@ -25,33 +28,44 @@ Hehehe ! Watch this !
 *RED チルノdata_stages/chirno_stage1/stage1_ENEMY4
 
 *LHT ミスティア 驚
+;;えっ　ちょっと、なによあれ！！
 Eh ? Wait, what is this !?
 
 *RHT リグル 驚
+;;あんな力があったなんて知らなかったよ……
 I didn't know she has such power...
 *RHT リグル 哀
+;;いざって時しか使わない、切り札ってやつ[r]なのかな。
 I wonder if it's her trump card she only uses when necessary.
 
 *LHT 大妖精 哀
+;;今って、切り札を使うような時なのかなぁ？
 W-Why haven't we see her do that yet ?
 
 *RHT リグル
+;;普段は勝負しないような、身内が相手だから[r]こそ……とか？
 Maybe because she usually isn't pushed in a corner like that since she only fights us... ?
 
 *LHT ミスティア 哀
+;;……ルーミアの場合、ただの気まぐれなだけの[r]気がするけど。
 ... I feel like that she just did this on a whim.
 
 *RHT リグル 哀
+;;そ、そうかも……。
 M-Maybe...
 
 *LHT チルノ 笑
+;;そんなのなんでもいいよ！
 It doesn't matter !
 *LHT チルノ
+;;これで４対４になったんだし、これで遠慮なく[r]やれちゃうもんね！
 It's now an even fight, so we can go all out !
 *LHT チルノ 笑
+;;いくよ、ルーミア！
 I'm coming, Rumia !
 
 *RHT ルーミア 笑
+;;お～っ！　しょーぶだー！
 Yay ! Let's plaaay !!
 *NHT
 *NWK
