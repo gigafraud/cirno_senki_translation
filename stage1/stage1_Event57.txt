@@ -6,29 +6,38 @@
 *SND BGM27
 
 *RHT ルーミア
+;;う～ん……？
 ... ...
 
 *LHT 大妖精 哀
+;;あ、あの……　ルーミアちゃん？
 H-Hum... Rumia ?
 
 *RHT ルーミア
+;;大ちゃんといったら、緑色。[n]緑色といったら……[p]　メロン？
 Yes. When I see Dai, I see green. When I see green, I see... melon ?
 
 *LHT 大妖精 驚
+;;えっ？
 Huh ?
 
 *RHT ルーミア 笑
+;;うん！　メロンのかき氷食べたいっ！
 Yes ! I wanna eat melon shaved ice !
 
 *LHT 大妖精 驚
+;;ええぇぇっっ！！？[n]あ、あの、果物なら後で採ってくるから…っ！
 W-What ? Y-You can eat some fruits later... !
 
 *RHT ルーミア 笑
+;;食～べちゃ～うぞ～っ♪
 Alright, A table !
 
 *LHT 大妖精 驚
+;;えっ、ちょっと……！？
 Eh ? Wait... !!
 *LHT 大妖精 苦
+;;お願いだから、食べないでよぉっ！
 Please don't eat me !
 
 *NHT
