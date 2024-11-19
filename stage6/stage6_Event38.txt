@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーー
-;;小町、映姫、共鳴化
+;;Komachi and Eiki Pair Up
 ;;ーーーーーーーーー
 
 *SND BGM24
@@ -11,24 +11,31 @@
 *LIV 小町
 
 *RHT 映姫
-なるほど……[n]ただの妖精とは、わけが違う[r]ようですね……
+;;なるほど……[n]ただの妖精とは、わけが違う[r]ようですね……
+I see. So she really is different from a normal fairy.
 
 *LHT 小町 哀
-映姫様ー。やっぱり、他の人達に[r]任せちゃいましょうよー
+;;映姫様ー。やっぱり、他の人達に[r]任せちゃいましょうよー
+Miss Eiki... We don't have to fight... Let's leave it to them...
 
 *RHT 映姫 怒
-小町。手伝ってもらえますか。[r]バラバラでは効率も悪くなってしまいます。
+;;小町。手伝ってもらえますか。[r]バラバラでは効率も悪くなってしまいます。
+Komachi, could you stay with me ? When we are separated, you seem to lose efficiency.
 
 *LHT 小町 哀
-あ～あ。聞いちゃいないよ……
+;;あ～あ。聞いちゃいないよ……
+O-Oh... You've gotta be kidding me...
 
 *RHT 映姫
-何か言いましたか？
+;;何か言いましたか？
+Did you say something ?
 
 *LHT 小町 笑
-いえいえ何も。
+;;いえいえ何も。
+N-No, Nothing.
 *LHT 小町
-仕方ない、ゆるゆると行くとしますかね……
+;;仕方ない、ゆるゆると行くとしますかね……
+Alright. I expect you to not slow me down.
 
 
 *NHT
