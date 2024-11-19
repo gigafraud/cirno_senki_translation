@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーー
-;;勇儀、美鈴、共鳴化
+;;Yuugi and Meiling Pair Up
 ;;ーーーーーーーーー
 
 *SND 華のさかづずき大江山
@@ -9,23 +9,31 @@
 *LIV 美鈴
 
 *RHT 勇儀
-おやおや、こいつは予想外だったね。[r]こんなにやるなんて。
-美鈴。どうやらあちらさん、ずいぶんと力を[r]持ってるようだよ。
+;;おやおや、こいつは予想外だったね。[r]こんなにやるなんて。
+;;美鈴。どうやらあちらさん、ずいぶんと力を[r]持ってるようだよ。
+Wow, I wasn't expecting that. They're really going at it.
+Meiling, it looks like they are worthy opponents.
 
 *LHT 美鈴 驚
-勇儀さん……？
+;;勇儀さん……？
+Miss Yuugi...?
 
 *RHT 勇儀 笑
 ははっ、これは思った以上に楽しめそうだよ！
+Hahaha ! I haven't been this eager to fight in a while !
 *RHT 勇儀
-美鈴！　今度は何の縛りなしもなしだよ！
+;;美鈴！　今度は何の縛りなしもなしだよ！
+Meiling ! Time to take off the gloves ! 
 *RHT 勇儀 笑
-私とあんたとで、思いっきり楽しませて[r]もらおうじゃないか！
+;;私とあんたとで、思いっきり楽しませて[r]もらおうじゃないか！
+We'll go together this time. Let's show them !
 
 *LHT 美鈴 驚
-思いっきり……
+;;思いっきり……
+(Take off the gloves...?)
 *LHT 美鈴 笑
-はいっ、わかりました！
+;;はいっ、わかりました！
+I...Yes ! I understand !
 
 *NHT
 *NWK
