@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーー
-;;一輪、雲山共鳴化
+;;Ichirin and Unzan Pair Up
 ;;ーーーーーーーーー
 
 *SND 平成のエイリアン
@@ -11,17 +11,21 @@
 *LIV 一輪
 
 *RHT 雲山
-む……
+...!
 
 *LHT 一輪 驚
-なんで妖精や妖怪が……
+;;なんで妖精や妖怪が……
+F-Fairies ? Why are they helping humans...?
 *LHT 一輪 怒
-なんなのよ、まったく！[n]雲山、もう一回行くよ！　人間の前に、[r]あいつらを叩いてしまいましょ！
+;;なんなのよ、まったく！[n]雲山、もう一回行くよ！　人間の前に、[r]あいつらを叩いてしまいましょ！
+I can't lose to those... Unzan, let's go again ! We're going to smack them down !
 
 *RHT 雲山
-そうだな……
+;;そうだな……
+...Yes.
 *RHT 雲山 神妙
-このまま退くことなどできんわ！
+;;このまま退くことなどできんわ！
+Time to take this seriously !
 
 *NHT
 *NWK
