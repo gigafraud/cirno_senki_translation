@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーー
-;;秋姉妹、共鳴化
+;;Shizua and Minoriko Pair Up
 ;;ーーーーーーー
 
 *SND BGM24
@@ -9,17 +9,21 @@
 *LIV 穣子
 
 *RHT 静葉 哀
-う～ん……　さすがに、この季節では力が[r]出しきれないわね。
+;;う～ん……　さすがに、この季節では力が[r]出しきれないわね。
+Hmm... We really are weaker in this season...
 
 *LHT 穣子 怒
-でも、こんなところで諦めちゃ、結局何も[r]変わらないよ！
+;;でも、こんなところで諦めちゃ、結局何も[r]変わらないよ！
+Yes... But if we give up now, we won't make a difference...!
 
 *RHT 静葉 怒
-ええ、もちろんよ。[r]そう簡単に諦めるわけにはいかないわ。
-穣子、行くわよ！
+;;ええ、もちろんよ。[r]そう簡単に諦めるわけにはいかないわ。
+;;穣子、行くわよ！
+You're right ! It would be too easy to give up now !
+Minoriko !
 
 *LHT 穣子 怒
-うん！　秋の素晴らしさを広めるためにも！
+You don't need to tell me ! Let's show them the wonders of autumn !
 
 *NHT
 *NWK
