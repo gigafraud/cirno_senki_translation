@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーー
-;;小傘、響子、共鳴化
+;;Kogasa and 
 ;;ーーーーーーーーー
 
 *SND 門前の妖怪小娘
@@ -9,25 +9,35 @@
 *LIV 響子
 
 *RHT 響子 驚
-や～ら～れ～たーー！！
+;;や～ら～れ～たーー！！
+OUCH OUCH OUCH !!
 
 *LHT 小傘 怒
-あーっ！　もう、なんなのよあんたは！！[r]いちいちうるさいんだってば！[n]どんだけ邪魔すれば気が済むわけ！？
+;;あーっ！　もう、なんなのよあんたは！！[r]いちいちうるさいんだってば！[n]どんだけ邪魔すれば気が済むわけ！？
+Hey, turn it down ! You're too noisy !! Can't you stay calm for one second !?
 
 *RHT 響子 哀
-邪魔なんてしてないよ。[r]手伝おうとしてるのに……
+;;邪魔なんてしてないよ。[r]手伝おうとしてるのに……
+H-Hey, I'm trying to help, you know...
 
 *LHT 小傘 哀
-どう見ても隣で騒いでるだけにしか[r]思えないんだけど……
+;;どう見ても隣で騒いでるだけにしか[r]思えないんだけど……
+Yeah... I guess the others are already making a lot of noise anyway...
+
 *LHT 小傘
-でも、まあいいわ。あんたがその気なら、[r]一緒に行こうじゃない。
-私の調子に合わせていくように、しっかり[r]やって頂戴よね！
+;;でも、まあいいわ。あんたがその気なら、[r]一緒に行こうじゃない。
+;;私の調子に合わせていくように、しっかり[r]やって頂戴よね！
+It's okay. If you're still up for it, let's go together.
+Make sure you can keep up with me !
 
 *RHT 響子 驚
-えっ　そっちが合わせてくれるんじゃないの？
+;;えっ　そっちが合わせてくれるんじゃないの？
+Woah, you sure are confident all of a sudden.
 
 *LHT 小傘 怒
-あんたが合わせるのよっ！
+;;あんたが合わせるのよっ！
+But don't worry about me !
+
 
 *NHT
 *NWK
