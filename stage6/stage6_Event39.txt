@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーー
-;;青娥、芳香、共鳴化
+;;Seiga and Yoshika Pair Up
 ;;ーーーーーーーーー
 
 *SND BGM24
@@ -13,7 +13,8 @@
 *MV4 芳香 青娥
 
 *RHT 青娥 哀
-前よりもさらに力をつけてきたみたいね……[n]その上、天人まで仲間についているようでは、[r]さすがに分が悪いかしら。
+;;前よりもさらに力をつけてきたみたいね……[n]その上、天人まで仲間についているようでは、[r]さすがに分が悪いかしら。
+Looks like she's even stronger than before... And that celestial is helping her too now.
 
 *RHT 青娥 笑
 けれどこちらとて、やりようはあるという[r]ものなのよ？[p]　見ててご覧なさい？
