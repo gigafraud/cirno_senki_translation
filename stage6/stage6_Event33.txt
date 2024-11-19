@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;虹川姉妹、三位化
+;;Prismriver sisters Trinity
 ;;ーーーーーーーー
 
 *SND 幽霊楽団
@@ -10,35 +10,46 @@
 *LIV リリカ
 
 *RHT メルラン 驚
-ぽへ～っ……
+;;ぽへ～っ……
+Ouch...
 
 *LHT ルナサ
-気圧が下がる前に、メルランのテンションが[r]下がっちゃった。
+;;気圧が下がる前に、メルランのテンションが[r]下がっちゃった。
+Merlin's sound waves dropped, so the atmosheric p-...
 
 *RHT リリカ 驚
-気圧はどうでもいいってば！
+;;気圧はどうでもいいってば！
+I don't care about atmoshperic pressure !
 
 *LHT ルナサ 哀
-でも、それじゃ新しい風は起きない……
+;;でも、それじゃ新しい風は起きない……
+But then there won't be any wind...
 
 *RHT リリカ 怒
-物理的に風起こしてもしょうがないんだって！
+;;物理的に風起こしてもしょうがないんだって！
+What's the point of making wind anyway !?
 
 *LHT ルナサ
-やっぱり？
+;;やっぱり？
+Hum...
 
 *RHT リリカ 哀
-………[p]もう何でもいいわ。
+;;………[p]もう何でもいいわ。
+...It's okay.
 *RHT リリカ 怒
-ほら、メル姉もしっかりしてよ！[r]このままじゃ、何も収穫なしで終わっちゃう！
+;;ほら、メル姉もしっかりしてよ！[r]このままじゃ、何も収穫なしで終わっちゃう！
+Merlin, stay strong ! We need to keep up the pace !
 
 *LHT メルラン 驚
-あ、うん。ごめんごめん。
+;;あ、うん。ごめんごめん。
+Y-Yeah. Sorry...
 *LHT メルラン
-よ～っし！　アンコールなら大歓迎よ！
+;;よ～っし！　アンコールなら大歓迎よ！
+Hey, listen to the public ! They want an encore !
 
 *RHT リリカ 笑
-そう来なくっちゃ！[n]れっつごーっ！
+;;そう来なくっちゃ！[n]れっつごーっ！
+So let's give it to them ! Time for the grand finale !
 
 *NHT
 *NWK
