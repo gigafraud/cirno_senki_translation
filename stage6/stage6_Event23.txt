@@ -1,45 +1,56 @@
 ;START
 ;;ーーーーーーーーー
-;;幽香がアリスを撃破
+;;Yuuka defeats Alice
 ;;ーーーーーーーーー
 
 *SND グリモワールオブアリス
 
 *LHT 幽香 笑
-さあ、追いかけっこはお終いよ。[p]ふふふふっ
+;;さあ、追いかけっこはお終いよ。[p]ふふふふっ
+Looks like the chase is over. Hehehe...
 
 *RHT アリス 苦
-やだってば！[r]来ないでって言ってるでしょ！！
+;;やだってば！[r]来ないでって言ってるでしょ！！
+N-No...! Leave me alone !!
 
 *KON 回避
 
 *LHT 幽香 驚
-………っ！？
+;;………っ！？
+...!?
 
 *RHT アリス 苦
-なんなのよ！　なんでこんな変な人に[r]追いかけられなきゃいけないのよ！
-もう嫌！　おうち帰るー！！
+;;なんなのよ！　なんでこんな変な人に[r]追いかけられなきゃいけないのよ！
+;;もう嫌！　おうち帰るー！！
+W-Why do you keep chasing me !?
+It's not funny anymore ! I'm going home !!
+
 
 *NRH
 
 *LHT 幽香 笑
-あらあら、ずいぶん嫌われちゃったわねぇ。
-お嬢さん。[r]投げつけた本、そのままでいいのかしら？
+;;あらあら、ずいぶん嫌われちゃったわねぇ。
+;;お嬢さん。[r]投げつけた本、そのままでいいのかしら？
+Oh my, it looks like I have been a little too mean...
+Hey, you dropped this book. Here, take it.
 
 *RHT アリス 怒
-いらないわよ！
+;;いらないわよ！
+I don't need it !
 
 *NRH
 
 *LHT 幽香 笑
-感心しないわねぇ。物は大切に扱わないと。[n]まあいいわ。[r]せっかくだし、貰っておくとしましょ。
+;;感心しないわねぇ。物は大切に扱わないと。[n]まあいいわ。[r]せっかくだし、貰っておくとしましょ。
+You should be more careful with your stuff. Oh well, I will keep it then.
 
 *NHT
 *NWK
 *SLP 15
 
 *ITM 幽香 グリモア
-幽香はグリモアを手に入れた
+;;幽香はグリモアを手に入れた
+Obtained a Grimoire of Alice.
 
 
 *NHT
