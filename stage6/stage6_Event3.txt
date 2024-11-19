@@ -81,15 +81,15 @@ I do.
 *RHT リリカ 怒
 ;;………[p]と、とにかくっ！
 ;;これも私達の将来のためなんだから、[r]姉さん達もしっかりやって頂戴よね！
-...Anyway,i t's time !
-Sisters, let's start our impromptu show !
+...Anyway, i's time !
+Sisters, let's start our impromptu show, shall we ?
 
 *LHT メルラン 哀
 ;;仕方ないわねぇ。
 Oh, okay...
 *LHT メルラン
 ;;可愛い妹の言うことだし、ここは付き合って[r]あげるとしましょうかね。
-If this is what my little sister wants, then I'll play along.
+If this is what my little sister wants, then I'll play along. Let's go !
 
 *NHT
 *NWK
