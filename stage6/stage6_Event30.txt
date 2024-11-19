@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーー
-;;村紗、ぬえ、共鳴化
+;;Murasa and Nue Pair Up ?
 ;;ーーーーーーーーー
 
 *SND 平成のエイリアン
@@ -11,14 +11,18 @@
 *LIV ぬえ
 
 *RHT 村紗 驚
-妖精に妖怪……！？　どうして……
+;;妖精に妖怪……！？　どうして……
+Fairies and monsters...? What are they doing here...
 
 *LHT ぬえ 怒
-気紛れで私達の邪魔なんてしてくれちゃって！
-でも、こんなことくらいで終わってなんて[r]やるもんか！
+;;気紛れで私達の邪魔なんてしてくれちゃって！
+;;でも、こんなことくらいで終わってなんて[r]やるもんか！
+Hey, don't get in our way, or you're gonna regret it !
+I can't believe youkais could take the humans' side...
 
 *RHT 村紗 怒
-人間の味方をするやつなんて……[n]聖みたいな真似をするやつなんて……っ！
+;;人間の味方をするやつなんて……[n]聖みたいな真似をするやつなんて……っ！
+They are just... Making the same mistakes miss Byakuren did...!
 
 *NHT
 *NWK
