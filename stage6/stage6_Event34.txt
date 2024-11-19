@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーー
-;;さとり、こいし、共鳴化
+;;Satori and Koishi Pair Up
 ;;ーーーーーーーーーーー
 
 *SND 少女さとり
@@ -9,26 +9,35 @@
 *LIV こいし
 
 *RHT さとり 哀
-さすがに一筋縄ではいかないようね……
-こいし、大丈夫？
+;;さすがに一筋縄ではいかないようね……
+;;こいし、大丈夫？
+Mmh... This is harder than I thought.
+Koishi, are you okay ?
 
 *LHT こいし 笑
-うん。お姉ちゃんと一緒なんだもん。[r]このくらい平気だよ。
+;;うん。お姉ちゃんと一緒なんだもん。[r]このくらい平気だよ。
+Yeah. As long as I'm next to you, I'm fine.
 
 *RHT さとり 笑
-よかった。
+;;よかった。
+Good.
 *RHT さとり 哀
-まだ、戦えるわよね？
+;;まだ、戦えるわよね？
+You can still fight, right ?
 
 *LHT こいし 笑
-もちろん！
+;;もちろん！
+Of course !
 *LHT こいし
-こんなんじゃ、みんなの痛み、まだまだ[r]思い知らせてやれてないもん。[n]ふふふふっ……
+;;こんなんじゃ、みんなの痛み、まだまだ[r]思い知らせてやれてないもん。[n]ふふふふっ……
+I haven't shown them what I can do...
 
 *RHT さとり 怒
-ええ、行きましょう。私とあなた、二人で。
+;;ええ、行きましょう。私とあなた、二人で。
+Then let's go. The two of us.
 *RHT さとり 笑
-後のことは、なんとでもなるようになるわ。[n]ふふふっ……
+;;後のことは、なんとでもなるようになるわ。[n]ふふふっ……
+Together, we can do anything...
 
 *NHT
 *NWK
