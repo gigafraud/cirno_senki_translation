@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーー
-;;虹川姉妹、出現
+;;The Prismriver sisters appear
 ;;ーーーーーーー
 
 *SNA 幽霊楽団
@@ -46,37 +46,50 @@
 *SLP 30
 
 *RHT リリカ 笑
-うんうん、いいねいいね！[n]この騒ぎ、混乱、悲鳴！[r]次の曲のイメージにぴったり！
+;;うんうん、いいねいいね！[n]この騒ぎ、混乱、悲鳴！[r]次の曲のイメージにぴったり！
+Yeah ! Look at all this commotion, confusion, and screams ! Perfect stage for our new song !
 *RHT リリカ
-姉さん、行こう！[n]もっと騒ぎを大きくして、新曲のイメージを[r]固めてこ！
+;;姉さん、行こう！[n]もっと騒ぎを大きくして、新曲のイメージを[r]固めてこ！
+Sisters, let's go ! Let's give to everyone a little surprise party !
 
 *LHT メルラン 哀
-あんまりハッピーな感じじゃないわねぇ。
+;;あんまりハッピーな感じじゃないわねぇ。
+A new song ? I don't really feel like it...
 
 *LHT ルナサ
-リリカ、破滅主義者？
+;;リリカ、破滅主義者？
+Come on, Merlin. We can't keep playing the same song.
 
 *RHT リリカ 怒
-もうっ、何度も言ってるでしょ！[n]いつまでも同じような曲じゃ[r]ダメなんだって！
-この辺りで雰囲気の違う曲を発表して、[r]新しい風を入れないと！
+;;もうっ、何度も言ってるでしょ！[n]いつまでも同じような曲じゃ[r]ダメなんだって！
+;;この辺りで雰囲気の違う曲を発表して、[r]新しい風を入れないと！
+We've talked about this before ! We need to innovate, or our fans won't listen to us !
 
 *LHT ルナサ 哀
-気圧に変化がないから、あんまり風は……
+;;気圧に変化がないから、あんまり風は……
+There's no change in atmoshperic pressure, so there isn't much wind...
+
 
 *RHT リリカ 驚
-姉さん、気圧低い言いたいだけだろー！！
+;;姉さん、気圧低い言いたいだけだろー！！
+You really like talking about atmoshperic pressure, do you.
 
 *LHT ルナサ 赤面
-正解。
+;;正解。
+I do.
 
 *RHT リリカ 怒
-………[p]と、とにかくっ！
-これも私達の将来のためなんだから、[r]姉さん達もしっかりやって頂戴よね！
+;;………[p]と、とにかくっ！
+;;これも私達の将来のためなんだから、[r]姉さん達もしっかりやって頂戴よね！
+...Anyway,i t's time !
+Sisters, let's start our impromptu show !
 
 *LHT メルラン 哀
-仕方ないわねぇ。
+;;仕方ないわねぇ。
+Oh, okay...
 *LHT メルラン
-可愛い妹の言うことだし、ここは付き合って[r]あげるとしましょうかね。
+;;可愛い妹の言うことだし、ここは付き合って[r]あげるとしましょうかね。
+If this is what my little sister wants, then I'll play along.
 
 *NHT
 *NWK
