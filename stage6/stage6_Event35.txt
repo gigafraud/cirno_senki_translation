@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーー
-;;リリー白黒、共鳴化
+;;Lily White and Lily Black Pair Up
 ;;ーーーーーーーーー
 
 *SND BGM24
@@ -14,16 +14,20 @@
 *EQP リリーホワイト 轟炎追尾弾
 
 *RHT リリーブラック 哀
-むむぅ……　こんなことって……
+;;むむぅ……　こんなことって……
+Hmm... They're strong...
 
 *LHT リリーホワイト 怒
-春なのに、私達が負けるわけないんですよー
+;;春なのに、私達が負けるわけないんですよー
+No, we can't lose ! Spring is in full bloom right now !
 
 *RHT リリーブラック 怒
-そうだよ！[n]ホワイト、まだまだやれるってこと、[r]見せてやらないと！
+;;そうだよ！[n]ホワイト、まだまだやれるってこと、[r]見せてやらないと！
+That's right ! White, we have to step it up !
 
 *LHT リリーホワイト 怒
-春は、終わらせませんからー！
+;;春は、終わらせませんからー！
+Spring will never end !
 
 *NHT
 *NWK
