@@ -1,12 +1,14 @@
 ;START
 ;;ーーー
-;;椛敗走
+;;Momiji defeated
 ;;ーーー
 
 
 *LHT 椛 哀
-う～ん、敵中に深入りしすぎてしまった[r]みたいですね。
-実戦にしろ将棋にしろ、熱くなるとついつい[r]突っ込んじゃうクセ、なんとかしないと……
+;;う～ん、敵中に深入りしすぎてしまった[r]みたいですね。
+;;実戦にしろ将棋にしろ、熱くなるとついつい[r]突っ込んじゃうクセ、なんとかしないと……
+Hmm... I went too far...
+Whether it's shogi or a real fight, I'm always too agressive... I should head back.
 
 
 *NHT
