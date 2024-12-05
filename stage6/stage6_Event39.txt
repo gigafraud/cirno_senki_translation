@@ -17,15 +17,19 @@
 Looks like she's even stronger than before... And that celestial is helping her too now.
 
 *RHT 青娥 笑
-けれどこちらとて、やりようはあるという[r]ものなのよ？[p]　見ててご覧なさい？
+;;けれどこちらとて、やりようはあるという[r]ものなのよ？[p]　見ててご覧なさい？
+But I still haven't said my last word...
 
 *LHT 芳香 笑
-せーが様、私はまだまだへーきだぞー
+;;せーが様、私はまだまだへーきだぞー
+I can still fight, Miss Seiga !
 
 *RHT 青娥 笑
-ありがとう。頼もしいわね、芳香は。
+;;ありがとう。頼もしいわね、芳香は。
+Good, Yoshika. I'm glad I can still count on you.
 *RHT 青娥 怒
-それじゃ……もう一回、行かせてもらうわよ。
+;;それじゃ……もう一回、行かせてもらうわよ。
+Well then, it's time to take our chance one more time.
 
 *NHT
 *NWK
