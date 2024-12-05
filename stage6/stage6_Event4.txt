@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;映姫、小町、出現
+;;Komachi and Eiki appears
 ;;ーーーーーーーー
 
 *SNA 六十年目の東方裁判
@@ -43,20 +43,27 @@
 *TG4 G1 28,14
 
 *RHT 映姫
-あれですね……　目につく妖怪達を全て[r]倒して回っている氷精というのは……
+;;あれですね……　目につく妖怪達を全て[r]倒して回っている氷精というのは……
+Here she is... The ice fairy that goes around taking fights with everyone she crosses...
 *RHT 映姫 怒
-妖精がやんちゃするのはよくあることですが、[r]とはいえこれはやりすぎというものです。[n]少し、解らせてあげなくてはいけませんね。
+;;妖精がやんちゃするのはよくあることですが、[r]とはいえこれはやりすぎというものです。[n]少し、解らせてあげなくてはいけませんね。
+Fairies are usually mischievous, but this is too much. I can't let that slide.
 *RHT 映姫
-小町、参りますよ。
+;;小町、参りますよ。
+Komachi, I'm going.
 
 *LHT 小町 笑
-映姫様。なにも私達が行かなくても、[r]他にもたくさん暴れてるのがいるんだし、[r]任せちゃえばいいんじゃないんですか？
+;;映姫様。なにも私達が行かなくても、[r]他にもたくさん暴れてるのがいるんだし、[r]任せちゃえばいいんじゃないんですか？
+Miss Eiki, it looks like there are already people taking care of that.
+Shouldn't we just leave it to them ?
 
 *RHT 映姫 笑
-おや、「一緒にお説教が聞きたい」ですか。[n]そこまでお望みなら、応えてさしあげますよ？
+;;おや、「一緒にお説教が聞きたい」ですか。[n]そこまでお望みなら、応えてさしあげますよ？
+Oh, so you want to get lectured instead of them ?
 
 *LHT 小町 笑
-さ、さ～って……　イタズラ妖精を懲らしめに[r]行くとしましょうかねーっ！
+;;さ、さ～って……　イタズラ妖精を懲らしめに[r]行くとしましょうかねーっ！
+U-Uuh... Let's punish these fairies ! I'm with you, Miss Eiki !
 
 
 *NHT
