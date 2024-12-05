@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーー
-;;さとり、こいし、出現
+;;Satori and Koishi appears
 ;;ーーーーーーーーーー
 
 *SNA 少女さとり
@@ -49,23 +49,33 @@
 *SLP 30
 
 *RHT さとり
-………
+;;………
+...
 *RHT さとり 苦
-地上の者や人間によって、地底は滅茶苦茶に[r]されてしまった……
+;;地上の者や人間によって、地底は滅茶苦茶に[r]されてしまった……
+The humans are responsible for all he ruckus in the underground...
+
 *RHT さとり 怒
-なら……　このトラウマ、あちら側にも[r]味あわせておかなくては、釣り合いがとれない[r]というものよね……
+;;なら……　このトラウマ、あちら側にも[r]味あわせておかなくては、釣り合いがとれない[r]というものよね……
+In that case... We should make them pay for it...
 
 *LHT こいし
-あはははは……っ[n]みんなが味わったのと同じ痛み。人間にも……[r]ふ、ふふふふ……っ
+;;あはははは……っ[n]みんなが味わったのと同じ痛み。人間にも……[r]ふ、ふふふふ……っ
+Hahaha... I haven't been able to fight in a long time... I'll take it on them...
 *LHT こいし 笑
-お姉ちゃん。[r]私、ずっとお姉ちゃんについていくよ。
+;;お姉ちゃん。[r]私、ずっとお姉ちゃんについていくよ。
+Big sister, I'm with you.
 
 *RHT さとり 笑
-ええ。私達二人でいれば、怖いことなんて[r]何もないわよね。
+;;ええ。私達二人でいれば、怖いことなんて[r]何もないわよね。
+Thank you. Together, we have nothing to fear.
 *RHT さとり 怒
-さあ、行きましょう。[n]行きつくところまで。行きつく果てまで。
+;;さあ、行きましょう。[n]行きつくところまで。行きつく果てまで。
+Then let's go. We shall fight until the end...
 *RHT さとり
-ね、こいし……　ずっと、一緒にね……
+;;ね、こいし……　ずっと、一緒にね……
+...You and me...
+
 
 
 *NHT
