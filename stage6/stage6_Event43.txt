@@ -1,14 +1,17 @@
 ;START
 ;;ーーーーー
-;;はたて敗走
+;;Hatate defeated
 ;;ーーーーー
 
 
 *LHT はたて 驚
-うわっ！？　ちょっと、嘘でしょ！？[n]こんなことって……
+;;うわっ！？　ちょっと、嘘でしょ！？[n]こんなことって……
+Wha- !? No way !!
 *LHT はたて 哀
-はー、情けない。[n]こんなところを文に見られでもしたら、[r]何を言われるか……
-まったくもう。[r]こんな時は、さっさと退散するに限るわね。
+;;はー、情けない。[n]こんなところを文に見られでもしたら、[r]何を言われるか……
+;;まったくもう。[r]こんな時は、さっさと退散するに限るわね。
+Oh no... If Aya writes an article on that, my reputation will be ruined...!
+That's not good. The only thing I can do is leave !
 
 
 *NHT
