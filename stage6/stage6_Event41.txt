@@ -1,13 +1,15 @@
 ;START
 ;;ーーーーー
-;;にとり敗走
+;;Nitori defeated
 ;;ーーーーー
 
 
 *LHT にとり 驚
-げげっ　新技術使った装甲だったのに、[r]あっさり破られちゃった。
+;;げげっ　新技術使った装甲だったのに、[r]あっさり破られちゃった。
+Oh... My prototype armor got broken...
 *LHT にとり 哀
-仕方ないなぁ。[r]実践試験ができたと思って、次に生かさせて[r]もらおっと。
+;;仕方ないなぁ。[r]実践試験ができたと思って、次に生かさせて[r]もらおっと。
+I guess its defensive capabilities still need some work. I have to work on that.
 
 
 *NHT
