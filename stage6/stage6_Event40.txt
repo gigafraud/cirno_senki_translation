@@ -1,11 +1,13 @@
 ;START
 ;;ーーーー
-;;白夜敗走
+;;Byakuya defeated
 ;;ーーーー
 
 *LHT 白夜
-そろそろ潮時かしらね……
-深入りするのも考え物だし、[r]この辺りで退場させてもらうとしましょ。
+;;そろそろ潮時かしらね……
+;;深入りするのも考え物だし、[r]この辺りで退場させてもらうとしましょ。
+Mmh... I shouldn't take any more risks...
+Let's leave it at that.
 
 *NHT
 *NWK
