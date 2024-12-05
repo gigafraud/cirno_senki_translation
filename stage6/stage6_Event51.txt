@@ -1,43 +1,57 @@
 ;START
 ;;ーーーーーーーーーーー
-;;小傘とキスメが戦闘した
+;;Kisume VS Kogasa ?
 ;;ーーーーーーーーーーー
 
 *SND 万年置き傘にご注意を
 
 *LHT キスメ 笑
-ふっふっふ～♪[r]頭の上がお留守だよ？　それーっ！
+;;ふっふっふ～♪[r]頭の上がお留守だよ？　それーっ！
+Hey ! You should take your head out of the clouds ! I'm over here !
 
 *RHT 小傘 驚
-………っ！？[n]ひゃああぁぁぁぁっっっ！！？
+;;………っ！？[n]ひゃああぁぁぁぁっっっ！！？
+W-Wah !!? Hyaaaaa !!!!
+
 
 *LHT キスメ 笑
-あっはははははは！！[r]いいねいいね！　いい驚きっぷりだよ！
-そんない驚いてもらえると、[r]嬉しくなっちゃうなぁ。
+;;あっはははははは！！[r]いいねいいね！　いい驚きっぷりだよ！
+;;そんない驚いてもらえると、[r]嬉しくなっちゃうなぁ。
+Hahahaha !! I really spooked you, didn't I ?
+I didn't mean to, but it makes me happy, somehow.
 
 *RHT 小傘 驚
-……………
+;;……………
+...
 
 *LHT キスメ 驚
-あれ？　もしかして、気絶しちゃった？
+;;あれ？　もしかして、気絶しちゃった？
+Hey, are you okay ? Did you pass out ?
 *LHT キスメ 哀
-目開けたまま気絶するなんて、[r]器用な人もいるもんだなぁ。
+;;目開けたまま気絶するなんて、[r]器用な人もいるもんだなぁ。
+Some people can actually pass out with their eyes open...
 
 *RHT 小傘 驚
-そんな……
+;;そんな……
+Who can do that...?
 
 *LHT キスメ
-なーんだ、ちゃんと起きてるんじゃん。
+;;なーんだ、ちゃんと起きてるんじゃん。
+What the heck, you're actually awake.
 
 *RHT 小傘 驚
-唐傘お化けのこの私が……[n]人を驚かすべきこの私が、[r]こんなに驚かされちゃうなんて……
+;;唐傘お化けのこの私が……[n]人を驚かすべきこの私が、[r]こんなに驚かされちゃうなんて……
+I am the one that should scare people... I can't believe I got spooked so easily...
 *RHT 小傘 苦
-わーんっ！　これじゃあ、私の唐傘としての[r]存在意義が揺らいじゃうじゃないのーっ！
+;;わーんっ！　これじゃあ、私の唐傘としての[r]存在意義が揺らいじゃうじゃないのーっ！
+No ! This is my raison d'etre ! I can't let someone else be better than me !
 *RHT 小傘 怒
-こ、このままじゃいられないわ！[n]なにがなんでもあんたを驚かせて、[r]この借りを３０倍にして返すんだから！
+;;こ、このままじゃいられないわ！[n]なにがなんでもあんたを驚かせて、[r]この借りを３０倍にして返すんだから！
+I can't live with that loss ! I'll spook you 30 times more to compensate !
 
 *LHT キスメ 哀
-な、なんだかよく解らないけど、[r]もしかして面倒な子にまずいことしちゃった[r]のかな……
+;;な、なんだかよく解らないけど、[r]もしかして面倒な子にまずいことしちゃった[r]のかな……
+Mmh... She really took that seriously... I almost feel bad...
 
 
 *NHT
