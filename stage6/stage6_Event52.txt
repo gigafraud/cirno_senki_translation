@@ -1,45 +1,45 @@
 ;START
 ;;ーーーーーーーーーーーーー
-;;響子とミスティアが戦闘した
+;;Mystia fights Kyouko
 ;;ーーーーーーーーーーーーー
 
 *SND 門前の妖怪小娘
 
 *LHT ミスティア 笑
-♪木に茂る～　青葉揺らしてヤマビコが～♪[n]　♪森越え丘越えひびいてく～♪
+♪ Far beyond the sundown, far beyond the moonlight ♪
 
 *RHT 響子 笑
-♪森越え丘越えひびいてく～♪
+♪ Deep inside our hearts and all our souls ♪
 
 *LHT ミスティア
-………[p]なにしてんの？
+...What ? What are you doing ?
 
 *RHT 響子 笑
-オウム返ししてるの！
+I'm singing ! Can't you hear ?
 
 *LHT ミスティア 怒
-それはわかるわよ！[r]なんでオウム返ししてんのか訊いてるの！[n]それ、私の歌なのに！
+Yeah I can see that ! I'm asking why you're singing ! That's my song !
 
 *RHT 響子 笑
-だって、よく通る綺麗な声で、楽しそうな歌[r]なんだもん。
-ヤマビコとしちゃ、そんな歌聴いちゃったら[r]オウム返しせずになんていられないよっ！
+I'm singing because I love that music too !
+I can't help but sing back when I hear such a good song !
 
 *LHT ミスティア 赤面
-よく通る綺麗な声って……
+(She... Actually sings pretty well...)
 *LHT ミスティア 怒
-で、でもダメ！[n]私の歌、勝手に歌わないでよ！
+N-No ! This is my song, don't sing it without permission !
 
 *RHT 響子 笑
-じゃ、許可してよー　一緒に歌お！
+Is it really your song anyway ? I feel like I've heard it somewhere else...
 
 *LHT ミスティア 怒
-やだっ！
+O-Of course it is ! 
 
 *RHT 響子 哀
-いじわる～　いじっぱり～
+Mmh... But I want to sing with you...
 
 *LHT ミスティア 怒
-う、うるさ～いっ！
+Now is not the time !
 
 
 *NHT
