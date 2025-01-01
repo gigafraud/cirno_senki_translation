@@ -1,32 +1,40 @@
 ;START
 ;;ーーーーーーーーーーー
-;;ルナサとルナが戦闘した
+;;Luna Child fights Lunasa
 ;;ーーーーーーーーーーー
 
 *SND 幽霊楽団
 
 *RHT ルナサ
-………あなた。
+;;………あなた。
+...You.
 
 *LHT ルナ 驚
-えっ、なに？？
+;;えっ、なに？？
+H-Huh ?
 
 *RHT ルナサ
-………[p]いえ、なんでもないわ。
+;;………[p]いえ、なんでもないわ。
+...Nevermind, it's nothing.
 *RHT ルナサ 笑
-少し、あなたとは気が合いそうな気がしたの。[n]静かな曲は好きかしら？
+;;少し、あなたとは気が合いそうな気がしたの。[n]静かな曲は好きかしら？
+I just have the feeling we might be quite similar. Do you like quiet songs ?
 
 *LHT ルナ
-やたらと騒がしいのに比べたら……
+;;やたらと騒がしいのに比べたら……
+Well, I don't like when it's too noisy...
 
 *RHT ルナサ 笑
-そう。なら、私の演奏、聴かせてあげるわね。
+;;そう。なら、私の演奏、聴かせてあげるわね。
+Nice. In that case, I'll let you listen to my performance.
 
 *LHT ルナ 驚
-あの、ちょっと！[r]なんでそうなるのか解らないんだけどっ！
+;;あの、ちょっと！[r]なんでそうなるのか解らないんだけどっ！
+Eh, wait ! That's definitely not the right moment for that !
 
 *RHT ルナサ 驚
-あれ？
+;;あれ？
+O-oh. I guess you're right.
 
 
 *NHT
