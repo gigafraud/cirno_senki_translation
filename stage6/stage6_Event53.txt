@@ -32,15 +32,18 @@ Aah, it's quieter now. Now we can start.
 
 *RHT 響子 怒
 ;;……！　～～～～～っっっ！！！
-You did this, 
+You're the one who muted everyone, are you !?
 
 *LHT ルナ 驚
-あ、あれ？[n]もしかして、私がやったの、バレてる？
+;;あ、あれ？[n]もしかして、私がやったの、バレてる？
+Oh no, she already found out.
 *LHT ルナ 哀
-うん、逃げちゃおっと。
+;;うん、逃げちゃおっと。
+Welp, fun is over. I should go away now.
 
 *RHT 響子 怒
-～～っ！　～～～っっ！！！！
+;;～～っ！　～～～っっ！！！！
+Hey ! You ! Come back here right now !
 
 *NHT
 *NWK
