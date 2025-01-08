@@ -1,31 +1,39 @@
 ;START
 ;;ーーーーーーーーーーーーー
-;;メルランとサニーが戦闘した
+;;Sunny Milk fights Merlin
 ;;ーーーーーーーーーーーーー
 
 *SND 幽霊楽団
 
 *LHT サニー 笑
-立ちましょラッパでたちつてと～っ♪
+;;立ちましょラッパでたちつてと～っ♪
+Come on guys, let's follow the trumpet ! Toot-toot-toot~♪
 
 *RHT メルラン
-おっ、良い歌を歌うじゃない！
+;;おっ、良い歌を歌うじゃない！
+Ooh, you like this song ?
 *RHT メルラン 笑
-んーっ、なんだかノッてきたわー！
+;;んーっ、なんだかノッてきたわー！
+Haha, I'm getting into the groove !
 *RHT メルラン
-それじゃここは、盛大に一曲いきますかー！[n]一緒にハッピーになりましょ！
+;;それじゃここは、盛大に一曲いきますかー！[n]一緒にハッピーになりましょ！
+Alright then, Let's play a happy song together !!
 
 *LHT サニー 笑
-いえーいっ！　ハッピーばんざーいっ！[n]それーっ！
+;;いえーいっ！　ハッピーばんざーいっ！[n]それーっ！
+Hooray !!
 
 *RHT メルラン 驚
-……って、なんで襲い掛かってくるのよっ！
+;;……って、なんで襲い掛かってくるのよっ！
+H-Huh !? Why are you attacking me ??
 
 *LHT サニー 笑
-だって、じっとしてらんないんだもん！[n]うりゃ～～っっ！！
+;;だって、じっとしてらんないんだもん！[n]うりゃ～～っっ！！
+I'm just playing along ! Yaaah !!
 
 *RHT メルラン 怒
-こらーっ！　演奏の邪魔するなーーっっ！！
+;;こらーっ！　演奏の邪魔するなーーっっ！！
+Hey ! That's not what I meant by "playing" !
 
 *NHT
 *NWK
