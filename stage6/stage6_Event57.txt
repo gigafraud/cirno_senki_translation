@@ -1,31 +1,41 @@
 ;START
 ;;ーーーーーーーーーーーーーーー
-;;メルランとミスティアが戦闘した
+;;Mystia fights Merlin
 ;;ーーーーーーーーーーーーーーー
 
 *SND 幽霊楽団
 
 *LHT ミスティア
-なんだか楽しそうな音楽が聴こえる……
+;;なんだか楽しそうな音楽が聴こえる……
+I'm hearing some fun music...
 *LHT ミスティア 笑
-これ、あなたの演奏？
+;;これ、あなたの演奏？
+Oh, you're the one playing it !
 
 *RHT メルラン
-そうよ。[r]どう？　ハッピーになれそうな音楽でしょ！
+;;そうよ。[r]どう？　ハッピーになれそうな音楽でしょ！
+Yeah ! Do you like it ?
 
 *LHT ミスティア 笑
-うんうん、いいねいいね！[n]うんっ、良い事考えた！
-あなた、私の歌の伴奏担当にしてあげる！
+;;うんうん、いいねいいね！[n]うんっ、良い事考えた！
+;;あなた、私の歌の伴奏担当にしてあげる！
+I don't like it, I love it !
+Play along with my singing !
 
 *RHT メルラン 怒
-むむっ、なによそれ！[n]まるで私がオマケみたいじゃない！
-主役は私だよ！
+;;むむっ、なによそれ！[n]まるで私がオマケみたいじゃない！
+;;主役は私だよ！
+Mmmh ? No, YOU'll sing along with ME !
+I'm the star here !
+
 
 *LHT ミスティア 怒
-なによー！　主役は私の方だもん！[n]せっかく誘ってあげたのに、意地っ張りー！
+;;なによー！　主役は私の方だもん！[n]せっかく誘ってあげたのに、意地っ張りー！
+No, I am ! I invited you to play with me so nicely, but you're too stubborn !
 
 *RHT メルラン 怒
-余計なお世話だ―っ！
+;;余計なお世話だ―っ！
+How dare you !
 
 
 *NHT
