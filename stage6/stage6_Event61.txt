@@ -1,36 +1,46 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-;;猫又（橙）が、リグル、ミスティア、ルーミアのいずれかと戦闘した
+;;Mystia, Wriggle or Rumia fights Chen
 ;;ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
 *SND ティアオイエツォン
 
 *RHT 猫又 笑
-うにゃ～っ！　それそれ、突撃ーっ！
+;;うにゃ～っ！　それそれ、突撃ーっ！
+Yaah ! My time to strike !!
 
 *LHT ミスティア 驚
-あれっ……[n]ねえリグル、あの子って確か……
+;;あれっ……[n]ねえリグル、あの子って確か……
+Oh ? Hey, Wriggle, I'm pretty sure that's her...
 
 *CHT リグル 驚
-う、うん……
+;;う、うん……
+Mmmh ? Oh, that nekomata...
 *CHT リグル
-良かった。ずっと姿を見なかったから、[r]ちょっと心配してたんだ。
+;;良かった。ずっと姿を見なかったから、[r]ちょっと心配してたんだ。
+I'm glad. We haven't seen her in a while, I was getting worried.
 *CHT リグル 笑
-でも、元気そうでよかった。
+;;でも、元気そうでよかった。
+Hey, you ! It's been a while !
 
 *LHT ルーミア 哀
-でも、ちょっと元気すぎなんじゃないかなぁ。
+;;でも、ちょっと元気すぎなんじゃないかなぁ。
+She looks a little too energetic...
 
 *CHT リグル 驚
-えっ……
+;;えっ……
+Yeah...
 
 *RHT 猫又 怒
-むむっ、強そうな妖怪発見！
+;;むむっ、強そうな妖怪発見！
+I found some strong-looking youkais ! 
 *RHT 猫又 笑
-えへへへっ　きっとあの人達をやっつけたら、[r]また一歩立派な妖怪に近づけるよね！
+;;えへへへっ　きっとあの人達をやっつけたら、[r]また一歩立派な妖怪に近づけるよね！
+Hehe ! If i defeat them, I'll be one step closer to become a great youkai !
 
 *LHT ミスティア 驚
-ちょっと、なに言ってるのよ！[n]私達のこと、忘れちゃったの！？
+;;ちょっと、なに言ってるのよ！[n]私達のこと、忘れちゃったの！？
+Hey, what are you talking about ? You remember us, don't you ?
 *LHT ミスティア 怒
 物覚えが悪いにも程があるんじゃないの！？
 
