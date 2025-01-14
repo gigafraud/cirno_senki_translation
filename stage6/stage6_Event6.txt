@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーー
-;;橙（猫又）、出現
+;;Chen appears
 ;;ーーーーーーーー
 
 *SNA ティアオイエツォン
@@ -36,11 +36,14 @@
 *SLP 30
 
 *RHT 猫又 笑
-にゃ～っ！
+;;にゃ～っ！
+Meow !
 *RHT 猫又
-よぉし……　私も行くぞーっ！
+;;よぉし……　私も行くぞーっ！
+Time for me to join in !
 *RHT 猫又 笑
-いっぱい人間をやっつけて、すっごい妖怪に[r]なってやるんだいっ！
+;;いっぱい人間をやっつけて、すっごい妖怪に[r]なってやるんだいっ！
+I'm gonna defeat a lot of humans and become a strong youkai !
 
 *NHT
 *NWK
