@@ -1,33 +1,42 @@
-;START
+ ;START
 ;;ーーーーーーーーーーーー
-;;リリカとスターが戦闘した
+;;Star Sapphire fights Lyrica
 ;;ーーーーーーーーーーーー
 
 *SND 幽霊楽団
 
 *RHT リリカ 笑
-ほらほら姉さん達、がんばれーっ[n]私が頑張って応援してあげるからさっ！
+;;ほらほら姉さん達、がんばれーっ[n]私が頑張って応援してあげるからさっ！
+Come on, Lunasa and Merlin, keep it up ! I'll do my best to cheer you up !
 
 *LHT スター
-………
+;;………
+...
 
 *RHT リリカ 驚
-うわっ！？[n]あんた、こんなところで何してんのさ！
+;;うわっ！？[n]あんた、こんなところで何してんのさ！
+Whoa !? What are you doing here ?
 
 *LHT スター 笑
-あ、なんでもないの。[n]続けて続けて。気にしないで。
+;;あ、なんでもないの。[n]続けて続けて。気にしないで。
+Oh, nothing special. Do as if I wasn't there.
 
 *RHT リリカ
-あ、うん……
+;;あ、うん……
+Mmmh... Ok...
 *RHT リリカ 驚
-って、気になるわーっ！！[n]なんなんだよ、いったい！
+;;って、気になるわーっ！！[n]なんなんだよ、いったい！
+No, I wanna know ! Tell me !
 
 *LHT スター
-う～ん……　なんだか、似た匂いがする……
+;;う～ん……　なんだか、似た匂いがする……
+I won't tell you ~
 
 *RHT リリカ 怒
-ああもうっ！　なんだか知らないけど、[r]ブツクサ気分悪いなあ！
-追っ払ってやるんだから！！
+;;ああもうっ！　なんだか知らないけど、[r]ブツクサ気分悪いなあ！
+;;追っ払ってやるんだから！！
+You know what ? You're just annoying me !
+I'll get rid of you right now !!
 
 
 *NHT
