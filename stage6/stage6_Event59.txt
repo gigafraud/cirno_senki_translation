@@ -1,36 +1,45 @@
 ;START
 ;;ーーーーーーーーーーーーーー
-;;リリカとミスティアが戦闘した
+;;Mystia fights Lyrica
 ;;ーーーーーーーーーーーーーー
 
 *SND 幽霊楽団
 
 *LHT ミスティア
-なんなんだろ、この不思議な音楽……
+..なんなんだろ、この不思議な音楽……
+What is this strange music...?
 
 *RHT リリカ
-さっきから変な歌が聴こえてたけど、[r]あんたの歌？
+;;さっきから変な歌が聴こえてたけど、[r]あんたの歌？
+I've been hearing a strong song for a while too. Was it yours ?
 
 *LHT ミスティア 怒
-変な歌ってなによー！[n]そっちだって変な音出してるくせに！！
+;;変な歌ってなによー！[n]そっちだって変な音出してるくせに！！
+My musics aren't weird compared to yours ! You're just making weird noises !!
 
 *RHT リリカ 怒
-な、なんですってー！[n]私の幻想の音をバカにするつもり！？
+;;な、なんですってー！[n]私の幻想の音をバカにするつもり！？
+How dare you criticizing my beautiful song !?
 
 *LHT ミスティア 怒
-先に私の歌をバカにしたのはそっちじゃない！
+;;先に私の歌をバカにしたのはそっちじゃない！
+YOU made fun of MINE first !!
 
 *RHT リリカ 怒
-うっさいうっさい！[n]歌なんて、伴奏が無いと物足りないだけ[r]じゃない！
+;;うっさいうっさい！[n]歌なんて、伴奏が無いと物足りないだけ[r]じゃない！
+Singing alone isn't a song, you know ? You need instruments too !
 
 *LHT ミスティア 怒
-ふーんだ！　独唱だっていけるんだもんねっ！
+;;ふーんだ！　独唱だっていけるんだもんねっ！
+What do you mean ? I'm just a solo singer !!
 
 *RHT リリカ 怒
-むむむーっ！
+;;むむむーっ！
+Grrr !!!
 
 *LHT ミスティア 怒
-む～～～～っっ！
+;;む～～～～っっ！
+Hmph !
 
 
 *NHT
