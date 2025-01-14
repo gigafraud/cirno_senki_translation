@@ -1,34 +1,42 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーーーーー
-;;猫又（橙）がチルノ、大妖精いずれかと戦闘した
+;;Cirno or Daiyousei fights Chen
 ;;ーーーーーーーーーーーーーーーーーーーーーー
 
 *SND ティアオイエツォン
 
 *RHT 猫又
-ん～　なんか妖精がいる。
+;;ん～　なんか妖精がいる。
+Hmm. That's a fairy, right ?
 *RHT 猫又
-まあいいや。[r]よく解んないけど、追っ払っちゃおっと！
+;;まあいいや。[r]よく解んないけど、追っ払っちゃおっと！
+That's not a human, but it'll still be a nice training !
 
 *LHT チルノ 驚
-わわっ、なんだこいつ！
+;;わわっ、なんだこいつ！
+Wow ? Who's that ?
 
 *CHT 大妖精 驚
-あれっ……この子、確かリグルちゃん達の……
+;;あれっ……この子、確かリグルちゃん達の……
+Oh, her ? If I remember, it's a friend of Misty and the others...
 
 *LHT チルノ 哀
-リグル達の知り合い？
+;;リグル達の知り合い？
+Oh, ok. Hey, you ! Do you know Misty and the others ?
 
 *CHT 大妖精 哀
-う、うん……　多分……
-ね、ねえ、待って！　私達は……
+;;う、うん……　多分……
+;;ね、ねえ、待って！　私達は……
+Uum... I mean...
+I guess that's what I said...
 
 *RHT 猫又 笑
-それそれ～っ！　捕まえちゃうぞ～っ！
+;;それそれ～っ！　捕まえちゃうぞ～っ！
+Hehehe ! I'm gonna get ya !!
 
 *LHT チルノ 驚
-話通じないじゃんか！
-
+;;話通じないじゃんか！
+Are you even listening to me ???
 
 *NHT
 *NWK
