@@ -1,33 +1,41 @@
 ;START
 ;;ーーーーーーーーーーー
-;;アリスと幽香が戦闘した
+;;Yuuka fights Alice
 ;;ーーーーーーーーーーー
 
 *SND グリモワールオブアリス
 
 *LHT 幽香
-あら。
+;;あら。
+Oops.
 
 *RHT アリス 驚
-うっ……　あんたは……
+;;うっ……　あんたは……
+Oh no... You !?
 
 *LHT 幽香 笑
-ふふふっ、久し振りね。会いたかったわ。
+;;ふふふっ、久し振りね。会いたかったわ。
+Hehe, Fancy meeting you here. It has been a while.
 
 *RHT アリス 怒
-わ、私は会いたくなかったんだけど！
+;;わ、私は会いたくなかったんだけど！
+No no no ! Leave me alone !!
 
 *LHT 幽香 笑
-嬉しいわ。あなたってば、途中でどこかに[r]逃げていっちゃうんだもの。
+;;嬉しいわ。あなたってば、途中でどこかに[r]逃げていっちゃうんだもの。
+I'm glad, I was wondering where you scurried away last time we met.
 
 *RHT アリス 驚
-ちょっと！　人の話聞いてる！？
+;;ちょっと！　人の話聞いてる！？
+Are you even listening to me !?
 
 *LHT 幽香 笑
-それじゃ、この前の続きといきましょうか。[r]うふふふふっ
+;;それじゃ、この前の続きといきましょうか。[r]うふふふふっ
+Well then, let's continue where we left off, okay ? Fufufu...
 
 *RHT アリス 苦
-もうっ！　来ないでって言ってるのが[r]わからないの！？
+;;もうっ！　来ないでって言ってるのが[r]わからないの！？
+No ! How many times do I have to tell you !?
 
 *NHT
 *NWK
