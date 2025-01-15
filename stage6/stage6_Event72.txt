@@ -1,37 +1,49 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーー
-;;秋姉妹のいずれかがレティと戦闘した
+;;Letty fights Shizuha or Minoriko
 ;;ーーーーーーーーーーーーーーーーー
 
 *SND BGM26
 
 *LHT レティ
-秋でもないのにこんなところまで出張って[r]きて……[n]わざわざご苦労なものね。
+;;秋でもないのにこんなところまで出張って[r]きて……[n]わざわざご苦労なものね。
+Even if it's not autumn yet, you two still came here on a business trip...
+It must have been a pain.
 
 *RHT 静葉 怒
-それはお互い様じゃないかしら。[r]もうあなたの季節は終わったのよ？
+;;それはお互い様じゃないかしら。[r]もうあなたの季節は終わったのよ？
+It's the same for you, right ? Isn't your season over already ?
 
 *CHT 穣子 怒
-そうだよ！[n]秋の終わりには早く出てくるクセに、[r]冬の終わりにはいつまでも居座るつもり！？
-そんなの、虫が良すぎるんじゃないの！？
+;;そうだよ！[n]秋の終わりには早く出てくるクセに、[r]冬の終わりにはいつまでも居座るつもり！？
+;;そんなの、虫が良すぎるんじゃないの！？
+Yeah, what about that ? You always come out early at the end of autumn,
+but you stay for forever at the end of winter !
 
 *LHT レティ 哀
-誰も「出て来るな」とまでは言っていない[r]でしょう？
+;;誰も「出て来るな」とまでは言っていない[r]でしょう？
+No one told me :"Don't come out yet".
 
 *RHT 静葉 怒
-私にはそう聞こえたのだけど。
+;;私にはそう聞こえたのだけど。
+Well, we just told you that !
 
 *CHT 穣子 怒
-余裕ぶってくれちゃってさ。[n]私達が冬は苦手だって思って、[r]馬鹿にしてるでしょ！
+;;余裕ぶってくれちゃってさ。[n]私達が冬は苦手だって思って、[r]馬鹿にしてるでしょ！
+Up until now, you got the upper hand. But if you think it'll be an easy fight,
+We'll send you right back to sleep !
 
 *LHT レティ 哀
-結局そうなるのね。
+;;結局そうなるのね。
+So you just wanted a fight...
 
 *RHT 静葉 怒
-いつまでもあなたに負けてばかりでなんて[r]いられないわ！
+;;いつまでもあなたに負けてばかりでなんて[r]いられないわ！
+Time to take our revenge !
 
 *CHT 穣子 怒
-今日こそやってやるんだから！
+;;今日こそやってやるんだから！
+Prepare yourself !!
 
 *NHT
 *NWK
