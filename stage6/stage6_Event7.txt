@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーー
-;;アリス、出現
+;;Alice appears
 ;;ーーーーーー
 
 *SNA グリモワールオブアリス
@@ -44,11 +44,14 @@
 *SLP 30
 
 *RHT アリス
-なんだかよく解んないけど、すごいことに[r]なっちゃってるわね……
+;;なんだかよく解んないけど、すごいことに[r]なっちゃってるわね……
+I don't know what's happening here, but it sounds fun.
 *RHT アリス 笑
-ふふっ　これはチャンスだわ。
-人間の使うマジックアイテムや魔導書を[r]今の内に失敬させてもらっちゃおっと。
-掘り出し物、見つかると嬉しいんだけどな～♪
+;;ふふっ　これはチャンスだわ。
+;;人間の使うマジックアイテムや魔導書を[r]今の内に失敬させてもらっちゃおっと。
+;;掘り出し物、見つかると嬉しいんだけどな～♪
+I'll try to snatch up some magic items and grimoires from the humans.
+Maybe I'll get lucky !
 
 *NHT
 *NWK
