@@ -1,44 +1,58 @@
 ;START
 ;;ーーーーーーーーーーー
-;;アリスと白夜が戦闘した
+;;Byakuya fights Alice
 ;;ーーーーーーーーーーー
 
 *SND 月時計ルナ
 
 *RHT アリス 笑
-な～んだ。何かと思ったら人間じゃない。[r]しかも、小っさい子供だし。
-そんなのが私に敵うとでも思ったの？
+;;な～んだ。何かと思ったら人間じゃない。[r]しかも、小っさい子供だし。
+;;そんなのが私に敵うとでも思ったの？
+Hmm ? A kid ?
+Do you think you can compete with me ?
 
 *LHT 白夜 笑
-あら。あんまり背伸びなんてするもんじゃ[r]ないわよ。小さいお嬢さん。
+;;あら。あんまり背伸びなんてするもんじゃ[r]ないわよ。小さいお嬢さん。
+Stretching your back won't make you look taller, little girl.
+
 
 *RHT アリス 怒
-だ、誰が子供よ！[r]見た目だけで判断しないでよね！
+;;だ、誰が子供よ！[r]見た目だけで判断しないでよね！
+H-Hey ! Don't judge me by my looks !
 
 *LHT 白夜 笑
-その言葉、そっくり返してあげるわ。
+;;その言葉、そっくり返してあげるわ。
+These are my words.
 
 *RHT アリス 怒
-なによあんた。生意気なんじゃないの？
+;;なによあんた。生意気なんじゃないの？
+S-Stop being so mean...
 
 *LHT 白夜 笑
-自分自身のことを言ってるのかしら？
+;;自分自身のことを言ってるのかしら？
+You started it, you lnow ?
 
 *RHT アリス 怒
-………
+...
 
 *LHT 白夜
-………
+...
 
 *RHT アリス
-ふ～ん。[n]あなた、少しはできそうじゃない。
+;;ふ～ん。[n]あなた、少しはできそうじゃない。
+Mmmh. You look like you can lift your own weight.
 *RHT アリス 笑
-いいわ。相手になってあげる！
+;;いいわ。相手になってあげる！
+Alright, I'll let you accompany me !
 
 *LHT 白夜
-来るなら早くいらっしゃい。
+;;来るなら早くいらっしゃい。
+Tss... You'll be the one following me.
+...
+
 *LHT 白夜 笑
-ふふふっ　楽しめそうだわ、あなたとなら。
+;;ふふふっ　楽しめそうだわ、あなたとなら。
+Hm. She sounds fun to stay around with.
 
 
 *NHT
