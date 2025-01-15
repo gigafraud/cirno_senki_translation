@@ -1,35 +1,46 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;さとりとチルノが戦闘した
+;;Cirno fights Satori
 ;;ーーーーーーーーーーーー
 
 *SND 少女さとり
 
 *LHT チルノ 哀
-んー？　なんだろ、この人。
+;;んー？　なんだろ、この人。
+Hmm ? WHo's that ??
 *LHT チルノ 笑
-弱そう！
+;;弱そう！
+She looks weak !
 
 *RHT さとり
-……さて、それはどうかしらね。
-あなたの考えていることなどお見通し……[r]どう攻撃してくるかなんて、手に取るように…
+;;……さて、それはどうかしらね。
+;;あなたの考えていることなどお見通し……[r]どう攻撃してくるかなんて、手に取るように…
+...Looks can be deceiving.
+Let me read your thoughts, little fairy...
 *RHT さとり 驚
-えっ
+;;えっ
+Huh ?
 
 *LHT チルノ 哀
-ん？？
+;;ん？？
+Yeah ?
 
 *RHT さとり 驚
-「あたいサイキョー！[r] どかーんとやって、ばばーん！」……？
-なんてこと……　何も考えてないなんて……
+;;「あたいサイキョー！[r] どかーんとやって、ばばーん！」……？
+;;なんてこと……　何も考えてないなんて……
+"I'm the strongest ! Nobody can defeat me !" ...?
+...And you wholeheartedly believe yourself ?
 
 *LHT チルノ 哀
-う～ん、なんだかよくわかんないけど……
+;;う～ん、なんだかよくわかんないけど……
+I don't understand what you're rambling...
 *LHT チルノ 笑
-突撃ーっ！
+;;突撃ーっ！
+Who cares ! Let's fight !
 
 *RHT さとり 苦
-や、やめて、来ないで！[r]カラッポの思考を向けてこないで……っ！
+;;や、やめて、来ないで！[r]カラッポの思考を向けてこないで……っ！
+A-And now she isn't even thinking of anything !? How on earth...?
 
 
 
