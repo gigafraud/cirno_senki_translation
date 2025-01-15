@@ -1,62 +1,87 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
-;;さとり、こいしのどちらかと、ヤマメ、キスメ、パルスィのいずれかが戦闘した
+;;Kisume, Parsee or Yamame fights Satori or Koishi
 ;;ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
 *SND ラストリモート
 
 *LHT ヤマメ 驚
-あ、あんた達は……　どうして地上に！？
+;;あ、あんた達は……　どうして地上に！？
+Oh, it's you guys... What are you doing on the surface ?
 
 *RHT さとり
-……なにも知らないのね。[r]地底で、何があったのかを。
+;;……なにも知らないのね。[r]地底で、何があったのかを。
+...You don't know what is happening in the underground, do you ?
 
 *LHT キスメ 驚
-ど、どういうことだよ！
+;;ど、どういうことだよ！
+Huh ? WHat do you mean ?
 
 *RHT さとり
-あなた達のいない間に、地底は滅茶苦茶に[r]されてしまったわ。
-人間と、それに味方する地上の妖怪達に[r]よってね。
+;;あなた達のいない間に、地底は滅茶苦茶に[r]されてしまったわ。
+;;人間と、それに味方する地上の妖怪達に[r]よってね。
+In your absence, the underground has been attacked by humans
+And some surface youkais that are on their side.
 
 *LHT パルスィ 驚
-まさかそんな……！　嘘でしょ！？
+;;まさかそんな……！　嘘でしょ！？
+W-What !? No way...
 
 *RHT さとり
-うそな訳がないでしょう。
-あなた達が地上妖怪に懐柔されている内に、[r]私達の世界は立ち直れないほどの打撃を[r]受けてしまったのよ。
+;;うそな訳がないでしょう。
+;;あなた達が地上妖怪に懐柔されている内に、[r]私達の世界は立ち直れないほどの打撃を[r]受けてしまったのよ。
+This is the truth.
+While you were doing whatever on the surface, 
+Your home has been destroyed beyond repair.
 
 *LHT キスメ 怒
-だ、誰が懐柔されてなんて……！
+;;だ、誰が懐柔されてなんて……！
+We-We weren't doing "whatever"...!
 
 *RHT さとり 怒
-それなら、あなた達はどうして人間の味方を[r]しているのかしら？
+;;それなら、あなた達はどうして人間の味方を[r]しているのかしら？
+Why are you helping the humans, then ?
 *RHT さとり
-もっとも、訊かずとも私には解ることだけど。
+;;もっとも、訊かずとも私には解ることだけど。
+...I don't have to ask. Let me see for myself.
 
 *LHT ヤマメ 怒
-なら解るだろ！[r]これは連れに付き合ってのことで……！
+;;なら解るだろ！[r]これは連れに付き合ってのことで……！
+Then you'll understand ! I'm just helping a friend...!
 
 *RHT さとり 怒
-同じことよ。[n]あなた達は、私達の敵。
-私とこいしの敵なのよ。
+;;同じことよ。[n]あなた達は、私達の敵。
+;;私とこいしの敵なのよ。
+It doesn't matter. You are our ennemies.
+My ennemies and Koishi's.
 
 *LHT パルスィ 驚
-（「私とこいし」……？）
+;;（「私とこいし」……？）
+("And Koishi's" ?)
 
 *RHT こいし 怒
-みんなが感じた痛み、苦しみ、怒り、憎しみ…[r]あなた達にも味あわせてあげる。
-全部全部壊して、お姉ちゃんと二人だけの[r]世界をつくるの。
+;;みんなが感じた痛み、苦しみ、怒り、憎しみ…[r]あなた達にも味あわせてあげる。
+;;全部全部壊して、お姉ちゃんと二人だけの[r]世界をつくるの。
+The pain, the anger and the hatred that everyone felt... I'll let you taste it.
+I'll destroy this world and create a new one... Just for me and my sister.
+
 *RHT こいし
-そうすれば、私達は嫌われないで済む。[n]聞きたくない声を聞かないで済む。
+;;そうすれば、私達は嫌われないで済む。[n]聞きたくない声を聞かないで済む。
+Then we won't be hated anymore.
+We won't have to listen to voices we don't want to hear.
 *RHT こいし 笑
-静かな世界で暮らすことができるように[r]なるの。
-ふふふっ……　うふふふふふっ……
+;;静かな世界で暮らすことができるように[r]なるの。
+;;ふふふっ……　うふふふふふっ……
+Living in a quiet world...
+That sounds nice...
 
 *LHT キスメ 驚
-く、狂ってる……
+;;く、狂ってる……
+..This kid is crazy...
 
 *LHT パルスィ
-止めるしかないわね。力づくで……
+;;止めるしかないわね。力づくで……
+We have to stop them... By force !
 
 
 
