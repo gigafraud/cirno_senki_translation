@@ -1,25 +1,31 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;リリー白黒のいずれかが大妖精と戦闘した
+;;Daiyousei Fights Lily White or Lily Black
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SND BGM26
 
 *RHT リリーブラック 笑
-あなたも花は好きでしょ？[r]なら、一緒に春の妖精になろうよ！
+;;あなたも花は好きでしょ？[r]なら、一緒に春の妖精になろうよ！
+You like flowers too, right ? Join us, you can become a spring fairy too !
 
 *CHT リリーホワイト 笑
-そうですよー。[r]私達と一緒に、春を配りましょう。
+;;そうですよー。[r]私達と一緒に、春を配りましょう。
+Yeah ! Help us bring spring to everyone !
 
 *LHT 大妖精 哀
-……ごめんなさい。[r]私、チルノちゃんと一緒にいたいの。
-春の妖精になったら、チルノちゃんと一緒に[r]いられなくなっちゃう。
+;;……ごめんなさい。[r]私、チルノちゃんと一緒にいたいの。
+;;春の妖精になったら、チルノちゃんと一緒に[r]いられなくなっちゃう。
+I'm sorry... I want to be with Cirno.
+I can't stay with her if I become a spring fairy.
 
 *RHT リリーブラック 哀
-……そっか。それじゃ、仕方ないね。
+;;……そっか。それじゃ、仕方ないね。
+I see. Well, I guess we don't have a choice.
 
 *CHT リリーホワイト 怒
-なら、あなたを春に染めてあげますー！
+;;なら、あなたを春に染めてあげますー！
+Then we'll dye you spring !
 
 *NHT
 *NWK
