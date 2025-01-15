@@ -1,38 +1,52 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;リリー白黒のいずれかとチルノが戦闘した
+;;Cirno fights Lily White or Lily Black
+;;NOt gonna lie, i had trouble understanding what they meant
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SND BGM26
 
 *LHT チルノ 怒
-やっぱり出てきたなー！[r]頭が春の妖精め！
+;;やっぱり出てきたなー！[r]頭が春の妖精め！
+I knew you two spring lovers would be here ! 
 
 *RHT リリーホワイト 哀
-春はそんなにいけないものですかー？
+;;春はそんなにいけないものですかー？
+What's the problem with loving spring ?
 *RHT リリーホワイト 笑
-あなたにも、私が春をあげますよー？
+;;あなたにも、私が春をあげますよー？
+Here, I'll give you some !
 
 *LHT チルノ 怒
-いらないやいっ！
+;;いらないやいっ！
+I don't want it !
 
 *RHT リリーホワイト 哀
-そんなぁ……　とっても素敵なのに……
+;;そんなぁ……　とっても素敵なのに……
+B-But it's so pretty...
 
 *CHT リリーブラック 哀
-いつまで際どい話してるんだよ……
+;;いつまで際どい話してるんだよ……
+You're always mean to us...
+
 *CHT リリーブラック 怒
-こらっ！　おめでたい頭のカチコチ妖精！[n]いつかは決着つけなくちゃと思ってたけど……[r]今日こそ勝負をつけてあげるよっ！
-今度はこの前みたいにいかないんだからね！
+;;こらっ！　おめでたい頭のカチコチ妖精！[n]いつかは決着つけなくちゃと思ってたけど……[r]今日こそ勝負をつけてあげるよっ！
+;;今度はこの前みたいにいかないんだからね！
+Grr, I've had enough of you !
+I knew we had to settle this one day, but... That's it ! You're going down !
 
 *LHT チルノ 怒
-何度来たって同じだよ！　覚悟しろー！
+;;何度来たって同じだよ！　覚悟しろー！
+Doesn't matter how many times you try, the result will be the same !
+Prepare yourself !
 
 *RHT リリーホワイト 怒
-あなたの頭も春にしてあげますー！
+;;あなたの頭も春にしてあげますー！
+We're gonna spring on you !
 
 *CHT リリーブラック 哀
-ああもう……
+;;ああもう……
+... Nice one, White.
 
 
 
