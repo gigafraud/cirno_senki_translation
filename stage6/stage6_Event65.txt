@@ -1,45 +1,59 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーーーーーーーー
-;;勇儀とキスメ、ヤマメ、パルスィのいずれかが戦闘した
+;;Kisume, Parsee or Yamame fights Yuugi
 ;;ーーーーーーーーーーーーーーーーーーーーーーーーー
 
 *SND 華のさかづき大江山
 
 *LHT キスメ 驚
-うっ……　あんたは……
+;;うっ……　あんたは……
+Ugh... You're...
 
 *RHT 勇儀
-おや、あんた達がなんでこんなところに[r]いるんだい？
+;;おや、あんた達がなんでこんなところに[r]いるんだい？
+Oh ? What're you guys doing here ?
 
 *LHT ヤマメ 驚
-それはこっちのセリフだよ。[r]あんたがどうして地上に……！
+;;それはこっちのセリフだよ。[r]あんたがどうして地上に……！
+That's our line. How did you even get on the surface ?
 
 *RHT 勇儀
-向こうがキナ臭くなってきたもんでね。[r]ちょっと疎開させてもらってるんだよ。
+;;向こうがキナ臭くなってきたもんでね。[r]ちょっと疎開させてもらってるんだよ。
+Bad stuff is happening down there, So I got evacuated.
 
 *LHT キスメ 怒
-勝負事が好きな鬼が……　疎開？
+;;勝負事が好きな鬼が……　疎開？
+A blood-thirsting demon that loves to play games... Got evacuated...?
 
 *RHT 勇儀 哀
-勝負事と争い事は別モンだろう？[r]そういうことには関わりたくないんでね。
+;;勝負事と争い事は別モンだろう？[r]そういうことには関わりたくないんでね。
+Hey, I only enjoy winning games, not fights.
+And it's definitely a fight that's happening in the underground.
 *RHT 勇儀
-で、なんだい？[r]あたしの前に出てきたってことは、勝負でも[r]挑みに来たのかい？
+;;で、なんだい？[r]あたしの前に出てきたってことは、勝負でも[r]挑みに来たのかい？
+So, what is it ? Did you come up to me for a challenge ?
 
 *LHT パルスィ 怒
-偶然出くわしただけだっていうのに、どうして[r]そういう話になるのかが解らないんだけど……
+;;偶然出くわしただけだっていうのに、どうして[r]そういう話になるのかが解らないんだけど……
+We just came across by accident, how could it be the case ?
 
 *RHT 勇儀 笑
-はっはっは！　そう言うなって！[r]せっかく会ったんだから、一勝負と行こう[r]じゃないか！
+;;はっはっは！　そう言うなって！[r]せっかく会ったんだから、一勝負と行こう[r]じゃないか！
+Hahaha ! Don't say that ! Since we've met, let's have a little game, shall we ?
 *RHT 勇儀
-さあ、かかっておいで。[r]まとめて相手になってあげるよ！
+;;さあ、かかっておいで。[r]まとめて相手になってあげるよ！
+Come on, come on ! I'm your opponent !
 
 *LHT パルスィ 哀
-結局こうなるのね……
+;;結局こうなるのね……
+It always ends up like this with her...
 
 *LHT ヤマメ 哀
-仕方ないね。こうなったらやるっきゃないよ。
+;;仕方ないね。こうなったらやるっきゃないよ。
+Well, we can't back up now. The only way out of this is forward.
 *LHT ヤマメ 怒
-行くよ！
+;;行くよ！
+We're ready !
 
 
 
