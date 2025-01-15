@@ -1,34 +1,39 @@
 ;START
 ;;ーーーーーーーーーー
-;;勇儀と幽香が戦闘した
+;;Yuuka fights Yuugi
 ;;ーーーーーーーーーー
 
 *SND 華のさかづき大江山
 
 *LHT 幽香
-あら……
+;;あら……
+Oh my...
 
 *RHT 勇儀
-へぇ……
+;;へぇ……
+Heh...
 
 *LHT 幽香
-………
+...
 
 *KON 回避
 
 *RHT 勇儀
-………
+...
 
 *KON 回避
 
 *LHT 幽香 笑
-ふふふっ　いいわ、あなた。
+;;ふふふっ　いいわ、あなた。
+Hmmm... Ready when you are, my dear.
 
 *RHT 勇儀 笑
-あんたもね。ふふっ、楽しませてもらうよ！
+;;あんたもね。ふふっ、楽しませてもらうよ！
+I'm always ready ! Show me what you've got !
 
 *LHT 幽香 笑
-ええ。いらっしゃいな。
+;;ええ。いらっしゃいな。
+Fufufu... I will.
 
 *NHT
 *NWK
