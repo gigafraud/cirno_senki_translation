@@ -1,33 +1,41 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;アリスとチルノが戦闘した
+;;Cirno fights Alice
 ;;ーーーーーーーーーーーー
 
 *SND グリモワールオブアリス
 
 *LHT チルノ 哀
-あれれ？　なんか子供がいる。
+;;あれれ？　なんか子供がいる。
+Hmm ? Looks like a child.
 
 *RHT アリス 怒
-もうっ！　みんな私を子供子供って……！[n]私は子供なんかじゃないんだってば！
+;;もうっ！　みんな私を子供子供って……！[n]私は子供なんかじゃないんだってば！
+Ugh ! Why does call me a child... I'm not a child !!!
 
 *LHT チルノ 笑
-子供じゃん。
+;;子供じゃん。
+You're definitely one, though.
 
 *RHT アリス 怒
-あんただって子供じゃない！
+;;あんただって子供じゃない！
+You look like a child too !
 
 *LHT チルノ 怒
-子供じゃないもん！[r]あたいはサイキョーの妖精だもん！
+;;子供じゃないもん！[r]あたいはサイキョーの妖精だもん！
+Wha-!!?? How dare you !? I'm not a child, I'm the strongest fairy around !
 
 *RHT アリス 笑
-ふふ～んだ♪[n]最強だろうがなんだろうが、私の究極の魔法で[r]やっつけてやるんだから！
+;;ふふ～んだ♪[n]最強だろうがなんだろうが、私の究極の魔法で[r]やっつけてやるんだから！
+Hehehe... Strongest fairy doesn't mean anything ! I'll just blast you away !
 
 *LHT チルノ 怒
-なら、あたいはサイキョーのサイシュー奥義を[r]見せてやるもん！
+;;なら、あたいはサイキョーのサイシュー奥義を[r]見せてやるもん！
+Tss... I'll show you my strongest technique ! You'll see !
 
 *RHT アリス 怒
-こっちは伝説の究極魔法を[r]見せてあげるわよ！
+;;こっちは伝説の究極魔法を[r]見せてあげるわよ！
+Do you think it holds a candle to my ultimate magic spells ?
 
 *NHT
 *NWK
