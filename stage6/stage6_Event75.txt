@@ -1,29 +1,36 @@
 ;START
 ;;ーーーーーーーーーーー
-;;美鈴とリグルが戦闘した
+;;Wriggle fights Meiling ?
 ;;ーーーーーーーーーーー
 
 *SND BGM26
 
 *RHT 美鈴
-ふふふっ　手応えのありそうな方ですね。[n]行きますよ……！
+;;ふふふっ　手応えのありそうな方ですね。[n]行きますよ……！
+You look strong enough. Please spar with me !
 
 *KON 回避
 
 *LHT リグル 驚
-うわっ！？
-す、すごい……　こんなに威圧感のある蹴り、[r]見たことないや……
+;;うわっ！？
+;;す、すごい……　こんなに威圧感のある蹴り、[r]見たことないや……
+Wow !
+That's amazing... I've never seen such a powerful kick...
 *LHT リグル 哀
-どうすればこんなに強くなれるんだろう……
+;;どうすればこんなに強くなれるんだろう……
+I wonder if I can become that strong one day...
 
 *RHT 美鈴 笑
-やだなぁ……[r]すごいだなんて、私なんてまだまだですよ。
+;;やだなぁ……[r]すごいだなんて、私なんてまだまだですよ。
+Hehe... I'm not that strong, I'm still in training !
 
 *LHT リグル
-体術かぁ……　少し憧れちゃうな。[r]動きを見てれば、戦い方の参考にできるかな。
+;;体術かぁ……　少し憧れちゃうな。[r]動きを見てれば、戦い方の参考にできるかな。
+Hmmm... I'll try to kick like that too. Maybe I'll be able to surprise people with it.
 
 *RHT 美鈴
-むむっ　そんなこと言っても、手加減なんて[r]してあげませんからね！
+;;むむっ　そんなこと言っても、手加減なんて[r]してあげませんからね！
+I won't go easy on you, so you better be ready !
 
 *NHT
 *NWK
