@@ -25,12 +25,14 @@ Oh, nothing much.
 Hmm, I see.
 *LHT 衣玖 哀
 ;;あまりこうしたことは言いたくないのですけど、[r]ほどほどになされた方が……
-
+I really want us to stay in good terms... Do we really have to fight ?
 
 *CHT 静葉 怒
-そうはいかないわ。[r]軽く見られたままでなんていられないもの。
+;;そうはいかないわ。[r]軽く見られたままでなんていられないもの。
+...Sorry, but I have an honor to save here. I have to prove myself !
 *RHT 穣子 哀
-あなたなら解ってくれると[r]思ってたんだけどな……
+;;あなたなら解ってくれると[r]思ってたんだけどな……
+Oh... I really wished you would understand...
 
 
 *NHT
