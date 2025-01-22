@@ -1,24 +1,29 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;穣子とルーミアが戦闘した
+;;Rumia fights Minoriko
 ;;ーーーーーーーーーーーー
 
 *SND BGM26
 
 *LHT ルーミア 笑
-あっ、この前のお芋の神様だー！
+;;あっ、この前のお芋の神様だー！
+Oh, it's the sweet potatoes god from last time !
 
 *RHT 穣子 怒
-お芋の神様じゃないっ！　実りの神様よ！
+;;お芋の神様じゃないっ！　実りの神様よ！
+The god of harvests ! Not the god of potatoes !!
 
 *LHT ルーミア 笑
-そーなのかー。[n]ねえねえ、お芋ちょうだい！
+;;そーなのかー。[n]ねえねえ、お芋ちょうだい！
+Alright. Give me a sweet potato, harvest and sweet potato god !
 
 *RHT 穣子 怒
-あげないわよっ！[r]欲しかったら、もう少し私を敬いなさい！
+;;あげないわよっ！[r]欲しかったら、もう少し私を敬いなさい！
+If you want something from me, why don't you try to be NICE ?
 
 *LHT ルーミア 哀
-え～っ　けちんぼ～
+;;え～っ　けちんぼ～
+Ugh... Don't scream like that...
 
 *NHT
 *NWK
