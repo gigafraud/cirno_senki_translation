@@ -1,22 +1,27 @@
 ;START
 ;;ーーーーーーーーーー
-;;美鈴と天子が戦闘した
+;;Tenshi fights Meiling
 ;;ーーーーーーーーーー
 
 *SND BGM26
 
 *RHT 美鈴
-剣を扱う方ですか……[n]でも、うまく立ち回れば、充分に渡り合える[r]はずっ！
+;;剣を扱う方ですか……[n]でも、うまく立ち回れば、充分に渡り合える[r]はずっ！
+You fight with a sword... Have you ever tried fighting with your fists ?
 *RHT 美鈴 怒
-これもいい経験というものです。[r]いきますよ……！
+;;これもいい経験というものです。[r]いきますよ……！
+It's way more satisfying. Give it a try one day !
 
 *LHT 天子
-ただの妖怪が天人である私と、しかも[r]徒手空拳でやり合えるとでも思ってるの？
+;;ただの妖怪が天人である私と、しかも[r]徒手空拳でやり合えるとでも思ってるの？
+So you think you can beat a Celestial bare-handed ? Ha !
 *LHT 天子 笑
-無鉄砲とはこのことね。[n]でも、油断も手加減もしてあげないから！
+;;無鉄砲とはこのことね。[n]でも、油断も手加減もしてあげないから！
+You're bold, I'll give you that. But I won't go easy on you for that !
 
 *RHT 美鈴 怒
-ええ、全力できてくれないと修行に[r]なりませんから！
+;;ええ、全力できてくれないと修行に[r]なりませんから！
+Perfect ! It wouldn't be good training if you hold back !
 
 *NHT
 *NWK
