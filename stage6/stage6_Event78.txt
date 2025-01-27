@@ -1,37 +1,48 @@
 ;START
 ;;ーーーーーーーーーー
-;;青娥と天子が戦闘した
+;;Tenshi fights Seiga
 ;;ーーーーーーーーーー
 
 *SND BGM26
 
 *RHT 青娥
-お久し振りね、天人さん。
+;;お久し振りね、天人さん。
+It's been a while, miss Celestial.
 
 *LHT 天子 哀
-は？　あんた誰よ。
+;;は？　あんた誰よ。
+Huh ? Who're you ?
 
 *RHT 青娥 哀
-……えっと、あの、覚えてないの？[r]この前、湖で一緒に戦った筈なんだけど。
+;;……えっと、あの、覚えてないの？[r]この前、湖で一緒に戦った筈なんだけど。
+...Don't tell me you forgot already. We fought together at the lake the other day.
 
 *LHT 天子 哀
-湖で一緒にー？
+;;湖で一緒にー？
+At the lake ?
 *LHT 天子
-……ああ、そういえば確かに何かいたわね。[r]変な術使う仙人が。
+;;……ああ、そういえば確かに何かいたわね。[r]変な術使う仙人が。
+Oh, yeah ! There was a hermit that used weird spells...
 *LHT 天子 笑
-急にフラっと出て来て何かやってたかと[r]思ったら、いつの間にかいなくなっちゃって[r]るんだもん。
-正直忘れてたわ。
+;;急にフラっと出て来て何かやってたかと[r]思ったら、いつの間にかいなくなっちゃって[r]るんだもん。
+;;正直忘れてたわ。
+She popped out of nowhere and did her stuff, but before I knew it, she was gone.
+I kinda forgot about her.
 
 *RHT 青娥 哀
-とっておきのお札をいくつも使ったって[r]いうのに、「なんかやってた」で済まされ[r]ちゃうのね……
+;;とっておきのお札をいくつも使ったって[r]いうのに、「なんかやってた」で済まされ[r]ちゃうのね……
+Old forbidden magic is just "stuff" for you, huh...
 *RHT 青娥
-いいわ。それなら、今度こそ私を忘れられない[r]ようにしてあげる。
+;;いいわ。それなら、今度こそ私を忘れられない[r]ようにしてあげる。
+Alright, I will make sure you will not forget me this time.
 
 *LHT 天子 哀
-今度は記憶を植え付ける術？
+;;今度は記憶を植え付ける術？
+Oh, are you going to use older and even more forbidden magic ? Can't wait !
 
 *RHT 青娥 怒
-実力でよ！
+;;実力でよ！
+Now you are just being rude !
 
 *NHT
 *NWK
