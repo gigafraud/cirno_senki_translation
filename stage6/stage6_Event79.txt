@@ -1,32 +1,40 @@
 ;START
 ;;ーーーーーーーーーー
-;;青娥と衣玖が戦闘した
+;;Iku fights Seiga
 ;;ーーーーーーーーーー
 
 *SND BGM26
 
 *LHT 衣玖 怒
-またあなたですか……
+;;またあなたですか……
+You again...
 
 *RHT 青娥
-お久し振りね、付き人さん。[r]あの天人さんは元気かしら。
+;;お久し振りね、付き人さん。[r]あの天人さんは元気かしら。
+It has been a while, servant. How is miss Celestial doing ?
 
 *LHT 衣玖
-ええ、とっても。
+;;ええ、とっても。
+She's doing well.
 *LHT 衣玖 哀
-それにしても、あなたも懲りない方ですね。[n]まだ総領娘様に取り入ろうというつもり[r]ですか？
+;;それにしても、あなたも懲りない方ですね。[n]まだ総領娘様に取り入ろうというつもり[r]ですか？
+What do you have to do with her ? are you still trying to mess with the Eldest Daughter ?
 
 *RHT 青娥
-あらあら、そんなに警戒してくれなくても[r]いいじゃない。
+;;あらあら、そんなに警戒してくれなくても[r]いいじゃない。
+Oh, don't be so tense, it isn't good for you.
 
 *LHT 衣玖 怒
-そうはいきません。[r]総領娘様はともかくとして、天界に不利益を[r]持ち込ませるわけにはいきませんから。
+;;そうはいきません。[r]総領娘様はともかくとして、天界に不利益を[r]持ち込ませるわけにはいきませんから。
+I won't let you get close to her again. You just want to get to heaven, I know it.
 
 *RHT 青娥 哀
-あら、そう。[r]はぁ、ずいぶんと嫌われちゃったものね。
+;;あら、そう。[r]はぁ、ずいぶんと嫌われちゃったものね。
+Fufu, you really hate me that much, do you ?
 
 *LHT 衣玖 怒
-そういうことで……[r]お引き取りくださいませ。早々に！
+;;そういうことで……[r]お引き取りくださいませ。早々に！
+I'll make sure you won't bother us again !
 
 
 *NHT
