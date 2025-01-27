@@ -1,25 +1,31 @@
 ;START
 ;;ーーーーーーーーーー
-;;勇儀と天子が戦闘した
+;;Tenshi fights Yuugi
 ;;ーーーーーーーーーー
 
 *SND 華のさかづき大江山
 
 *LHT 天子
-これみよがしに生やした角……[r]あんた、鬼ね。
+;;これみよがしに生やした角……[r]あんた、鬼ね。
+This horn... You're an oni, right ?
 
 *RHT 勇儀
-あー？　なんだい、あんたは。[r]ずいぶん挑発的な態度とってくれるじゃないの。
+;;あー？　なんだい、あんたは。[r]ずいぶん挑発的な態度とってくれるじゃないの。
+Yeah, what about it ? I don't like your condescending tone.
 
 *LHT 天子
-当たり前じゃない。挑発してんだから。[n]鬼だかなんだか知らないけど、[r]天人に敵うわけないじゃない。
+;;当たり前じゃない。挑発してんだから。[n]鬼だかなんだか知らないけど、[r]天人に敵うわけないじゃない。
+Earthlings are weak enough, but youkais from the underground ?
 *LHT 天子 笑
-この私が軽～くやっつけてやるわ！
+;;この私が軽～くやっつけてやるわ！
+This'll be a piece of cake ?
 
 *RHT 勇儀
-へぇ……　そこまで言うってことは自信が[r]あるってことなんだろうね。
+;;へぇ……　そこまで言うってことは自信が[r]あるってことなんだろうね。
+Hehe, at least you're confident.
 *RHT 勇儀 笑
-じゃ……　試させてもらうよ。[r]あんたの腕前をね！
+;;じゃ……　試させてもらうよ。[r]あんたの腕前をね！
+Let's see how strong a celestial really is !
 
 
 *NHT
