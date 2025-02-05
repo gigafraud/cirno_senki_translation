@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーー
-;;リリー白黒、出現
+;;Lilies appear
 ;;ーーーーーーーーーーーーーー
 
 *SND BGM24
@@ -58,32 +58,42 @@
 *SLP 30
 
 *RHT リリーホワイト 笑
-は～るでっすよ～っ！[n]春です春です春ですよーっ！
+;;は～るでっすよ～っ！[n]春です春です春ですよーっ！
+It's spring ! It's spring ! It's spriiing !!
 
 *LHT リリーブラック 笑
-春といったらお祭りだ～っ！[n]お祭り血祭り花祭り～っ！
+;;春といったらお祭りだ～っ！[n]お祭り血祭り花祭り～っ！
+Time for a bloodbath !
 
 *RHT リリーホワイト 哀
-黒ちゃんったら、血祭りだなんて物騒ですよー
+;;黒ちゃんったら、血祭りだなんて物騒ですよー
+Wh-What !? What do you mean, a bloodbath !?
 
 *LHT リリーブラック
-あれ。ホワイト、知らないの？[n]桜の木の下にはねぇ……
+;;あれ。ホワイト、知らないの？[n]桜の木の下にはねぇ……
+You know what's under a red cherry blossom tree, right ?
 
 *RHT リリーホワイト 驚
-えっ……　それってホントなんですか！？
+;;えっ……　それってホントなんですか！？
+Oh... True.
 
 *LHT リリーブラック
-らしいよ？
+;;らしいよ？
+See ?
 *LHT リリーブラック 笑
-だから、綺麗な桜を咲かせるには、[r]こういうことが必要なんだよ！
+;;だから、綺麗な桜を咲かせるには、[r]こういうことが必要なんだよ！
+So this is necessary for beautiful cherry blossoms to bloom !
 
 *RHT リリーホワイト 驚
-なるほどー　わかりましたっ！
+;;なるほどー　わかりましたっ！
+Ooh, I see ! I understand !
 *RHT リリーホワイト 笑
-そうとなったら、こうしちゃいられません！[n]黒ちゃん、行こっ！
+;;そうとなったら、こうしちゃいられません！[n]黒ちゃん、行こっ！
+Then let's start one ! Let's go !
 
 *LHT リリーブラック 笑
-うん！　いっくぞーっ！！
+;;うん！　いっくぞーっ！！
+Yeah !
 
 
 *NHT
