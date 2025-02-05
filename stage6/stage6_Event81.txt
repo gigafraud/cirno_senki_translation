@@ -1,24 +1,29 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;芳香とルーミアが戦闘した
+;;Rumia fights Yoshika
 ;;ーーーーーーーーーーーー
 
 *SND BGM26
 
 *LHT ルーミア
-あ。この前のまずそうな人。
+;;あ。この前のまずそうな人。
+Oh yeah, you're that zombie from the other day.
 
 *RHT 芳香 哀
-んー？　あなた、誰？
+;;んー？　あなた、誰？
+Hmm ? Who are you ?
 
 *LHT ルーミア
-あれ？　人違い？
+;;あれ？　人違い？
+Huh ? You don't recognize me ? Maybe I got the wrong person...
 
 *RHT 芳香 怒
-お前のことなんて知らないぞー！
+;;お前のことなんて知らないぞー！
+I don't think I've seen you before !
 
 *LHT ルーミア
-う～ん……？
+;;う～ん……？
+Really...?
 
 *NHT
 *NWK
