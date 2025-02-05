@@ -1,28 +1,33 @@
 ;START
 ;;ーーーーーーーーーー
-;;青娥と幽香が戦闘した
+;;Yuuka fights Seiga
 ;;ーーーーーーーーーー
 
 *SND BGM26
 
 *LHT 幽香
-………
+;;………
+...
 
 *RHT 青娥 哀
-私の術が通用しないなんて……[n]いったい、どれだけの力を持っているって[r]言うのよ……
+;;私の術が通用しないなんて……[n]いったい、どれだけの力を持っているって[r]言うのよ……
+My powers have no effect on you... Just who are you ?
 
 *LHT 幽香
-まったく……　私を実験台にしようだなんて、[r]本気でそう考えてたなら、ずいぶんと甘く[r]見られていたものね。
+;;まったく……　私を実験台にしようだなんて、[r]本気でそう考えてたなら、ずいぶんと甘く[r]見られていたものね。
+If you really thought you could use me as a test subject, you are wrong.
 
 *RHT 青娥
-とは言っても、動きの自由を奪うことは[r]できたわ。全く通じないわけじゃない。
+;;とは言っても、動きの自由を奪うことは[r]できたわ。全く通じないわけじゃない。
+...That said, I can still use normal talismans on you.
 
 *LHT 幽香 笑
-少しも懲りていないようね。[n]なら……　あなたの術とやら、片っ端から[r]叩き破ってあげるわ。
+;;少しも懲りていないようね。[n]なら……　あなたの術とやら、片っ端から[r]叩き破ってあげるわ。
+You really do not learn, do you ? I just have to get rid of you.
 
 *RHT 青娥
-ふふっ　その油断と慢心に足元を[r]すくわれないようにね。
-
+;;ふふっ　その油断と慢心に足元を[r]すくわれないようにね。
+Hehe, do not let your arrogance blind you...
 
 *NHT
 *NWK
