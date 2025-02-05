@@ -1,20 +1,24 @@
 ;START
 ;;ーーーーーーーーーー
-;;芳香と衣玖が戦闘した
+;;Iku fights Yoshika
 ;;ーーーーーーーーーー
 
 *SND BGM26
 
 *LHT 衣玖 哀
-死体、ですか……[n]電撃を浴びせたら、蘇ったりして[r]しまうんでしょうか。
+;;死体、ですか……[n]電撃を浴びせたら、蘇ったりして[r]しまうんでしょうか。
+A dead body... If I hit it with a thunderbolt, will it come back to life ?
 
 *RHT 芳香 笑
-新鮮ぴちぴちの死体だぞー
+;;新鮮ぴちぴちの死体だぞー
+♪ ~
 
 *LHT 衣玖
-少し興味はありますけど……[r]やめておいた方がいいんでしょうね。
+;;少し興味はありますけど……[r]やめておいた方がいいんでしょうね。
+I'd like to see what would happen, but I probably shouldn't...
 *LHT 衣玖 哀
-まかり間違って、成功してしまったら逆に[r]怖いですし。
+;;まかり間違って、成功してしまったら逆に[r]怖いですし。
+I don't think that's a good idea. It might do the opposite and burn her down.
 
 *NHT
 *NWK
