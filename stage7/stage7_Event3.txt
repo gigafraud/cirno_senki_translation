@@ -1,0 +1,92 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーー
+;;召喚されたユニット、チルノ達へ進撃開始
+;;ーーーーーーーーーーーーーーーーーーー
+
+*SNT 感情の摩天楼
+*SNN 平成のエイリアン
+*SND 平成のエイリアン
+
+;;ーーーーーーーーーーーーー
+;;村紗、ぬえ、一輪、雲山転移
+;;ーーーーーーーーーーーーー
+*MG2 7,1
+*KON SE_sukimaIN
+*SKM 7,1
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B11 7,1
+*SLP 15
+*ACT ID_B11 OFF
+
+*RHT 村紗
+イタズラ、かぁ……
+*RHT 村紗 笑
+あはは、ぬえみたいなことするもんだね。
+
+
+*NHT
+*NWK
+*MG2 6,0
+*KON SE_sukimaIN
+*SKM 6,0
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 15
+
+*RHT ぬえ
+月人にも、私みたいなマネができるやつが[r]いるなんて……
+*RHT ぬえ 怒
+ああもうっ！　なんかシャクにさわるなぁ！
+
+*NHT
+*NWK
+*SLP 30
+
+*SKL ID_B12 潜伏
+*MV4 ID_B12 6,0
+*SLP 15
+*MV1 ID_B12 9,0
+*MVA
+*SLP 15
+*ACT ID_B12 OFF
+
+*NHT
+*NWK
+*MG2 21,1
+*KON SE_sukimaIN
+*SKM 21,1
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B13 21,1
+*SLP 15
+
+*RHT 一輪
+こういうの、ぬえの得意技だし、[r]今さら驚きはしないけどね……
+けど、これはそれよりもタチ悪そうね。
+
+*ACT ID_B13 OFF
+
+*NHT
+*NWK
+*MG2 20,0
+*KON SE_sukimaIN
+*SKM 20,0
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B14 20,0
+*SLP 15
+
+*RHT 雲山
+虚像であるならば、躊躇う必要はないな……
+
+*ACT ID_B14 OFF
+
+*NHT
+*NWK
+
+*RSN
+*END

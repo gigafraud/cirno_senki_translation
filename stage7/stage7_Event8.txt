@@ -1,0 +1,51 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーー
+;;召喚されたユニット、チルノ達へ進撃開始
+;;ーーーーーーーーーーーーーーーーーーー
+
+*SNT 敵1
+*SNN 敵1
+*SND 敵1
+
+;;ーーーーーーー
+;;青娥、芳香転移
+;;ーーーーーーー
+*MG2 8,11
+*KON SE_sukimaIN
+*SKM 8,11
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B24 8,11
+*SLP 15
+
+*RHT 青娥
+偽者を作り出す術、ねぇ……
+*RHT 青娥 笑
+ふふっ　これは少し、興味深いわね。
+
+*ACT ID_B24 OFF
+
+*NHT
+*NWK
+
+*MG2 19,11
+*KON SE_sukimaIN
+*SKM 19,11
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B25 19,11
+*SLP 15
+
+*RHT 芳香
+んー？　よくわかんないけど、[r]やっつけちゃえばいいのかー？
+
+*ACT ID_B25 OFF
+
+*NHT
+*NWK
+
+*RSN
+
+*END

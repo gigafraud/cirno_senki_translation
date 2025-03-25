@@ -1,0 +1,105 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーー
+;;召喚されたユニット、チルノ達へ進撃開始
+;;ーーーーーーーーーーーーーーーーーーー
+
+*SND BGM21
+
+*MVG 紫
+*SLP 30
+
+*RHT 紫 微笑
+さて……　それじゃ始めましょうか。
+
+*NHT
+*NWK
+*SLP 30
+
+;;ーーーーーーーーーーーーーーーーーー
+;;三月精転移
+;;ステルス状態のため、転移後に数歩移動
+;;ーーーーーーーーーーーーーーーーーー
+*MG2 21,9
+*KON SE_sukimaIN
+*SKM 21,9
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 15
+
+*RHT ルナ 哀
+月の人のイタズラかぁ……
+それにしても、なんで私達のニセモノを[r]出したりしたんだろう。
+
+*NHT
+*NWK
+
+*SKL ID_B9 潜伏
+*MV4 ID_B9 21,9
+*SLP 15
+*MV1 ID_B9 19,8
+*MVA
+*SLP 15
+
+*ACT ID_B9 OFF
+
+*NHT
+*NWK
+*MG2 6,12
+*KON SE_sukimaIN
+*SKM 6,12
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 15
+
+*RHT サニー
+私達のニセモノだけじゃなく、[r]チルノのニセモノまでいるなんて……
+*RHT サニー 笑
+まあいいや！　まとめてやっつけて[r]やるんだから！
+
+*NHT
+*NWK
+
+*SKL ID_B8 潜伏
+
+*MV4 ID_B8 6,12
+*SLP 15
+*MV1 ID_B8 9,11
+*MVA
+*SLP 15
+
+*ACT ID_B8 OFF
+
+*NHT
+*NWK
+
+*MG2 14,13
+*KON SE_sukimaIN
+*SKM 14,13
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 15
+
+*RHT スター
+ホント、悪質どころか趣味悪い[r]イタズラだよね。
+*RHT スター
+でも、あんなのすぐにやっつけてやるわ！
+
+*NHT
+*NWK
+
+*SKL ID_B10 潜伏
+
+*MV4 ID_B10 14,13
+*SLP 15
+*MV1 ID_B10 15,11
+*MVA
+*SLP 15
+
+*ACT ID_B10 OFF
+
+*RSN
+
+*SNT リフレーン
+*SNN リフレーン
+
+*END

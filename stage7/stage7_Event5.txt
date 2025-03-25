@@ -1,0 +1,51 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーー
+;;召喚されたユニット、チルノ達へ進撃開始
+;;ーーーーーーーーーーーーーーーーーーー
+
+*SNT 万年置き傘にご注意を
+*SNN 門前の妖怪小娘
+*SND 門前の妖怪小娘
+
+;;ーーーーーーー
+;;小傘、響子転移
+;;ーーーーーーー
+*MG2 9,2
+*KON SE_sukimaIN
+*SKM 9,2
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B16 9,2
+*SLP 15
+
+*RHT 小傘 笑
+ニセモノでも幻覚でも、なんだっていいわ！[n]私の恐ろしさ、思い知らせてあげる！
+
+*ACT ID_B16 OFF
+
+*NHT
+*NWK
+
+*MG2 17,0
+*KON SE_sukimaIN
+*SKM 17,0
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B17 17,0
+*SLP 15
+
+*RHT 響子
+ニセモノの人達も、声は出せるのかな。
+*RHT 響子 笑
+どんな声だろ。大きい声だといいなっ！[n]わくわく！
+
+*ACT ID_B17 OFF
+
+*NHT
+*NWK
+
+*RSN
+
+*END

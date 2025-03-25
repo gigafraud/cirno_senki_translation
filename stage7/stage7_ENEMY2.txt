@@ -1,0 +1,331 @@
+;;スキマバリア
+
+*TKI 聖 10,19 ID_B7 E GB2 聖 39 封印術弾 遠距離回復札 特効薬
+*RIT ID_B7 術式弾
+*RIT ID_B7 回復札
+*RIT ID_B7 傷薬
+*RIT ID_B7 術式弾
+*EQP ID_B7 封印術弾
+*CP2 ID_B7 ATK_ALL 4 10 8
+*CP2 ID_B7 SPC_ALL 1 3
+
+*TKI サニー 18,21 ID_B8 E GB2 サニー 36 命奪術弾 特効薬
+*RIT ID_B8 火術弾
+*RIT ID_B8 傷薬
+*EQP ID_B8 命奪術弾
+*STP ID_B8 武器レベル_魔 2
+*RSK ID_B8 潜伏
+*CP2 ID_B8 ATK_ALL 4 7 1
+*CP2 ID_B8 SPC_ALL 3
+
+*TKI ルナ 19,21 ID_B9 E GB2 ルナ 35 月光術弾 特効薬
+*RIT ID_B9 雷鳴弾
+*RIT ID_B9 傷薬
+*STP ID_B9 武器レベル_魔 2
+*EQP ID_B9 月光術弾
+*CP2 ID_B9 ATK_ALL 4 7 6
+*CP2 ID_B9 SPC_ALL 3
+
+*TKI スター 17,21 ID_B10 E GB2 スター 35 星光術弾 特効薬
+*RIT ID_B10 旋風弾
+*RIT ID_B10 傷薬
+*STP ID_B10 武器レベル_魔 2
+*EQP ID_B10 星光術弾
+*CP2 ID_B10 ATK_ALL 4 7 11 10 8
+*CP2 ID_B10 SPC_ALL 3
+
+*TKI 村紗 10,18 ID_B11 E GB2 村紗 36 大型呪怨弾 超級氷塊弾 特効薬
+*RIT ID_B11 氷結大型弾
+*RIT ID_B11 傷薬
+*EQP ID_B11 大型呪怨弾
+*CP2 ID_B11 ATK_ALL 4 7 11 10
+*CP2 ID_B11 SPC_ALL 3
+
+*TKI ぬえ 9,18 ID_B12 E GB2 ぬえ 37 高速光弾 特効薬
+*RIT ID_B12 高速紅弾
+*RIT ID_B12 遠距離高速蒼弾
+*RIT ID_B12 傷薬
+*STP ID_B12 武器レベル_速 1
+*EQP ID_B12 高速光弾
+*RSK ID_B12 潜伏
+*CP2 ID_B12 ATK_ALL 4 11 7 3 8
+*CP2 ID_B12 SPC_ALL 3
+
+*TKI 一輪 11,19 ID_B13 E GB2 一輪 35 追尾凍傷弾 特効薬
+*RIT ID_B13 精密追尾弾
+*RIT ID_B13 傷薬
+*EQP ID_B13 追尾凍傷弾
+*CP2 ID_B13 ATK_ALL 4 10
+*CP2 ID_B13 SPC_ALL 3
+
+*TKI 雲山 12,19 ID_B14 E GB2 雲山 37 極大弾
+*RIT ID_B14 大型紅弾
+*EQP ID_B14 極大弾
+*CP2 ID_B14 ATK_ALL 4 3
+
+;;*TKI 寅丸 18,21 ID_B15 E GB2 寅丸 36
+
+
+*TKI 小傘 11,18 ID_B16 E GB2 小傘 36 高速貫通弾 特効薬
+*RIT ID_B16 高速翠弾
+*EQP ID_B16 高速貫通弾
+*CP2 ID_B16 ATK_ALL 4 1
+*CP2 ID_B16 SPC_ALL 3
+
+*TKI 響子 12,18 ID_B17 E GB2 響子 36 雷神大型弾 特効薬
+*RIT ID_B17 大型翠弾
+*RIT ID_B17 遠距離大型蒼弾
+*RIT ID_B17 傷薬
+*EQP ID_B17 雷神大型弾
+*CP2 ID_B17 ATK_ALL 4 3
+*CP2 ID_B17 SPC_ALL 3
+
+*TKI ルナサ 11,21 ID_B18 E GB2 ルナサ 37 追尾脱力弾 追尾連銀弾 特効薬
+*RIT ID_B18 追尾紅弾
+*STP ID_B18 武器レベル_追 1
+*EQP ID_B18 追尾脱力弾
+*CP2 ID_B18 ATK_ALL 4 10
+*CP2 ID_B18 SPC_ALL 3
+
+*TKI メルラン 12,21 ID_B19 E GB2 メルラン 38 大型光弾 特効薬
+*RIT ID_B19 遠距離大型蒼弾
+*STP ID_B19 武器レベル_大 1
+*EQP ID_B19 大型光弾
+*CP2 ID_B19 ATK_ALL 4 3
+*CP2 ID_B19 SPC_ALL 3
+
+*TKI リリカ 12,20 ID_B20 E GB2 リリカ 37 極氷高速弾 特効薬
+*RIT ID_B20 高速紅弾
+*RIT ID_B20 傷薬
+*EQP ID_B20 極氷高速弾
+*CP2 ID_B20 ATK_ALL 4 11 10 8
+*CP2 ID_B20 SPC_ALL 3
+
+*TKI アリス 18,19 ID_B21 E GB2 アリス 39 遠距離雷神弾 星光術弾 特効薬 グリモア
+*RIT ID_B21 術式弾
+*RIT ID_B21 傷薬
+*RIT ID_B21 グリモア
+*EQP ID_B21 遠距離雷神弾
+*CP2 ID_B21 ATK_ALL 9
+*CP2 ID_B21 SPC_ALL 3
+
+*TKI 小町 19,19 ID_B22 E GB2 小町 36 高速光弾 特効薬
+*RIT ID_B22 高速霊撃弾
+*RIT ID_B22 傷薬
+*STP ID_B22 武器レベル_速 1
+*EQP ID_B22 高速光弾
+*CP2 ID_B22 ATK_ALL 4 11 3
+*CP2 ID_B22 SPC_ALL 3
+
+*TKI 映姫 19,18 ID_B23 E GB2 映姫 38 命奪追尾弾 特効薬
+*RIT ID_B23 追尾霊撃弾
+*RIT ID_B23 傷薬
+*EQP ID_B23 命奪追尾弾
+*CP2 ID_B23 ATK_ALL 4 11 10
+*CP2 ID_B23 SPC_ALL 3
+
+*TKI 青娥 10,22 ID_B24 E GB2 青娥 37 月光術弾 特効薬
+*RIT ID_B24 吸奪術弾
+*RIT ID_B24 傷薬
+*STP ID_B24 武器レベル_魔 1
+*EQP ID_B24 月光術弾
+*CP2 ID_B24 ATK_ALL 4 11 3 8
+*CP2 ID_B24 SPC_ALL 3
+
+*TKI 芳香 11,22 ID_B25 E GB2 芳香 38 宵闇大型弾
+*RIT ID_B25 大型蒼弾
+*RIT ID_B25 遠距離大型蒼弾
+*RIT ID_B25 傷薬
+*EQP ID_B25 宵闇大型弾
+*CP2 ID_B25 ATK_ALL 2
+
+*TKI 美鈴 16,20 ID_B26 E GB2 美鈴 36 神速弾 特効薬
+*RIT ID_B26 高速紅弾
+*RIT ID_B26 傷薬
+*RIT ID_B26 星の帽章
+*EQP ID_B26 神速弾
+*CP2 ID_B26 ATK_ALL 4 11 3
+*CP2 ID_B26 SPC_ALL 3
+
+*TKI 勇儀 15,18 ID_B27 E GB2 勇儀 38 極大弾 特効薬
+*RIT ID_B27 大型紅弾
+*STP ID_B27 武器レベル_大 2
+*EQP ID_B27 極大弾
+*CP2 ID_B27 ATK_ALL 4 3
+*CP2 ID_B27 SPC_ALL 3
+
+*TKI パルスィ 15,19 ID_B28 E GB2 パルスィ 36 追尾呪怨弾 特効薬
+*RIT ID_B28 追尾紅弾
+*RIT ID_B28 傷薬
+*EQP ID_B28 追尾呪怨弾
+*CP2 ID_B28 ATK_ALL 4 11 10
+*CP2 ID_B28 SPC_ALL 3
+
+*TKI ヤマメ 16,18 ID_B29 E GB2 ヤマメ 37 遠距離高速銀弾 特効薬
+*RIT ID_B29 高速紅弾
+*RIT ID_B29 傷薬
+*EQP ID_B29 遠距離高速銀弾
+*CP2 ID_B29 ATK_ALL 4 11 10
+*CP2 ID_B29 SPC_ALL 3
+
+*TKI キスメ 16,19 ID_B30 E GB2 キスメ 36 大型吸奪弾 特効薬
+*RIT ID_B30 大型紅弾
+*RIT ID_B30 遠距離大型蒼弾
+*RIT ID_B30 傷薬
+*EQP ID_B30 大型吸奪弾
+*CP2 ID_B30 ATK_ALL 4 3
+*CP2 ID_B30 SPC_ALL 3
+
+*TKI 妹紅 17,19 ID_B31 E GB2 妹紅 37 神炎弾 特効薬
+*RIT ID_B31 火術弾
+*RIT ID_B31 傷薬
+*EQP ID_B31 神炎弾
+*CP2 ID_B31 ATK_ALL 4 7 3
+*CP2 ID_B31 SPC_ALL 3
+
+*TKI てゐ 17,18 ID_B32 E GB2 てゐ 37 高速侵蝕弾 轟炎高速弾 特効薬
+*RIT ID_B32 精密高速弾
+*RIT ID_B32 火炎高速弾
+*RIT ID_B32 傷薬
+*EQP ID_B32 高速侵蝕弾
+*CP2 ID_B32 ATK_ALL 4 11 10 8
+*CP2 ID_B32 SPC_ALL 3
+
+*TKI 白夜 16,21 ID_B33 E GB2 白夜 38 高速連銀弾 特効薬 懐中時計
+*RIT ID_B33 傷薬
+*RIT ID_B33 傷薬
+*RIT ID_B33 懐中時計
+*EQP ID_B33 高速連銀弾
+*CP2 ID_B33 ATK_ALL 4 11 3 8
+*CP2 ID_B33 SPC_ALL 3
+
+*TKI リグル 20,21 ID_B34 E GB2 リグル 39 雷神追尾弾 特効薬
+*RIT ID_B34 雷鳴追尾弾
+*RIT ID_B34 傷薬
+*EQP ID_B34 雷神追尾弾
+*CP2 ID_B34 ATK_ALL 4 6
+*CP2 ID_B34 SPC_ALL 3
+
+*TKI ミスティア 20,19 ID_B35 E GB2 ミスティア 37 高速錯乱弾 高速連銀弾 特効薬
+*RIT ID_B35 高速霊撃弾
+*RIT ID_B35 傷薬
+*STP ID_B35 武器レベル_速 1
+*EQP ID_B35 高速錯乱弾
+*CP2 ID_B35 ATK_ALL 4 11 10
+*CP2 ID_B35 SPC_ALL 3
+
+*TKI ルーミア 20,20 ID_B36 E GB2 ルーミア 38 宵闇大型弾 特効薬
+*RIT ID_B36 大型紅弾
+*RIT ID_B36 傷薬
+*EQP ID_B36 宵闇大型弾
+*CP2 ID_B36 ATK_ALL 4 3
+*CP2 ID_B36 SPC_ALL 3
+
+*TKI 橙 9,19 ID_B37 E GB2 橙 37 追尾連銀弾 特効薬
+*RIT ID_B37 追尾霊撃弾
+*RIT ID_B37 追尾紅弾
+*RIT ID_B37 傷薬
+*STP ID_B37 武器レベル_追 1
+*EQP ID_B37 追尾連銀弾
+*CP2 ID_B37 ATK_ALL 4 3
+*CP2 ID_B37 SPC_ALL 3
+
+*TKI にとり 21,18 ID_B38 E GB2 にとり 38 大型衝撃弾 特効薬
+*RIT ID_B38 大型紅弾
+*RIT ID_B38 傷薬
+*EQP ID_B38 大型衝撃弾
+*RSK ID_B38 潜伏
+*CP2 ID_B38 ATK_ALL 4 11 10
+*CP2 ID_B38 SPC_ALL 3
+
+*TKI 椛 20,18 ID_B39 E GB2 椛 38 追尾乱舞弾 特効薬
+*RIT ID_B39 追尾霊撃弾
+*RIT ID_B39 傷薬
+*EQP ID_B39 追尾乱舞弾
+*CP2 ID_B39 ATK_ALL 4 1
+*CP2 ID_B39 SPC_ALL 3
+
+*TKI 雛 21,19 ID_B40 E GB2 雛 36 呪怨術弾 致死暗黒術弾 特効薬
+*RIT ID_B40 吸奪術弾
+*RIT ID_B40 傷薬
+*EQP ID_B40 呪怨術弾
+*CP2 ID_B40 ATK_ALL 4 10 8 23
+*CP2 ID_B40 SPC_ALL 3
+
+*TKI 文 14,19 ID_B41 E GB2 文 38 高速光弾 特効薬
+*RIT ID_B41 高速紅弾
+*RIT ID_B41 遠距離高速紅弾
+*RIT ID_B41 傷薬
+*STP ID_B41 武器レベル_速 1
+*EQP ID_B41 高速光弾
+*CP2 ID_B41 ATK_ALL 4 11 3 8
+*CP2 ID_B41 SPC_ALL 3
+
+*TKI はたて 13,19 ID_B42 E GB2 はたて 37 高速光弾 特効薬
+*RIT ID_B42 遠距離高速蒼弾
+*RIT ID_B42 遠距離高速蒼弾
+*RIT ID_B42 傷薬
+*RIT ID_B42 大天狗の羽
+*STP ID_B42 武器レベル_速 1
+*EQP ID_B42 高速光弾
+*CP2 ID_B42 ATK_ALL 4 11 10 8
+*CP2 ID_B42 SPC_ALL 3
+
+*TKI 穣子 18,22 ID_B43 E GB2 穣子 37 雷神大型弾 特効薬
+*RIT ID_B43 大型紅弾
+*RIT ID_B43 回復札
+*RIT ID_B43 傷薬
+*EQP ID_B43 雷神大型弾
+*CP2 ID_B43 ATK_ALL 4 11 6
+*CP2 ID_B43 SPC_ALL 3
+
+*TKI 静葉 17,22 ID_B44 E GB2 静葉 36 風神弾 遠距離回復札 特効薬
+*RIT ID_B44 回復札
+*RIT ID_B44 旋風弾
+*RIT ID_B44 傷薬
+*EQP ID_B44 風神弾
+*CP2 ID_B44 ATK_ALL 4 7 11 10
+*CP2 ID_B44 SPC_ALL 1 3
+
+*TKI リリーホワイト 12,22 ID_B45 E GB2 リリーホワイト 36 轟炎追尾弾 特効薬
+*RIT ID_B45 火炎追尾弾
+*RIT ID_B45 傷薬
+*EQP ID_B45 轟炎追尾弾
+*CP2 ID_B45 ATK_ALL 7 2
+*CP2 ID_B45 SPC_ALL 3
+
+*TKI リリーブラック 13,22 ID_B46 E GB2 リリーブラック 38 命奪追尾弾 特効薬
+*RIT ID_B46 追尾紅弾
+*RIT ID_B46 傷薬
+*EQP ID_B46 命奪追尾弾
+*CP2 ID_B46 ATK_ALL 4 11 3 8
+*CP2 ID_B46 SPC_ALL 3
+
+*TKI レティ 18,18 ID_B47 E GB2 レティ 37 超級氷塊弾 特効薬
+*RIT ID_B47 氷結大型弾
+*RIT ID_B47 傷薬
+*EQP ID_B47 超級氷塊弾
+*CP2 ID_B47 ATK_ALL 4 7 10
+*CP2 ID_B47 SPC_ALL 3
+
+*TKI 天子 14,18 ID_B48 E GB2 天子 39 高速光弾 特効薬
+*RIT ID_B48 高速銀弾
+*RIT ID_B48 傷薬
+*STP ID_B48 武器レベル_速 1
+*EQP ID_B48 高速光弾
+*CP2 ID_B48 ATK_ALL 4 3
+*CP2 ID_B48 SPC_ALL 3
+
+*TKI 衣玖 13,18 ID_B49 E GB2 衣玖 37 狂雷弾 特効薬
+*RIT ID_B49 雷光弾
+*RIT ID_B49 傷薬
+*EQP ID_B49 狂雷弾
+*CP2 ID_B49 ATK_ALL 4 11 6 8
+*CP2 ID_B49 SPC_ALL 3
+
+;;*TKI 華扇 18,21 ID_B50 E GB2 華扇 38 装備A
+
+*ST2 GB2 全 5
+
+*RED チルノdata_others/状態異常耐性
+

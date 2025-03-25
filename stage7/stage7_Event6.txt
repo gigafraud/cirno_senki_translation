@@ -1,0 +1,67 @@
+;START
+;;ーーーーーーーーーーーーーーーーーーー
+;;召喚されたユニット、チルノ達へ進撃開始
+;;ーーーーーーーーーーーーーーーーーーー
+
+*SNT 幽霊楽団
+*SNN 幽霊楽団
+*SND 幽霊楽団
+
+;;ーーーーーー
+;;虹川姉妹転移
+;;ーーーーーー
+*MG2 11,13
+*KON SE_sukimaIN
+*SKM 11,13
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B20 11,13
+*SLP 15
+
+*RHT リリカ 怒
+ニセモノ……か。[n]こういうズルいことする人なんだね。[r]月の人って。
+
+*ACT ID_B20 OFF
+
+*NHT
+*NWK
+
+*MG2 17,13
+*KON SE_sukimaIN
+*SKM 17,13
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B19 17,13
+*SLP 15
+
+*RHT メルラン 哀
+う～ん、どうせだったら、私のニセモノ[r]出してくれればいいのにな。
+*RHT メルラン 笑
+そうしたら、二人の私でみんなをすっごい[r]ハッピーにしてあげられるのにな！
+
+*ACT ID_B19 OFF
+
+*NHT
+*NWK
+
+*MG2 14,10
+*KON SE_sukimaIN
+*SKM 14,10
+*SLP 45
+*KON SE_sukimaOUT
+*SLP 30
+*MV4 ID_B18 14,10
+*SLP 15
+
+*RHT ルナサ
+私が二人になったら……[n]みんなどんより？　曇り空？
+
+*ACT ID_B18 OFF
+
+*NHT
+*NWK
+
+*RSN
+*END
