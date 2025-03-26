@@ -8,7 +8,7 @@ I can still edit them in the future, if I see the need to do so.
 
 ## How a file looks like
 
-A line that starts with ;; is a comment, meaning it isn't executed. It allows to give information to the people reading the file.
+A line that starts with ;; is a comment, meaning it isn't executed. It's made to give information to the people reading the file.
 
 You can see every file as a program that tells the game what to do. Like a program, it uses functions. Here are the main functions you'll see :
 
