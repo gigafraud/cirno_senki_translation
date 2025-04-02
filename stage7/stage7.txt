@@ -4,11 +4,15 @@
 *NIG
 *SND 夜が降りてくる
 
-暴れる妖怪達をやっつけて、チルノは見事に[r]英雄になることができました。
-これで、残るはいよいよ、ヘンテコ妖怪への[r]仕返しだけ。
-そんな彼女達の前に、それは突然[r]姿を現したのです。
-勝負をつけるときは、不意に、運命的に[r]やってきたのでした。
-そして……
+;;暴れる妖怪達をやっつけて、チルノは見事に[r]英雄になることができました。
+;;これで、残るはいよいよ、ヘンテコ妖怪への[r]仕返しだけ。
+;;そんな彼女達の前に、それは突然[r]姿を現したのです。
+;;勝負をつけるときは、不意に、運命的に[r]やってきたのでした。
+;;そして……
+After defeating the horde of youkais, Cirno became a true hero.
+Now, nothing stands in her way to get her revenge against those weird people.
+And then suddenly, they appeared before her.
+
 
 *TTL チルノ戦記\n終章\nサイキョーのあたい 270
 
@@ -18,10 +22,12 @@
 
 
 *CHT スター 驚
-あっ、来た！　あっち！！
+;;あっ、来た！　あっち！！
+Aha ! There you are !
 
 *LHT 天子 驚
-は？
+;;は？
+Hmm ?
 
 *NHT
 *NWK
@@ -32,13 +38,16 @@
 *SLP 60
 
 *RHT チルノ 怒
-あーーーーっっ！！[n]あいつはーーーーっっ！！！！
+;;あーーーーっっ！！[n]あいつはーーーーっっ！！！！
+It's been a while, hasn't it !? Time to settle the score !
 
 *CHT 衣玖 驚
-あの方は……
+;;あの方は……
+These people...
 
 *LHT 幽香
-ついに姿を現したわね……[n]八雲紫……
+;;ついに姿を現したわね……[n]八雲紫……
+So you've finally shown yourself, Yakumo Yukari...
 
 *NHT
 *NWK
@@ -46,28 +55,39 @@
 *SLP 60
 
 *LHT 紫
-なるほど……[n]妖怪や妖精が暴れまわっていると聞いて[r]来てみたら……
+;;なるほど……[n]妖怪や妖精が暴れまわっていると聞いて[r]来てみたら……
+Mmh... I've heard about youkais and fairies fighting close to the village...
+So I came here to see for myself.
 *LHT 紫 微笑
-まったく、月から凱旋してきたばかりだと[r]いうのに、少しくらいゆっくりさせて[r]もらっても良いと思うのだけどね。
+;;まったく、月から凱旋してきたばかりだと[r]いうのに、少しくらいゆっくりさせて[r]もらっても良いと思うのだけどね。
+And here I was thinking we could take it easy after our little trip to the moon...
 
 *RHT 巫女 驚
-あれ……　あの子達って、確か……
+;;あれ……　あの子達って、確か……
+Hey... I'm pretty sure these kids are...
 
 *RHT アリス 怒
-あーっ！[r]あれは、いつかの花咲か妖怪！！
+;;あーっ！[r]あれは、いつかの花咲か妖怪！！
+Hey ! It's that flower-loving youkai from last time !
 
 *RHT 藍 怒
-地底の者も混ざっているようですね。[r]まさか、まだ地上に残っている者がいたとは…
+;;地底の者も混ざっているようですね。[r]まさか、まだ地上に残っている者がいたとは…
+It seems that there are underground youkais too...
+I didn't know there were still some here...
 
 *LHT 萃香 驚
-天狗までいるってのかい！？
+;;天狗までいるってのかい！？
+There's a tengu too !?
 *LHT 萃香 怒
-この前のことで、私達に協力することに[r]なってたんじゃなかったの！？
+;;この前のことで、私達に協力することに[r]なってたんじゃなかったの！？
+Weren't you guys supposed to help us ? What are you doing here !?
 
 *RHT 幽々子
-おまけに、あの天人まで一緒にいるようね。
+;;おまけに、あの天人まで一緒にいるようね。
+A celestial is here as well...
 *RHT 幽々子 笑
-これは、もっとキツイお仕置きがいるかしら。
+;;これは、もっとキツイお仕置きがいるかしら。
+
 
 *LHT 紫
 そうね。ここでこれを叩いておいて[r]しまわないと、影響がもっと大きくなって[r]しまうでしょうね。
