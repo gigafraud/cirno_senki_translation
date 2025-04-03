@@ -87,28 +87,37 @@ Weren't you guys supposed to help us ? What are you doing here !?
 A celestial is here as well...
 *RHT 幽々子 笑
 ;;これは、もっとキツイお仕置きがいるかしら。
+Is this one as bratty as the other one ?
 
 
 *LHT 紫
-そうね。ここでこれを叩いておいて[r]しまわないと、影響がもっと大きくなって[r]しまうでしょうね。
+;;そうね。ここでこれを叩いておいて[r]しまわないと、影響がもっと大きくなって[r]しまうでしょうね。
+...Yes. If we don't deal with them now, it might become a big problem.
 
 *RHT 巫女 驚
-ま、待って！[r]なんとか話しあいで収められないの！？
+;;ま、待って！[r]なんとか話しあいで収められないの！？
+W-Wait ! Cqn't we talk this out somehow...?
 
 *LHT 紫 怒
-無駄よ。[n]周囲に満ちる争いの気。[r]恐らく、その中心が彼女たちなのよ。
-意味もなく無駄に騒ぎを起こし、争い事を[r]広める元凶……[n]これは、叩かなくてはいけないわ。
+;;無駄よ。[n]周囲に満ちる争いの気。[r]恐らく、その中心が彼女たちなのよ。
+;;意味もなく無駄に騒ぎを起こし、争い事を[r]広める元凶……[n]これは、叩かなくてはいけないわ。
+No, sorry. They are at the center of it all.
+They've been starting fights everywhere they go... We must stop them.
 
 *RHT 巫女 哀
-………
+;;………
+...
 
 *LHT 紫
-迷っているヒマは無いわ。[n]早くこの「気」を鎮めないと、[r]さらにこれが拡散してしまうことになる。
+;;迷っているヒマは無いわ。[n]早くこの「気」を鎮めないと、[r]さらにこれが拡散してしまうことになる。
+If we don't calm this "spirit" down, it will spread even further.
 *LHT 紫 怒
-そうなってはもう遅い。[r]猶予は、残されていないわ。
+;;そうなってはもう遅い。[r]猶予は、残されていないわ。
+By then, it would be too late. There is no time left.
 
 *RHT 巫女 怒
-う、うん。わかった！
+;;う、うん。わかった！
+Umm... Ok !
 
 *NHT
 *NWK
@@ -118,112 +127,149 @@ A celestial is here as well...
 *SND BGM18
 
 *LHT キスメ 驚
-あいつら、仕掛けて来る気だよ！
+;;あいつら、仕掛けて来る気だよ！
+Careful, they're coming !
 *LHT キスメ 怒
-それに……　なんだろう。[n]なんだか私達が悪者扱いされてるような[r]気がする。
+;;それに……　なんだろう。[n]なんだか私達が悪者扱いされてるような[r]気がする。
+Mmmh... They make it sound like we're the bad guys...
 
 *RHT 文 驚
-ゆ、紫さん、待ってください！[r]この人達は……
+;;ゆ、紫さん、待ってください！[r]この人達は……
+Miss Yukari, wait ! These people are...
 
 *LHT レティ 怒
-聞く耳は持ってないわ。[r]こっちも、相応の手で応えるしかないのよ。
+;;聞く耳は持ってないわ。[r]こっちも、相応の手で応えるしかないのよ。
+They don't want to talk. There's no point trying to resonate.
 
 *LHT 天子 笑
-そうそう。[r]あっちがやる気なら、こっちも応えて[r]あげないと。
+;;そうそう。[r]あっちがやる気なら、こっちも応えて[r]あげないと。
+That's right. If it's a fight they want, it's a fight they'll get !
 
 *RHT ヤマメ
-あれ、珍しくやる気だね。
+;;あれ、珍しくやる気だね。
+Wow, you're even eagerer to fight than usual !
 *RHT ヤマメ 笑
-もしかして、前に言ってた[r]「返り討ちに遭わされた連中」[r]って、あれのことかい？
+;;もしかして、前に言ってた[r]「返り討ちに遭わされた連中」[r]って、あれのことかい？
+Aren't they the ones that turned you back, by any chance ?
 
 *LHT 天子 驚
-よ、余計なお世話よっ！！
+;;よ、余計なお世話よっ！！
+T-That's none of your business !
 
 *RHT 衣玖 笑
-大正解です。
+;;大正解です。
+Yes, it's them.
 
 *LHT 天子 驚
-だから、なんでバラすのよ、あんたはっ！
+;;だから、なんでバラすのよ、あんたはっ！
+Are you here just to annoy me !?
 
 *RHT チルノ 笑
-へへん！　「跳んで気に入る茶碗蒸し」とは[r]このことだよ！
+;;へへん！　「跳んで気に入る茶碗蒸し」とは[r]このことだよ！
+Haha ! You people couldn't come to me at a better time !
 *RHT チルノ 怒
-ここで会ったが百年目！[n]ヘンテコ妖怪におまんじゅう人間！[r]いつかの仕返し、ここで果たしてやるー！
+;;ここで会ったが百年目！[n]ヘンテコ妖怪におまんじゅう人間！[r]いつかの仕返し、ここで果たしてやるー！
+It's been at least a hundred years since our last fight...
+But this time, I'm getting my revenge !
 
 *LHT サニー 哀
-……今、あれ、何て言った？
+;;……今、あれ、何て言った？
+...Wait, what did you say ?
 
 *RHT ルーミア 笑
-なんだか美味しそうだったねー
+;;なんだか美味しそうだったねー
+I'm hungry...
 
 *RHT リグル 哀
-個人的に、あんまり嬉しくない言葉だなぁ。
+;;個人的に、あんまり嬉しくない言葉だなぁ。
+I don't really want to fight again...
 
 *LHT ミスティア
-けど、チルノの言ってた「ヘンテコ妖怪」って[r]あれのことなんだよね。
+;;けど、チルノの言ってた「ヘンテコ妖怪」って[r]あれのことなんだよね。
+So these are the "weird youkais" Cirno kept talking about.
 
 *RHT ヤマメ
-あんな大妖怪相手に、勝てるつもり[r]なのかなぁ。
+;;あんな大妖怪相手に、勝てるつもり[r]なのかなぁ。
+Does she really think she can defeat them ?
 
 *LHT パルスィ 微笑
-でも、あの連中には借りがあるのも事実よね。
+;;でも、あの連中には借りがあるのも事実よね。
+... We do owe her a lot...
+
 
 *RHT キスメ 笑
-なら、やっぱりやるしかないよね！[n]借りたものは、し～っかりお返ししなくっちゃ[r]いけないし！！
+;;なら、やっぱりやるしかないよね！[n]借りたものは、し～っかりお返ししなくっちゃ[r]いけないし！！
+Indeed. So we have to return them the favor !
 
 *LHT 大妖精 怒
-みなさん、どうかお願いします！[n]チルノちゃんがあの人に仕返しするの、[r]手伝って下さい！
+;;みなさん、どうかお願いします！[n]チルノちゃんがあの人に仕返しするの、[r]手伝って下さい！
+Please, everyone ! Pleqse help Cirno one last time !
 
 *RHT ルナ 笑
-大ちゃんの頼みなら、断れないよね。
+;;大ちゃんの頼みなら、断れないよね。
+If Dai asks me, I can't refuse.
 
 *RHT ミスティア 笑
-ふふっ♪[r]私達だってやればできるんだってこと、[r]見せつけてやっちゃいましょ！
+;;ふふっ♪[r]私達だってやればできるんだってこと、[r]見せつけてやっちゃいましょ！
+One last time ? Then we should give it our all !
 
 *CHT ヤマメ 笑
-そうだね！　地上の大妖怪とかいうやつに、[r]ちょっと思い知らせてやらないとね！
+;;そうだね！　地上の大妖怪とかいうやつに、[r]ちょっと思い知らせてやらないとね！
+That's right ! Time to give those surface youkais a lesson !
 
 *NCH
 
 *RHT レティ 怒
-チルノ、相手は大物よ。大丈夫なの？
+;;チルノ、相手は大物よ。大丈夫なの？
+Cirno, she's stronger than any ennemy we fought until now. Are you sure about that ?
 
 *LHT チルノ 笑
-もっちろん！　あんなやつ、あたいが[r]あっという間にやっつけちゃうんだから！
+;;もっちろん！　あんなやつ、あたいが[r]あっという間にやっつけちゃうんだから！
+Of course ! Ican't beat anyone right now !
 *LHT チルノ
-さ、行くよ！　みんな！！
+;;さ、行くよ！　みんな！！
+Let's go, everyone !
 
 *RHT 幽香
-ようやく会えたわね、八雲紫……
+;;ようやく会えたわね、八雲紫……
+We finally meet, Yakumo Yukari...
 *RHT 幽香 笑
-さて、私の思惑通り、楽しいことになって[r]くれるのかしら。[n]ふふっ　ふふふふふっ……
+;;さて、私の思惑通り、楽しいことになって[r]くれるのかしら。[n]ふふっ　ふふふふふっ……
+I hope you are as strong as people say you are...
 
 *LHT 文 哀
-………
-
+;;………
+...
 *NHT
 *NWK
 
 *SLP 60
 
 *LHT 藍 怒
-紫様、来ます！
+;;紫様、来ます！
+Miss Yukari, please let me handle them ! 
 
 *RHT 萃香 笑
-やる気だねぇ。そういうの、嫌いじゃないよ。
+;;やる気だねぇ。そういうの、嫌いじゃないよ。
+Oho, you're fired up. That's nice to see.
+Hey,  
 *RHT 萃香
-紫。迎え撃っちゃっていいんだろ？？
+;;紫。迎え撃っちゃっていいんだろ？？
+Yukari, is it ok for us to go first ?
 
 *LHT 紫 微笑
-そうね。ただ、ここでやり合うよりも、[r]場所を移した方が良いでしょう。
-こんな連中ごときに万一のことがあって[r]しまっては困るもの。
-私達に有利な場所で、戦わせてもらうとしましょう。
+;;そうね。ただ、ここでやり合うよりも、[r]場所を移した方が良いでしょう。
+;;こんな連中ごときに万一のことがあって[r]しまっては困るもの。
+;;私達に有利な場所で、戦わせてもらうとしましょう。
+Of course... Though it would be better to fight them elsewhere.
 
 *RHT 巫女 驚
-場所を移すって、でもどうやって？
+;;場所を移すって、でもどうやって？
+Oh ? But where ?
 
 *LHT 紫 微笑
-簡単よ。こうするのよ。
+;;簡単よ。こうするのよ。
+Right... Here.
 
 *NHT
 *NWK
