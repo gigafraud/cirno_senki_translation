@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;召喚されたユニット、チルノ達へ進撃開始
+;;Fifth wave : Mokou and Tewi
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 月まで届け
@@ -21,9 +21,12 @@
 *SLP 15
 
 *RHT 妹紅 哀
-月人の術、ねぇ……[n]なんだって今さらこんな真似する[r]必要があるのやら。
+;;月人の術、ねぇ……[n]なんだって今さらこんな真似する[r]必要があるのやら。
+We already fought the lunarians... Why do we still have to fight ?
+
 *RHT 妹紅 怒
-まあいいさ。なんであれ、身に降りかかる[r]火の粉は払わないとね！
+;;まあいいさ。なんであれ、身に降りかかる[r]火の粉は払わないとね！
+I guess it can't be helped... I just have to burn this fairy to the ground, right ?
 
 *ACT ID_B31 OFF
 
@@ -40,8 +43,10 @@
 *SLP 15
 
 *RHT てゐ 哀
-仲間とやりあった次は、[r]味方のニセモノが相手……か。
-やりにくいけど、これも仕方ないやね。
+;;仲間とやりあった次は、[r]味方のニセモノが相手……か。
+;;やりにくいけど、これも仕方ないやね。
+After fighting fellow rabbits, I now have to deal with fake allies...?
+Can't I take a break at least ?
 
 *ACT ID_B32 OFF
 
