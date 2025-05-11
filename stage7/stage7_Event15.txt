@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;召喚されたユニット、チルノ達へ進撃開始
+;;Sventh wave (? I'm losing count) : Wriggle and friends
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT ティアオイエツォン
@@ -22,9 +22,11 @@
 *SLP 15
 
 *RHT リグル 驚
-私達だけじゃなくて、幽香さんのニセモノまで[r]いるなんて……
+;;私達だけじゃなくて、幽香さんのニセモノまで[r]いるなんて……
+It's not just us, there is even a fake Miss Yuuka...
 *RHT リグル 哀
-う～ん……　どういう基準でニセモノを[r]作ったんだろう。
+;;う～ん……　どういう基準でニセモノを[r]作ったんだろう。
+Mmmh... I really wonder how they managed to make clones of us...
 
 *ACT ID_B34 OFF
 
@@ -41,11 +43,14 @@
 *SLP 15
 
 *RHT ミスティア 驚
-私がもう一人……
+;;私がもう一人……
+A copy of myself...
 *RHT ミスティア 驚
-こ、これでもし、二人で一緒に歌ったり[r]できたら、すっごく楽しいかもしれない……
+;;こ、これでもし、二人で一緒に歌ったり[r]できたら、すっごく楽しいかもしれない……
+If only we could sing together... That would be nice.
 *RHT ミスティア 哀
-……でも、うん。私が二人で組んだりしたら、[r]きっとケンカになりそうな気がするわ。
+;;……でも、うん。私が二人で組んだりしたら、[r]きっとケンカになりそうな気がするわ。
+...Actually, If I were to team up with her, we'd probably end up fighting.
 
 *ACT ID_B35 OFF
 
@@ -62,10 +67,13 @@
 *SLP 15
 
 *RHT ルーミア 驚
-私の二人目？[n]これでとっておきの技を使ったら、[r]私、たくさん？
-たくさんの私で大行進？？
+;;私の二人目？[n]これでとっておきの技を使ったら、[r]私、たくさん？
+;;たくさんの私で大行進？？
+Another me ? If I use my power, that would make even more...
+A big Rumia parade ?
 *RHT ルーミア 笑
-……ちょっと面白そうかも！
+;;……ちょっと面白そうかも！
+That sounds fun !
 
 *ACT ID_B36 OFF
 
@@ -82,9 +90,12 @@
 *SLP 15
 
 *RHT 橙 哀
-みんなと同じ姿してる人と戦うなんて[r]嫌だけど……[n]ニセモノだったらやっつけないとね。
+;;みんなと同じ姿してる人と戦うなんて[r]嫌だけど……[n]ニセモノだったらやっつけないとね。
+I don't want to fight people that look like my friends...
+But if they aren't actually them... It's fine ?
 *RHT 橙 笑
-藍さまやみんなのためにも、頑張るぞーっ！
+;;藍さまやみんなのためにも、頑張るぞーっ！
+Alright then ! I'll do my best for Miss Ran !
 
 *ACT ID_B37 OFF
 
