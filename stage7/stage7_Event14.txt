@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;召喚されたユニット、チルノ達へ進撃開始
+;;Sixth wave : Byakuya
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 月時計ルナ
@@ -20,8 +20,11 @@
 *SLP 15
 
 *RHT 白夜 怒
-月人のやり方にしては、ずいぶん姑息すぎる[r]気がするけど……[n]本当にあれは、月人の術なのかしら。
-とは言え、考えているヒマはなさそうね。[r]早く片付けてしまいましょ。
+;;月人のやり方にしては、ずいぶん姑息すぎる[r]気がするけど……[n]本当にあれは、月人の術なのかしら。
+;;とは言え、考えているヒマはなさそうね。[r]早く片付けてしまいましょ。
+What did Yukari mean by "a trick"...? I don't understand.
+But it doesn't matter. Let's get this over with, little fairy.
+
 
 *ACT ID_B33 OFF
 
