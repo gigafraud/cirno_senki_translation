@@ -50,34 +50,45 @@ I believe this is Miss Yukari's base of operations... Hakurei Shrine.
 So they brought us to their base ?
 *RHT 幽香 怒
 ;;まったく、相変わらずこういう姑息な真似が[r]得意なんだから。
+I should have expected her to use sneaky tactics like that...
 
 
 *LHT ミスティア 驚
-リグル。ここって、もしかして……
+;;リグル。ここって、もしかして……
+Wriggle... This place...
 
 *RHT リグル 驚
-うん……　いつの間に……
+;;うん……　いつの間に……
+Yeah... This is where we played before.
 
 *LHT 大妖精 哀
-チルノちゃん……[r]大丈夫だよね？　大丈夫なんだよね？？
+;;チルノちゃん……[r]大丈夫だよね？　大丈夫なんだよね？？
+C-Cirno... Are you okay ?? Are you hurt ??
 
 *RHT チルノ 笑
-大丈夫に決まってるじゃん！[n]ここがどこだって、勝負にはかんけー[r]ないもんね！
+;;大丈夫に決まってるじゃん！[n]ここがどこだって、勝負にはかんけー[r]ないもんね！
+Of course I'm fine ! Doesn't matter where we fight, I'll win anyway !
 *RHT チルノ 怒
-とくかく、あのヘンテコ妖怪と[r]おまんじゅう人間をやっつければ[r]それでいいんだから！！
+;;とくかく、あのヘンテコ妖怪と[r]おまんじゅう人間をやっつければ[r]それでいいんだから！！
+Now, the only thing left to do is defeat those youkais !
 
 *LHT サニー
-……で、今回も突撃？
+;;……で、今回も突撃？
+...So, we still have to fight ?
 
 *CHT スター
-むしろ、突撃あるのみ、じゃないかな。[r]小細工したって通じなさそうだもん。
+;;むしろ、突撃あるのみ、じゃないかな。[r]小細工したって通じなさそうだもん。
+I don't think we can talk this out. Cirno's here for revenge, after all.
 
 *RHT チルノ 笑
-そーゆうこと！
-ってことで……　突撃、開始ーーっ！！
+;;そーゆうこと！
+;;ってことで……　突撃、開始ーーっ！！
+Exactly ! 
+Enough talk ! Chaaarge !!
 
 *LHT レティ 笑
-ふふっ　これを、最後の突撃としたいわね。
+;;ふふっ　これを、最後の突撃としたいわね。
+Phew, I hope this is the last fight, I'm getting tired...
 
 *NHT
 *NWK
