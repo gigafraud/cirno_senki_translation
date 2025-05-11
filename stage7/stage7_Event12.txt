@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;召喚されたユニット、チルノ達へ進撃開始
+;;Fourth wave : Kisume and Yamame
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 風穴
@@ -21,7 +21,8 @@
 *SLP 15
 
 *RHT キスメ 哀
-うわっ、気持ち悪……[n]私と同じ姿、同じ声の人が動いてるって、[r]こんな感覚なんだ……
+;;うわっ、気持ち悪……[n]私と同じ姿、同じ声の人が動いてるって、[r]こんな感覚なんだ……
+Wow... There's someome who looks and sounds exactly like me... That's weird.
 
 *ACT ID_B30 OFF
 
@@ -38,9 +39,12 @@
 *SLP 15
 
 *RHT ヤマメ 哀
-地底から連れ出された挙句に、[r]自分のニセモノとやり合うことに[r]なるなんてねぇ……
+;;地底から連れ出された挙句に、[r]自分のニセモノとやり合うことに[r]なるなんてねぇ……
+I can't believe I was taken from the underground to fight my own impostor...
+
 *RHT ヤマメ
-物事ってのは、何がどうなるか[r]わかったもんじゃないよ、まったく……
+;;物事ってのは、何がどうなるか[r]わかったもんじゃないよ、まったく……
+Oh well, no reason to complain now.
 
 *ACT ID_B29 OFF
 
