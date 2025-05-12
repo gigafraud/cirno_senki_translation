@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーー
-;;First Wave : Byakuren & friends
+;;Byakuren & friends
 ;;ーーーーーーーーーーーーーー
 
 *SND ネクロファンタジア
