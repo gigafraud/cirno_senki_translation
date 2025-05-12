@@ -45,7 +45,7 @@ I guess it can't be helped... I just have to burn this fairy to the ground, righ
 *RHT てゐ 哀
 ;;仲間とやりあった次は、[r]味方のニセモノが相手……か。
 ;;やりにくいけど、これも仕方ないやね。
-After fighting fellow rabbits, I now have to deal with fake allies...?
+After fighting my fellow rabbits, I now have to deal with fakes...?
 Can't I take a break at least ?
 
 *ACT ID_B32 OFF
