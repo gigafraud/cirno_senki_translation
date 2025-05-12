@@ -19,9 +19,11 @@
 *SLP 30
 
 *RHT にとり 驚
-この術といい、武器の技術といい、[r]月の人っていうのはすごいなぁ。
+;;この術といい、武器の技術といい、[r]月の人っていうのはすごいなぁ。
+The lunarians' technology was incredible ! 
 *RHT にとり 哀
-あの武器の技術、少し調べさせてもらいたい[r]ところだけど……　無理だよね、やっぱり。
+;;あの武器の技術、少し調べさせてもらいたい[r]ところだけど……　無理だよね、やっぱり。
+I wish I could spend more time there, but... I guess that's impossible now.
 
 *NHT
 *NWK
@@ -46,8 +48,10 @@
 *SLP 15
 
 *RHT 椛 哀
-今になって心理的な揺さぶりをかけて[r]くるって、どういうことなんでしょう。
-あれだけ圧倒的な戦力差があったのに……[n]う～ん、読めませんね……
+;;今になって心理的な揺さぶりをかけて[r]くるって、どういうことなんでしょう。
+;;あれだけ圧倒的な戦力差があったのに……[n]う～ん、読めませんね……
+There was such an overwhelming difference in strength between us and them...
+I can't believe we were able to get out of this.
 
 *ACT ID_B39 OFF
 
@@ -64,9 +68,12 @@
 *SLP 15
 
 *RHT 雛 哀
-集めても集めても、厄は溜まっていく一方……
+;;集めても集めても、厄は溜まっていく一方……
+Wherever I go, the misfortune just keeps piling up...
 *RHT 雛 怒
-けれど、この場を乗り切ることができれば、[r]きっと……！
+;;けれど、この場を乗り切ることができれば、[r]きっと……！
+But if we can get through this, then...!
+
 
 *ACT ID_B40 OFF
 
