@@ -20,10 +20,12 @@
 
 *RHT 美鈴
 ;;自分と闘うことができれば、これほど良い[r]修行はないんですけどねぇ。
-There's no better training than fighting for real.
+I wished I could also fight a copy of myself... This would be the best training possible !
+
 *RHT 美鈴 笑
 ;;でも、そんなことボヤいてたって[r]仕方ありませんよね！[n]行きますよ！
-Talk is cheap. Let's go !
+But there is no point complaining now. 
+This is the final round !
 
 *ACT ID_B26 OFF
 
