@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;Third wave
+;;Third wave : Yuugi and Parsee
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 華のさかづき大江山
@@ -8,7 +8,7 @@
 *SND 華のさかづき大江山
 
 ;;ーーーーーーーーー
-;;Yuugi and Parsee ?
+;;Yuugi
 ;;ーーーーーーーーー
 *MG2 14,11
 *KON SE_sukimaIN
@@ -21,7 +21,7 @@
 
 *RHT 勇儀
 ;;術だかニセモノだかは知らないけどね。
-I don't really know what Yukari is planning...
+I can't tell if they're actually copies or not.
 
 *RHT 勇儀 怒
 ;;そんなもんでこっちを動揺させようってなら、[r]つまらない真似してくれたってもんだよ！
