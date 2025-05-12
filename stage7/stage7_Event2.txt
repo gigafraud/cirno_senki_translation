@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;召喚されたユニット、チルノ達へ進撃開始
+;;fairies of light
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SND BGM21
@@ -27,8 +27,10 @@
 *SLP 15
 
 *RHT ルナ 哀
-月の人のイタズラかぁ……
-それにしても、なんで私達のニセモノを[r]出したりしたんだろう。
+;;月の人のイタズラかぁ……
+;;それにしても、なんで私達のニセモノを[r]出したりしたんだろう。
+So this is a prank by the lunarians...
+How did they make copies of us ?
 
 *NHT
 *NWK
@@ -52,9 +54,11 @@
 *SLP 15
 
 *RHT サニー
-私達のニセモノだけじゃなく、[r]チルノのニセモノまでいるなんて……
+;;私達のニセモノだけじゃなく、[r]チルノのニセモノまでいるなんて……
+Not just us... They even made a fake Cirno.
 *RHT サニー 笑
-まあいいや！　まとめてやっつけて[r]やるんだから！
+;;まあいいや！　まとめてやっつけて[r]やるんだから！
+Oh well, it doesn't matter. We just have to take them out !
 
 *NHT
 *NWK
@@ -80,9 +84,11 @@
 *SLP 15
 
 *RHT スター
-ホント、悪質どころか趣味悪い[r]イタズラだよね。
+;;ホント、悪質どころか趣味悪い[r]イタズラだよね。
+It's not a big deal, just a little prank...
 *RHT スター
-でも、あんなのすぐにやっつけてやるわ！
+;;でも、あんなのすぐにやっつけてやるわ！
+But I'll get rid of them right away !
 
 *NHT
 *NWK
