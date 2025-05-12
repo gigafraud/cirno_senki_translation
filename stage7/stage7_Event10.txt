@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;Second wave
+;;Meiling
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SND BGM21
