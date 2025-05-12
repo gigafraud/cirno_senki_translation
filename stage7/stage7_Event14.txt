@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;Sixth wave : Byakuya
+;;Byakuya
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 月時計ルナ
