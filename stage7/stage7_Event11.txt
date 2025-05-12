@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;Third wave : Yuugi and Parsee
+;;Yuugi and Parsee
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 華のさかづき大江山
