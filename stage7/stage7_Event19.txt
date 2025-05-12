@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;召喚されたユニット、チルノ達へ進撃開始
+;;The lilies
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 妖怪の山1
@@ -20,8 +20,10 @@
 *SLP 15
 
 *RHT リリーホワイト 怒
-せっかく春が来たのに、雪女さんが二人に[r]なったら、また冬に逆戻りじゃないですかー
-ニセモノさんと言えども、そんなこと[r]許しませんからっ！
+;;せっかく春が来たのに、雪女さんが二人に[r]なったら、また冬に逆戻りじゃないですかー
+;;ニセモノさんと言えども、そんなこと[r]許しませんからっ！
+Spring just came, but if the snow youkai splits into two, it'll be winter again !
+Even if you're a fake, we need to get rid of you now !
 
 *ACT ID_B45 OFF
 
@@ -38,9 +40,11 @@
 *SLP 15
 
 *RHT リリーブラック
-ニセモノでも、やっぱり雪とか氷とかを[r]作ったりできるのかなぁ。
+;;ニセモノでも、やっぱり雪とか氷とかを[r]作ったりできるのかなぁ。
+If she's a fake, can she make snow and stuff ? I don't know.
 *RHT リリーブラック 怒
-ちょっとわかんないけど、そんなこと[r]されたら大変だし、なんとかしないと！
+;;ちょっとわかんないけど、そんなこと[r]されたら大変だし、なんとかしないと！
+But if she can, it will be a disaster ! We have to do something !
 
 *ACT ID_B46 OFF
 
