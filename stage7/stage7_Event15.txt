@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;Seventh wave : Wriggle and friends
+;;Wriggle and friends
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT ティアオイエツォン
