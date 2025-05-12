@@ -30,7 +30,7 @@ What are you planning to do ?
 
 *RHT 紫 笑
 ;;こういうことよ。
-I'm planning... This.
+I'm planning to do... This.
 *NHT
 *NWK
 
@@ -85,12 +85,13 @@ Um, Miss Yukari ?
 *RHT 紫 微笑
 ;;聖白蓮。ちょっと月の者に妙なイタズラを[r]されてしまってね。[n]少し困っていたところなのよ。
 ;;手伝ってもらえないかしら。
-Miss Hijiri... I played a little prank on the lunarians, but I am feeling a bit tired right now.
+Miss Hijiri... This is a trick the lunarians are playing on us...
+They are making copies of our friends, and making them fight us.
 I was wondering if you could lend me a hand.
 
 *LHT 聖 驚
 ;;妙なイタズラ……ですか。
-A little prank...?
+Copies...? What a scary trick...
 
 *RHT 紫 微笑
 ;;ええ。巧妙で悪質な、ね。
@@ -118,19 +119,19 @@ Very well then. Let's go, everyone !
 
 *CHT 巫女 驚
 ;;結界……？
-A barrier...?
+Copies...? What is Miss Yukari talking about...?
 
 *LHT 阿弥
 ;;よく解りませんが、そういう事態[r]だったのかもしれませんね。
-I don't know whay they mean by that... A barrier ?
+That sounds unbelievable, but I trust her.
 
 
 *CHT 藍 驚
 ;;まさか、このようなことまで[r]出来てしまうとは……
-(So this is what you wanted to do... I didn't even know you were able to do this...)
+(So this is what you wanted to do... This is a clever scheme...)
 *CHT 藍
 紫様は、どこまでもすごいお方[r]なのだな……
-(You really are amazing, Miss Yukari...)
+(You really are amazing, Miss Yukari.)
 
 *RHT 紫 微笑
 ;;さあ、始めましょう。[n]最強の名を懸けた、美しき戦いを。
