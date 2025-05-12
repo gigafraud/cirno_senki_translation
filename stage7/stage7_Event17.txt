@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;召喚されたユニット、チルノ達へ進撃開始
+;; Aya and Hatate
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 風神少女
@@ -22,9 +22,11 @@
 *SLP 15
 
 *RHT 文 哀
-わからないわね……[n]なんであの面子の中に私が……
+;;わからないわね……[n]なんであの面子の中に私が……
+Another Aya !? How is this possible...?
 *RHT 文
-けど、悩んでも仕方ないわよね。[n]余計なことは考えずに、片付けることだけに[r]集中しましょ。
+;;けど、悩んでも仕方ないわよね。[n]余計なことは考えずに、片付けることだけに[r]集中しましょ。
+No, there's no point in worrying about that. I just have to clean up this mess.
 
 *ACT ID_B41 OFF
 
@@ -41,9 +43,11 @@
 *SLP 15
 
 *RHT はたて
-文のニセモノ、か……
+;;文のニセモノ、か……
+A fake Aya, huh...
 *RHT はたて 笑
-うん。これは、日頃の鬱憤を晴らす、[r]いい機会ってもんよね！
+;;うん。これは、日頃の鬱憤を晴らす、[r]いい機会ってもんよね！
+That's great ! I can take all my anger out !
 
 *ACT ID_B42 OFF
 
