@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;Fifth wave : Mokou and Tewi
+;;Mokou and Tewi
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SNT 月まで届け
