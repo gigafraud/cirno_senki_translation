@@ -13,7 +13,7 @@
 *NWK
 
 ;;ーーーー
-;;華扇転移
+;;Kasen (unused. I assume she was planned to be in the game but was cut off)
 ;;ーーーー
 ;;*MVG 華扇
 ;;*SLP 30
