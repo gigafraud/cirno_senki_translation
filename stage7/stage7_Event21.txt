@@ -8,7 +8,7 @@
 *SND 有頂天変
 
 ;;ーーーーーーーー
-;;敵天子・衣玖転移
+;;Iku & Tenshi
 ;;ーーーーーーーー
 *MG2 13,11
 *KON SE_sukimaIN
@@ -20,9 +20,11 @@
 *SLP 15
 
 *RHT 天子
-私のニセモノを作り出すなんて、月人も[r]なかなか見る目があるじゃない。
+;;私のニセモノを作り出すなんて、月人も[r]なかなか見る目があるじゃない。
+She was smart to make a clone of me. Trying to harness my power...
 *RHT 天子 笑
-でも、ニセモノが本物に敵うわけが[r]ないわよね。[n]あっという間に蹴散らしてやるんだから！
+;;でも、ニセモノが本物に敵うわけが[r]ないわよね。[n]あっという間に蹴散らしてやるんだから！
+But a fake can't compete with the real thing ! I'll crush you in no time !
 
 *ACT ID_B48 OFF
 
@@ -39,9 +41,11 @@
 *SLP 15
 
 *RHT 衣玖 哀
-総領娘様が二人……ですか。[n]これでは、いくら私が二人になっても、[r]抑えられる気がしませんね。
+;;総領娘様が二人……ですか。[n]これでは、いくら私が二人になっても、[r]抑えられる気がしませんね。
+Two Eldest Daughters !? Even with two of me, I can't keep them in check...
 *RHT 衣玖 怒
-ここは、早々に一人に戻って頂かなくては！
+;;ここは、早々に一人に戻って頂かなくては！
+I need to be quick !
 
 *ACT ID_B49 OFF
 
