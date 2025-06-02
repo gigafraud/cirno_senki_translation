@@ -1,16 +1,19 @@
 ;START
 ;;ーーーーーーー
-;;巫女と戦闘した
+;;VS Miko
 ;;ーーーーーーー
 
 *SND 少女綺想曲
 
 *RHT 巫女 驚
-ま、待って！[n]お願いだから、戦う前に話を聞いて！
+;;ま、待って！[n]お願いだから、戦う前に話を聞いて！
+Wait ! Please listen to me !
 *RHT 巫女 苦
-それとも、聞いてくれるつもりは[r]ないって言うの？
+;;それとも、聞いてくれるつもりは[r]ないって言うの？
+W-What do you mean, you have no intention of listening...?
 *RHT 巫女 怒
-それなら……っ！
+;;それなら……っ！
+Well then, in that case...!
 
 
 *NHT
