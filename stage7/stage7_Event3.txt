@@ -8,7 +8,7 @@
 *SND 平成のエイリアン
 
 ;;ーーーーーーーーーーーーー
-;;村紗、ぬえ、一輪、雲山転移
+;;Murasa, Nue Ichirin and Unzan
 ;;ーーーーーーーーーーーーー
 *MG2 7,1
 *KON SE_sukimaIN
@@ -21,9 +21,11 @@
 *ACT ID_B11 OFF
 
 *RHT 村紗
-イタズラ、かぁ……
+;;イタズラ、かぁ……
+A prank, huh...
 *RHT 村紗 笑
-あはは、ぬえみたいなことするもんだね。
+;;あはは、ぬえみたいなことするもんだね。
+That sounds like something Nue would say.
 
 
 *NHT
@@ -36,9 +38,11 @@
 *SLP 15
 
 *RHT ぬえ
-月人にも、私みたいなマネができるやつが[r]いるなんて……
+;;月人にも、私みたいなマネができるやつが[r]いるなんて……
+I can't believe it... How can they imitate me ?
 *RHT ぬえ 怒
-ああもうっ！　なんかシャクにさわるなぁ！
+;;ああもうっ！　なんかシャクにさわるなぁ！
+It ticks me off !
 
 *NHT
 *NWK
@@ -64,8 +68,10 @@
 *SLP 15
 
 *RHT 一輪
-こういうの、ぬえの得意技だし、[r]今さら驚きはしないけどね……
-けど、これはそれよりもタチ悪そうね。
+;;こういうの、ぬえの得意技だし、[r]今さら驚きはしないけどね……
+;;けど、これはそれよりもタチ悪そうね。
+This is supposed to be Nue's specialty, so I've seen that before...
+But this time, it isn't just a little joke...
 
 *ACT ID_B13 OFF
 
