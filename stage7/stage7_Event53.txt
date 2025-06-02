@@ -1,23 +1,28 @@
 ;START
 ;;ーーーーーーーー
-;;紫と文が戦闘した
+;;Aya fights Yukari
 ;;ーーーーーーーー
 
 *SND ネクロファンタジア
 
 *RHT 紫
-射命丸文。あなたまで一緒になって[r]暴れるとはね……
+;;射命丸文。あなたまで一緒になって[r]暴れるとはね……
+Aya Shameimaru. I didn't expect you to be a part of this...
 *RHT 紫 微笑
-あなたのこと、買いかぶりすぎていたようね。
+;;あなたのこと、買いかぶりすぎていたようね。
+Was I overestimating you ?
 
 *LHT 文 驚
-ゆ、紫さん、待ってください！　これは……！
+;;ゆ、紫さん、待ってください！　これは……！
+Miss Yukari, wait ! This is...!
 
 *RHT 紫 怒
-理由はなんであれ、手を出してくるのであれば[r]容赦するつもりはないわ。[n]覚悟しなさい。
+;;理由はなんであれ、手を出してくるのであれば[r]容赦するつもりはないわ。[n]覚悟しなさい。
+Whatever the reason, if you try to fight me, I will show you no mercy. Prepare yourself !
 
 *LHT 文 怒
-………っ！
+;;………っ！
+Ugh...!
 
 *NHT
 *NWK
