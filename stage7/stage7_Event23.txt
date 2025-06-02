@@ -8,7 +8,7 @@
 
 
 ;;ーーーーーーーーーーー
-;;幽香出現
+;;Yuuka
 ;;幽香出現位置に画面移動
 ;;ーーーーーーーーーーー
 
@@ -27,9 +27,11 @@
 *SLP 15
 
 *RHT 幽香
-まったく、まだ私に戦えっていうの？[r]まったく贅沢なことね……
+;;まったく、まだ私に戦えっていうの？[r]まったく贅沢なことね……
+You really want to annoy me, do you...
 *RHT 幽香 邪悪
-けれど、八雲紫。[n]これが終わったら、次はあなたの番よ？
+;;けれど、八雲紫。[n]これが終わったら、次はあなたの番よ？
+Yakumo Yukari... Once I am done with this... It is you turn, right ?
 
 *ACT ID_B50 OFF
 
