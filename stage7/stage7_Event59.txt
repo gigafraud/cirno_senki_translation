@@ -1,15 +1,16 @@
 ;START
 ;;ーーーーーーーー
-;;幽々子と戦闘した
+;;VS Yuyuko
 ;;ーーーーーーーー
 
 *SND 優雅に咲かせ
 
 *RHT 幽々子
-まったく、余計な騒ぎを起こして[r]くれるんだから……
+;;まったく、余計な騒ぎを起こして[r]くれるんだから……
+You guys have been causing trouble for a while now...
 *RHT 幽々子 笑
-まあいいわ。少しは運動をした方が、食事も[r]美味しく食べられるってものなんだしね。
-
+;;まあいいわ。少しは運動をした方が、食事も[r]美味しく食べられるってものなんだしね。
+Oh well. I guess some exercise is not a bad thing every once in a while !
 
 *NHT
 *NWK
