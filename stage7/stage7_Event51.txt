@@ -1,24 +1,30 @@
 ;START
 ;;ーーーーーーーーーー
-;;紫とチルノが戦闘した
+;;Cirno fights Yukari
 ;;ーーーーーーーーーー
 
 *SND ネクロファンタジア
 
 *LHT チルノ 怒
-逃がさないぞ、ヘンテコ妖怪めっ！[n]さあさあ、あたいと勝負だー！
+;;逃がさないぞ、ヘンテコ妖怪めっ！[n]さあさあ、あたいと勝負だー！
+I'm not gonna let you get away ! Come on, fight me !
 
 *RHT 紫 哀
-なにをそんなに根に持っているのかは[r]知らないけれど、面倒なものに絡まれて[r]しまったものね。
+;;なにをそんなに根に持っているのかは[r]知らないけれど、面倒なものに絡まれて[r]しまったものね。
+I don't know why she holds such a grudge... But she got herself into trouble.
+
 *RHT 紫
-こんなものに、いつまでもかかずらっていられないのだけど……
+;;こんなものに、いつまでもかかずらっていられないのだけど……
+I don't have a lot of time though... So I will make it quick.
 
 *LHT チルノ 怒
-なにブツブツ言ってるんだよ！[n]来ないなら、あたいから行っちゃうかんね！
-覚悟ーっ！
+;;なにブツブツ言ってるんだよ！[n]来ないなら、あたいから行っちゃうかんね！
+;;覚悟ーっ！
+Grr ! What are you mumbling about ? If you won't strike first, I will !
 
 *RHT 紫
-仕方ない。少し黙らせてやるとしましょ。
+;;仕方ない。少し黙らせてやるとしましょ。
+Oh, well. If this is what you want, then I'll oblige.
 
 
 *NHT
