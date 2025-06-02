@@ -87,7 +87,8 @@ But this time, it isn't just a little joke...
 *SLP 15
 
 *RHT 雲山
-虚像であるならば、躊躇う必要はないな……
+;;虚像であるならば、躊躇う必要はないな……
+It's just an illusion. There is no need to hesitate.
 
 *ACT ID_B14 OFF
 
