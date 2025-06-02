@@ -1,7 +1,7 @@
 ;START
 
 ;;ーーーーーーーーーーーーーーー
-;;召喚されたユニットを全滅させた
+;;Every unit is beaten
 ;;ーーーーーーーーーーーーーーー
 
 *SND ネクロファンタジア
@@ -10,16 +10,20 @@
 *SLP 30
 
 *LHT レティ
-これでまずは一段落、かしら。
+;;これでまずは一段落、かしら。
+I think we did it.
 
 *RHT 文
-そうみたいですね。[p]あとは……
+;;そうみたいですね。[p]あとは……
+It seems so. Now, all that's left is...
 
 *LHT 幽香 笑
-出ていらっしゃい、八雲紫。[r]いつまで閉じこもっているつもりかしら？
+;;出ていらっしゃい、八雲紫。[r]いつまで閉じこもっているつもりかしら？
+Come out, Yakumo Yukari. How long are you willing to make us wait ?
 
 *RHT チルノ 怒
-そうだそうだーっ！[n]あたいにやっつけられに出て来ーいっ！
+;;そうだそうだーっ！[n]あたいにやっつけられに出て来ーいっ！
+That's right ! Come out there and fight !
 
 *NHT
 *NWK
@@ -28,41 +32,58 @@
 *SLP 30
 
 *RHT 幽々子
-紫。せっかく呼び出したのに、みんな[r]やられちゃったみたいよ？
+;;紫。せっかく呼び出したのに、みんな[r]やられちゃったみたいよ？
+Yukari, we went through the trouble to summon them, but it looks like they all got defeated.
 
 *LHT 藍 哀
-波状攻撃というよりも、戦力を小出しに[r]していただけのように見えましたが……
-遊びと申されているとはいえ、[r]あれで良かったのですか？
+;;波状攻撃というよりも、戦力を小出しに[r]していただけのように見えましたが……
+;;遊びと申されているとはいえ、[r]あれで良かったのですか？
+If we had sent them all at once, it would've been an easy victory.
+I know this isn't a serious fight, but... Is it really ok ?
+
 
 *RHT 紫 微笑
-当然よ。遊びなんだから。[n]戦いによる気の昂ぶりを遊びへ転移させ、[r]気の拡散を防ぐ。
-それに、全部他人に任せてしまっては[r]つまらないでしょう？
-あとは私たちが、手を下しておしまい。
+;;当然よ。遊びなんだから。[n]戦いによる気の昂ぶりを遊びへ転移させ、[r]気の拡散を防ぐ。
+;;それに、全部他人に任せてしまっては[r]つまらないでしょう？
+;;あとは私たちが、手を下しておしまい。
+Of course it is. It's just a game.
+We allow her to vent out her anger, so that she calms down and stops bothering everyone.
+And besides, it would've been boring if we couldn't participate, right ?
 
 *LHT 萃香 笑
-やっと戦えるのかー。[n]もう待ちくたびれちゃったよ。
+;;やっと戦えるのかー。[n]もう待ちくたびれちゃったよ。
+Aah, finally ! I was about to fall asleep.
 
 *RHT 巫女
-遊び……かぁ。[n]これが戦いなんかなじゃくて、本当に普通の[r]遊びなら良かったんだけどな。
+;;遊び……かぁ。[n]これが戦いなんかなじゃくて、本当に普通の[r]遊びなら良かったんだけどな。
+I wish the game were something calmer than a fight...
 
 *LHT 阿弥
-仕方ありませんよ。[n]暴れて戦いを広げる人達は、大変な事に[r]なる前に止めないといけませんから。
+;;仕方ありませんよ。[n]暴れて戦いを広げる人達は、大変な事に[r]なる前に止めないといけませんから。
+It can't be helped. She could become a problem if we don't stop her now.
 
 *RHT 巫女
-うん、それはわかってる。[n]でも、やっぱりちょっと……ね。
+;;うん、それはわかってる。[n]でも、やっぱりちょっと……ね。
+I understand that, but... This is a bit...
 
 *LHT 紫 微笑
-さて、始めるわよ。[n]相手は疲弊している。一気に片付けて[r]しまいましょう。
+;;さて、始めるわよ。[n]相手は疲弊している。一気に片付けて[r]しまいましょう。
+Anyway, it is time for us to join in.
+They are exhausted. Let's finish this right now.
 
 *RHT 萃香 笑
-おーっ！　先陣は任せろー！
+;;おーっ！　先陣は任せろー！
+Alright ! Let me at 'em !
 
 *LHT 幽々子 笑
-突撃あるのみ、ねえ。[n]妖精とあまり変わらないわね。
-それじゃ妖忌、萃香の後からいくとしましょ。
+;;突撃あるのみ、ねえ。[n]妖精とあまり変わらないわね。
+;;それじゃ妖忌、萃香の後からいくとしましょ。
+Rushing forward right at the start, huh. You're no diffent from a fairy.
+Then Youki, let's follow her.
 
 *RHT 妖忌 神妙
-御意……
+;;御意……
+As you wish...
 
 
 *NHT
