@@ -8,7 +8,7 @@
 *SND 門前の妖怪小娘
 
 ;;ーーーーーーー
-;;小傘、響子転移
+;;Kogasa and Kyouko
 ;;ーーーーーーー
 *MG2 9,2
 *KON SE_sukimaIN
@@ -20,7 +20,8 @@
 *SLP 15
 
 *RHT 小傘 笑
-ニセモノでも幻覚でも、なんだっていいわ！[n]私の恐ろしさ、思い知らせてあげる！
+;;ニセモノでも幻覚でも、なんだっていいわ！[n]私の恐ろしさ、思い知らせてあげる！
+Doesn't matter it it's a fake or an illusion ! I'll show you how scary I am !
 
 *ACT ID_B16 OFF
 
@@ -37,9 +38,11 @@
 *SLP 15
 
 *RHT 響子
-ニセモノの人達も、声は出せるのかな。
+;;ニセモノの人達も、声は出せるのかな。
+I wonder if the fake can make scream like me.
 *RHT 響子 笑
-どんな声だろ。大きい声だといいなっ！[n]わくわく！
+;;どんな声だろ。大きい声だといいなっ！[n]わくわく！
+I wonder what kind of voices they have ! But they can't be louder than me !
 
 *ACT ID_B17 OFF
 
