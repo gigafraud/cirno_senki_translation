@@ -1,28 +1,35 @@
 ;START
 ;;ーーーーーーーーー
-;;紫と幽香が戦闘した
+;;Yuuka fights Yukari
 ;;ーーーーーーーーー
 
 *SND ネクロファンタジア
 
 *RHT 紫 微笑
-風見幽香……[n]妖怪や妖精を扇動して、何をする[r]つもりなのかしら？
+;;風見幽香……[n]妖怪や妖精を扇動して、何をする[r]つもりなのかしら？
+Yuuka Kazami... I wonder what she plans to do by using these youkais...
 
 *LHT 幽香 笑
-どうするもこうするも、私はただ遊んでいる[r]だけよ？
+;;どうするもこうするも、私はただ遊んでいる[r]だけよ？
+Oh, I do this just for fun.
 
 *RHT 紫
-遊ぶにしても、やり方というものが[r]あるでしょう？
-あなたの気まぐれで、いったいどれだけの[r]影響が出ると思っているの？
+;;遊ぶにしても、やり方というものが[r]あるでしょう？
+;;あなたの気まぐれで、いったいどれだけの[r]影響が出ると思っているの？
+Your fun comes to the extent of everyone around you.
+Just how much of an impact do you think your whims have ?
 
 *LHT 幽香
-そんなもの知らないわ。[r]私にはどうでもいいことだもの。
+;;そんなもの知らないわ。[r]私にはどうでもいいことだもの。
+None of my business.
 
 *RHT 紫
-まったく……　これだから話の通じない者と[r]いうのは……
+;;まったく……　これだから話の通じない者と[r]いうのは……
+... It really is impossible to reason with you.
 
 *LHT 幽香 笑
-さあ、八雲紫。遊びましょう？[n]ふふふふっ……
+;;さあ、八雲紫。遊びましょう？[n]ふふふふっ……
+Come on, Yakumo Yukari. Let's play, shall we ? Hehehe...
 
 *NHT
 *NWK
