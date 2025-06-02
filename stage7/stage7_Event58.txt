@@ -1,25 +1,31 @@
 ;START
 ;;ーーーーーーーーー
-;;巫女と文が戦闘した
+;;Aya fights Miko
 ;;ーーーーーーーーー
 
 *SND 少女綺想曲
 
 *LHT 文 哀
-う～ん……[n]あなた達とは刃を交えたくなかったんですが…
+;;う～ん……[n]あなた達とは刃を交えたくなかったんですが…
+Mmmh... This is not what I expected.
 
 *RHT 巫女 驚
-射命丸さん、あなたまでどうして……
+;;射命丸さん、あなたまでどうして……
+Miss Shameimaru, why are you helping them ?
 
 *LHT 文 哀
-こんなつもりじゃなかったんですよ。[n]あなた達と戦うつもりは……
+;;こんなつもりじゃなかったんですよ。[n]あなた達と戦うつもりは……
+I didn't want to fight you guys...
 
 *RHT 巫女 哀
-でも、こうなっちゃった以上は、やるしか[r]ないのよね。
-ごめんなさい、射命丸さん。[n]覚悟して下さい……！
+;;でも、こうなっちゃった以上は、やるしか[r]ないのよね。
+;;ごめんなさい、射命丸さん。[n]覚悟して下さい……！
+But things have come to this. We don't have a choice.
+I'm sorry, miss Shameimaru, please prepare yourself...!
 
 *LHT 文 哀
-う～ん、困りました……　これは困りました…
+;;う～ん、困りました……　これは困りました…
+... Right.
 
 
 *NHT
