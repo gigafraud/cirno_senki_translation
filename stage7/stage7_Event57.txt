@@ -1,29 +1,35 @@
 ;START
 ;;ーーーーーーーーーーー
-;;巫女と大妖精が戦闘した
+;;Daiyousei fights Miko
 ;;ーーーーーーーーーーー
 
 *SND 少女綺想曲
 
 *LHT 大妖精 哀
-………
+...
 
 *RHT 巫女
-どうしたの？
+;;どうしたの？
+What's wrong ?
 
 *LHT 大妖精 哀
-どうしよう。チルノちゃんが言うような人には[r]見えないけど……
+;;どうしよう。チルノちゃんが言うような人には[r]見えないけど……
+What should I do ? She doesn't seem as evil as Cirno told me...
 
 *RHT 巫女 哀
-なら、やめましょう？[n]こんなことしたって、誰も幸せにならないわ。
+;;なら、やめましょう？[n]こんなことしたって、誰も幸せにならないわ。
+Then let's stop fighting, shall we ? Nothing good will come from this.
 
 *LHT 大妖精 怒
-でもっ！　チルノちゃんが危ない目に[r]遭わないようにするには、こうしないと[r]いけないの！
+;;でもっ！　チルノちゃんが危ない目に[r]遭わないようにするには、こうしないと[r]いけないの！
+I can't ! I have to do this to protect Cirno ! 
 *LHT 大妖精 苦
-ごめんなさいっ！
+;;ごめんなさいっ！
+I'm sorry...!
 
 *RHT 巫女 驚
-えっ、ちょっと待って！　私は……！
+;;えっ、ちょっと待って！　私は……！
+Ooh... Wait a minute !
 
 
 *NHT
