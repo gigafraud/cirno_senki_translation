@@ -1,22 +1,27 @@
 ;START
 ;;ーーーーーーーーーーー
-;;巫女とチルノが戦闘した
+;;Cirno fights Miko
 ;;ーーーーーーーーーーー
 
 *SND 少女綺想曲
 
 *LHT チルノ 怒
-そこのおまんじゅう人間！　この前はよくも[r]やってくれたなー！
-今度は、あたいがあんたのことをやっつけて[r]やるんだから！
+;;そこのおまんじゅう人間！　この前はよくも[r]やってくれたなー！
+;;今度は、あたいがあんたのことをやっつけて[r]やるんだから！
+Hey ! You ! You're that weird human !
+You may have beaten me last time, but I'm way stronger now ! 
 
 *RHT 巫女 驚
-お、おまんじゅう……？[n]よ、よく解らないけど、お願いだからちょっと[r]待って！[p]話を聞いて！
+;;お、おまんじゅう……？[n]よ、よく解らないけど、お願いだからちょっと[r]待って！[p]話を聞いて！
+Weird human...? I don't know why you are that mad, but please listen to me !
 
 *LHT チルノ 怒
-そんな言葉になんてダマされないもんね！[n]絶対にやっつけてやるんだから！
+;;そんな言葉になんてダマされないもんね！[n]絶対にやっつけてやるんだから！
+I won't be fooled by those words ! This time, you're going down !
 
 *RHT 巫女 怒
-やるしかないのね……　ならっ……！
+;;やるしかないのね……　ならっ……！
+Then... You leave me no choice...!
 
 
 *NHT
