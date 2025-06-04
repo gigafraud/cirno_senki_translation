@@ -1,30 +1,36 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーー
-;;チルノとミスリグルーミア橙が戦闘した
+;;Rumia, Mystia or Wriggle fights Cirno 
 ;;ーーーーーーーーーーーーーーーーーー
 
 *SND ティアオイエツォン
 
 *RHT ミスティア
-念のために訊くけど、あんたニセモノよね？
+;;念のために訊くけど、あんたニセモノよね？
+Just to be sure... You're the fake, right ?
 
 *LHT チルノ 怒
-誰がニセモノだー！[n]ニセモノはそっちだろ！
+;;誰がニセモノだー！[n]ニセモノはそっちだろ！
+Who're you calling fake ? I'm the real one !
 
 *RHT ルーミア
-そーなのかー
+;;そーなのかー
+Oh... Really ?
 
 *RHT リグル
-みすちー、そんなこと訊かれて[r]「はい、そうです」なんて答える人なんて[r]いないよ。
+;;みすちー、そんなこと訊かれて[r]「はい、そうです」なんて答える人なんて[r]いないよ。
+Misty, nobody will say "Yes, I'm fake" when asked this.
 
 *RHT 橙
-そうかなあ。
+;;そうかなあ。
+I guess so...
 *RHT 橙 笑
-「ばーれーたーかー！」なんて言って、[r]正体現したりとかしないのかな。
+;;「ばーれーたーかー！」なんて言って、[r]正体現したりとかしないのかな。
+I thought they would say "Darn, you found me out !"
 
 *LHT チルノ 怒
-あるわけないし、正体だってないよ！[n]いい加減にしろー！
-
+;;あるわけないし、正体だってないよ！[n]いい加減にしろー！
+Of course not ! Come at me !
 
 *NHT
 *NWK
