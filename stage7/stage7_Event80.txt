@@ -1,39 +1,49 @@
 ;START
 ;;ーーーーーーーーーーーーー
-;;地霊勢とパルスィが戦闘した
+;;Parsee fights one of the underground youkais
 ;;ーーーーーーーーーーーーー
 
 *SND 風穴
 
 *LHT キスメ
-パルスィ。一つ、訊いてもいい？
+;;パルスィ。一つ、訊いてもいい？
+Parsee, can I ask you something ?
 
 *CHT パルスィ
-何かしら。
+;;何かしら。
+Go ahead.
 
 *LHT キスメ
-あれ、パルスィの作った分身じゃないよね？
+;;あれ、パルスィの作った分身じゃないよね？
+It's not a clone you've made yourself, right ?
 
 *CHT パルスィ
-分身なら、どうしてこちらと[r]戦っているのかしら。
+;;分身なら、どうしてこちらと[r]戦っているのかしら。
+I can't make clones like that. And even then, my clone wouldn't fight us.
 
 *LHT キスメ 笑
-そうだよね。うん、よかった。
+;;そうだよね。うん、よかった。
+Oh, ok. Great.
 
 *LHT ヤマメ 驚
-……って、なにを暢気なこと[r]話てるんだよっ！
+;;……って、なにを暢気なこと[r]話てるんだよっ！
+...What are you doing ? This isn't the time to talk about random things like that !
 
 *RHT パルスィ 怒
-余裕のつもりかしらね……[n]それだけ心にゆとりを持てるなんて、[r]妬ましいったらありゃしないわ。
+;;余裕のつもりかしらね……[n]それだけ心にゆとりを持てるなんて、[r]妬ましいったらありゃしないわ。
+You people seem to be so calm about all this... I wish I was that laid-back...
 
 *CHT パルスィ 哀
-まったく……　自分に妬まれることになるとは[r]思わなかったわ。
+;;まったく……　自分に妬まれることになるとは[r]思わなかったわ。
+Huh, I guess the only person that would be jealous of me is... Myself.
 
 *LHT キスメ 笑
-いい経験になったじゃん。
+;;いい経験になったじゃん。
+Heh, I want to talk to my clone too, now.
 
 *LHT ヤマメ 哀
-……どこまでのんびりしてるんだよ、[r]あんた達ってやつは……
+;;……どこまでのんびりしてるんだよ、[r]あんた達ってやつは……
+Hey, can you take this fight seriously...?
 
 
 *NHT
