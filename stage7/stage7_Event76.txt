@@ -1,36 +1,45 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーーー
-;;ルーミアとミスリグルーミア橙が戦闘した
+;;Rumia fights Rumia, Mystia or Wriggle
 ;;ーーーーーーーーーーーーーーーーーーー
 
 *SND ティアオイエツォン
 
 *LHT ルーミア
-え～っと……[p]　あなた達、誰？
+;;え～っと……[p]　あなた達、誰？
+Uuh... Who are you ?
 
 *RHT ルーミア
-私？　私はルーミアだよ。[p]あなたこそ、誰？
+;;私？　私はルーミアだよ。[p]あなたこそ、誰？
+Me ? I'm Rumia. Who are you ?
 
 *LHT ルーミア
-私もルーミアだよ？
+;;私もルーミアだよ？
+Oh, I'm Rumia too.
 
 *RHT ルーミア 笑
-そーなのかー
+;;そーなのかー
+Is that so ?
 
 *LHT ルーミア 笑
-そーなのだー
+;;そーなのだー
+It is so !
 
 *RHT リグル 哀
-う～ん……　さっきまでの緊張が……
+;;う～ん……　さっきまでの緊張が……
+Hmm...
 
 *RHT 橙 哀
-すっかりふにゃふにゃになっちゃった……
+;;すっかりふにゃふにゃになっちゃった……
+These two...
 
 *RHT ミスティア 笑
-張りつめてばっかりじゃ疲れちゃうし、[r]少しはいいんじゃない？　こういうのも。
+;;張りつめてばっかりじゃ疲れちゃうし、[r]少しはいいんじゃない？　こういうのも。
+They're so cute ! I don't want to fight anymore, I just want to watch them.
 
 *RHT リグル 哀
-そうかなぁ……
+;;そうかなぁ……
+Misty, that's not the time !
 
 *NHT
 *NWK
