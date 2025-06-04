@@ -1,24 +1,30 @@
 ;START
 ;;ーーーーーーーーーー
-;;妖忌と天子が戦闘した
+;;Tenshi fights Youki
 ;;ーーーーーーーーーー
 
 *SND 東方妖々夢
 
 *RHT 妖忌
-なるほど……　そちらも剣を扱うのか……
+;;なるほど……　そちらも剣を扱うのか……
+Another swordfighter...
 *RHT 妖忌 笑
-これは興味深い。[n]一つ、手合せ願いたいところだな。
+;;これは興味深い。[n]一つ、手合せ願いたいところだな。
+Interesting. I wish to have a duel with you.
 
 *LHT 天子
-なによ、あんた。私と勝負しようってつもり？
+;;なによ、あんた。私と勝負しようってつもり？
+What, you wanna fight me ?
 *LHT 天子 笑
-良い度胸してるじゃない。そこまで言うなら[r]相手になってやるわ。
+;;良い度胸してるじゃない。そこまで言うなら[r]相手になってやるわ。
+You've got guts ! I'll take you on !
 *LHT 天子
-覚悟しなさい。時代がかった物言いの[r]お侍さん！
+;;覚悟しなさい。時代がかった物言いの[r]お侍さん！
+Prepare yourself, you old-fashioned samurai !
 
 *RHT 妖忌
-ふ……っ[p]　我が剣……受けてみよ！
+;;ふ……っ[p]　我が剣……受けてみよ！
+...Old-fashioned ?
 
 
 
