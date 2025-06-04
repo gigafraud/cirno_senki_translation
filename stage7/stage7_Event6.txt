@@ -20,7 +20,8 @@
 *SLP 15
 
 *RHT リリカ 怒
-ニセモノ……か。[n]こういうズルいことする人なんだね。[r]月の人って。
+;;ニセモノ……か。[n]こういうズルいことする人なんだね。[r]月の人って。
+Clones, huh. Only the moon people could be able to do something like that.
 
 *ACT ID_B20 OFF
 
@@ -37,9 +38,11 @@
 *SLP 15
 
 *RHT メルラン 哀
-う～ん、どうせだったら、私のニセモノ[r]出してくれればいいのにな。
+;;う～ん、どうせだったら、私のニセモノ[r]出してくれればいいのにな。
+Hmm, I wish they'd make a clone of me.
 *RHT メルラン 笑
-そうしたら、二人の私でみんなをすっごい[r]ハッピーにしてあげられるのにな！
+;;そうしたら、二人の私でみんなをすっごい[r]ハッピーにしてあげられるのにな！
+Then there's be two of me ! We'd make everyone happy !
 
 *ACT ID_B19 OFF
 
@@ -56,7 +59,8 @@
 *SLP 15
 
 *RHT ルナサ
-私が二人になったら……[n]みんなどんより？　曇り空？
+;;私が二人になったら……[n]みんなどんより？　曇り空？
+Then, if they cloned me instead... Would the world be gloomy ?
 
 *ACT ID_B18 OFF
 
