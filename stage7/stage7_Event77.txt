@@ -1,29 +1,36 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;チルノと三月精が戦闘した
+;;Cirno fights the fairies of light (Luna, Star or Sunny)
 ;;ーーーーーーーーーーーー
 
 *SND リフレーン
 
 *LHT チルノ 怒
-むむっ　お前達、どっちだ！
+;;むむっ　お前達、どっちだ！
+Hey ! Which ones are you ?
 
 *RHT ルナ
-「どっちだ」って……[r]ニセモノかどうかってこと？
+;;「どっちだ」って……[r]ニセモノかどうかってこと？
+"Which ones" ? You're asking if we're the fakes or not, right ?
 
 *RHT サニー 怒
-見ればわかるでしょ！[n]あんたの敵なんだから、こっちが本物よ！
+;;見ればわかるでしょ！[n]あんたの敵なんだから、こっちが本物よ！
+Can't you tell !? I'm your enemy, and I'm the real one !
 
 *LHT チルノ 哀
-えっ、ニセモノ？　本物？？　えっえっ？
+;;えっ、ニセモノ？　本物？？　えっえっ？
+"Fakes" ? "Real one" ? What ?
 
 *RHT スター
-どっちでもいいじゃない。
+;;どっちでもいいじゃない。
+It doesn't matter !
 *RHT スター 怒
-とにかくあなたは、私達の敵ってこと！
+;;とにかくあなたは、私達の敵ってこと！
+You're our enemy ! Let's fight !
 
 *LHT チルノ 怒
-ニセモノじゃないかー！
+;;ニセモノじゃないかー！
+So you're the fake ones !?
 
 *NHT
 *NWK
