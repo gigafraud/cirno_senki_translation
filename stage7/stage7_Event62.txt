@@ -1,23 +1,28 @@
 ;START
 ;;ーーーーーーーーーーーーーー
-;;幽々子と天子が戦闘した
+;;Tenshi fights Yuyuko
 ;;ーーーーーーーーーーーーーー
 
 *SND 優雅に咲かせ
 
 *RHT 天子
-まさか、また会うことになるなんてね。[n]この前の借り、返させてもらうわよ？
+;;まさか、また会うことになるなんてね。[n]この前の借り、返させてもらうわよ？
+...You again. I'll make you pay for last time !
 
 *LHT 幽々子
-あれだけお仕置きされたっていうのに、[r]あなたったら少しも懲りてないのね。
+;;あれだけお仕置きされたっていうのに、[r]あなたったら少しも懲りてないのね。
+Even after your punishment, you still want to fight.
 *LHT 幽々子 笑
-それじゃ、今度はどんなことをして[r]あげちゃおうかしら。
+;;それじゃ、今度はどんなことをして[r]あげちゃおうかしら。
+I wonder what I'll do to you this time...
 
 *RHT 天子 笑
-ふんっ！　今度は私があんたをくすぐりの刑に[r]してやるんだから！
+;;ふんっ！　今度は私があんたをくすぐりの刑に[r]してやるんだから！
+Hmph ! I'll be the one giving the tickling this time !
 
 *LHT 幽々子 笑
-きゃー、こわいこわい。
+;;きゃー、こわいこわい。
+Ooh... Scary.
 
 *NHT
 *NWK
