@@ -1,27 +1,33 @@
 ;START
 ;;ーーーーーーーーー
-;;文が萃香と戦闘した
+;;Aya fights Suika
 ;;ーーーーーーーーー
 
 *SND 砕月
 
 *RHT 萃香
-あんた、紫との約束はどうしたんだい。[n]平気で約束破るなんてのは、あまり[r]感心しないねぇ。
+;;あんた、紫との約束はどうしたんだい。[n]平気で約束破るなんてのは、あまり[r]感心しないねぇ。
+What happened to the promise you made to Yukari ? I can't believe you would break it.
 
 *LHT 文 怒
-違います！　私は約束を破ったわけでは[r]ありません！
+;;違います！　私は約束を破ったわけでは[r]ありません！
+I didn't break any promise !
 
 *RHT 萃香
-なら、なんで妖怪や妖精達と一緒に[r]暴れてるのさ。
+;;なら、なんで妖怪や妖精達と一緒に[r]暴れてるのさ。
+Then why are you teaming up with these rampaging youkais ?
 
 *LHT 文 怒
-話を聞いて下さい！[n]私達は暴れているわけでは……！
+;;話を聞いて下さい！[n]私達は暴れているわけでは……！
+Listen to me ! We aren't causing trouble...!
 
 *RHT 萃香 怒
-あちこちで騒ぎを起こして回るのが、[r]暴れてるのとどう違うっていうのかねぇ！
+;;あちこちで騒ぎを起こして回るのが、[r]暴れてるのとどう違うっていうのかねぇ！
+You're causing trouble to us now, so I have trouble to believe that.
 
 *LHT 文 怒
-そ、それは……
+;;そ、それは……
+W-Well...
 
 
 *NHT
