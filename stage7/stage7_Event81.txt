@@ -1,27 +1,32 @@
 ;START
 ;;ーーーーーーーーーーーーー
-;;文と文が戦闘した
+;;Aya on Aya violence
 ;;ーーーーーーーーーーーーー
 
 *SND 風神少女
 
 *RHT 文 驚
-見れば見るほど、よくできたニセモノねぇ。[n]鏡見てるみたいだわ。
+;;見れば見るほど、よくできたニセモノねぇ。[n]鏡見てるみたいだわ。
+Wow, this clone is really well made. It's like looking at a mirror.
 
 *LHT 文
-そう？　あなたの方が、少し太ってるように[r]見えるけど。
+;;そう？　あなたの方が、少し太ってるように[r]見えるけど。
+Really ? You look a little fatter than me.
 
 *RHT 文 怒
-な……　なんですってーー！！！？
+;;な……　なんですってーー！！！？
+Wha-What did you say !?
 
 *LHT 文 不敵
-ふふふっ　効いてる効いてる。
+;;ふふふっ　効いてる効いてる。
+Hehe, it worked !
 *LHT 文 哀
-でも、自分で自分に「太ってる」だなんて、[r]ちょっと辛いものがあるわね……
+;;でも、自分で自分に「太ってる」だなんて、[r]ちょっと辛いものがあるわね……
+But maybe calling myself "fat" was a little harsh...
 
 *RHT 文 怒
-自分で言っておいて、なんで勝手に[r]傷ついてるのよ！
-
+;;自分で言っておいて、なんで勝手に[r]傷ついてるのよ！
+Hey, YOU said it ! Why are YOU feeling bad ?
 
 *NHT
 *NWK
