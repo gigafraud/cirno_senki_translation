@@ -95,7 +95,7 @@ Copies...? What a scary trick...
 
 *RHT 紫 微笑
 ;;ええ。巧妙で悪質な、ね。
-Yes. A clever and vicious one.
+Yes. A clever and vicious trick.
 
 *LHT 聖
 ;;なるほど、わかりました。
@@ -123,7 +123,7 @@ Copies...? What is Miss Yukari talking about...?
 
 *LHT 阿弥
 ;;よく解りませんが、そういう事態[r]だったのかもしれませんね。
-That sounds unbelievable, but I trust her.
+That sounds insane, but... I trust her.
 
 
 *CHT 藍 驚
