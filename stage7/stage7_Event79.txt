@@ -1,35 +1,42 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;三月精と三月精が戦闘した
+;;Fairies of light VS Fairies of light
 ;;ーーーーーーーーーーーー
 
 *SND リフレーン
 
 *LHT サニー 怒
 *RHT サニー
-我ながら情けないわね。[n]いっくらニセモノとは言っても、[r]チルノ一緒にいるなんて。
+;;我ながら情けないわね。[n]いっくらニセモノとは言っても、[r]チルノ一緒にいるなんて。
+Our clones are so pathetic. They're hanging with Cirno...
 
 *RHT スター
-そうそう。よりによって、チルノと[r]組むなんてね。
+;;そうそう。よりによって、チルノと[r]組むなんてね。
+I can't believe it. We would never do that !
 
 *RHT ルナ
-ニセモノだし、その辺は適当なんじゃ[r]ないかな。
+;;ニセモノだし、その辺は適当なんじゃ[r]ないかな。
+That's how you notice they're the fake ones.
 
 *LHT スター 怒
-好き放題言ってくれちゃって……
+;;好き放題言ってくれちゃって……
+Say whatever you want !
 
 *LHT サニー 怒
-べ、別にあいつと組んでるわけじゃないわよ！[n]私達は大ちゃんに頼まれて、それで一緒に[r]いるだけなんだから！
+;;べ、別にあいつと組んでるわけじゃないわよ！[n]私達は大ちゃんに頼まれて、それで一緒に[r]いるだけなんだから！
+We're not teaming up with her ! We're here because Dai asked us to !
 
 *RHT スター 笑
-照れ隠ししちゃって。
+;;照れ隠ししちゃって。
+What a bad excuse...
 
 *LHT サニー 怒
-誰が照れてるって言うのよ！
+;;誰が照れてるって言うのよ！
+It's not an excuse !
 
 *LHT ルナ 怒
-これ以上、バカにされたりなんて[r]しないんだから！
-
+;;これ以上、バカにされたりなんて[r]しないんだから！
+I'm not gonna let you fakes make fun of us !
 
 
 *NHT
