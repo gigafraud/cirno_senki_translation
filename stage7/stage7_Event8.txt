@@ -8,7 +8,7 @@
 *SND 敵1
 
 ;;ーーーーーーー
-;;青娥、芳香転移
+;;Seiga and Yoshika
 ;;ーーーーーーー
 *MG2 8,11
 *KON SE_sukimaIN
@@ -20,9 +20,11 @@
 *SLP 15
 
 *RHT 青娥
-偽者を作り出す術、ねぇ……
+;;偽者を作り出す術、ねぇ……
+Creating impostors, huh...
 *RHT 青娥 笑
-ふふっ　これは少し、興味深いわね。
+;;ふふっ　これは少し、興味深いわね。
+Huhu, that sounds intesesting.
 
 *ACT ID_B24 OFF
 
@@ -39,7 +41,8 @@
 *SLP 15
 
 *RHT 芳香
-んー？　よくわかんないけど、[r]やっつけちゃえばいいのかー？
+;;んー？　よくわかんないけど、[r]やっつけちゃえばいいのかー？
+Hmm ? I don't really understand, but... Do I just have to get rid of them here ?
 
 *ACT ID_B25 OFF
 
