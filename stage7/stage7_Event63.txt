@@ -1,13 +1,15 @@
 ;START
 ;;ーーーーーーー
-;;萃香と戦闘した
+;;VS Suika
 ;;ーーーーーーー
 
 *SND 砕月
 
 *RHT 萃香 笑
-争いの気だとか、そんなのはどうでもいいよ。[n]要は、おもしろいかどうかだよね！
-で……あんた達は、楽しませてくれるのかい？
+;;争いの気だとか、そんなのはどうでもいいよ。[n]要は、おもしろいかどうかだよね！
+;;で……あんた達は、楽しませてくれるのかい？
+I don't know what's your problem with Yukari, but I don't really care.
+I'm here to have fun !
 
 
 
