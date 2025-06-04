@@ -1,29 +1,38 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;レティがレティと戦闘した
+;;Letty fights Letty
 ;;ーーーーーーーーーーーー
 
 *SND クリスタライズシルバー
 
 *LHT レティ 哀
-もう一人の私……か。
-こんなことを自分で言うのもなんだけど、[r]もう春だというのにあなたはここで[r]何をしているの？
+;;もう一人の私……か。
+;;こんなことを自分で言うのもなんだけど、[r]もう春だというのにあなたはここで[r]何をしているの？
+Another me...?
+I know I shouldn't say that, but... What are you doing here ? It's spring right now.
 
 *RHT レティ
-まさか自分からそんなこと言われるなんてね。[n]ワケアリ、とでも言えば解って[r]もらえるかしら？
+;;まさか自分からそんなこと言われるなんてね。[n]ワケアリ、とでも言えば解って[r]もらえるかしら？
+I never thought I would ask that to myself. If I said I had my reasons, would you understand ?
 
 *LHT レティ
-そう。それなら仕方がないわね。
+;;そう。それなら仕方がないわね。
+I guess I can.
 
 *RHT レティ 驚
-あら、意外な返事が来たものね。
+;;あら、意外な返事が来たものね。
+Oh, I wasn't expecting that reply.
 *RHT レティ 笑
-自分自身のことだから、それだけ理解も[r]しやすいってことなのかしら。
+;;自分自身のことだから、それだけ理解も[r]しやすいってことなのかしら。
+Well, I know myself pretty well.
 *RHT レティ
-倒さないといけないのが残念だわ。
+;;倒さないといけないのが残念だわ。
+Heh, I guess so.
+This conversation is more interesting than I thought. It's a shame we have to fight.
 
 *LHT レティ
-そうね。私は一人で充分だもの。
+;;そうね。私は一人で充分だもの。
+Indeed... But one of me is enough in this world.
 
 *NHT
 *NWK
