@@ -8,7 +8,7 @@
 *SND 六十年目の東方裁判
 
 ;;ーーーーーーー
-;;小町、映姫転移
+;;Komachi & Keiki
 ;;ーーーーーーー
 *MG2 10,2
 *KON SE_sukimaIN
@@ -20,9 +20,11 @@
 *SLP 15
 
 *RHT 小町
-あ～あ。ニセモノ出すなら、あたいのを[r]出しとくれよ。
+;;あ～あ。ニセモノ出すなら、あたいのを[r]出しとくれよ。
+Hey ! If the lunarians are going to make copies, make a copy of me !
 *RHT 小町 笑
-そうすりゃ、あたいはゆっくりサボリを[r]決め込むことができるってもんだしね。
+;;そうすりゃ、あたいはゆっくりサボリを[r]決め込むことができるってもんだしね。
+Then she could take my place and...
 
 *ACT ID_B22 OFF
 
@@ -39,8 +41,10 @@
 *SLP 15
 
 *RHT 映姫
-虚像を作り出すとはいえ、なぜ彼女達[r]なのでしょうか……
-その辺りの理由、少しばかり教えて[r]いただきたいところですね。
+;;虚像を作り出すとはいえ、なぜ彼女達[r]なのでしょうか……
+;;その辺りの理由、少しばかり教えて[r]いただきたいところですね。
+...And what, Komachi ?
+Anyway, I am interested in the reason why they are doing this.
 
 *ACT ID_B23 OFF
 
