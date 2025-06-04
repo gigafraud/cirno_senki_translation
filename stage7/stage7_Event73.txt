@@ -1,29 +1,36 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーー
-;;大妖精とミスリグルーミア橙が戦闘した
+;;Dai fights Mystia, Wriggle or Rumia
 ;;ーーーーーーーーーーーーーーーーーー
 
 *SND ティアオイエツォン
 
 *LHT 大妖精 驚
-みんながもう一人……
+;;みんながもう一人……
+Clones...?
 
 *RHT リグル 哀
-ニセモノの大ちゃん、か……
+;;ニセモノの大ちゃん、か……
+A fake Dai, huh.
 
 *RHT ルーミア 哀
-なんだかやりづらいなぁ。
+;;なんだかやりづらいなぁ。
+I don't want to fight Dai...
 
 *RHT 橙
-この子なら、放っておいてもいいんじゃない？[n]無害そうだし。
+;;この子なら、放っておいてもいいんじゃない？[n]無害そうだし。
+I think it's fine if we let her alone. She's harmless.
 
 *RHT ミスティア 笑
-そうだね。大ちゃんはそのままにして、[r]危険そうなチルノを叩いちゃお！
+;;そうだね。大ちゃんはそのままにして、[r]危険そうなチルノを叩いちゃお！
+Yeah. Let's leave Dai and fight Cirno instead !
 
 *LHT 大妖精 驚
-………！
+;;………！
+...!
 *LHT 大妖精 怒
-チルノちゃんは、私が守るんだから……っ！
+;;チルノちゃんは、私が守るんだから……っ！
+N-No ! I'll protect you, Cirno !
 
 
 *NHT
