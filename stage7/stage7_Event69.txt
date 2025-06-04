@@ -1,25 +1,31 @@
 ;START
 ;;ーーーーーーーーーーー
-;;阿弥とキスメが戦闘した
+;;Kisume fights Hieda
 ;;ーーーーーーーーーーー
 
 *SND 阿礼の子供
 
 *LHT キスメ
-やあ、久し振り。
+;;やあ、久し振り。
+Hey there. It's been a while.
 
 *RHT 阿弥 驚
-釣瓶落としが目の前から……？
-頭上からだけじゃなくて、横から体当たり[r]するようにもなったんですか？
+;;釣瓶落としが目の前から……？
+;;頭上からだけじゃなくて、横から体当たり[r]するようにもなったんですか？
+A Tsurube Otoshi... Attacking from the front ?
+They usually strike from the top.
 
 *LHT キスメ 笑
-毎度同じようなやり方じゃ、飽きられ[r]ちゃうしね。少しは芸風変えないと。
+;;毎度同じようなやり方じゃ、飽きられ[r]ちゃうしね。少しは芸風変えないと。
+If I did the same thing every time, people would get bored of me.
 
 *RHT 阿弥 哀
-そ、そのうち、ナナメ上から降って来たり[r]するようになるんでしょうか……
+;;そ、そのうち、ナナメ上から降って来たり[r]するようになるんでしょうか……
+I wonder if they will start falling at an angle next.
 
 *LHT キスメ 哀
-なんの話をしてるんだろ……
+;;なんの話をしてるんだろ……
+...Why are you thinking about that now ?
 
 
 
