@@ -1,34 +1,42 @@
 ;START
 ;;ーーーーーーーーーーー
-;;阿弥とレティが戦闘した
+;;Letty fights Hieda
 ;;ーーーーーーーーーーー
 
 *SND 阿礼の子供
 
 *RHT 阿弥 驚
-あなたは……
+;;あなたは……
+You...
 *RHT 阿弥 怒
-なんであなたがここにいるんですか！
+;;なんであなたがここにいるんですか！
+Why are you here ?
 
 *LHT レティ 怒
-……どういうことかしら。
+;;……どういうことかしら。
+What is the problem ?
 
 *RHT 阿弥 怒
-あなたは雪女……冬の妖怪じゃありませんか。[n]今はもう春。あなたの季節は[r]終わってるんですよ！
+;;あなたは雪女……冬の妖怪じゃありませんか。[n]今はもう春。あなたの季節は[r]終わってるんですよ！
+You are a Yuki-onna, are you ? It's already spring. Your season is over !
 
 *LHT レティ 怒
-雪女には、冬以外の時期に外へ出る権利は[r]無いということかしら？
+;;雪女には、冬以外の時期に外へ出る権利は[r]無いということかしら？
+What of it ? Am I not allowed to walk around in other seasons besides winter ?
 
 *RHT 阿弥 怒
-ありませんっ！[n]寒いから迷惑なんですっ！
+;;ありませんっ！[n]寒いから迷惑なんですっ！
+No ! You make the air around you cold !
 
 *LHT レティ 怒
-……あなたも怖じることを知らないものね。
-まあいいわ。[n]そこまで言うというのなら、覚悟して頂戴ね。
+;;……あなたも怖じることを知らないものね。
+;;まあいいわ。[n]そこまで言うというのなら、覚悟して頂戴ね。
+How rude. Are you trying to provoke me ?
+Prepare yourself !
 
 *RHT 阿弥 驚
-え、覚悟って……[n]わわ、勢い余って言い過ぎちゃいました！
-
+;;え、覚悟って……[n]わわ、勢い余って言い過ぎちゃいました！
+Oh... I didn't mean to...
 
 *NHT
 *NWK
