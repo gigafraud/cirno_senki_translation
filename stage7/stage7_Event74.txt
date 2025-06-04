@@ -1,27 +1,33 @@
 ;START
 ;;ーーーーーーーーーーーーーーーーーー
-;;リグルとミスリグルーミア橙が戦闘した
+;;Wriggle fights Rumia, Wriggle or Mystia
 ;;ーーーーーーーーーーーーーーーーーー
 
 *SND ティアオイエツォン
 
 *LHT リグル
 *RHT ミスティア
-リグルのニセモノ……[n]ちょっと手強そうね。
+;;リグルのニセモノ……[n]ちょっと手強そうね。
+The fake Wriggle... That will be tough.
 
 *RHT リグル 驚
-えっ？　そうかなぁ。
+;;えっ？　そうかなぁ。
+Hmm ? How come ?
 
 *RHT 橙 驚
-あれ、自覚無いの？[n]リグルって特に弱点ないし、相手にすると[r]やりづらいんだよ。
+;;あれ、自覚無いの？[n]リグルって特に弱点ないし、相手にすると[r]やりづらいんだよ。
+Well, Wriggle doesn't have any weakness, so she's tough.
 
 *LHT リグル 哀
 ……これって、誉められてるのかなぁ。
+It doesn't sound like a compliment...
 
 *RHT ルーミア
-もう一人のリグル、かぁ……　ふ～ん……
+;;もう一人のリグル、かぁ……　ふ～ん……
+Another Wriggle, huh...
 *RHT ルーミア 優越
-ふふふっ……
+;;ふふふっ……
+Hehehe...
 
 *NHT
 *NWK
