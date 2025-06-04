@@ -1,27 +1,36 @@
 ;START
 ;;ーーーーーーーーーーー
-;;阿弥とヤマメが戦闘した
+;;Yamame fights Hieda
 ;;ーーーーーーーーーーー
 
 *SND 阿礼の子供
 
 *LHT ヤマメ 怒
-これで何回目になるのかね。[r]あんたとやり合うのは。
+;;これで何回目になるのかね。[r]あんたとやり合うのは。
+How many times do I have to fight you ?
 
 *RHT 阿弥 驚
-え、えっと……　何回目でしょう。[n]ちょっと覚えてないです。
+;;え、えっと……　何回目でしょう。[n]ちょっと覚えてないです。
+How many times ? Umm... I lost count.
 
 *LHT ヤマメ 怒
-別に答えなんて訊いちゃいないよ。
-ともかく。あんたからの借り、しっかり[r]返させてもらうよ！
+;;別に答えなんて訊いちゃいないよ。
+;;ともかく。あんたからの借り、しっかり[r]返させてもらうよ！
+I don't want an answer. However, I'll make sure this is the last time !
+I'll give you back what you gave to me !
 
 *RHT 阿弥 ジト目
-あの……[n]私、何も貸した憶えないんですけど。
+;;あの……[n]私、何も貸した憶えないんですけど。
+Hmm ? I don't remember giving you anything.
 
 *LHT ヤマメ
-しっかり貸してくれたさ。
+;;しっかり貸してくれたさ。
+Oh, but you did.
+
 *LHT ヤマメ 怒
-痛みと、怒りと、悔しさをね！
+;;痛みと、怒りと、悔しさをね！
+It was pain and frustration !
+
 
 *NHT
 *NWK
