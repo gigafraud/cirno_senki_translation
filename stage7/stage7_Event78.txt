@@ -1,28 +1,35 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;大妖精と三月精が戦闘した
+;;Dai fights the fairies of light
 ;;ーーーーーーーーーーーー
 
 *SND リフレーン
 
 *LHT 大妖精 驚
-ど、どうしよう……[r]どっちがどっちだか、わからなく[r]なっちゃった……
+;;ど、どうしよう……[r]どっちがどっちだか、わからなく[r]なっちゃった……
+W-What should I do...? I can't tell them apart...
 
 *RHT ルナ
-（ねぇ、どうするの？　いくらニセモノでも、[r]　大ちゃんに攻撃するのは気が引けちゃうよ）
+;;（ねぇ、どうするの？　いくらニセモノでも、[r]　大ちゃんに攻撃するのは気が引けちゃうよ）
+(Hey, what are we gonna do ? Even if she's a fake, I still feel bad for Dai...)
 
 *CHT サニー 怒
-（でも、やらないとこっちが[r]　やられちゃうでしょ！）
+;;（でも、やらないとこっちが[r]　やられちゃうでしょ！）
+(But if we don't attack first, we'll get hurt !)
 
 *RHT スター
-（今なら動揺してるみたいだし、[r]一気にやっちゃえば……）
+;;（今なら動揺してるみたいだし、[r]一気にやっちゃえば……）
+(She doesn't see us, it's our chance.)
 
 *CHT サニー 怒
-（う、うん。せめて一気にやっちゃおう）
-そ、それーっ！
+;;（う、うん。せめて一気にやっちゃおう）
+;;そ、それーっ！
+(Ok then. Let's attack all at once...)
+Now !
 
 *LHT 大妖精 驚
-撃ってきた……！？[n]それならっ！
+;;撃ってきた……！？[n]それならっ！
+W-Waaah !?
 
 *NHT
 *NWK
