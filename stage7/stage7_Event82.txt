@@ -1,27 +1,33 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;文がはたて、椛と戦闘した
+;;Aya fights Hatate
 ;;ーーーーーーーーーーーー
 
 *SND 妖怪の山2
 
 *LHT 文
-こっちのはたても、あまり賢そうには[r]見えないわね。
+;;こっちのはたても、あまり賢そうには[r]見えないわね。
+Mmh... This Hatate doesn't look very smart either.
 
 *RHT はたて 笑
-こっちの文も、あまり性格良さそうに[r]見えないわね。
+;;こっちの文も、あまり性格良さそうに[r]見えないわね。
+Well, you're as mean as the original.
 
 *LHT 文
-あはは、褒められちゃいました
+;;あはは、褒められちゃいました
+I'll take that as a compliment !
 
 *RHT はたて 怒
-けなしてんのよ！[n]ニセモノのくせに性格までそっくりって、[r]どんだけなのよ！
+;;けなしてんのよ！[n]ニセモノのくせに性格までそっくりって、[r]どんだけなのよ！
+Hey ! You're just a clone, and yet you're insulting me !?
 
 *LHT 文 笑
-そういうあんたこそ、私の知ってるはたてと[r]同じで助かるわ。[n]おちょくり甲斐があって御しやすいもの。
+;;そういうあんたこそ、私の知ってるはたてと[r]同じで助かるわ。[n]おちょくり甲斐があって御しやすいもの。
+You're the same as the Hatate I know, easy to tease.
 
 *RHT はたて 哀
-ニセモノにまでおちょくられるなんて……
+;;ニセモノにまでおちょくられるなんて……
+I can't believe it...
 
 
 
