@@ -1,13 +1,15 @@
 ;START
 ;;ーーーーーーー
-;;阿弥と戦闘した
+;;VS Aya Hieda
 ;;ーーーーーーー
 
 *SND 阿礼の子供
 
 *RHT 阿弥 笑
-妖怪に妖精に…… これは資料の宝庫ですね。[n]ちゃんと、全部しっかり記録しておかないと！
-ふふっ　私も、ご先祖様に甘えてばかりじゃ[r]いられませんもんね。
+;;妖怪に妖精に…… これは資料の宝庫ですね。[n]ちゃんと、全部しっかり記録しておかないと！
+;;ふふっ　私も、ご先祖様に甘えてばかりじゃ[r]いられませんもんね。
+Youkais and fairies... This is a perfect opportunity ! I shall record all of them !
+Time to fulfill my duties !
 
 
 *NHT
