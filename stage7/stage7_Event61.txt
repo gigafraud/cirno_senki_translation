@@ -1,25 +1,30 @@
 ;START
 ;;ーーーーーーーーーーーーーー
-;;幽々子とミスティアが戦闘した
+;;Mystia fights Yuyuko
 ;;ーーーーーーーーーーーーーー
 
 *SND 優雅に咲かせ
 
 *LHT ミスティア 笑
-ふっふ～んっ！[n]大妖怪でも幽霊でも、負けてなんて[r]やらないんだからっ！
+;;ふっふ～んっ！[n]大妖怪でも幽霊でも、負けてなんて[r]やらないんだからっ！
+hihi ! Whether it's a youkai or a ghost, there's no way I'm gonna lose !
 
 *RHT 幽々子 笑
-あらあら、可愛らしい雀さんだこと。[n]ちょっと可愛がってあげちゃおうかしら。
+;;あらあら、可愛らしい雀さんだこと。[n]ちょっと可愛がってあげちゃおうかしら。
+Oh my, what a cute little sparrow. Why don't I give her a big hug ?
 
 *LHT ミスティア 哀
-………[p]な、なんだか、すごく嫌な予感が[r]するんだけど……
+;;………[p]な、なんだか、すごく嫌な予感が[r]するんだけど……
+...Uuuh, I have a bad feeling all of a sudden...
 
 *NRH
 *CHT 幽々子 笑
-あなたみたいな子、嫌いじゃないわよ？[n]さあ、いらっしゃい。
+;;あなたみたいな子、嫌いじゃないわよ？[n]さあ、いらっしゃい。
+You look delic- I mean, delightful. Come here...
 
 *LHT ミスティア 苦
-に、にじり寄ってこないでよーっ！[r]あっち行ってってば！[p]　来るなーっ！
+;;に、にじり寄ってこないでよーっ！[r]あっち行ってってば！[p]　来るなーっ！
+R-Rumia ? Is that you ...? No ! Get away !!
 
 
 *NHT
