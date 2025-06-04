@@ -1,32 +1,42 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;阿弥とパルスィが戦闘した
+;;Parsee fights Hieda
 ;;ーーーーーーーーーーーー
 
 *SND 阿礼の子供
 
 *RHT 阿弥 哀
-う……っ　妬み屋の怖い人……
+;;う……っ　妬み屋の怖い人……
+Hmmm... I can feel jealousy pouring out of her...
 
 *LHT パルスィ
-いきなりご挨拶ね。[n]なんならお望み通り、あなたも妬み狂わせて[r]あげましょうか？
+;;いきなりご挨拶ね。[n]なんならお望み通り、あなたも妬み狂わせて[r]あげましょうか？
+...Hi to you too. If you want, I can make you jealous too.
 
 *RHT 阿弥 驚
-そ、そんなことされても、私には[r]通じませんからねっ！
+;;そ、そんなことされても、私には[r]通じませんからねっ！
+Y-Your powers won't affect me ! I am not jealous of anyone !
 
 *LHT パルスィ
-そうかしら。
+;;そうかしら。
+Are you sure ?
 *LHT パルスィ 微笑
-あなたも少しは思っているんじゃないの？[n]あの紅白の人間に、何かしらの感情を[r]抱いているんじゃないの？
-自分以外の、特別な力を持っている、[r]もう一人の「人間」に。
+;;あなたも少しは思っているんじゃないの？[n]あの紅白の人間に、何かしらの感情を[r]抱いているんじゃないの？
+;;自分以外の、特別な力を持っている、[r]もう一人の「人間」に。
+What about that red and white girl ?
+You two are humans, but she seems way more important to Yukari's eyes than you.
 
 *RHT 阿弥 驚
-……………
-そ、そんなことありませんっ！[n]私は別に、特別な力なんてなくたって……！
+;;……………
+;;そ、そんなことありませんっ！[n]私は別に、特別な力なんてなくたって……！
+...
+N-No ! I don't feel anything like that...!
+
+
 
 *LHT パルスィ 微笑
-あら、そう。[p]ふふっ、つまらないわね。
-
+;;あら、そう。[p]ふふっ、つまらないわね。
+Oh really ?
 
 *NHT
 *NWK
