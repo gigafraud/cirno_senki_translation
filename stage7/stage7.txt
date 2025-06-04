@@ -96,7 +96,7 @@ Is this one as bratty as the other one ?
 
 *RHT 巫女 驚
 ;;ま、待って！[r]なんとか話しあいで収められないの！？
-W-Wait ! Cqn't we talk this out somehow...?
+W-Wait ! Can't we talk this out somehow...?
 
 *LHT 紫 怒
 ;;無駄よ。[n]周囲に満ちる争いの気。[r]恐らく、その中心が彼女たちなのよ。
@@ -113,7 +113,7 @@ They've been starting fights everywhere they go... We must stop them.
 If we don't calm this "spirit" down, it will spread even further.
 *LHT 紫 怒
 ;;そうなってはもう遅い。[r]猶予は、残されていないわ。
-By then, it would be too late. There is no time left.
+By then, it would be too late. We have no time to spare.
 
 *RHT 巫女 怒
 ;;う、うん。わかった！
@@ -147,7 +147,7 @@ That's right. If it's a fight they want, it's a fight they'll get !
 
 *RHT ヤマメ
 ;;あれ、珍しくやる気だね。
-Wow, you're even eagerer to fight than usual !
+Wow, you're even more eager to fight than usual !
 *RHT ヤマメ 笑
 ;;もしかして、前に言ってた[r]「返り討ちに遭わされた連中」[r]って、あれのことかい？
 Aren't they the ones that turned you back, by any chance ?
@@ -174,7 +174,7 @@ But this time, I'm getting my revenge !
 
 *LHT サニー 哀
 ;;……今、あれ、何て言った？
-...Wait, what did you say ?
+...A hundred ? Wasn't it last week ?
 
 *RHT ルーミア 笑
 ;;なんだか美味しそうだったねー
@@ -190,24 +190,23 @@ So these are the "weird youkais" Cirno kept talking about.
 
 *RHT ヤマメ
 ;;あんな大妖怪相手に、勝てるつもり[r]なのかなぁ。
-Does she really think she can defeat them ?
+Does she really think we can defeat them ?
 
 *LHT パルスィ 微笑
 ;;でも、あの連中には借りがあるのも事実よね。
-... We do owe her a lot...
-
+I don't think we can, but... We do owe her a lot.
 
 *RHT キスメ 笑
 ;;なら、やっぱりやるしかないよね！[n]借りたものは、し～っかりお返ししなくっちゃ[r]いけないし！！
-Indeed. So we have to return them the favor !
+Indeed. We have to return her the favor !
 
 *LHT 大妖精 怒
 ;;みなさん、どうかお願いします！[n]チルノちゃんがあの人に仕返しするの、[r]手伝って下さい！
-Please, everyone ! Pleqse help Cirno one last time !
+Please, everyone ! Please help Cirno one last time !
 
 *RHT ルナ 笑
 ;;大ちゃんの頼みなら、断れないよね。
-If Dai asks me, I can't refuse.
+If it's Dai asking, I can't refuse.
 
 *RHT ミスティア 笑
 ;;ふふっ♪[r]私達だってやればできるんだってこと、[r]見せつけてやっちゃいましょ！
@@ -221,11 +220,11 @@ That's right ! Time to give those surface youkais a lesson !
 
 *RHT レティ 怒
 ;;チルノ、相手は大物よ。大丈夫なの？
-Cirno, she's stronger than any ennemy we fought until now. Are you sure about that ?
+Cirno, they're stronger than any enemy we've fought until now. Are you sure about that ?
 
 *LHT チルノ 笑
 ;;もっちろん！　あんなやつ、あたいが[r]あっという間にやっつけちゃうんだから！
-Of course ! Ican't beat anyone right now !
+Of course ! I've been training for this very moment !
 *LHT チルノ
 ;;さ、行くよ！　みんな！！
 Let's go, everyone !
