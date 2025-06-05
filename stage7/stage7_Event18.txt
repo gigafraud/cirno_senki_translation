@@ -8,7 +8,7 @@
 *SND 妖怪の山2
 
 ;;ーーーーー
-;;秋姉妹転移
+;;Aki sisters
 ;;ーーーーー
 *MG2 20,7
 *KON SE_sukimaIN
