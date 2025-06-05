@@ -1,6 +1,6 @@
 ;START
 ;;ーーーーーーーーーー
-;;天子が幽香と戦闘した
+;;Tenshi fights Yuuka
 ;;ーーーーーーーーーー
 
 *SND 幽夢
@@ -9,7 +9,9 @@
 あら。なんだか面白そうなのがいるわね。[n]少し遊んでみようかしら。
 
 *LHT 天子 怒
-ご丁寧に、両方とも同じような反応して[r]くれちゃって……[n]感激しちゃうわよ、まったく！
+;;ご丁寧に、両方とも同じような反応して[r]くれちゃって……[n]感激しちゃうわよ、まったく！
+Both Yuukas talk the same, huh...
+But it'll be different this time ! I won't let that happen again !
 
 
 
