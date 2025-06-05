@@ -1,20 +1,24 @@
 ;START
 ;;ーーーーーーーーーーーー
-;;チルノがレティと戦闘した
+;;Cirno fights Letty
 ;;ーーーーーーーーーーーー
 
 *SND クリスタライズシルバー
 
 *LHT チルノ 哀
-な、なんでレティがもう一人いるんだよー
+;;な、なんでレティがもう一人いるんだよー
+W-Why is there another Letty ?
 
 *RHT レティ 哀
-それは私が訊きたいわね。[r]なぜ、あなたなのかしら……
+;;それは私が訊きたいわね。[r]なぜ、あなたなのかしら……
+I was about to ask you the same. Why you...
 *RHT レティ 怒
-けれど……　躊躇うわけにはいかないわね。
+;;けれど……　躊躇うわけにはいかないわね。
+...I need to focus. You aren't the real Cirno.
 
 *LHT チルノ 怒
-……違う！　お前はレティじゃない！[n]ニセモノのレティめ、覚悟
+;;……違う！　お前はレティじゃない！[n]ニセモノのレティめ、覚悟
+...No ! YOU're not the true Letty ! She would never be mean like that !
 
 
 *NHT
