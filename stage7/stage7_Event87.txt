@@ -15,7 +15,7 @@ So, can you go away ? Don't force me to hurt you...
 
 *RHT 天子 怒
 ;;会って早々に、何を言ってくれるのかしらね、[r]あんたって人は！！
-Hey, we've never met ! Don't talk to me like that !
+A toy !? What did you do to the other Tenshi ?
 
 *NHT
 *NWK
