@@ -8,7 +8,7 @@
 *SND グリモワールオブアリス
 
 ;;ーーーーー
-;;アリス転移
+;;Alice
 ;;ーーーーー
 *MG2 8,0
 *KON SE_sukimaIN
@@ -20,9 +20,11 @@
 *SLP 15
 
 *RHT アリス
-月人の術ねぇ……[n]どうやってるのか、調べさせて[r]もらいたいわ。
+;;月人の術ねぇ……[n]どうやってるのか、調べさせて[r]もらいたいわ。
+The lunarians' magic... I'd like to know how it works...
 *RHT アリス 苦
-けど、なんだってあの花咲か妖怪の[r]ニセモノなんて出すのよ！
+;;けど、なんだってあの花咲か妖怪の[r]ニセモノなんて出すのよ！
+But why did they make a copy of that flower youkai !?
 
 *ACT ID_B21 OFF
 
