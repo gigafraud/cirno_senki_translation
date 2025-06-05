@@ -1,26 +1,33 @@
 ;START
 ;;ーーーーーーーーーー
-;;幽香が幽香と戦闘した
+;;Yuuka fights Yuuka (I don't know if I interpreted that weirdly or if Yuuka is actually hitting on herself)
 ;;ーーーーーーーーーー
 
 *SND 幽夢
 
 *LHT 幽香
-ふ～ん……？[n]あなた、どこまでやれるのかしら？
+;;ふ～ん……？[n]あなた、どこまでやれるのかしら？
+Hmm... I wonder how long you can resist me...
 
 *RHT 幽香 笑
-まさか、姿かたちだけ真似をしたってわけじゃ[r]ないわよね？
+;;まさか、姿かたちだけ真似をしたってわけじゃ[r]ないわよね？
+Hehe... They didn't just copy my appearence.
 
 *LHT 幽香 邪悪
-試してみる？
+;;試してみる？
+So... Shall we ?
 
 *RHT 幽香 笑
-お願いだから、アッサリ終わってなんて[r]しないで頂戴ね？
+;;お願いだから、アッサリ終わってなんて[r]しないで頂戴ね？
+Already ? We barely talked.
+
 *RHT 幽香 邪悪
-自分の姿をしてるのがそんなだと、[r]屈辱的だから。
+;;自分の姿をしてるのがそんなだと、[r]屈辱的だから。
+Also... It would be humiliating if someone saw me like that.
 
 *LHT 幽香 笑
-ふふふっ……
+;;ふふふっ……
+Hehehe...
 
 
 *NHT
