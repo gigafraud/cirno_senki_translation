@@ -22,7 +22,7 @@
 *RHT リリーホワイト 怒
 ;;せっかく春が来たのに、雪女さんが二人に[r]なったら、また冬に逆戻りじゃないですかー
 ;;ニセモノさんと言えども、そんなこと[r]許しませんからっ！
-Spring just came, but if the snow youkai splits into two, it'll be winter again !
+Spring just came, but if there are several winter youkais, it'll be winter again !
 Even if you're a fake, we need to get rid of you now !
 
 *ACT ID_B45 OFF
