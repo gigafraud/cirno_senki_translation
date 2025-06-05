@@ -1,51 +1,64 @@
 ;START
 ;;ーーーーーーーーーーーーーーーー
-;;天子、衣玖が天子、衣玖と戦闘した
+;;Tenshi or Iku fights Tenshi or Iku
 ;;ーーーーーーーーーーーーーーーー
 
 *SND 有頂天変
 
 *RHT 天子
-妖精なんかと一緒に組んだりして……[r]お山の大将ってところかしら？
+;;妖精なんかと一緒に組んだりして……[r]お山の大将ってところかしら？
+Since you're with these fairies... I guess you're their boss ?
 
 *LHT 天子
-そっちこそ、人にアゴで使われたりして……[r]情けないものね。
+;;そっちこそ、人にアゴで使われたりして……[r]情けないものね。
+Heh, you're getting used by that youkai... That's pathetic.
 
 *RHT 衣玖
-実際のところはどうなんですか？[n]なぜ、妖精達と一緒に……？
+;;実際のところはどうなんですか？[n]なぜ、妖精達と一緒に……？
+Tell me, why are you helping these fairies ?
 
 *LHT 衣玖
-半ば強引に付き合わされてるだけでうわ。[r]幽香さんのオモチャとして。
+;;半ば強引に付き合わされてるだけでうわ。[r]幽香さんのオモチャとして。
+I'm being forced to tag along... By Yuuka.
 
 *RHT 衣玖 笑
-どちらも似たようなものなんですね。[r]こちらも、幽々子さんからのお仕置きの一環で[r]連れ回されてるようなものですし。
+;;どちらも似たようなものなんですね。[r]こちらも、幽々子さんからのお仕置きの一環で[r]連れ回されてるようなものですし。
+So you both are being used after all. My Tenshi is also being dragged along because of Yuyuko.
 
 *RHT 天子 驚
-ちょっと衣玖！[n]あんた、何をみっともないこと[r]バラしちゃってるのよ！
+;;ちょっと衣玖！[n]あんた、何をみっともないこと[r]バラしちゃってるのよ！
+Hey, Iku ! Why are you saying that ?
 
 *LHT 天子 驚
-っていうか、二人で意気投合するなっ！
+;;っていうか、二人で意気投合するなっ！
+Hehe, the two of you seem to be getting along well.
 
 *RHT 衣玖
-みっともない、と申されましても、総領娘様が[r]ご自身で撒いた種ですし……
+;;みっともない、と申されましても、総領娘様が[r]ご自身で撒いた種ですし……
+You say it's embarassing, but this is all your fault, you know.
 
 *LHT 衣玖 笑
-そう言う総領娘様こそ、お二人で[r]気が合っているように見えますが。
+;;そう言う総領娘様こそ、お二人で[r]気が合っているように見えますが。
+Hehe, they indeed look like friends.
 
 *LHT 天子 驚
-そんなわけあるかっ！
+;;そんなわけあるかっ！
+No way !
 
 *LHT 天子 怒
-ああもうっ！[n]衣玖！　こんなニセモノ、さっさと[r]片付けるわよ！
+;;ああもうっ！[n]衣玖！　こんなニセモノ、さっさと[r]片付けるわよ！
+Come on, Iku ! Let's get rid of these fakes now !
 
 *RHT 衣玖 哀
-それはよろしいのですが……[n]さて、困りましたね。
+;;それはよろしいのですが……[n]さて、困りましたね。
+Alright... But now I can't tell which Eldest Daughter is the real one...
 
 *LHT 衣玖 哀
-そうですねぇ。[r]いったい、どちらがどちらなのか……
+;;そうですねぇ。[r]いったい、どちらがどちらなのか……
+Oh no... Me too...
 *LHT 衣玖
-仕方ありませんね。もし間違ってしまったら、[r]お仕置きの一つってことにしておきましょう。
-
+;;仕方ありませんね。もし間違ってしまったら、[r]お仕置きの一つってことにしておきましょう。
+Oh well. If I accidentaly hit the real one, let's just say it's part of your punishment.
 
 
 *NHT
