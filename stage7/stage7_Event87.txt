@@ -1,17 +1,21 @@
 ;START
 ;;ーーーーーーーーーー
-;;幽香が天子と戦闘した
+;;Yuuka fights Tenshi
 ;;ーーーーーーーーーー
 
 *SND 有頂天変
 
 *LHT 幽香
-正直、同じオモチャはいらないのよね。
+;;正直、同じオモチャはいらないのよね。
+I already have the same toy. I don't need another one.
 *LHT 幽香 笑
-そういうことだか、消えてくれる？
+;;そういうことだか、消えてくれる？
+So, can you go away ? Don't force me to hurt you...
+
 
 *RHT 天子 怒
-会って早々に、何を言ってくれるのかしらね、[r]あんたって人は！！
+;;会って早々に、何を言ってくれるのかしらね、[r]あんたって人は！！
+Hey, we've never met ! Don't talk to me like that !
 
 *NHT
 *NWK
