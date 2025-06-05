@@ -1,20 +1,24 @@
 ;START
 ;;ーーーーーーーーーー
-;;リグルが幽香と戦闘した
+;;Yuuka fights Wriggle
 ;;ーーーーーーーーーー
 
 *SND 幽夢
 
 *LHT リグル 驚
-幽香さん……
+;;幽香さん……
+Miss Yuuka...
 
 *RHT 幽香
-これでは、どちらのリグルかわからないわね。
+;;これでは、どちらのリグルかわからないわね。
+...Is this the real Wriggle ?
 *RHT 幽香 笑
-まあいいわ。撃ってみればわかるでしょ。
+;;まあいいわ。撃ってみればわかるでしょ。
+Oh, well. I guess I will find out.
 
 *LHT リグル 怒
-行きます……　全力で！
+;;行きます……　全力で！
+I'll... I'll do my best !
 
 *NHT
 *NWK
