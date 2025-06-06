@@ -8,7 +8,7 @@
 *SND 幽霊楽団
 
 ;;ーーーーーー
-;;虹川姉妹転移
+;;Prismriver sisters
 ;;ーーーーーー
 *MG2 11,13
 *KON SE_sukimaIN
