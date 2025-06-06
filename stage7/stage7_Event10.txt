@@ -6,7 +6,7 @@
 *SND BGM21
 
 ;;ーーーー
-;;Meiling & friends
+;;Meiling
 ;;ーーーー
 
 *MG2 14,1
